@@ -16,6 +16,9 @@ layout: default
   <div class='col-md-10'>
     <h2>{{ person.name }}</h2>
     <p>{{ person.name }} is running in the <a href='/regions/{{ region.id }}'>{{ region.name }}</a> region for {{ party.name }}</p>
+    {% if person.email %}
+    <p>Email: <a href='mailto:{{ person.email }}'>{{ person.email }}</a></p>
+    {% endif %}
 
     <div class='row'>
       <div class='col-md-12'>
@@ -29,6 +32,14 @@ layout: default
         </ul>
       </div>
     </div>
+    {% if person.description %}
+    <div class='row'>
+      <div class='col-md-12'>
+        <h3>Description</h3>
+        <p class='quote'>{{ person.description }}</p>
+      </div>
+    </div>
+    {% endif %}
     {% if person.twitter_description %}
     <div class='row'>
       <div class='col-md-12'>
@@ -39,5 +50,4 @@ layout: default
     {% endif %}
   </div>
 </div>
-
 
