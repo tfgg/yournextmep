@@ -4,6 +4,6 @@ categories: candidate labour
 election: eu2014
 list-rank: 1
 person: judith-kirton-darling
-region: north
+region: north-east
 party: labour
 ---

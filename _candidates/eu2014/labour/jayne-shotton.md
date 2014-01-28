@@ -4,6 +4,6 @@ categories: candidate labour
 election: eu2014
 list-rank: 2
 person: jayne-shotton
-region: north
+region: north-east
 party: labour
 ---
