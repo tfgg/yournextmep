@@ -477,22 +477,22 @@ junab-ali:
 
 kamaljeet-jandu:
   id: kamaljeet-jandu
-  name: 'Kamaljeet Jandu'
   links:
-    - url: https://twitter.com/KamaljeetJandu
-      notes: Twitter account
-    - url: http://www.kamaljeetjandu.org.uk/
-      notes: Website
+    - notes: 'Twitter account'
+      url: https://twitter.com/KamaljeetJandu
+    - notes: Website
+      url: http://www.kamaljeetjandu.org.uk/
+  name: 'Kamaljeet Jandu'
 
 
 karen-landles:
   id: karen-landles
-  name: 'Karen Landles'
   links:
-    - url: http://karenlandles.org.uk/
-      notes: Website
-    - url: https://twitter.com/karenlandles
-      notes: Twitter account
+    - notes: Website
+      url: http://karenlandles.org.uk/
+    - notes: 'Twitter account'
+      url: https://twitter.com/karenlandles
+  name: 'Karen Landles'
 
 
 katrina-murray:
@@ -510,12 +510,12 @@ katrina-murray:
 
 kevin-doran:
   id: kevin-doran
-  name: 'Kevin Doran'
   links:
-    - url: http://www.kevindoran.eu/
-      notes: Website
-    - url: https://twitter.com/KevinDoranEU
-      notes: Twitter account
+    - notes: Website
+      url: http://www.kevindoran.eu/
+    - notes: 'Twitter account'
+      url: https://twitter.com/KevinDoranEU
+  name: 'Kevin Doran'
 
 
 khalid-hadadi:
@@ -539,14 +539,14 @@ kirsty-o-brien:
 
 linda-mcavan:
   id: linda-mcavan
-  name: 'Linda McAvan'
   links:
-    - url: http://www.lindamcavanmep.org.uk/
-      notes: Website
-    - url: https://en.wikipedia.org/wiki/Linda_McAvan
-      notes: Wikipedia article
-    - url: https://twitter.com/LindaMcAvanMEP
-      notes: Twitter account
+    - notes: Website
+      url: http://www.lindamcavanmep.org.uk/
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Linda_McAvan
+    - notes: 'Twitter account'
+      url: https://twitter.com/LindaMcAvanMEP
+  name: 'Linda McAvan'
 
 
 linda-woodings:
@@ -563,44 +563,44 @@ linda-woodings:
 
 lucy-anderson:
   id: lucy-anderson
-  name: 'Lucy Anderson'
   links:
     - notes: Website
       url: http://www.lucyanderson.org/
-    - notes: Twitter account
+    - notes: 'Twitter account'
       url: https://twitter.com/Lucy4MEP
+  name: 'Lucy Anderson'
 
 
 lynda-waltho:
   id: lynda-waltho
-  name: 'Lynda Waltho'
   links:
-    - url: https://twitter.com/LW4WM
-      notes: Twitter account
-    - url: https://en.wikipedia.org/wiki/Lynda_Waltho
-      notes: Wikipedia article
-    - url: http://www.theyworkforyou.com/mp/11845/lynda_waltho/stourbridge
-      notes: Former Labour MP for Stourbridge (They Work For You)
+    - notes: 'Twitter account'
+      url: https://twitter.com/LW4WM
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Lynda_Waltho
+    - notes: 'Former Labour MP for Stourbridge (They Work For You)'
+      url: http://www.theyworkforyou.com/mp/11845/lynda_waltho/stourbridge
+  name: 'Lynda Waltho'
 
 
 maggie-hughs:
   id: maggie-hughs
-  name: 'Maggie Hughs'
   links:
-    - url: https://twitter.com/EUMaggie_Hughes
-      notes: Twitter account
-    - url: http://www.maggiehughes.org.uk/
-      notes: Website
+    - notes: 'Twitter account'
+      url: https://twitter.com/EUMaggie_Hughes
+    - notes: Website
+      url: http://www.maggiehughes.org.uk/
+  name: 'Maggie Hughs'
 
 
 mary-honeyball:
   id: mary-honeyball
-  name: 'Mary Honeyball'
   links:
-    - url: http://thehoneyballbuzz.com/
-      notes: Website
-    - url: https://twitter.com/maryhoneyball
-      notes: Twitter account
+    - notes: Website
+      url: http://thehoneyballbuzz.com/
+    - notes: 'Twitter account'
+      url: https://twitter.com/maryhoneyball
+  name: 'Mary Honeyball'
 
 
 naseem-ayub:
@@ -625,22 +625,22 @@ naseem-ayub:
 
 neena-gill:
   id: neena-gill
-  name: 'Neena Gill'
   links:
-    - notes: Wikipedia article
+    - notes: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Neena_Gill
-    - notes: Twitter account
+    - notes: 'Twitter account'
       url: https://twitter.com/neenaformep
+  name: 'Neena Gill'
 
 
 nick-wallis:
   id: nick-wallis
-  name: 'Nick Wallis'
   links:
     - notes: Website
       url: http://www.nickwallis4northeast.co.uk/
-    - notes: Twitter account
+    - notes: 'Twitter account'
       url: https://twitter.com/cllrnickwallis
+  name: 'Nick Wallis'
 
 
 nicki-brooks:
@@ -658,27 +658,27 @@ nicki-brooks:
 
 olwen-hamer:
   id: olwen-hamer
-  name: 'Olwen Hamer'
   links:
     - notes: Website
       url: http://olwenhamer.com/
-    - notes: Twitter account
+    - notes: 'Twitter account'
       url: https://twitter.com/OlwenHamer
+  name: 'Olwen Hamer'
 
 
 pascale-lamb:
-  id: pascale-lamb
-  name: 'Pascale Lamb'
   email: pv.lamb@googlemail.com
+  id: pascale-lamb
   links:
-    - notes: Twitter account
+    - notes: 'Twitter account'
       url: https://twitter.com/PascaleLamb
-    - url: http://pascalelamb.wordpress.com/
-      notes: Website
-      
+    - notes: Website
+      url: http://pascalelamb.wordpress.com/
+  name: 'Pascale Lamb'
+
 
 paul-bishop:
-  description: "Paul has lived in Essex all his life, first in Colchester and now
+  description: 'Paul has lived in Essex all his life, first in Colchester and now
     in Chelmsford. He has been an active member of the Labour Party for over 30 years.
     He has been a Borough, County and Parliamentary candidate. Most recently he served
     for seven years as a member of Essex Police Authority where he chaired the Complaints
@@ -686,7 +686,7 @@ paul-bishop:
     the area of regeneration and economic development, securing millions of pounds
     in funding from Government and EU sources. He is a former Director of a national
     charity, a Government Advisor on enterprise and an Economic Development Manager
-    with a local authority. source: http://www.easthertslabour.org/"
+    with a local authority. source: http://www.easthertslabour.org/'
   email: pbish17@hotmail.com
   gender: male
   id: paul-bishop
@@ -695,40 +695,49 @@ paul-bishop:
 
 paul-brannen:
   id: paul-brannen
-  name: 'Paul Brannen'
   links:
-    - url: http://www.paulbrannen.co.uk/
-      notes: Website
-    - url: https://twitter.com/PaulBrannenNE
-      notes: Twitter account
+    - notes: Website
+      url: http://www.paulbrannen.co.uk/
+    - notes: 'Twitter account'
+      url: https://twitter.com/PaulBrannenNE
+  name: 'Paul Brannen'
 
 
 phil-bloomer:
   id: phil-bloomer
-  name: 'Phil Bloomer'
   links:
-    - url: https://twitter.com/pbloomer
-      notes: Twitter account
+    - notes: 'Twitter account'
+      url: https://twitter.com/pbloomer
+  name: 'Phil Bloomer'
 
 
 richard-corbett:
   id: richard-corbett
-  name: 'Richard Corbett'
   links:
-    - url: https://en.wikipedia.org/wiki/Richard_Corbett
-      notes: Wikipedia article
-    - url: https://twitter.com/RichardC2014
-      notes: Twitter account
-    - url: http://www.richardcorbett.org.uk/
-      notes: Website
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Richard_Corbett
+    - notes: 'Twitter account'
+      url: https://twitter.com/RichardC2014
+    - notes: Website
+      url: http://www.richardcorbett.org.uk/
+  name: 'Richard Corbett'
 
 
 richard-howitt:
-  description: "Richard Howitt MEP is seeking re-election as the longest-serving of
-    the region''s existing Members of the European Parliament and having received
-    the accolade of being voted for unanimously by Labour''s local constituencies
+  description: 'Richard Howitt MEP is seeking re-election as the longest-serving of
+    the region''''s existing Members of the European Parliament and having received
+    the accolade of being voted for unanimously by Labour''''s local constituencies
     to stand again in 2014. Within the region, Richard has been the leading advocate
-    for European projects, championing funding for local businesses to be more environmentally-friendly, new investment in local transport routes and being responsible for extending twinned projects with partners on the French, Dutch and Belgian coast. In the European Parliament Richard is an acknowledged expert on employment and on Europe''s relations with the wider world, and has written the European policies on business ethics and on human rights. Before becoming an MEP, Richard worked for a disabled persons'' charity and he now serves as vice-chair of the all-party Disability Rights Group of MEPs. Outside politics, Richard is dedicated to his partner and two children, and is a keen fan of cricket, football and other sports. source: http://www.easthertslabour.org/"
+    for European projects, championing funding for local businesses to be more environmentally-friendly,
+    new investment in local transport routes and being responsible for extending twinned
+    projects with partners on the French, Dutch and Belgian coast. In the European
+    Parliament Richard is an acknowledged expert on employment and on Europe''''s
+    relations with the wider world, and has written the European policies on business
+    ethics and on human rights. Before becoming an MEP, Richard worked for a disabled
+    persons'''' charity and he now serves as vice-chair of the all-party Disability
+    Rights Group of MEPs. Outside politics, Richard is dedicated to his partner and
+    two children, and is a keen fan of cricket, football and other sports. source:
+    http://www.easthertslabour.org/'
   email: constituency@richardhowittme.com
   gender: male
   id: richard-howitt
@@ -761,12 +770,12 @@ rory-palmer:
 
 sanchia-alasia:
   id: sanchia-alasia
-  name: 'Sanchia Alasia'
   links:
-    - url: http://sanchiaalasia.com/
-      notes: Website
-    - url: https://twitter.com/sanchia4europe
-      notes: Twitter account
+    - notes: Website
+      url: http://sanchiaalasia.com/
+    - notes: 'Twitter account'
+      url: https://twitter.com/sanchia4europe
+  name: 'Sanchia Alasia'
 
 
 sandy-martin:
@@ -789,12 +798,13 @@ sandy-martin:
 
 seb-dance:
   id: seb-dance
-  name: 'Seb Dance'
   links:
-    - url: https://twitter.com/SebDance
-      notes: Twitter account
-    - url: http://www.sebdance.com/
-      notes: Website
+    - notes: 'Twitter account'
+      url: https://twitter.com/SebDance
+    - notes: Website
+      url: http://www.sebdance.com/
+  name: 'Seb Dance'
+
 
 sion-simon:
   id: sion-simon
@@ -812,41 +822,40 @@ sion-simon:
 
 steve-carter:
   id: steve-carter
-  name: 'Steve Carter'
   links:
-    - url: https://twitter.com/SteveCarter001
-      notes: Twitter account
-    - url: http://steve-carter.co.uk/
-      notes: Website
+    - notes: 'Twitter account'
+      url: https://twitter.com/SteveCarter001
+    - notes: Website
+      url: http://steve-carter.co.uk/
+  name: 'Steve Carter'
 
 
 theresa-griffin:
   id: theresa-griffin
-  name: 'Theresa Griffin'
   links:
-    - url: http://theresagriffin.eu/
-      notes: Website
-    - url: https://twitter.com/TheresaG_EU
-      notes: Twitter account
+    - notes: Website
+      url: http://theresagriffin.eu/
+    - notes: 'Twitter account'
+      url: https://twitter.com/TheresaG_EU
+  name: 'Theresa Griffin'
 
 
 tracey-simpson-lang:
-  id: tracey-simpson-lang
-  name: 'Tracey Simpson-Lang'
   email: tracey4mep@gmail.com
+  id: tracey-simpson-lang
   links:
-    - url: http://tracey4mep.wordpress.com/
-      notes: Website
-    - url: https://twitter.com/cllrtraceysl
-      notes: Twitter account
+    - notes: Website
+      url: http://tracey4mep.wordpress.com/
+    - notes: 'Twitter account'
+      url: https://twitter.com/cllrtraceysl
+  name: 'Tracey Simpson-Lang'
 
 
 wajid-khan:
   id: wajid-khan
-  name: 'Wajid Khan'
   links:
-    - url: http://www.wajidkhan4europe.co.uk/
-      notes: Website
-    - url: https://twitter.com/wajid4europe
-      notes: Twitter account
-
+    - notes: Website
+      url: http://www.wajidkhan4europe.co.uk/
+    - notes: 'Twitter account'
+      url: https://twitter.com/wajid4europe
+  name: 'Wajid Khan'
