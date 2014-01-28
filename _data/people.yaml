@@ -8,14 +8,16 @@ alex-mayer:
   id: alex-mayer
   image: /images/twitter/alexlmayer.jpg
   links:
-  - notes: Twitter account
-    url: https://twitter.com/alexlmayer
-  - notes: Website
-    url: http://www.alexmayer.eu/
-  name: Alex Mayer
+    - notes: 'Twitter account'
+      url: https://twitter.com/alexlmayer
+    - notes: Website
+      url: http://www.alexmayer.eu/
+  name: 'Alex Mayer'
   twitter_description: '@UKLabour activist, European candidate and NPF rep. Works
     in media, volunteering and fundraising. Loves campaigning, the East of England
     and chocolate.'
+
+
 bhavna-joshi:
   description: 'Born and brought up in Huddersfield, Bhavna was educated at a local
     comprehensive school after which she went to King''s College London. A former
@@ -29,11 +31,13 @@ bhavna-joshi:
   id: bhavna-joshi
   image: /images/twitter/BhavnaJoshi.jpg
   links:
-  - notes: Twitter account
-    url: https://twitter.com/BhavnaJoshi
-  name: Bhavna Joshi
-  twitter_description: A busy bee with an interest in all things politics and health
-    services.
+    - notes: 'Twitter account'
+      url: https://twitter.com/BhavnaJoshi
+  name: 'Bhavna Joshi'
+  twitter_description: 'A busy bee with an interest in all things politics and health
+    services.'
+
+
 chris-ostrowski:
   description: 'Chris Ostrowski has represented the Labour Party in the Eastern Region
     for many years; he has stood as a parliamentary by-election candidate and he was
@@ -42,35 +46,43 @@ chris-ostrowski:
   email: chrisost@hotmail.com
   gender: male
   id: christ-ostrowski
-  name: Chris Ostrowski
+  name: 'Chris Ostrowski'
+
+
 glenis-willmot:
   email: office@gleniswillmott.org.uk
   gender: female
   id: glenis-willmot
   image: /images/twitter/GlenisWillmott.jpg
   links:
-  - notes: Website
-    url: http://www.gleniswillmott.eu/
-  - notes: Twitter account
-    url: https://twitter.com/GlenisWillmott
-  - notes: Wikipedia article
-    url: https://en.wikipedia.org/wiki/Glenis_Willmott
-  name: Glenis Willmott
-  twitter_description: Labour's Leader in Europe and MEP for the East Midlands.
+    - notes: Website
+      url: http://www.gleniswillmott.eu/
+    - notes: 'Twitter account'
+      url: https://twitter.com/GlenisWillmott
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Glenis_Willmott
+  name: 'Glenis Willmott'
+  twitter_description: 'Labour''s Leader in Europe and MEP for the East Midlands.'
+
+
 khalid-hadadi:
   gender: male
   id: khalid-hadadi
-  name: Khalid Hadadi
+  name: 'Khalid Hadadi'
+
+
 linda-woodings:
   gender: female
   id: linda_woodings
   image: /images/twitter/LindaWoodings.jpg
   links:
-  - notes: Twitter account
-    url: https://twitter.com/LindaWoodings
-  name: Linda Woodings
-  twitter_description: Labour Candidate for Europe in the East Midlands, CWU Political
-    Officer for the East Midlands, a committed Labour Party member & activist.
+    - notes: 'Twitter account'
+      url: https://twitter.com/LindaWoodings
+  name: 'Linda Woodings'
+  twitter_description: 'Labour Candidate for Europe in the East Midlands, CWU Political
+    Officer for the East Midlands, a committed Labour Party member & activist.'
+
+
 naseem-ayub:
   description: 'Born and raised in the Eastern Region in Bedfordshire, Naseem is married
     with four children. She was a teacher before being elected as a Luton Borough
@@ -81,22 +93,29 @@ naseem-ayub:
   id: naseem-ayub
   image: /images/twitter/VoteNaseem4MEP.jpg
   links:
-  - notes: Twitter account
-    url: https://twitter.com/VoteNaseem4MEP
-  name: Naseem Ayub
-  twitter_description: "Labour MEP candidate for the Eastern Region, \r\nBiscot Ward\
-    \ Councillor, \r\nExecutive Member Luton Borough Council."
+    - notes: 'Twitter account'
+      url: https://twitter.com/VoteNaseem4MEP
+  name: 'Naseem Ayub'
+  twitter_description: 'Labour MEP candidate for the Eastern Region, 
+
+    Biscot Ward Councillor, 
+
+    Executive Member Luton Borough Council.'
+
+
 nicki-brooks:
   gender: female
   id: nicki-brooks
   image: /images/twitter/NickiBrooksx.jpg
   links:
-  - notes: Twitter account
-    url: https://twitter.com/NickiBrooksx
-  name: Nicki Brooks
-  twitter_description: Labour Cllr at Gedling BC & Deputy Whip Notts CC, anti-fur
+    - notes: 'Twitter account'
+      url: https://twitter.com/NickiBrooksx
+  name: 'Nicki Brooks'
+  twitter_description: 'Labour Cllr at Gedling BC & Deputy Whip Notts CC, anti-fur
     campaigner, cook. I love the Labour Party, working out, the cinema & chocolate.
-    Tweets my own.
+    Tweets my own.'
+
+
 paul-bishop:
   description: 'Paul has lived in Essex all his life, first in Colchester and now
     in Chelmsford. He has been an active member of the Labour Party for over 30 years.
@@ -110,7 +129,9 @@ paul-bishop:
   email: pbish17@hotmail.com
   gender: male
   id: paul-bishop
-  name: Paul Bishop
+  name: 'Paul Bishop'
+
+
 richard-howitt:
   description: 'Richard Howitt MEP is seeking re-election as the longest-serving of
     the region''s existing Members of the European Parliament and having received
@@ -130,41 +151,44 @@ richard-howitt:
   id: richard-howitt
   image: /images/twitter/richardhowitt.png
   links:
-  - notes: Website
-    url: http://www.richardhowittmep.com/
-  - notes: Twitter account
-    url: https://twitter.com/richardhowitt
-  - notes: Wikipedia article
-    url: https://en.wikipedia.org/wiki/Richard_Howitt_(politician)
-  name: Richard Howitt
-  twitter_description: Labour MEP for Essex, Herts, Beds, Cambs, Norfolk, Suffolk.
-    Foreign Affairs Spokesperson, Rapporteur Corporate Responsibility, fYR Macedonia
+    - notes: Website
+      url: http://www.richardhowittmep.com/
+    - notes: 'Twitter account'
+      url: https://twitter.com/richardhowitt
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Richard_Howitt_(politician)
+  name: 'Richard Howitt'
+  twitter_description: 'Labour MEP for Essex, Herts, Beds, Cambs, Norfolk, Suffolk.
+    Foreign Affairs Spokesperson, Rapporteur Corporate Responsibility, fYR Macedonia'
+
+
 rory-palmer:
   gender: male
   id: rory-palmer
   image: /images/twitter/Rory_Palmer.jpg
   links:
-  - notes: Website
-    url: http://rorypalmer.org/
-  - notes: Twitter account
-    url: https://twitter.com/Rory_Palmer
-  name: Rory Palmer
-  twitter_description: Labour Candidate European Elections 2014, East Midlands | Deputy
-    City Mayor & Cllr, Leicester City Council | Tweeting in a personal capacity.
+    - notes: Website
+      url: http://rorypalmer.org/
+    - notes: 'Twitter account'
+      url: https://twitter.com/Rory_Palmer
+  name: 'Rory Palmer'
+  twitter_description: 'Labour Candidate European Elections 2014, East Midlands |
+    Deputy City Mayor & Cllr, Leicester City Council | Tweeting in a personal capacity.'
+
+
 sandy-martin:
-  description: "Sandy Martin lives in Ipswich and is Leader of the Suffolk County
+  description: 'Sandy Martin lives in Ipswich and is Leader of the Suffolk County
     Council Labour Group. He has been an active Labour Party member since 1988 and
     Unite member since 1990. He has served on the National Policy Forum and on the
-    Executive Committee of the Fabian Society. source: http://www.easthertslabour.org/"
+    Executive Committee of the Fabian Society. source: http://www.easthertslabour.org/'
   email: sandyofipswich@yahoo.co.uk
   gender: male
   id: sandy-martin
   image: /images/twitter/sandyofipswich.jpg
   links:
-  - notes: Twitter account
-    url: https://twitter.com/sandyofipswich
-  name: Sandy Martin
-  twitter_description: Labour Candidate for Eastern Region 2014, Leader Suffolk County
+    - notes: 'Twitter account'
+      url: https://twitter.com/sandyofipswich
+  name: 'Sandy Martin'
+  twitter_description: 'Labour Candidate for Eastern Region 2014, Leader Suffolk County
     Labour Group - Labour is my party, democratic socialism my creed, environment
-    my passion
-
+    my passion'

@@ -1,73 +1,94 @@
-north-east:
-  id: north-east
-  name: "North East"
-  links:
-    - url: https://en.wikipedia.org/wiki/North_East_England_(European_Parliament_constituency)
-      notes: Wikipedia article
-north-west:
-  id: north-west
-  name: "North West"
-  links:
-    - url: https://en.wikipedia.org/wiki/North_West_England_(European_Parliament_constituency)
-      notes: Wikipedia article
-west-midlands:
-  id: west-midlands
-  name: "West Midlands"
-  links:
-    - url: https://en.wikipedia.org/wiki/West_Midlands_(European_Parliament_constituency)
-      notes: Wikipedia article
-yorkshire-and-the-humber:
-  id: yorkshire-and-the-humber
-  name: "Yorkshire and the Humber"
-  links:
-    - url: https://en.wikipedia.org/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)
-      notes: Wikipedia article
 east-midlands:
   id: east-midlands
-  name: "East Midlands"
   links:
-    - url: https://en.wikipedia.org/wiki/East_Midlands_(European_Parliament_constituency)
-      notes: Wikipedia article
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/East_Midlands_(European_Parliament_constituency)
+  name: 'East Midlands'
+
+
 eastern:
   id: eastern
-  name: "Eastern"
   links:
-    - url: https://en.wikipedia.org/wiki/East_of_England_(European_Parliament_constituency)
-      notes: Wikipedia article
-scotland:
-  id: scotland
-  name: "Scotland"
-  links:
-    - url: https://en.wikipedia.org/wiki/Scotland_(European_Parliament_constituency)
-      notes: Wikipedia article
-wales:
-  id: wales
-  name: "Wales"
-  links:
-    - url: https://en.wikipedia.org/wiki/Wales_(European_Parliament_constituency)
-      notes: Wikipedia article
-northern-ireland:
-  id: northern-ireland
-  name: "Northern Ireland"
-  links:
-    - url: https://en.wikipedia.org/wiki/Northern_Ireland_(European_Parliament_constituency)
-      notes: Wikipedia article
-south-west:
-  id: south-west
-  name: "South West"
-  links:
-    - url: https://en.wikipedia.org/wiki/South_West_England_(European_Parliament_constituency)
-      notes: Wikipedia article
-south-east:
-  id: south-east
-  name: "South East"
-  links:
-    - url: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
-      notes: Wikipedia article
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/East_of_England_(European_Parliament_constituency)
+  name: Eastern
+
+
 london:
   id: london
-  name: "London"
   links:
-    - url: https://en.wikipedia.org/wiki/London_(European_Parliament_constituency)
-      notes: Wikipedia article
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/London_(European_Parliament_constituency)
+  name: London
 
+
+north-east:
+  id: north-east
+  links:
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/North_East_England_(European_Parliament_constituency)
+  name: 'North East'
+
+
+north-west:
+  id: north-west
+  links:
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/North_West_England_(European_Parliament_constituency)
+  name: 'North West'
+
+
+northern-ireland:
+  id: northern-ireland
+  links:
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Northern_Ireland_(European_Parliament_constituency)
+  name: 'Northern Ireland'
+
+
+scotland:
+  id: scotland
+  links:
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Scotland_(European_Parliament_constituency)
+  name: Scotland
+
+
+south-east:
+  id: south-east
+  links:
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
+  name: 'South East'
+
+
+south-west:
+  id: south-west
+  links:
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/South_West_England_(European_Parliament_constituency)
+  name: 'South West'
+
+
+wales:
+  id: wales
+  links:
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Wales_(European_Parliament_constituency)
+  name: Wales
+
+
+west-midlands:
+  id: west-midlands
+  links:
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/West_Midlands_(European_Parliament_constituency)
+  name: 'West Midlands'
+
+
+yorkshire-and-the-humber:
+  id: yorkshire-and-the-humber
+  links:
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)
+  name: 'Yorkshire and the Humber'
