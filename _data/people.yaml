@@ -2,41 +2,89 @@
 glenis-willmot:
   id: glenis-willmot
   name: "Glenis Willmott"
+  gender: "female"
+  links:
+    - url: "http://www.gleniswillmott.eu/"
+      notes: Website
+    - url: "https://twitter.com/GlenisWillmott"
+      notes: Twitter account
+    - url: "https://en.wikipedia.org/wiki/Glenis_Willmott"
+      notes: Wikipedia article
 rory-palmer:
   id: rory-palmer
   name: "Rory Palmer"
+  gender: "male"
+  links:
+    - url: "http://rorypalmer.org/"
+      notes: Website
+    - url: "https://twitter.com/Rory_Palmer"
+      notes: Twitter account
 linda-woodings:
   id: linda_woodings
   name: "Linda Woodings"
+  gender: "female"
   links:
     - url: "https://twitter.com/LindaWoodings"
       notes: Twitter account
 khalid-hadadi:
   id: khalid-hadadi
   name: "Khalid Hadadi"
+  gender: "male"
 nicki-brooks:
   id: nicki-brooks
   name: "Nicki Brooks"
+  gender: "female"
+  links:
+    - url: "https://twitter.com/NickiBrooksx"
+      notes: Twitter account
 
 # Eastern Labour
 richard-howitt:
   id: richard-howitt
   name: "Richard Howitt"
+  gender: "male"
+  links:
+    - url: "http://www.richardhowittmep.com/"
+      notes: Website
+    - url: "https://twitter.com/richardhowitt"
+      notes: Twitter account
 alex-mayer:
   id: alex-mayer
   name: "Alex Mayer"
+  gender: "female"
+  links:
+    - url: "https://twitter.com/alexlmayer"
+      notes: Twitter account
+    - url: "http://www.alexmayer.eu/"
+      notes: Website
 sandy-martin:
   id: sandy-martin
   name: "Sandy Martin"
+  gender: "male"
+  links:
+    - url: "https://twitter.com/sandyofipswich"
+      notes: Twitter account
+    - url: "http://sandymartin4europe.com/"
+      notes: Website
 bhavna-joshi:
   id: bhavna-joshi
   name: "Bhavna Joshi"
+  links:
+    - url: "http://www.votejoshi4mep.co.uk/"
+      notes: Website
+    - url: "https://twitter.com/BhavnaJoshi"
+      notes: Twitter account
+    - url: "https://twitter.com/VoteJoshi"
+      notes: Campaign Twitter account
 paul-bishop:
   id: paul-bishop
   name: "Paul Bishop"
 naseem-ayub:
   id: naseem-ayub
   name: "Naseem Ayub"
+  links:
+    - url: "https://twitter.com/VoteNaseem4MEP"
+      notes: "Twitter account"
 chris-ostrowski:
   id: christ-ostrowski
   name: "Chris Ostrowski"
