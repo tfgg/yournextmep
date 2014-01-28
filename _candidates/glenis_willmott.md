@@ -1,10 +1,10 @@
 ---
 layout: candidate
-name:  "Glenis Willmott"
 permalink: candidates/labour/glenis-willmott/
 categories: candidate labour
-region: east_midlands
+region: east-midlands
 party: labour
-rank: 1
+person: glenis-willmot
+list-rank: 1
 ---
 

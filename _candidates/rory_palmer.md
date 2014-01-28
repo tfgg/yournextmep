@@ -1,10 +1,10 @@
 ---
 layout: candidate
-name: "Rory Palmer"
 permalink: candidates/labour/rory-palmer/
 categories: candidate labour
-region: east_midlands
+list-rank: 2
+person: rory-palmer
+region: east-midlands
 party: labour
-rank: 2
 ---
 

@@ -2,10 +2,14 @@
 layout: default
 ---
 
+{% assign person=site.data.people[page.person] %}
+{% assign party=site.data.parties[page.party] %}
+{% assign region=site.data.regions[page.region] %}
+
 <div class='row'>
   <div class='row-md-12'>
-    <h2>{{ page.name }} ({{ site.data.parties[page.party].name}})</h2>
-    <p>{{ page.name }} is running in <a href='{{ site.data.regions[page.region].url }}'>{{ site.data.regions[page.region].name }}</a></p>
+    <h2>{{ person.name }} ({{ party.name}})</h2>
+    <p>{{ person.name }} is running in <a href='/regions/{{ region.id }}'>{{ region.name }}</a></p>
   </div>
 </div>
 <div class='row'>

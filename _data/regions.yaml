@@ -1,4 +1,4 @@
-east_midlands:
-  name: East Midlands
-  url: /regions/east-midlands
+east-midlands:
+  id: east-midlands
+  name: "East Midlands"
 

@@ -1,0 +1,40 @@
+# East Midlands Labour
+glenis-willmot:
+  id: glenis-willmot
+  name: "Glenis Willmott"
+rory-palmer:
+  id: rory-palmer
+  name: "Rory Palmer"
+linda-woodings:
+  id: linda_woodings
+  name: "Linda Woodings"
+khalid-hadadi:
+  id: khalid-hadadi
+  name: "Khalid Hadadi"
+nicki-brooks:
+  id: nicki-brooks
+  name: "Nicki Brooks"
+
+# Eastern Labour
+richard-howitt:
+  id: richard-howitt
+  name: "Richard Howitt"
+alex-mayer:
+  id: alex-mayer
+  name: "Alex Mayer"
+sandy-martin:
+  id: sandy-martin
+  name: "Sandy Martin"
+bhavna-joshi:
+  id: bhavna-joshi
+  name: "Bhavna Joshi"
+paul-bishop:
+  id: paul-bishop
+  name: "Paul Bishop"
+naseem-ayub:
+  id: naseem-ayub
+  name: "Naseem Ayub"
+chris-ostrowski:
+  id: christ-ostrowski
+  name: "Chris Ostrowski"
+

@@ -1,10 +1,10 @@
 ---
 layout: candidate
-name:  "Nicki Brooks"
 permalink: candidates/labour/nicki-brooks/
 categories: candidate labour
-region: east_midlands
+list-rank: 5
+person: nicki-brooks
+region: east-midlands
 party: labour
-rank: 5
 ---
 

@@ -1,3 +1,22 @@
 labour:
+  id: labour
   name: Labour
+  classification: "Party"
+  other_names:
+    - name: Labour Party
+  founding_date: "1900-1-1"
+  links:
+    - url: "https://en.wikipedia.org/wiki/Labour_Party_(UK)"
+      note: "Wikipedia page"
+
+conservative:
+  id: conservative
+  name: Conservatives
+  other_names:
+    - name: Conservative and Unionist Party
+  classification: "Party"
+  founding_date: "1834-1-1"
+  links:
+    - url: "https://en.wikipedia.org/wiki/Conservative_Party_(UK)"
+      note: "Wikipedia page"
 
