@@ -2,6 +2,7 @@ import requests
 import sys
 import os
 import yaml
+import pyaml
 
 people = yaml.load(open(sys.argv[1]))
 
@@ -54,6 +55,5 @@ for person, twitter_id in ids:
     person['image'] = "/" + path
     person['twitter_description'] = description
 
-print yaml.safe_dump(people,
-                     default_flow_style=False)
+pyaml.dump(people, sys.stdout, vspacing=[2, 0])
 

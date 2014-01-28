@@ -1,3 +1,13 @@
+afzal-khan:
+  id: afzal-khan
+  links:
+    - notes: 'Twitter account'
+      url: https://twitter.com/cllrakhan
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/M._Afzal_Khan
+  name: 'Afzal Khan'
+
+
 alex-mayer:
   description: 'Alex Mayer (32) lives in Cambridgeshire. She currently works in the
     charity sector and was formally employed by an MEP giving her invaluable knowledge
@@ -16,6 +26,108 @@ alex-mayer:
   twitter_description: '@UKLabour activist, European candidate and NPF rep. Works
     in media, volunteering and fundraising. Loves campaigning, the East of England
     and chocolate.'
+
+
+alex-thomas:
+  id: alex-thomas
+  name: 'Alex Thomas'
+
+
+andrea-biondi:
+  gender: male
+  id: andrea-biondi
+  links:
+    - notes: Website
+      url: http://www.andreabiondi.eu/
+    - notes: 'Twitter account'
+      url: https://twitter.com/biondi4europe
+  name: 'Andrea Biondi'
+
+
+angeliki-stogia:
+  gender: female
+  id: angeliki-stogia
+  links:
+    - notes: Website
+      url: http://www.angeliki4eu.org/
+    - notes: 'Twitter account'
+      url: https://twitter.com/Angeliki4eu
+    - notes: 'Facebook page'
+      url: https://www.facebook.com/astogia
+  name: 'Angeliki Stogia'
+
+
+ann-reeder:
+  id: ann-reeder
+  links:
+    - notes: 'Twitter account'
+      url: https://twitter.com/SomersetAnn
+  name: 'Ann Reeder'
+
+
+anneliese-dodds:
+  id: anneliese-dodds
+  links:
+    - notes: Website
+      url: http://www.anneliesedodds.org.uk/
+    - notes: 'Twitter account'
+      url: https://twitter.com/AnnelieseDodds
+    - notes: 'Facebook page'
+      url: https://www.facebook.com/anneliesedodds4southeast
+  name: 'Anneliese Dodds'
+
+
+ansar-ali-khan:
+  id: ansar-ali-khan
+  links:
+    - notes: 'Twitter account'
+      url: https://twitter.com/ansar_ali_khan
+  name: 'Ansar Ali-Khan'
+
+
+anthony-ethapemi:
+  id: anthony-ethapemi
+  links:
+    - notes: Website
+      url: http://tonyethapemi.com/
+  name: 'Anthony Ethapemi'
+
+
+arlene-mccarthy:
+  id: arlene-mccarthy
+  links:
+    - notes: 'Twitter account'
+      url: https://twitter.com/EuroMP_ArleneMc
+  name: 'Arlene McCarthy'
+
+
+asghar-khan:
+  id: asghar-khan
+  links:
+    - notes: 'Twitter account'
+      url: https://twitter.com/asgharlab
+    - notes: 'Facebook page'
+      url: https://www.facebook.com/asghar.khan.96
+    - notes: 'Campaign Twitter account'
+      url: https://twitter.com/Asghar4Labour
+    - notes: Website
+      url: http://www.asgharkhan4yorkshumber.org
+  name: 'Asghar Khan'
+
+
+asim-khan:
+  id: asim-khan
+  image: /images/twitter/asim_rel.jpg
+  links:
+    - notes: Website
+      url: http://www.asimkhan.org/
+    - notes: 'Twitter account'
+      url: https://twitter.com/asim_rel
+    - notes: 'Facebook page'
+      url: https://www.facebook.com/asim2208
+  name: 'Asim Khan'
+  twitter_description: 'Employment Lawyer and Prospective Scottish Labour candidate
+    for the 2014 European elections'
 
 
 bhavna-joshi:
@@ -38,6 +150,16 @@ bhavna-joshi:
     services.'
 
 
+catherine-stihler:
+  id: catherine-stihler
+  links:
+    - notes: Website
+      url: http://www.cstihlermep.com/
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Catherine_Stihler
+  name: 'Catherine Stihler'
+
+
 chris-ostrowski:
   description: 'Chris Ostrowski has represented the Labour Party in the Eastern Region
     for many years; he has stood as a parliamentary by-election candidate and he was
@@ -47,6 +169,82 @@ chris-ostrowski:
   gender: male
   id: christ-ostrowski
   name: 'Chris Ostrowski'
+
+
+christina-rees:
+  id: christina-rees
+  name: 'Christina Rees'
+
+
+claire-edwards:
+  id: claire-edwards
+  name: 'Claire Edwards'
+
+
+clare-moody:
+  id: clare-moody
+  name: 'Clare Moody'
+
+
+claude-moraes:
+  id: claude-moraes
+  name: 'Claude Moraes'
+
+
+daren-hughes:
+  id: daren-hughes
+  name: 'Daren Hughes'
+
+
+david-martin:
+  id: david-martin
+  image: /images/twitter/davidmartinmep.jpg
+  links:
+    - notes: Website
+      url: http://www.martinmep.com/
+    - notes: 'Twitter account'
+      url: https://twitter.com/davidmartinmep
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/David_Martin_(Scottish_politician)
+  name: 'David Martin'
+  twitter_description: 'Scotland''s senior European MEP, former Vice-President of
+    the European Parliament.  Currently member of International Trade Committee.'
+
+
+del-singh:
+  id: del-singh
+  name: 'Del Singh'
+
+
+derek-munn:
+  id: derek-munn
+  image: /images/twitter/Derek4Europe.jpg
+  links:
+    - notes: 'Twitter account'
+      url: https://twitter.com/Derek4Europe
+  name: 'Derek Munn'
+  twitter_description: 'Prospective Scottish Labour candidate for the 2014 European
+    elections'
+
+
+derek-vaughan:
+  id: derek-vaughan
+  name: 'Derek Vaughan'
+
+
+eleanor-tunnicliffe:
+  id: eleanor-tunnicliffe
+  name: 'Eleanor Tunnicliffe'
+
+
+emily-westley:
+  id: emily-westley
+  name: 'Emily Westley'
+
+
+farah-nazeer:
+  id: farah-nazeer
+  name: 'Farah Nazeer'
 
 
 glenis-willmot:
@@ -65,10 +263,121 @@ glenis-willmot:
   twitter_description: 'Labour''s Leader in Europe and MEP for the East Midlands.'
 
 
+glyn-ford:
+  id: glyn-ford
+  name: 'Glyn Ford'
+
+
+hadleigh-roberts:
+  id: hadleigh-roberts
+  name: 'Hadleigh Roberts'
+
+
+helen-mirfin-boukouris:
+  id: helen-mirfin-boukouris
+  name: 'Helen Mirfin-Boukouris'
+
+
+ivana-bartoletti:
+  id: ivana-bartoletti
+  name: 'Ivana Bartoletti'
+
+
+james-swindlehurst:
+  id: james-swindlehurst
+  name: 'James Swindlehurst'
+
+
+james-watkins:
+  id: james-watkins
+  name: 'James Watkins'
+
+
+jayne-bryant:
+  id: jayne-bryant
+  name: 'Jayne Bryant'
+
+
+jayne-shotton:
+  id: jayne-shotton
+  name: 'Jayne Shotton'
+
+
+john-howarth:
+  id: john-howarth
+  name: 'John Howarth'
+
+
+jude-robinson:
+  id: jude-robinson
+  name: 'Jude Robinson'
+
+
+judith-kirton-darling:
+  id: judith-kirton-darling
+  name: 'Judith Kirton-Darling'
+
+
+julie-ward:
+  id: julie-ward
+  name: 'Julie Ward'
+
+
+junab-ali:
+  id: junab-ali
+  name: 'Junab Ali'
+
+
+kamaljeet-jandu:
+  id: kamaljeet-jandu
+  name: 'Kamaljeet Jandu'
+
+
+karen-landles:
+  id: karen-landles
+  name: 'Karen Landles'
+
+
+katrina-murray:
+  id: katrina-murray
+  image: /images/twitter/katrinamurray71.jpg
+  links:
+    - notes: 'Campaign Facebook page'
+      url: https://www.facebook.com/VoteKatrinaMurray
+    - notes: 'Twitter account'
+      url: https://twitter.com/katrinamurray71
+  name: 'Katrina Murray'
+  twitter_description: 'Trade unionist, Labour Party activist, NHS worker, Football
+    supporter.  All views expressed are naturally my own.'
+
+
+kevin-doran:
+  id: kevin-doran
+  name: 'Kevin Doran'
+
+
 khalid-hadadi:
   gender: male
   id: khalid-hadadi
   name: 'Khalid Hadadi'
+
+
+kirsty-o-brien:
+  id: kirsty-o-brien
+  image: /images/twitter/Coisty_OB.jpg
+  links:
+    - notes: 'Twitter account'
+      url: https://twitter.com/Coisty_OB
+    - note: 'Campaign Facebook page'
+      url: https://www.facebook.com/Kirsty4Europe
+  name: 'Kirsty O’Brien'
+  twitter_description: 'Scottish Labour candidate for Europe 2014. Mostly lurking,
+    occasional tweets all my own views.'
+
+
+linda-mcavan:
+  id: linda-mcavan
+  name: 'Linda McAvan'
 
 
 linda-woodings:
@@ -81,6 +390,26 @@ linda-woodings:
   name: 'Linda Woodings'
   twitter_description: 'Labour Candidate for Europe in the East Midlands, CWU Political
     Officer for the East Midlands, a committed Labour Party member & activist.'
+
+
+lucy-anderson:
+  id: lucy-anderson
+  name: 'Lucy Anderson'
+
+
+lynda-waltho:
+  id: lynda-waltho
+  name: 'Lynda Waltho'
+
+
+maggie-hughs:
+  id: maggie-hughs
+  name: 'Maggie Hughs'
+
+
+mary-honeyball:
+  id: mary-honeyball
+  name: 'Mary Honeyball'
 
 
 naseem-ayub:
@@ -96,11 +425,21 @@ naseem-ayub:
     - notes: 'Twitter account'
       url: https://twitter.com/VoteNaseem4MEP
   name: 'Naseem Ayub'
-  twitter_description: 'Labour MEP candidate for the Eastern Region, 
+  twitter_description: 'Labour MEP candidate for the Eastern Region,
 
-    Biscot Ward Councillor, 
+    Biscot Ward Councillor,
 
     Executive Member Luton Borough Council.'
+
+
+neena-gill:
+  id: neena-gill
+  name: 'Neena Gill'
+
+
+nick-wallis:
+  id: nick-wallis
+  name: 'Nick Wallis'
 
 
 nicki-brooks:
@@ -114,6 +453,16 @@ nicki-brooks:
   twitter_description: 'Labour Cllr at Gedling BC & Deputy Whip Notts CC, anti-fur
     campaigner, cook. I love the Labour Party, working out, the cinema & chocolate.
     Tweets my own.'
+
+
+olwen-hamer:
+  id: olwen-hamer
+  name: 'Olwen Hamer'
+
+
+pascale-lamb:
+  id: pascale-lamb
+  name: 'Pascale Lamb'
 
 
 paul-bishop:
@@ -130,6 +479,21 @@ paul-bishop:
   gender: male
   id: paul-bishop
   name: 'Paul Bishop'
+
+
+paul-brannen:
+  id: paul-brannen
+  name: 'Paul Brannen'
+
+
+phil-bloomer:
+  id: phil-bloomer
+  name: 'Phil Bloomer'
+
+
+richard-corbett:
+  id: richard-corbett
+  name: 'Richard Corbett'
 
 
 richard-howitt:
@@ -176,6 +540,11 @@ rory-palmer:
     Deputy City Mayor & Cllr, Leicester City Council | Tweeting in a personal capacity.'
 
 
+sanchia-alasia:
+  id: sanchia-alasia
+  name: 'Sanchia Alasia'
+
+
 sandy-martin:
   description: 'Sandy Martin lives in Ipswich and is Leader of the Suffolk County
     Council Labour Group. He has been an active Labour Party member since 1988 and
@@ -193,294 +562,39 @@ sandy-martin:
     Labour Group - Labour is my party, democratic socialism my creed, environment
     my passion'
 
-# london
-
-mary-honeyball:
-  id: mary-honeyball
-  name: Mary Honeyball
-
-claude-moraes:
-  id: claude-moraes
-  name: Claude Moraes
-    
-sanchia-alasia:
-  id: sanchia-alasia
-  name: Sanchia Alasia
-
-lucy-anderson:
-  id: lucy-anderson
-  name: Lucy Anderson
-
-ivana-bartoletti:
-  id: ivana-bartoletti
-  name: Ivana Bartoletti
-
-andrea-biondi:
-  id: andrea-biondi
-  name: Andrea Biondi
 
 seb-dance:
   id: seb-dance
-  name: Seb Dance
+  name: 'Seb Dance'
 
-kamaljeet-jandu:
-  id: kamaljeet-jandu
-  name: Kamaljeet Jandu
-
-# north
-
-judith-kirton-darling:
-  id: judith-kirton-darling
-  name: Judith Kirton-Darling
-
-jayne-shotton:
-  id: jayne-shotton
-  name: Jayne Shotton
-
-paul-brannen:
-  id: paul-brannen
-  name: Paul Brannen
-
-nick-wallis:
-  id: nick-wallis
-  name: Nick Wallis
-
-# north west
-
-arlene-mccarthy:
-  id: arlene-mccarthy
-  name: Arlene McCarthy
-
-steve-carter:
-  id: steve-carter
-  name: Steve Carter
-
-kevin-doran:
-  id: kevin-doran
-  name: Kevin Doran
-
-theresa-griffin:
-  id: theresa-griffin
-  name: Theresa Griffin
-
-afzal-khan:
-  id: afzal-khan
-  name: Afzal Khan
-
-wajid-khan:
-  id: wajid-khan
-  name: Wajid Khan
-
-pascale-lamb:
-  id: pascale-lamb
-  name: Pascale Lamb
-  
-angeliki-stogia:
-  id: angeliki-stogia
-  name: Angeliki Stogia
-
-julie-ward:
-  id: julie-ward
-  name: Julie Ward
-
-# South East
-
-anneliese-dodds:
-  id: anneliese-dodds
-  name: Anneliese Dodds
-
-maggie-hughs:
-  id: maggie-hughs
-  name: Maggie Hughs
-
-karen-landles:
-  id: karen-landles
-  name: Karen Landles
-
-farah-nazeer:
-  id: farah-nazeer
-  name: Farah Nazeer
-
-emily-westley:
-  id: emily-westley
-  name: Emily Westley
-
-phil-bloomer:
-  id: phil-bloomer
-  name: Phil Bloomer
-
-john-howarth:
-  id: john-howarth
-  name: John Howarth
-
-del-singh:
-  id: del-singh
-  name: Del Singh
-
-james-swindlehurst:
-  id: james-swindlehurst
-  name: James Swindlehurst
-
-james-watkins:
-  id: james-watkins
-  name: James Watkins 
-
-# South West
-
-clare-moody:
-  id: clare-moody
-  name: Clare Moody
-
-ann-reeder:
-  id: ann-reeder
-  name: Ann Reeder
-
-jude-robinson:
-  id: jude-robinson
-  name: Jude Robinson
-
-junab-ali:
-  id: junab-ali
-  name: Junab Ali
-
-glyn-ford:
-  id: glyn-ford
-  name: Glyn Ford
-
-hadleigh-roberts:
-  id: hadleigh-roberts
-  name: Hadleigh Roberts
-
-# West Midlands
-
-claire-edwards:
-  id: claire-edwards
-  name: Claire Edwards
-
-neena-gill:
-  id: neena-gill
-  name: Neena Gill
-
-olwen-hamer:
-  id: olwen-hamer
-  name: Olwen Hamer
-
-lynda-waltho:
-  id: lynda-waltho
-  name: Lynda Waltho
-
-ansar-ali-khan:
-  id: ansar-ali-khan
-  name: Ansar Ali-Khan
-
-anthony-ethapemi:
-  id: anthony-ethapemi
-  name: Anthony Ethapemi
 
 sion-simon:
   id: sion-simon
-  name: Sion Simon
+  links:
+    - notes: 'Wikipedia page'
+      url: https://en.wikipedia.org/wiki/Si%C3%B4n_Simon
+    - notes: Website
+      url: http://www.sion-simon.org.uk/
+    - notes: 'Twitter account'
+      url: https://twitter.com/sionsimon
+  name: 'Sion Simon'
 
-# Yorkshire & the Humber
-linda-mcavan:
-  id: linda-mcavan
-  name: Linda McAvan
 
-richard-corbett:
-  id: richard-corbett
-  name: Richard Corbett
+steve-carter:
+  id: steve-carter
+  name: 'Steve Carter'
 
-daren-hughes:
-  id: daren-hughes
-  name: Daren Hughes
 
-asghar-khan:
-  id: asghar-khan
-  name: Asghar Khan
+theresa-griffin:
+  id: theresa-griffin
+  name: 'Theresa Griffin'
 
-helen-mirfin-boukouris:
-  id: helen-mirfin-boukouris
-  name: Helen Mirfin-Boukouris
 
 tracey-simpson-lang:
   id: tracey-simpson-lang
-  name: Tracey Simpson-Lang
-
-eleanor-tunnicliffe:
-  id: eleanor-tunnicliffe
-  name: Eleanor Tunnicliffe
+  name: 'Tracey Simpson-Lang'
 
 
-# Scotland
-david-martin:
-  id: david-martin
-  name: David Martin
-  links:
-    - url: http://www.martinmep.com/
-      notes: Website
-    - url: https://twitter.com/davidmartinmep
-      notes: Twitter account
-    - url: https://en.wikipedia.org/wiki/David_Martin_(Scottish_politician)
-      notes: Wikipedia article
-
-catherine-stihler:
-  id: catherine-stihler
-  name: Catherine Stihler
-  links:
-    - url: http://www.cstihlermep.com/
-      notes: Website
-    - url: https://en.wikipedia.org/wiki/Catherine_Stihler
-      notes: Wikipedia article
-
-asim-khan:
-  id: asim-khan
-  name: Asim Khan
-  links:
-    - url: http://www.asimkhan.org/
-      notes: Website
-    - url: https://twitter.com/asim_rel
-      notes: Twitter account
-    - url: https://www.facebook.com/asim2208
-      notes: Facebook page
-
-derek-munn:
-  id: derek-munn
-  name: Derek Munn
-  links:
-    - url: https://twitter.com/Derek4Europe
-      notes: Twitter account
-
-katrina-murray:
-  id: katrina-murray
-  name: Katrina Murray
-  links:
-    - url: https://www.facebook.com/VoteKatrinaMurray
-      notes: Campaign Facebook page
-    - url:  https://twitter.com/katrinamurray71
-      notes: Twitter account
-
-kirsty-o-brien:
-  id: kirsty-o-brien
-  name: Kirsty O’Brien
-  links:
-    - url: https://twitter.com/Coisty_OB
-      notes: Twitter account
-    - url: https://www.facebook.com/Kirsty4Europe
-      note: Campaign Facebook page
-
-# Wales
-derek-vaughan:
-  id: derek-vaughan
-  name: Derek Vaughan
-
-jayne-bryant:
-  id: jayne-bryant
-  name: Jayne Bryant
-
-christina-rees:
-  id: christina-rees
-  name: Christina Rees
-
-alex-thomas:
-  id: alex-thomas
-  name: Alex Thomas
+wajid-khan:
+  id: wajid-khan
+  name: 'Wajid Khan'
