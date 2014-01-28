@@ -1,4 +1,4 @@
 _site
-images
+images/twitter
 _scripts/local_settings.py
 *.pyc
