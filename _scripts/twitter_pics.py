@@ -38,6 +38,8 @@ for person, twitter_id in ids:
   profile_image_url = user.profile_image_url
   description = user.description
 
+  profile_image_url = profile_image_url.replace("_normal", "")
+
   resp = requests.get(profile_image_url, stream=True)
 
   if resp.status_code == 200:

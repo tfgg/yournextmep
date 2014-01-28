@@ -7,24 +7,37 @@ layout: default
 {% assign region=site.data.regions[page.region] %}
 
 <div class='row'>
-  <div class='row-md-12'>
-    <h2>{{ person.name }} ({{ party.name}})</h2>
-    <p>{{ person.name }} is running in <a href='/regions/{{ region.id }}'>{{ region.name }}</a></p>
+  <div class='col-md-2'>
+    {% if person.image %}
+    <img src='{{ person.image }}' class='profile-image'/>
+    {% else %}
+    {% endif %}
+  </div>
+  <div class='col-md-10'>
+    <h2>{{ person.name }}</h2>
+    <p>{{ person.name }} is running in the <a href='/regions/{{ region.id }}'>{{ region.name }}</a> region for {{ party.name }}</p>
+
+    <div class='row'>
+      <div class='col-md-12'>
+        <ul class='links'>
+        {% for link in person.links %}
+          <li><a href='{{ link.url }}'>{{ link.notes }}</a></li>
+        {% endfor %}
+        {% for link in page.links %}
+          <li><a href='{{ link.url }}'>{{ link.notes }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+    {% if person.twitter_description %}
+    <div class='row'>
+      <div class='col-md-12'>
+        <h3>Twitter description</h3>
+        <p class='quote'>{{ person.twitter_description }}</p>
+      </div>
+    </div>
+    {% endif %}
   </div>
 </div>
-<div class='row'>
-  <div class='row-md-8'>
-    <ul class='links'>
-    {% for link in person.links %}
-      <li><a href='{{ link.url }}'>{{ link.notes }}</a></li>
-    {% endfor %}
-    {% for link in page.links %}
-      <li><a href='{{ link.url }}'>{{ link.notes }}</a></li>
-    {% endfor %}
-    </ul>
-  </div>
-  <div class='row-md-4'>
-    {{ content }}
-  </div>
-</div>
+
 

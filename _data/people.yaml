@@ -1,82 +1,105 @@
-# East Midlands Labour
-glenis-willmot:
-  id: glenis-willmot
-  name: "Glenis Willmott"
-  gender: "female"
-  links:
-    - url: "http://www.gleniswillmott.eu/"
-      notes: Website
-    - url: "https://twitter.com/GlenisWillmott"
-      notes: Twitter account
-    - url: "https://en.wikipedia.org/wiki/Glenis_Willmott"
-      notes: Wikipedia article
-rory-palmer:
-  id: rory-palmer
-  name: "Rory Palmer"
-  gender: "male"
-  links:
-    - url: "http://rorypalmer.org/"
-      notes: Website
-    - url: "https://twitter.com/Rory_Palmer"
-      notes: Twitter account
-linda-woodings:
-  id: linda_woodings
-  name: "Linda Woodings"
-  gender: "female"
-  links:
-    - url: "https://twitter.com/LindaWoodings"
-      notes: Twitter account
-khalid-hadadi:
-  id: khalid-hadadi
-  name: "Khalid Hadadi"
-  gender: "male"
-nicki-brooks:
-  id: nicki-brooks
-  name: "Nicki Brooks"
-  gender: "female"
-  links:
-    - url: "https://twitter.com/NickiBrooksx"
-      notes: Twitter account
-
-# Eastern Labour
-richard-howitt:
-  id: richard-howitt
-  name: "Richard Howitt"
-  gender: "male"
-  links:
-    - url: "http://www.richardhowittmep.com/"
-      notes: Website
-    - url: "https://twitter.com/richardhowitt"
-      notes: Twitter account
 alex-mayer:
+  gender: female
   id: alex-mayer
-  name: "Alex Mayer"
-  gender: "female"
+  image: /images/twitter/alexlmayer.jpg
   links:
-    - url: "https://twitter.com/alexlmayer"
-      notes: Twitter account
-    - url: "http://www.alexmayer.eu/"
-      notes: Website
-sandy-martin:
-  id: sandy-martin
-  name: "Sandy Martin"
-  gender: "male"
-  links:
-    - url: "https://twitter.com/sandyofipswich"
-      notes: Twitter account
+  - notes: Twitter account
+    url: https://twitter.com/alexlmayer
+  - notes: Website
+    url: http://www.alexmayer.eu/
+  name: Alex Mayer
+  twitter_description: '@UKLabour activist, European candidate and NPF rep. Works
+    in media, volunteering and fundraising. Loves campaigning, the East of England
+    and chocolate.'
 bhavna-joshi:
   id: bhavna-joshi
-  name: "Bhavna Joshi"
+  image: /images/twitter/BhavnaJoshi.jpg
   links:
-    - url: "https://twitter.com/BhavnaJoshi"
-      notes: Twitter account
-paul-bishop:
-  id: paul-bishop
-  name: "Paul Bishop"
-naseem-ayub:
-  id: naseem-ayub
-  name: "Naseem Ayub"
+  - notes: Twitter account
+    url: https://twitter.com/BhavnaJoshi
+  name: Bhavna Joshi
+  twitter_description: A busy bee with an interest in all things politics and health
+    services.
 chris-ostrowski:
   id: christ-ostrowski
-  name: "Chris Ostrowski"
+  name: Chris Ostrowski
+glenis-willmot:
+  gender: female
+  id: glenis-willmot
+  image: /images/twitter/GlenisWillmott.jpg
+  links:
+  - notes: Website
+    url: http://www.gleniswillmott.eu/
+  - notes: Twitter account
+    url: https://twitter.com/GlenisWillmott
+  - notes: Wikipedia article
+    url: https://en.wikipedia.org/wiki/Glenis_Willmott
+  name: Glenis Willmott
+  twitter_description: Labour's Leader in Europe and MEP for the East Midlands.
+khalid-hadadi:
+  gender: male
+  id: khalid-hadadi
+  name: Khalid Hadadi
+linda-woodings:
+  gender: female
+  id: linda_woodings
+  image: /images/twitter/LindaWoodings.jpg
+  links:
+  - notes: Twitter account
+    url: https://twitter.com/LindaWoodings
+  name: Linda Woodings
+  twitter_description: Labour Candidate for Europe in the East Midlands, CWU Political
+    Officer for the East Midlands, a committed Labour Party member & activist.
+naseem-ayub:
+  id: naseem-ayub
+  name: Naseem Ayub
+nicki-brooks:
+  gender: female
+  id: nicki-brooks
+  image: /images/twitter/NickiBrooksx.jpg
+  links:
+  - notes: Twitter account
+    url: https://twitter.com/NickiBrooksx
+  name: Nicki Brooks
+  twitter_description: Labour Cllr at Gedling BC & Deputy Whip Notts CC, anti-fur
+    campaigner, cook. I love the Labour Party, working out, the cinema & chocolate.
+    Tweets my own.
+paul-bishop:
+  id: paul-bishop
+  name: Paul Bishop
+richard-howitt:
+  gender: male
+  id: richard-howitt
+  image: /images/twitter/richardhowitt.png
+  links:
+  - notes: Website
+    url: http://www.richardhowittmep.com/
+  - notes: Twitter account
+    url: https://twitter.com/richardhowitt
+  name: Richard Howitt
+  twitter_description: Labour MEP for Essex, Herts, Beds, Cambs, Norfolk, Suffolk.
+    Foreign Affairs Spokesperson, Rapporteur Corporate Responsibility, fYR Macedonia
+rory-palmer:
+  gender: male
+  id: rory-palmer
+  image: /images/twitter/Rory_Palmer.jpg
+  links:
+  - notes: Website
+    url: http://rorypalmer.org/
+  - notes: Twitter account
+    url: https://twitter.com/Rory_Palmer
+  name: Rory Palmer
+  twitter_description: Labour Candidate European Elections 2014, East Midlands | Deputy
+    City Mayor & Cllr, Leicester City Council | Tweeting in a personal capacity.
+sandy-martin:
+  gender: male
+  id: sandy-martin
+  image: /images/twitter/sandyofipswich.jpg
+  links:
+  - notes: Twitter account
+    url: https://twitter.com/sandyofipswich
+  name: Sandy Martin
+  twitter_description: Labour Candidate for Eastern Region 2014, Leader Suffolk County
+    Labour Group - Labour is my party, democratic socialism my creed, environment
+    my passion
 
