@@ -7,9 +7,10 @@ title: YourNextMEP
   <div class="col-md-12">
     <h1>UK - European Parliament elections 2014</h1>
     <ul class="regions">
-      {{ site }}
-      {% for region in site._regions %}
-        <li><a href="{{ region.url }}">{{ region.title }}</a></li>
+      {% for region in site.pages %}
+        {% if region.layout == 'region' %}
+          <li><a href="{{ region.url }}">{{ region.title }}</a></li>
+        {% endif %}
       {% endfor %}
     </ul>
   </div>

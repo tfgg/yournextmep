@@ -1,0 +1,10 @@
+parties:
+  - name: Labour
+    candidates:
+      east_midlands:
+        - name: Glenis Willmott
+        - name: Rory Palmer
+        - name: Linda Woodings
+        - name: Khalid Hadadi
+        - name: Nicki Brooks
+

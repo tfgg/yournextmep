@@ -1,0 +1,20 @@
+---
+permalink: regions/east-midlands/
+layout: region
+title:  "East Midlands"
+categories: region
+---
+
+{{ site.data.candidates }}
+
+{% for party in site.data.eu2014.parties %}
+  {% if party.candidates.east_midlands %}
+    <h2>{{ party.name }}</h2>
+
+    <ol>
+    {% for candidate in party.candidates.east_midlands %}
+      <li>{{ candidate.name }}</li>
+    {% endfor %}
+    </ol>
+  {% endif %}
+{% endfor %}
