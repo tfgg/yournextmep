@@ -1,3 +1,4 @@
+/* Default */
 body {
   padding-top:1em;
 }
@@ -7,10 +8,15 @@ div.getcode p {
   font-style:italic;
 }
 
+div.footer {
+  padding-top:1em;
+}
+
 /* Candidate pages */
 img.profile-image {
   width:100%;
   margin:0.2em;
+  border-radius:50px;
 }
 
 p.quote {
@@ -22,3 +28,4 @@ p.quote {
 div.col-md-12 p.quote {
   width:50%;
 }
+
