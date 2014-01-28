@@ -20,9 +20,11 @@ bhavna-joshi:
   name: Bhavna Joshi
   twitter_description: A busy bee with an interest in all things politics and health
     services.
+  gender: female
 chris-ostrowski:
   id: christ-ostrowski
   name: Chris Ostrowski
+  gender: male
 glenis-willmot:
   gender: female
   id: glenis-willmot
@@ -67,6 +69,7 @@ nicki-brooks:
 paul-bishop:
   id: paul-bishop
   name: Paul Bishop
+  gender: male
 richard-howitt:
   gender: male
   id: richard-howitt
