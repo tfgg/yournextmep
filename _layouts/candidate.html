@@ -14,7 +14,14 @@ layout: default
 </div>
 <div class='row'>
   <div class='row-md-8'>
-
+    <ul class='links'>
+    {% for link in person.links %}
+      <li><a href='{{ link.url }}'>{{ link.notes }}</a></li>
+    {% endfor %}
+    {% for link in page.links %}
+      <li><a href='{{ link.url }}'>{{ link.notes }}</a></li>
+    {% endfor %}
+    </ul>
   </div>
   <div class='row-md-4'>
     {{ content }}

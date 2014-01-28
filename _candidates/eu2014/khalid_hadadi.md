@@ -1,9 +1,9 @@
 ---
 layout: candidate
-permalink: candidates/labour/rory-palmer/
 categories: candidate labour
-list-rank: 2
-person: rory-palmer
+election: eu2014
+list-rank: 4
+person: khalid-hadadi
 region: east-midlands
 party: labour
 ---

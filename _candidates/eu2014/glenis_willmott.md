@@ -1,10 +1,10 @@
 ---
 layout: candidate
-permalink: candidates/labour/nicki-brooks/
 categories: candidate labour
-list-rank: 5
-person: nicki-brooks
+election: eu2014
 region: east-midlands
 party: labour
+person: glenis-willmot
+list-rank: 1
 ---
 

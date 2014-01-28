@@ -1,9 +1,9 @@
 ---
 layout: candidate
-permalink: candidates/labour/khalid-hadadi/
 categories: candidate labour
-list-rank: 4
-person: khalid-hadadi
+election: eu2014
+list-rank: 5
+person: nicki-brooks
 region: east-midlands
 party: labour
 ---

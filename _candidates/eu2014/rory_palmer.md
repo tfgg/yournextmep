@@ -1,10 +1,10 @@
 ---
 layout: candidate
-permalink: candidates/labour/glenis-willmott/
 categories: candidate labour
+election: eu2014
+list-rank: 2
+person: rory-palmer
 region: east-midlands
 party: labour
-person: glenis-willmot
-list-rank: 1
 ---
 

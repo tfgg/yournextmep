@@ -8,6 +8,9 @@ rory-palmer:
 linda-woodings:
   id: linda_woodings
   name: "Linda Woodings"
+  links:
+    - url: "https://twitter.com/LindaWoodings"
+      notes: Twitter account
 khalid-hadadi:
   id: khalid-hadadi
   name: "Khalid Hadadi"
