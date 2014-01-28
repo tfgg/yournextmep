@@ -35,6 +35,7 @@ glenis-willmot:
   gender: female
   id: glenis-willmot
   image: /images/twitter/GlenisWillmott.jpg
+  email: office@gleniswillmott.org.uk
   links:
   - notes: Website
     url: http://www.gleniswillmott.eu/
