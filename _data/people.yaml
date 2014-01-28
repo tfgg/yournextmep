@@ -37,6 +37,7 @@ alex-thomas:
 
 
 andrea-biondi:
+  email: andreabiondi4mep@gmail.com
   gender: male
   id: andrea-biondi
   image: /images/twitter/biondi4europe.jpg
@@ -45,6 +46,8 @@ andrea-biondi:
       url: http://www.andreabiondi.eu/
     - notes: 'Twitter account'
       url: https://twitter.com/biondi4europe
+    - notes: 'Facebook page'
+      url: https://www.facebook.com/andreabiondieu
   name: 'Andrea Biondi'
   twitter_description: 'Londoner, Italian, Labour & Professor of European Law @KCL_Law
 
