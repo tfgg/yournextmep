@@ -1,11 +1,12 @@
 afzal-khan:
   id: afzal-khan
-  name: 'Afzal Khan'
   links:
-    - url: https://twitter.com/cllrakhan
-      notes: Twitter account
-    - url: https://en.wikipedia.org/wiki/M._Afzal_Khan
-      notes: Wikipedia article
+    - notes: 'Twitter account'
+      url: https://twitter.com/cllrakhan
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/M._Afzal_Khan
+  name: 'Afzal Khan'
+
 
 alex-mayer:
   description: 'Alex Mayer (32) lives in Cambridgeshire. She currently works in the
@@ -33,78 +34,86 @@ alex-thomas:
 
 
 andrea-biondi:
-  id: andrea-biondi
-  name: 'Andrea Biondi'
   gender: male
+  id: andrea-biondi
   links:
-    - url: http://www.andreabiondi.eu/
-      notes: Website
-    - url: https://twitter.com/biondi4europe
-      notes: Twitter account
+    - notes: Website
+      url: http://www.andreabiondi.eu/
+    - notes: 'Twitter account'
+      url: https://twitter.com/biondi4europe
+  name: 'Andrea Biondi'
+
 
 angeliki-stogia:
-  id: angeliki-stogia
-  name: 'Angeliki Stogia'
   gender: female
+  id: angeliki-stogia
   links:
-    - url: http://www.angeliki4eu.org/
-      notes: Website
-    - url: https://twitter.com/Angeliki4eu
-      notes: Twitter account
-    - url: https://www.facebook.com/astogia
-      notes: Facebook page
+    - notes: Website
+      url: http://www.angeliki4eu.org/
+    - notes: 'Twitter account'
+      url: https://twitter.com/Angeliki4eu
+    - notes: 'Facebook page'
+      url: https://www.facebook.com/astogia
+  name: 'Angeliki Stogia'
+
 
 ann-reeder:
   id: ann-reeder
-  name: 'Ann Reeder'
   links:
-    - url: https://twitter.com/SomersetAnn
-      notes: Twitter account
+    - notes: 'Twitter account'
+      url: https://twitter.com/SomersetAnn
+  name: 'Ann Reeder'
+
 
 anneliese-dodds:
   id: anneliese-dodds
-  name: 'Anneliese Dodds'
   links:
-    - url: http://www.anneliesedodds.org.uk/
-      notes: Website
-    - url: https://twitter.com/AnnelieseDodds
-      notes: Twitter account
-    - url: https://www.facebook.com/anneliesedodds4southeast
-      notes: Facebook page
+    - notes: Website
+      url: http://www.anneliesedodds.org.uk/
+    - notes: 'Twitter account'
+      url: https://twitter.com/AnnelieseDodds
+    - notes: 'Facebook page'
+      url: https://www.facebook.com/anneliesedodds4southeast
+  name: 'Anneliese Dodds'
+
 
 ansar-ali-khan:
   id: ansar-ali-khan
-  name: 'Ansar Ali-Khan'
   links:
-    - url: https://twitter.com/ansar_ali_khan
-      notes: Twitter account
+    - notes: 'Twitter account'
+      url: https://twitter.com/ansar_ali_khan
+  name: 'Ansar Ali-Khan'
+
 
 anthony-ethapemi:
   id: anthony-ethapemi
-  name: 'Anthony Ethapemi'
   links:
-    - url: http://tonyethapemi.com/
-      notes: Website
+    - notes: Website
+      url: http://tonyethapemi.com/
+  name: 'Anthony Ethapemi'
+
 
 arlene-mccarthy:
   id: arlene-mccarthy
-  name: 'Arlene McCarthy'
   links:
-    - url: https://twitter.com/EuroMP_ArleneMc
-      notes: Twitter account
+    - notes: 'Twitter account'
+      url: https://twitter.com/EuroMP_ArleneMc
+  name: 'Arlene McCarthy'
+
 
 asghar-khan:
   id: asghar-khan
-  name: 'Asghar Khan'
   links:
-    - url: https://twitter.com/asgharlab
-      notes: Twitter account
-    - url: https://www.facebook.com/asghar.khan.96
-      notes: Facebook page
-    - url: https://twitter.com/Asghar4Labour
-      notes: Campaign Twitter account
-    - url: http://www.asgharkhan4yorkshumber.org
-      notes: Website
+    - notes: 'Twitter account'
+      url: https://twitter.com/asgharlab
+    - notes: 'Facebook page'
+      url: https://www.facebook.com/asghar.khan.96
+    - notes: 'Campaign Twitter account'
+      url: https://twitter.com/Asghar4Labour
+    - notes: Website
+      url: http://www.asgharkhan4yorkshumber.org
+  name: 'Asghar Khan'
+
 
 asim-khan:
   id: asim-khan
@@ -416,9 +425,9 @@ naseem-ayub:
     - notes: 'Twitter account'
       url: https://twitter.com/VoteNaseem4MEP
   name: 'Naseem Ayub'
-  twitter_description: 'Labour MEP candidate for the Eastern Region, 
+  twitter_description: 'Labour MEP candidate for the Eastern Region,
 
-    Biscot Ward Councillor, 
+    Biscot Ward Councillor,
 
     Executive Member Luton Borough Council.'
 
@@ -561,14 +570,15 @@ seb-dance:
 
 sion-simon:
   id: sion-simon
-  name: 'Sion Simon'
   links:
-    - url: https://en.wikipedia.org/wiki/Si%C3%B4n_Simon
-      notes: Wikipedia page
-    - url: http://www.sion-simon.org.uk/
-      notes: Website
-    - url: https://twitter.com/sionsimon
-      notes: Twitter account
+    - notes: 'Wikipedia page'
+      url: https://en.wikipedia.org/wiki/Si%C3%B4n_Simon
+    - notes: Website
+      url: http://www.sion-simon.org.uk/
+    - notes: 'Twitter account'
+      url: https://twitter.com/sionsimon
+  name: 'Sion Simon'
+
 
 steve-carter:
   id: steve-carter
