@@ -152,11 +152,10 @@ rory-palmer:
   twitter_description: Labour Candidate European Elections 2014, East Midlands | Deputy
     City Mayor & Cllr, Leicester City Council | Tweeting in a personal capacity.
 sandy-martin:
-  ? description "Sandy Martin lives in Ipswich and is Leader of the Suffolk County
+  description: "Sandy Martin lives in Ipswich and is Leader of the Suffolk County
     Council Labour Group. He has been an active Labour Party member since 1988 and
     Unite member since 1990. He has served on the National Policy Forum and on the
-    Executive Committee of the Fabian Society. source
-  : http://www.easthertslabour.org/"
+    Executive Committee of the Fabian Society. source: http://www.easthertslabour.org/"
   email: sandyofipswich@yahoo.co.uk
   gender: male
   id: sandy-martin
