@@ -1,11 +1,14 @@
 afzal-khan:
   id: afzal-khan
+  image: /images/twitter/cllrakhan.jpg
   links:
     - notes: 'Twitter account'
       url: https://twitter.com/cllrakhan
     - notes: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/M._Afzal_Khan
   name: 'Afzal Khan'
+  twitter_description: 'Campaigning for the North West in Europe. Labour NW MEP candidate
+    and former Lord Mayor of Manchester.'
 
 
 alex-mayer:
@@ -36,17 +39,22 @@ alex-thomas:
 andrea-biondi:
   gender: male
   id: andrea-biondi
+  image: /images/twitter/biondi4europe.jpg
   links:
     - notes: Website
       url: http://www.andreabiondi.eu/
     - notes: 'Twitter account'
       url: https://twitter.com/biondi4europe
   name: 'Andrea Biondi'
+  twitter_description: 'Londoner, Italian, Labour & Professor of European Law @KCL_Law
+
+    Proud to be London Labour Candidate for 2014 European elections #andrea4mep #biondi4europe'
 
 
 angeliki-stogia:
   gender: female
   id: angeliki-stogia
+  image: /images/twitter/Angeliki4eu.jpg
   links:
     - notes: Website
       url: http://www.angeliki4eu.org/
@@ -55,18 +63,25 @@ angeliki-stogia:
     - notes: 'Facebook page'
       url: https://www.facebook.com/astogia
   name: 'Angeliki Stogia'
+  twitter_description: 'North West 2014 European Elections Candidate 
+
+    #VCS #EU funding specialist, #WhalleyRange Labour Cllr, Labour activist,'
 
 
 ann-reeder:
   id: ann-reeder
+  image: /images/twitter/SomersetAnn.jpg
   links:
     - notes: 'Twitter account'
       url: https://twitter.com/SomersetAnn
   name: 'Ann Reeder'
+  twitter_description: 'Labour candidate for the South West in European Election 2014.
+    Tweets in a personal capacity'
 
 
 anneliese-dodds:
   id: anneliese-dodds
+  image: /images/twitter/AnnelieseDodds.jpg
   links:
     - notes: Website
       url: http://www.anneliesedodds.org.uk/
@@ -75,14 +90,19 @@ anneliese-dodds:
     - notes: 'Facebook page'
       url: https://www.facebook.com/anneliesedodds4southeast
   name: 'Anneliese Dodds'
+  twitter_description: 'Researcher and lecturer in public policy and campaigner for
+    social justice.'
 
 
 ansar-ali-khan:
   id: ansar-ali-khan
+  image: /images/twitter/ansar_ali_khan.jpg
   links:
     - notes: 'Twitter account'
       url: https://twitter.com/ansar_ali_khan
   name: 'Ansar Ali-Khan'
+  twitter_description: 'Councillor for Washwood Heath Ward, Birmingham.  Chair of
+    Hodge Hill Constituency.'
 
 
 anthony-ethapemi:
@@ -95,14 +115,18 @@ anthony-ethapemi:
 
 arlene-mccarthy:
   id: arlene-mccarthy
+  image: /images/twitter/EuroMP_ArleneMc.jpg
   links:
     - notes: 'Twitter account'
       url: https://twitter.com/EuroMP_ArleneMc
   name: 'Arlene McCarthy'
+  twitter_description: 'Labour Euro MP for the North West region. Vice Chair of the
+    European Parliament’s Economic & Monetary Affairs Committee.'
 
 
 asghar-khan:
   id: asghar-khan
+  image: /images/twitter/Asghar4Labour.png
   links:
     - notes: 'Twitter account'
       url: https://twitter.com/asgharlab
@@ -113,6 +137,9 @@ asghar-khan:
     - notes: Website
       url: http://www.asgharkhan4yorkshumber.org
   name: 'Asghar Khan'
+  twitter_description: 'Labour candidate for Yorkshire & Humberside in the forthcoming
+    EU Elections. Asghar is dedicated to representing the real concerns of every family
+    & community.'
 
 
 asim-khan:
@@ -425,9 +452,9 @@ naseem-ayub:
     - notes: 'Twitter account'
       url: https://twitter.com/VoteNaseem4MEP
   name: 'Naseem Ayub'
-  twitter_description: 'Labour MEP candidate for the Eastern Region,
+  twitter_description: 'Labour MEP candidate for the Eastern Region, 
 
-    Biscot Ward Councillor,
+    Biscot Ward Councillor, 
 
     Executive Member Luton Borough Council.'
 
@@ -570,6 +597,7 @@ seb-dance:
 
 sion-simon:
   id: sion-simon
+  image: /images/twitter/sionsimon.jpg
   links:
     - notes: 'Wikipedia page'
       url: https://en.wikipedia.org/wiki/Si%C3%B4n_Simon
@@ -578,6 +606,7 @@ sion-simon:
     - notes: 'Twitter account'
       url: https://twitter.com/sionsimon
   name: 'Sion Simon'
+  twitter_description: 'writer and politician'
 
 
 steve-carter:
