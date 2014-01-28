@@ -2,12 +2,12 @@
 layout: default
 ---
 <div class='row'>
-  <div class='row-md-12'>
+  <div class='col-md-12'>
     <h2>{{ page.title }}</h2>
   </div>
 </div>
 <div class='row'>
-  <div class='row-md-8'>
+  <div class='col-md-8'>
     {% assign pages=site.pages %}
     {% for party_pair in site.data.parties %}
       {% assign party=party_pair[1] %}
@@ -25,7 +25,7 @@ layout: default
       </ol>
     {% endfor %}
   </div>
-  <div class='row-md-4'>
+  <div class='col-md-4'>
     {{ content }}
   </div>
 </div>

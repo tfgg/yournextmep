@@ -6,7 +6,7 @@ afzal-khan:
       url: https://twitter.com/cllrakhan
     - notes: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/M._Afzal_Khan
-    - notes: 'Website'
+    - notes: Website
       url: http://afzalkhan.org.uk/
   name: 'Afzal Khan'
   twitter_description: 'Campaigning for the North West in Europe. Labour NW MEP candidate
@@ -68,7 +68,7 @@ angeliki-stogia:
     - notes: 'Facebook page'
       url: https://www.facebook.com/astogia
   name: 'Angeliki Stogia'
-  twitter_description: 'North West 2014 European Elections Candidate 
+  twitter_description: 'North West 2014 European Elections Candidate
 
     #VCS #EU funding specialist, #WhalleyRange Labour Cllr, Labour activist,'
 
@@ -204,7 +204,15 @@ chris-ostrowski:
 
 
 christina-rees:
+  email: christinarees.europe@gmail.com
   id: christina-rees
+  links:
+    - notes: Website
+      url: http://christinarees.co.uk/
+    - notes: 'Twitter account'
+      url: https://twitter.com/ReesEurope
+    - notes: 'Facebook page'
+      url: https://www.facebook.com/groups/594311520593518/
   name: 'Christina Rees'
 
 
@@ -215,17 +223,36 @@ claire-edwards:
 
 clare-moody:
   id: clare-moody
+  links:
+    - notes: 'Twitter account'
+      url: https://twitter.com/ClareMMoody
+    - notes: Website
+      url: http://www.claremoody.org/
   name: 'Clare Moody'
 
 
 claude-moraes:
   id: claude-moraes
+  links:
+    - notes: Website
+      url: http://www.claudemoraes.com/
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Claude_Moraes
+    - notes: 'Twitter account'
+      url: https://twitter.com/ClaudeMoraesMEP
   name: 'Claude Moraes'
 
 
-daren-hughes:
-  id: daren-hughes
-  name: 'Daren Hughes'
+darren-hughes:
+  id: darren-hughes
+  links:
+    - notes: Website
+      url: http://www.darrenjlhughes.com/
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Darren_Hughes
+    - notes: 'Twitter account'
+      url: https://twitter.com/darrenjlhughes
+  name: 'Darren Hughes'
 
 
 david-martin:
@@ -260,22 +287,44 @@ derek-munn:
 
 
 derek-vaughan:
+  email: contact@derekvaughanmep.org.uk
   id: derek-vaughan
+  links:
+    - notes: Website
+      url: http://www.derekvaughanmep.org.uk/
+    - notes: 'Website article'
+      url: https://en.wikipedia.org/wiki/Derek_Vaughan
   name: 'Derek Vaughan'
 
 
 eleanor-tunnicliffe:
   id: eleanor-tunnicliffe
+  links:
+    - notes: 'Twitter account'
+      url: https://twitter.com/ejtunnicliffe
   name: 'Eleanor Tunnicliffe'
 
 
 emily-westley:
   id: emily-westley
+  links:
+    - notes: Website
+      url: http://www.emilywestley.eu/
+    - notes: 'Twitter account'
+      url: https://twitter.com/emilywestley
   name: 'Emily Westley'
 
 
 farah-nazeer:
+  gender: female
   id: farah-nazeer
+  links:
+    - notes: Website
+      url: http://farahnazeerlabour.com/
+    - notes: 'Twitter account'
+      url: https://twitter.com/FarahNazeer
+    - notes: 'Facebook page'
+      url: https://www.facebook.com/farah.nazeer.54
   name: 'Farah Nazeer'
 
 
@@ -457,9 +506,9 @@ naseem-ayub:
     - notes: 'Twitter account'
       url: https://twitter.com/VoteNaseem4MEP
   name: 'Naseem Ayub'
-  twitter_description: 'Labour MEP candidate for the Eastern Region, 
+  twitter_description: 'Labour MEP candidate for the Eastern Region,
 
-    Biscot Ward Councillor, 
+    Biscot Ward Councillor,
 
     Executive Member Luton Borough Council.'
 

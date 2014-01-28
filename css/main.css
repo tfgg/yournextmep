@@ -1,3 +1,7 @@
+body {
+  padding-top:1em;
+}
+
 div.getcode p {
   margin:1em;
   font-style:italic;
