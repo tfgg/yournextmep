@@ -415,26 +415,58 @@ eleanor-tunnicliffe:
 david-martin:
   id: david-martin
   name: David Martin
+  links:
+    - url: http://www.martinmep.com/
+      notes: Website
+    - url: https://twitter.com/davidmartinmep
+      notes: Twitter account
+    - url: https://en.wikipedia.org/wiki/David_Martin_(Scottish_politician)
+      notes: Wikipedia article
 
 catherine-stihler:
   id: catherine-stihler
   name: Catherine Stihler
+  links:
+    - url: http://www.cstihlermep.com/
+      notes: Website
+    - url: https://en.wikipedia.org/wiki/Catherine_Stihler
+      notes: Wikipedia article
 
 asim-khan:
   id: asim-khan
   name: Asim Khan
+  links:
+    - url: http://www.asimkhan.org/
+      notes: Website
+    - url: https://twitter.com/asim_rel
+      notes: Twitter account
+    - url: https://www.facebook.com/asim2208
+      notes: Facebook page
 
 derek-munn:
   id: derek-munn
   name: Derek Munn
+  links:
+    - url: https://twitter.com/Derek4Europe
+      notes: Twitter account
 
 katrina-murray:
   id: katrina-murray
   name: Katrina Murray
+  links:
+    - url: https://www.facebook.com/VoteKatrinaMurray
+      notes: Campaign Facebook page
+    - url:  https://twitter.com/katrinamurray71
+      notes: Twitter account
 
 kirsty-o-brien:
   id: kirsty-o-brien
   name: Kirsty O’Brien
+  links:
+    - url: https://twitter.com/Coisty_OB
+      notes: Twitter account
+    - url: https://www.facebook.com/Kirsty4Europe
+      note: Campaign Facebook page
 
 # Wales
 derek-vaughan:
