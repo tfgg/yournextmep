@@ -70,6 +70,14 @@ paul-bishop:
   id: paul-bishop
   name: Paul Bishop
   gender: male
+  description: "Paul has lived in Essex all his life, first in Colchester and now in Chelmsford.
+    He has been an active member of the Labour Party for over 30 years.
+    He has been a Borough, County and Parliamentary candidate.
+    Most recently he served for seven years as a member of Essex Police Authority where he chaired the
+    Complaints and Professional Standards panel. Paul has spent over twenty years working in the area
+    of regeneration and economic development, securing millions of pounds in funding from
+    Government and EU sources. He is a former Director of a national charity, a Government
+    Advisor on enterprise and an Economic Development Manager with a local authority. source: http://www.easthertslabour.org/"
 richard-howitt:
   gender: male
   id: richard-howitt
