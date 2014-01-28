@@ -1,0 +1,7 @@
+name: YourNextMEP
+markdown: redcarpet
+pygments: true
+
+relative_permalinks: false
+include: ['_regions']
+
