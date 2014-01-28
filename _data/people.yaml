@@ -64,27 +64,18 @@ sandy-martin:
   links:
     - url: "https://twitter.com/sandyofipswich"
       notes: Twitter account
-    - url: "http://sandymartin4europe.com/"
-      notes: Website
 bhavna-joshi:
   id: bhavna-joshi
   name: "Bhavna Joshi"
   links:
-    - url: "http://www.votejoshi4mep.co.uk/"
-      notes: Website
     - url: "https://twitter.com/BhavnaJoshi"
       notes: Twitter account
-    - url: "https://twitter.com/VoteJoshi"
-      notes: Campaign Twitter account
 paul-bishop:
   id: paul-bishop
   name: "Paul Bishop"
 naseem-ayub:
   id: naseem-ayub
   name: "Naseem Ayub"
-  links:
-    - url: "https://twitter.com/VoteNaseem4MEP"
-      notes: "Twitter account"
 chris-ostrowski:
   id: christ-ostrowski
   name: "Chris Ostrowski"

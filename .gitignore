@@ -1,1 +1,4 @@
 _site
+images
+scripts/local_settings.py
+*.pyc

@@ -8,12 +8,13 @@ layout: default
 </div>
 <div class='row'>
   <div class='row-md-8'>
+    {% assign pages=site.pages %}
     {% for party_pair in site.data.parties %}
       {% assign party=party_pair[1] %}
       <h3>{{ party.name }}</h3> 
 
       <ol>
-      {% for candidate in site.pages %}
+      {% for candidate in pages %}
         {% if candidate.layout == 'candidate' %}
           {% if candidate.region == page.region and candidate.party == party.id %}
             {% assign person=site.data.people[candidate.person] %}

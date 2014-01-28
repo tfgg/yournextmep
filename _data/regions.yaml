@@ -1,4 +1,7 @@
 east-midlands:
   id: east-midlands
   name: "East Midlands"
+eastern:
+  id: eastern
+  name: "Eastern"
 
