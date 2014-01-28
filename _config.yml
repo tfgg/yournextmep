@@ -3,5 +3,5 @@ markdown: redcarpet
 pygments: true
 
 relative_permalinks: false
-include: ['_regions']
+include: ['_regions', '_candidates']
 

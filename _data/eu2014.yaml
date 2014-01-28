@@ -1,5 +1,6 @@
 parties:
   - name: Labour
+    slug: labour
     candidates:
       east_midlands:
         - name: Glenis Willmott
@@ -7,4 +8,11 @@ parties:
         - name: Linda Woodings
         - name: Khalid Hadadi
         - name: Nicki Brooks
-
+      eastern:
+        - name: Richard Howitt
+        - name: Alex Mayer
+        - name: Sandy Martin
+        - name: Bhavna Joshi
+        - name: Paul Bishop
+        - name: Naseem Ayub
+        - name: Chris Ostrowski

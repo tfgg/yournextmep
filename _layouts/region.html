@@ -4,10 +4,26 @@ layout: default
 <div class='row'>
   <div class='row-md-12'>
     <h2>{{ page.title }}</h2>
+  </div>
+</div>
+<div class='row'>
+  <div class='row-md-8'>
+    {% for party in site.data.eu2014.parties %}
+      <h3>{{ party.name }}</h3> 
 
-    <div class="region">
-      {{ content }}
-    </div>
+      <ol>
+      {% for candidate in site.pages %}
+        {% if candidate.layout == 'candidate' %}
+          {% if candidate.region == page.region and candidate.party == party.slug %}
+            <li><a href='{{ candidate.url }}'>{{ candidate.name }}</a></li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      </ol>
+    {% endfor %}
+  </div>
+  <div class='row-md-4'>
+    {{ content }}
   </div>
 </div>
 

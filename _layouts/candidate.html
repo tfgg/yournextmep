@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class='row'>
+  <div class='row-md-12'>
+    <h2>{{ page.name }} ({{ site.data.parties[page.party].name}})</h2>
+    <p>{{ page.name }} is running in <a href='{{ site.data.regions[page.region].url }}'>{{ site.data.regions[page.region].name }}</a></p>
+  </div>
+</div>
+<div class='row'>
+  <div class='row-md-8'>
+
+  </div>
+  <div class='row-md-4'>
+    {{ content }}
+  </div>
+</div>
+
