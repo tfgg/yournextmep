@@ -35,3 +35,24 @@ div.col-md-12 p.quote {
   width:75%;
 }
 
+/* Region page */
+ol.candidates {
+  padding:0;
+  margin:0;
+}
+
+ol.candidates li {
+  display:block;
+  float:left;
+  width:100px;
+  height:150px;
+  padding:10px;
+  text-align:center;
+}
+
+ol.candidates > li > img.profile-image {
+  width:auto;
+  height:75px;
+  max-width:80px;
+}
+

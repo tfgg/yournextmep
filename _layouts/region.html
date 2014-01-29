@@ -1,13 +1,21 @@
 ---
 layout: default
 ---
+{% assign region=site.data.regions[page.region] %}
 <div class='row'>
   <div class='col-md-12'>
     <h2>{{ page.title }}</h2>
   </div>
 </div>
 <div class='row'>
-  <div class='col-md-8'>
+  <div class='col-md-12'>
+    <p class='quote'>
+      {{ region.wikipedia_biography }}
+    </p>
+  </div>
+</div>
+<div class='row'>
+  <div class='col-md-12'>
     {% assign pages=site.pages %}
     {% for party_pair in site.data.parties %}
       {% assign party = party_pair[1] %}
@@ -18,19 +26,28 @@ layout: default
       {% assign people = site.data[people_party] %}
 
       {% if candidates %}
+      <div class='row'>
+        <div class='col-md-12'>
         <h3>{{ party.name }}</h3> 
 
-        <ol>
+        <ol class='candidates'>
         {% for candidate in candidates %}
           {% assign person=people[candidate.id] %}
-          <li><a href='/candidates/eu2014/{{ party.id }}/{{ person.id}}/'>{{ person.name }}</a></li>
+          <li>
+            <a href='/candidates/eu2014/{{ party.id }}/{{ person.id}}/' alt='{{ person.name }}'>
+            {% if person.image %}
+            <img src='{{ person.image }}' class='profile-image'/>
+            {% else %}
+            <img src='/images/unknown_man.jpg' class='profile-image'/>
+            {% endif %}</a><br/>
+            <a href='/candidates/eu2014/{{ party.id }}/{{ person.id}}/'>{{ forloop.index }}. {{ person.name }}</a>
+          </li>
         {% endfor %}
         </ol>
+        </div>
+      </div>
       {% endif %}
     {% endfor %}
-  </div>
-  <div class='col-md-4'>
-    {{ content }}
   </div>
 </div>
 
