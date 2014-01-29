@@ -1,5 +1,6 @@
 ---
 layout: candidate
+permalink: candidates/eu2014/snp/alyn-smith/
 categories: candidate snp
 election: eu2014
 list-rank: 1

@@ -1,5 +1,6 @@
 ---
 layout: candidate
+permalink: candidates/eu2014/ukip/jonathan-bullock/
 categories: candidate ukip
 election: eu2014
 list-rank: 2

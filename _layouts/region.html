@@ -22,9 +22,8 @@ layout: default
 
         <ol>
         {% for candidate in candidates %}
-          {{ candidate }}
           {% assign person=people[candidate.id] %}
-          <li><a href='{{ candidate.url }}'>{{ person.name }}</a></li>
+          <li><a href='/candidates/eu2014/{{ party.id }}/{{ person.id}}/'>{{ person.name }}</a></li>
         {% endfor %}
         </ol>
       {% endif %}

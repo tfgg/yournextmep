@@ -1,5 +1,6 @@
 ---
 layout: candidate
+permalink: candidates/eu2014/green-ni/ross-brown/
 categories: candidate green-ni
 election: eu2014
 list-rank: 0

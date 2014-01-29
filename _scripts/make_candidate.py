@@ -1,8 +1,6 @@
 import sys
 import yaml
 
-
-
 party = sys.argv[2]
 region = sys.argv[2]
 person_id = sys.argv[3]

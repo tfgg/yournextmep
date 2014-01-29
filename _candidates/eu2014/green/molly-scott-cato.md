@@ -1,5 +1,6 @@
 ---
 layout: candidate
+permalink: candidates/eu2014/green/molly-scott-cato/
 categories: candidate green
 election: eu2014
 list-rank: 0
