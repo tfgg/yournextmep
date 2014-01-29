@@ -70,9 +70,9 @@ green-ni:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Green_Party_of_Northern_Ireland
 
-lib-dem:
+libdem:
   classification: Party
-  id: lib-dem
+  id: libdem
   name: Liberal Democrats
   founding_date: 1988-3-3
   links:
