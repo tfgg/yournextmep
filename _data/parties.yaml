@@ -33,6 +33,23 @@ green:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
 
+green-scotland:
+  classification: Party
+  id: green-scotland
+  name: Scottish Green Party
+  founding_date: 1990-1-1
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Scottish_Green_Party
+      
+green-ni:
+  classification: Party
+  id: green-ni
+  name: Green Party of Northern Ireland
+  founding_date: 1983-1-1
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Green_Party_of_Northern_Ireland
 
 lib-dem:
   classification: Party
