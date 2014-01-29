@@ -9,6 +9,14 @@ conservative:
   other_names:
     - name: 'Conservative and Unionist Party'
 
+engdem:
+  classification: Party
+  founding_date: 2002-1-1
+  id: engdem
+  name: English Democrats
+  links:
+    - note: 'Wikipedia article'
+      url: "https://en.wikipedia.org/wiki/English_Democrats_Party"
 
 labour:
   classification: Party
