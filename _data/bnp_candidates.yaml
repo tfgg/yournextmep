@@ -1,0 +1,32 @@
+west-midlands:
+  - name: Michael Coleman
+  - name: Jennifer Matthys
+  - name: Kenneth Griffiths
+  - name: Simon Patten
+  - name: David Bradnock
+  - name: Mark Badrick
+  - name: Phil Kimberley
+  
+east-midlands:
+  - name: Cathy Duffy
+  - name: Robert West
+  - name: Bob Brindley
+  - name: Steve Brammer
+  
+eastern:
+  - name: Richard Perry
+  
+north-east:
+  - name: Lady Dorothy Brooks
+  - name: Peter Foreman
+  - name: Martin Vaughan
+  
+north-west:
+  - name: Nick Griffin
+    wikipedia: https://en.wikipedia.org/wiki/Nick_Griffin
+    
+yorkshire-and-the-humber:
+  - name: Marlene Guest
+  - name: Adam Walker
+  - name: Danny Cooke
+  - name: Gordon Johnson
