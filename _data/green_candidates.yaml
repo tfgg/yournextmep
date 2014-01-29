@@ -19,4 +19,59 @@ eastern:
   - name: Jill Mills
   - name: Ash Haynes
   - name: Marc Scheimann
-  - name: Robert LindsayFiona Radic
+  - name: Robert Lindsay
+  - name: Fiona Radic
+  
+london:
+  - name: Jean Lambert
+    wikipedia: https://en.wikipedia.org/wiki/Jean_Lambert
+  - name: Caroline Allen
+  - name: Haroon Saad
+  - name: Shahrar Ali
+  - name: Danny Bates
+  - name: Tracey Hague
+  - name: Violeta Vajda
+  - name: Amelia Womack
+  
+
+north-east:
+  - name: Shirley Ford
+  - name: Alison Whalley
+  - name: Caroline Robinson
+  
+north-west:
+  - name: Peter Cranie
+  - name: Gina Dowding
+  - name: Laura Bannister
+  - name: Jill Perry
+  - name: John Knight
+  - name: Ulrike Zeshan
+  - name: Lewis Coyne
+  - name: Jake Welsh
+
+south-west:
+  - name: Molly Scott Cato
+    wikipedia: https://en.wikipedia.org/wiki/Molly_Scott_Cato
+  - name: Emily McIvor
+  - name: Ricky Knight
+  - name: Audaye Elesedy
+  - name: Henry Gent
+  - name: Judy Maciejowska
+  
+wales:
+  - name: Pippa Bartolotti
+    wikipedia: https://en.wikipedia.org/wiki/Pippa_Bartolotti
+  - name: John Matthews
+  - name: Roz Cutler
+  - name: Chris Were
+  
+west-midlands:
+  - name: Will Duckworth
+    wikipedia: https://en.wikipedia.org/wiki/Will_Duckworth
+  - name: Aldo Mussi
+  - name: Vicky Duckworth
+  - name: Saffi Price
+  - name: Tom Harris
+  - name: Duncan Kerr
+  - name: Karl Macnaughton
+  
