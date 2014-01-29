@@ -9,25 +9,58 @@ conservative:
   other_names:
     - name: 'Conservative and Unionist Party'
 
-liberty:
+
+dup:
   classification: Party
-  name: Liberty GB
-  other_names:
-    - name: "Liberty Great Britain"
-  founding_date: 2013-3-5
-  id: liberty
+  founding_date: 1971-9-30
+  id: dup
   links:
     - note: 'Wikipedia article'
-      url: https://en.wikipedia.org/wiki/Liberty_GB
+      url: https://en.wikipedia.org/wiki/Democratic_Unionist_Party
+  name: 'Democratic Unionist Party'
+
 
 engdem:
   classification: Party
   founding_date: 2002-1-1
   id: engdem
-  name: English Democrats
   links:
     - note: 'Wikipedia article'
-      url: "https://en.wikipedia.org/wiki/English_Democrats_Party"
+      url: https://en.wikipedia.org/wiki/English_Democrats_Party
+  name: 'English Democrats'
+
+
+green:
+  classification: Party
+  founding_date: 1990-1-1
+  id: green
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+  name: Green
+  other_names:
+    - name: 'Green Party of England and Wales'
+
+
+green-ni:
+  classification: Party
+  founding_date: 1983-1-1
+  id: green-ni
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Green_Party_of_Northern_Ireland
+  name: 'Green Party of Northern Ireland'
+
+
+green-scotland:
+  classification: Party
+  founding_date: 1990-1-1
+  id: green-scotland
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Scottish_Green_Party
+  name: 'Scottish Green Party'
+
 
 labour:
   classification: Party
@@ -41,107 +74,83 @@ labour:
     - name: 'Labour Party'
 
 
-green:
-  classification: Party
-  id: green
-  name: Green
-  founding_date: 1990-1-1
-  other_names:
-    - name: 'Green Party of England and Wales'
-  links:
-    - note: 'Wikipedia article'
-      url: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
-
-green-scotland:
-  classification: Party
-  id: green-scotland
-  name: Scottish Green Party
-  founding_date: 1990-1-1
-  links:
-    - note: 'Wikipedia article'
-      url: https://en.wikipedia.org/wiki/Scottish_Green_Party
-      
-green-ni:
-  classification: Party
-  id: green-ni
-  name: Green Party of Northern Ireland
-  founding_date: 1983-1-1
-  links:
-    - note: 'Wikipedia article'
-      url: https://en.wikipedia.org/wiki/Green_Party_of_Northern_Ireland
-
 libdem:
   classification: Party
-  id: libdem
-  name: Liberal Democrats
   founding_date: 1988-3-3
+  id: libdem
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Liberal_Democrats_(UK)
+  name: 'Liberal Democrats'
+
+
+liberty:
+  classification: Party
+  founding_date: 2013-3-5
+  id: liberty
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Liberty_GB
+  name: 'Liberty GB'
+  other_names:
+    - name: 'Liberty Great Britain'
 
 
 plaid-cymru:
   classification: Party
-  id: plaid-cymru
-  name: Plaid Cymru
   founding_date: 1925-8-5
+  id: plaid-cymru
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Plaid_Cymru
+  name: 'Plaid Cymru'
 
 
-ukip:
+sdlp:
   classification: Party
-  id: ukip
-  name: UKIP
-  other_names:
-    - name: 'UK Independence Party'
-  founding_date: 1993-9-3
+  id: sdlp
   links:
     - note: 'Wikipedia article'
-      url: https://en.wikipedia.org/wiki/UK_Independence_Party
-      
-wdar:
-  classification: Party
-  id: wdar
-  name: We Demand a Referendum
-  founding_date: 2012-1-1
-  links:
-    - note: 'Wikipedia article'
-      url: https://en.wikipedia.org/wiki/We_Demand_a_Referendum
+      url: https://en.wikipedia.org/wiki/Social_Democratic_and_Labour_Party
+  name: 'Social Democratic and Labour Party'
+
 
 sinn-fein:
   classification: Party
   id: sinn-fein
-  name: Sinn Féin
   links:
-    - note: "Wikipedia article"
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
-      
-sdlp:
-  classification: Party
-  id: sdlp
-  name: Social Democratic and Labour Party
-  links:
-    - note: "Wikipedia article"
-      url: https://en.wikipedia.org/wiki/Social_Democratic_and_Labour_Party
-      
+  name: 'Sinn Féin'
 
-dup:
+
+ukip:
   classification: Party
-  id: dup
-  name: Democratic Unionist Party
-  founding_date: 1971-9-30
+  founding_date: 1993-9-3
+  id: ukip
   links:
-    - note: "Wikipedia article"
-      url: https://en.wikipedia.org/wiki/Democratic_Unionist_Party
-    
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/UK_Independence_Party
+  name: UKIP
+  other_names:
+    - name: 'UK Independence Party'
+
+
 uup:
   classification: Party
-  id: uup
-  name: Ulster Unionist Party
   founding_date: 1905-1-1
+  id: uup
   links:
-    - note: "Wikipedia article"
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Ulster_Unionist_Party
+  name: 'Ulster Unionist Party'
 
+
+wdar:
+  classification: Party
+  founding_date: 2012-1-1
+  id: wdar
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/We_Demand_a_Referendum
+  name: 'We Demand a Referendum'
