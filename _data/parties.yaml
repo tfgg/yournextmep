@@ -3,7 +3,7 @@ conservative:
   founding_date: 1834-1-1
   id: conservative
   links:
-    - note: 'Wikipedia page'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Conservative_Party_(UK)
   name: Conservatives
   other_names:
@@ -15,7 +15,7 @@ labour:
   founding_date: 1900-1-1
   id: labour
   links:
-    - note: 'Wikipedia page'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Labour_Party_(UK)
   name: Labour
   other_names:
