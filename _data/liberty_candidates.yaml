@@ -1,4 +1,7 @@
 south_east:
-  - name: Paul Weston
-  - name: Enza Ferreri
-  - name: Jack Buckby
+  - id: paul-weston
+    name: 'Paul Weston'
+  - id: enza-ferreri
+    name: 'Enza Ferreri'
+  - id: jack-buckby
+    name: 'Jack Buckby'

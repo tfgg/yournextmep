@@ -1,3 +1,4 @@
 northern-ireland:
-  - name: Jim Nicholson
+  - id: jim-nicholson
+    name: 'Jim Nicholson'
     wikipedia: https://en.wikipedia.org/wiki/Jim_Nicholson_(UK_politician)

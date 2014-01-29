@@ -1,4 +1,4 @@
 northern-ireland:
-  - name: Martina Anderson
+  - id: martina-anderson
+    name: 'Martina Anderson'
     wikipedia: https://en.wikipedia.org/wiki/Martina_Anderson
-  

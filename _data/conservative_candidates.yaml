@@ -1,114 +1,195 @@
-wales:
-  - name: Kay Swinburne
-    wikipedia: https://en.wikipedia.org/wiki/Kay_Swinburne
-  - name: Aled Davies
-  - name: Dan Boucher
-  - name: Richard Hopkin
-
 east-midlands:
-  - name: Emma McClarkin
+  - id: emma-mcclarkin
+    name: 'Emma McClarkin'
     wikipedia: https://en.wikipedia.org/wiki/Emma_McClarkin
-  - name: Andrew Lewer
-  - name: Rupert Matthews
-  - name: Stephen Castens
-  - name: Brendan Clarke-Smith
+  - id: andrew-lewer
+    name: 'Andrew Lewer'
+  - id: rupert-matthews
+    name: 'Rupert Matthews'
+  - id: stephen-castens
+    name: 'Stephen Castens'
+  - id: brendan-clarke-smith
+    name: 'Brendan Clarke-Smith'
+
 
 eastern:
-  - name: Vicky Ford
+  - id: vicky-ford
+    name: 'Vicky Ford'
     wikipedia: https://en.wikipedia.org/wiki/Vicky_Ford
-  - name: Geoffrey van Orden
+  - id: geoffrey-van-orden
+    name: 'Geoffrey van Orden'
     wikipedia: https://en.wikipedia.org/wiki/Geoffrey_van_Orden
-  - name: David Campbell Bannerman
+  - id: david-campbell-bannerman
+    name: 'David Campbell Bannerman'
     wikipedia: https://en.wikipedia.org/wiki/David_Campbell_Bannerman
-  - name: John Flack
-  - name: Tom Hunt
-  - name: Margaret Simons
-  - name: Jonathan Collett
+  - id: john-flack
+    name: 'John Flack'
+  - id: tom-hunt
+    name: 'Tom Hunt'
+  - id: margaret-simons
+    name: 'Margaret Simons'
+  - id: jonathan-collett
+    name: 'Jonathan Collett'
+
 
 london:
-  - name: Syed Kamall
+  - id: syed-kamall
+    name: 'Syed Kamall'
     wikipedia: https://en.wikipedia.org/wiki/Syed_Kamall
-  - name: Charles Tannock
+  - id: charles-tannock
+    name: 'Charles Tannock'
     wikipedia: https://en.wikipedia.org/wiki/Charles_Tannock
-  - name: Marina Yannakoudakis
+  - id: marina-yannakoudakis
+    name: 'Marina Yannakoudakis'
     wikipedia: https://en.wikipedia.org/wiki/Marina_Yannakoudakis
-  - name: Caroline Attfield
-  - name: Lynne Hack
-  - name: Sheila Lawlor
-  - name: Glyn Chambers
-  - name: Annesley Abercorn
+  - id: caroline-attfield
+    name: 'Caroline Attfield'
+  - id: lynne-hack
+    name: 'Lynne Hack'
+  - id: sheila-lawlor
+    name: 'Sheila Lawlor'
+  - id: glyn-chambers
+    name: 'Glyn Chambers'
+  - id: annesley-abercorn
+    name: 'Annesley Abercorn'
+
 
 north-east:
-  - name: Martin Callanan
+  - id: martin-callanan
+    name: 'Martin Callanan'
     wikipedia: https://en.wikipedia.org/wiki/Martin_Callanan
-  - name: Ben Houchen
-  - name: Andrew Lee
+  - id: ben-houchen
+    name: 'Ben Houchen'
+  - id: andrew-lee
+    name: 'Andrew Lee'
 
-northern-ireland:
-  - name: Mark Brotherston
 
 north-west:
-  - name: Jacqueline Foster
+  - id: jacqueline-foster
+    name: 'Jacqueline Foster'
     wikipedia: https://en.wikipedia.org/wiki/Jacqueline_Foster
-  - name: Sajjad Karim
+  - id: sajjad-karim
+    name: 'Sajjad Karim'
     wikipedia: https://en.wikipedia.org/wiki/Sajjad_Karim
-  - name: Kevin Beaty
-  - name: Deborah Dunleavy
-  - name: Joe Barker
-  - name: Daniel Hamilton
-  - name: Chris Whiteside
-  - name: James Walsh
+  - id: kevin-beaty
+    name: 'Kevin Beaty'
+  - id: deborah-dunleavy
+    name: 'Deborah Dunleavy'
+  - id: joe-barker
+    name: 'Joe Barker'
+  - id: daniel-hamilton
+    name: 'Daniel Hamilton'
+  - id: chris-whiteside
+    name: 'Chris Whiteside'
+  - id: james-walsh
+    name: 'James Walsh'
+
+
+northern-ireland:
+  - id: mark-brotherston
+    name: 'Mark Brotherston'
+
 
 scotland:
-  - name: Ian Duncan
-  - name: Belinda Don
-  - name: Nosheena Mobarik
-  - name: Jamie Gardiner
-  - name: Iain McGill
-  - name: Stuart Mcintyre
+  - id: ian-duncan
+    name: 'Ian Duncan'
+  - id: belinda-don
+    name: 'Belinda Don'
+  - id: nosheena-mobarik
+    name: 'Nosheena Mobarik'
+  - id: jamie-gardiner
+    name: 'Jamie Gardiner'
+  - id: iain-mcgill
+    name: 'Iain McGill'
+  - id: stuart-mcintyre
+    name: 'Stuart Mcintyre'
+
 
 south-east:
-  - name: Daniel Hannan
+  - id: daniel-hannan
+    name: 'Daniel Hannan'
     wikipedia: https://en.wikipedia.org/wiki/Daniel_Hannan
-  - name: Nirj Deva
+  - id: nirj-deva
+    name: 'Nirj Deva'
     wikipedia: https://en.wikipedia.org/wiki/Nirj_Deva
-  - name: Richard Ashworth
+  - id: richard-ashworth
+    name: 'Richard Ashworth'
     wikipedia: https://en.wikipedia.org/wiki/Richard_Ashworth
-  - name: Marta Andreasen
+  - id: marta-andreasen
+    name: 'Marta Andreasen'
     wikipedia: https://en.wikipedia.org/wiki/Marta_Andreasen
-  - name: Richard Robinson
-  - name: Graham Knight
-  - name: Julie Marson
-  - name: George Jeffrey
-  - name: Rory Love
-  - name: Adrian Pepper
+  - id: richard-robinson
+    name: 'Richard Robinson'
+  - id: graham-knight
+    name: 'Graham Knight'
+  - id: julie-marson
+    name: 'Julie Marson'
+  - id: george-jeffrey
+    name: 'George Jeffrey'
+  - id: rory-love
+    name: 'Rory Love'
+  - id: adrian-pepper
+    name: 'Adrian Pepper'
+
 
 south-west:
-  - name: Ashley Fox
+  - id: ashley-fox
+    name: 'Ashley Fox'
     wikipedia: https://en.wikipedia.org/wiki/Ashley_Fox
-  - name: Julie Girling
+  - id: julie-girling
+    name: 'Julie Girling'
     wikipedia: https://en.wikipedia.org/wiki/Julie_Girling
-  - name: James Cracknell
+  - id: james-cracknell
+    name: 'James Cracknell'
     wikipedia: https://en.wikipedia.org/wiki/James_Cracknell
-  - name: Georgina Butler
-  - name: Sophie Swire
-  - name: Melisa Maynard
+  - id: georgina-butler
+    name: 'Georgina Butler'
+  - id: sophie-swire
+    name: 'Sophie Swire'
+  - id: melisa-maynard
+    name: 'Melisa Maynard'
+
+
+wales:
+  - id: kay-swinburne
+    name: 'Kay Swinburne'
+    wikipedia: https://en.wikipedia.org/wiki/Kay_Swinburne
+  - id: aled-davies
+    name: 'Aled Davies'
+  - id: dan-boucher
+    name: 'Dan Boucher'
+  - id: richard-hopkin
+    name: 'Richard Hopkin'
+
 
 west-midlands:
-  - name: Philip Bradbourn
+  - id: philip-bradbourn
+    name: 'Philip Bradbourn'
     wikipedia: https://en.wikipedia.org/wiki/Philip_Bradbourn
-  - name: Anthea McIntyre
+  - id: anthea-mcintyre
+    name: 'Anthea McIntyre'
     wikipedia: https://en.wikipedia.org/wiki/Anthea_McIntyre
-  - name: Daniel Dalton
-  - name: Michael Burnett
-  - name: Sibby Buckle
-  - name: David Price
-  - name: Dan Sames
+  - id: daniel-dalton
+    name: 'Daniel Dalton'
+  - id: michael-burnett
+    name: 'Michael Burnett'
+  - id: sibby-buckle
+    name: 'Sibby Buckle'
+  - id: david-price
+    name: 'David Price'
+  - id: dan-sames
+    name: 'Dan Sames'
+
 
 yorkshire-and-the-humber:
-  - name: Timothy Kirkhope
+  - id: timothy-kirkhope
+    name: 'Timothy Kirkhope'
     wikipedia: https://en.wikipedia.org/wiki/Timothy_Kirkhope
-  - name: Alex Story
-  - name: John Procter
-  - name: Carolyn Abbott
-  - name: Michael Naughton
+  - id: alex-story
+    name: 'Alex Story'
+  - id: john-procter
+    name: 'John Procter'
+  - id: carolyn-abbott
+    name: 'Carolyn Abbott'
+  - id: michael-naughton
+    name: 'Michael Naughton'

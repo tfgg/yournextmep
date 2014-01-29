@@ -1,3 +1,4 @@
 north-west:
-  - name: Rev. George Hargreaves
+  - id: rev-george-hargreaves
+    name: 'Rev. George Hargreaves'
     wikipedia: https://en.wikipedia.org/wiki/George_Hargreaves_(politician)

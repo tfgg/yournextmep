@@ -1,8 +1,14 @@
 scotland:
-   - name: Maggie Chapman
-     wikipedia: https://en.wikipedia.org/wiki/Maggie_Chapman
-   - name: Chas Booth
-   - name: Alis Ballance
-   - name: Alastair Whitelaw
-   - name: Grace Murray
-   - name: Steen Parish
+  - id: maggie-chapman
+    name: 'Maggie Chapman'
+    wikipedia: https://en.wikipedia.org/wiki/Maggie_Chapman
+  - id: chas-booth
+    name: 'Chas Booth'
+  - id: alis-ballance
+    name: 'Alis Ballance'
+  - id: alastair-whitelaw
+    name: 'Alastair Whitelaw'
+  - id: grace-murray
+    name: 'Grace Murray'
+  - id: steen-parish
+    name: 'Steen Parish'

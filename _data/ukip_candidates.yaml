@@ -1,105 +1,190 @@
-west-midlands:
-  - name: Jill Seymour
-  - name: James Carver
-  - name: Bill Etheridge
-  - name: Phil Henrick
-  - name: Michael Wrench
-  - name: Michael Green
-  - name: Lyndon Jones
-
 east-midlands:
-  - name: Roger Helmer
+  - id: roger-helmer
+    name: 'Roger Helmer'
     wikipedia: https://en.wikipedia.org/wiki/Roger_Helmer
-  - name: Margot Parker
-  - name: Jonathan Bullock
-  - name: Nigel Wickens
-  - name: Barry Mahoney
+  - id: margot-parker
+    name: 'Margot Parker'
+  - id: jonathan-bullock
+    name: 'Jonathan Bullock'
+  - id: nigel-wickens
+    name: 'Nigel Wickens'
+  - id: barry-mahoney
+    name: 'Barry Mahoney'
+
 
 eastern:
-  - name: Patrick O'Flynn
-  - name: Stuart Agnew
+  - id: patrick-oflynn
+    name: 'Patrick O''Flynn'
+  - id: stuart-agnew
+    name: 'Stuart Agnew'
     wikipedia: https://en.wikipedia.org/wiki/Stuart_Agnew
-  - name: Tim Aker
-  - name: Michael Heaver
-  - name: Andrew Smith
-  - name: Mick McGough
-  - name: Andy Monk
+  - id: tim-aker
+    name: 'Tim Aker'
+  - id: michael-heaver
+    name: 'Michael Heaver'
+  - id: andrew-smith
+    name: 'Andrew Smith'
+  - id: mick-mcgough
+    name: 'Mick McGough'
+  - id: andy-monk
+    name: 'Andy Monk'
+
 
 london:
-  - name: Gerard Batten
+  - id: gerard-batten
+    name: 'Gerard Batten'
     wikipedia: https://en.wikipedia.org/wiki/Gerard_Batten
-  - name: Paul Oakley
-  - name: Elizabeth Jones
-  - name: Lawrence Webb
-  - name: Alastair McFarlane
-  - name: Andrew McNeilis
-  - name: Anthony Brown
-  - name: Peter Whittle
+  - id: paul-oakley
+    name: 'Paul Oakley'
+  - id: elizabeth-jones
+    name: 'Elizabeth Jones'
+  - id: lawrence-webb
+    name: 'Lawrence Webb'
+  - id: alastair-mcfarlane
+    name: 'Alastair McFarlane'
+  - id: andrew-mcneilis
+    name: 'Andrew McNeilis'
+  - id: anthony-brown
+    name: 'Anthony Brown'
+  - id: peter-whittle
+    name: 'Peter Whittle'
+
 
 north-east:
-  - name: Jonathan Arnott
+  - id: jonathan-arnott
+    name: 'Jonathan Arnott'
     wikipedia: https://en.wikipedia.org/wiki/Jonathan_Arnott
-  - name: Richard Elvin
-  - name: John Tennant
+  - id: richard-elvin
+    name: 'Richard Elvin'
+  - id: john-tennant
+    name: 'John Tennant'
 
-northern ireland:
-  - name: Henry Reilly
 
 north-west:
-  - name: Paul Nuttall
+  - id: paul-nuttall
+    name: 'Paul Nuttall'
     wikipedia: https://en.wikipedia.org/wiki/Paul_Nuttall
-  - name: Louise Bours
-  - name: Steven Woolfe
-  - name: Shneur Odze
-  - name: Michael McManus
-  - name: Lee Slaughter
-  - name: Simon Noble
-  - name: Peter Harper
+  - id: louise-bours
+    name: 'Louise Bours'
+  - id: steven-woolfe
+    name: 'Steven Woolfe'
+  - id: shneur-odze
+    name: 'Shneur Odze'
+  - id: michael-mcmanus
+    name: 'Michael McManus'
+  - id: lee-slaughter
+    name: 'Lee Slaughter'
+  - id: simon-noble
+    name: 'Simon Noble'
+  - id: peter-harper
+    name: 'Peter Harper'
+
+
+'northern ireland':
+  - id: henry-reilly
+    name: 'Henry Reilly'
+
 
 scotland:
-  - name: David Coburn
-  - name: Mike Scott-Hayward
-  - name: Christopher Monckton
+  - id: david-coburn
+    name: 'David Coburn'
+  - id: mike-scott-hayward
+    name: 'Mike Scott-Hayward'
+  - id: christopher-monckton
+    name: 'Christopher Monckton'
     wikipedia: https://en.wikipedia.org/wiki/Christopher_Monckton,_3rd_Viscount_Monckton_of_Brenchley
-  - name: Otto Inglis
-  - name: Paul Henke
-  - name: Malcolm Macaskill
-  - name: Ross Durance
-  - name: Steven McKeane
-  - name: Kevin Newton
+  - id: otto-inglis
+    name: 'Otto Inglis'
+  - id: paul-henke
+    name: 'Paul Henke'
+  - id: malcolm-macaskill
+    name: 'Malcolm Macaskill'
+  - id: ross-durance
+    name: 'Ross Durance'
+  - id: steven-mckeane
+    name: 'Steven McKeane'
+  - id: kevin-newton
+    name: 'Kevin Newton'
+
 
 south-east:
-  - name: Nigel Farage
+  - id: nigel-farage
+    name: 'Nigel Farage'
     wikipedia: https://en.wikipedia.org/wiki/Nigel_Farage
-  - name: Janice Atkinson
-  - name: Diane James
-  - name: Ray Finch
-  - name: Donna Edmunds
-  - name: Patricia Culligan
-  - name: Nigel Jones
-  - name: Alan Stevens
-  - name: Simon Strutt
-  - name: Barry Cooper
+  - id: janice-atkinson
+    name: 'Janice Atkinson'
+  - id: diane-james
+    name: 'Diane James'
+  - id: ray-finch
+    name: 'Ray Finch'
+  - id: donna-edmunds
+    name: 'Donna Edmunds'
+  - id: patricia-culligan
+    name: 'Patricia Culligan'
+  - id: nigel-jones
+    name: 'Nigel Jones'
+  - id: alan-stevens
+    name: 'Alan Stevens'
+  - id: simon-strutt
+    name: 'Simon Strutt'
+  - id: barry-cooper
+    name: 'Barry Cooper'
+
 
 south-west:
-  - name: William Dartmouth
+  - id: william-dartmouth
+    name: 'William Dartmouth'
     wikipedia: https://en.wikipedia.org/wiki/William_Legge,_10th_Earl_of_Dartmouth
-  - name: Julia Reid
-  - name: Gawain Towler
-  - name: Tony McIntyre
-  - name: Robert Smith
-  - name: Keith Crawford
+  - id: julia-reid
+    name: 'Julia Reid'
+  - id: gawain-towler
+    name: 'Gawain Towler'
+  - id: tony-mcintyre
+    name: 'Tony McIntyre'
+  - id: robert-smith
+    name: 'Robert Smith'
+  - id: keith-crawford
+    name: 'Keith Crawford'
+
 
 wales:
-  - name: Nathan Gill
-  - name: James Cole
-  - name: Caroline Jones
-  - name: David Rowlands
+  - id: nathan-gill
+    name: 'Nathan Gill'
+  - id: james-cole
+    name: 'James Cole'
+  - id: caroline-jones
+    name: 'Caroline Jones'
+  - id: david-rowlands
+    name: 'David Rowlands'
+
+
+west-midlands:
+  - id: jill-seymour
+    name: 'Jill Seymour'
+  - id: james-carver
+    name: 'James Carver'
+  - id: bill-etheridge
+    name: 'Bill Etheridge'
+  - id: phil-henrick
+    name: 'Phil Henrick'
+  - id: michael-wrench
+    name: 'Michael Wrench'
+  - id: michael-green
+    name: 'Michael Green'
+  - id: lyndon-jones
+    name: 'Lyndon Jones'
+
 
 yorkshire-and-the-humber:
-  - name: Jane Collins
-  - name: Amjad Bashir
-  - name: Mike Hooken
-  - name: Gary Shores
-  - name: Jason Smith
-  - name: Anne Murgatroy
+  - id: jane-collins
+    name: 'Jane Collins'
+  - id: amjad-bashir
+    name: 'Amjad Bashir'
+  - id: mike-hooken
+    name: 'Mike Hooken'
+  - id: gary-shores
+    name: 'Gary Shores'
+  - id: jason-smith
+    name: 'Jason Smith'
+  - id: anne-murgatroy
+    name: 'Anne Murgatroy'

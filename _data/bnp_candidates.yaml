@@ -1,32 +1,57 @@
-west-midlands:
-  - name: Michael Coleman
-  - name: Jennifer Matthys
-  - name: Kenneth Griffiths
-  - name: Simon Patten
-  - name: David Bradnock
-  - name: Mark Badrick
-  - name: Phil Kimberley
-  
 east-midlands:
-  - name: Cathy Duffy
-  - name: Robert West
-  - name: Bob Brindley
-  - name: Steve Brammer
-  
+  - id: cathy-duffy
+    name: 'Cathy Duffy'
+  - id: robert-west
+    name: 'Robert West'
+  - id: bob-brindley
+    name: 'Bob Brindley'
+  - id: steve-brammer
+    name: 'Steve Brammer'
+
+
 eastern:
-  - name: Richard Perry
-  
+  - id: richard-perry
+    name: 'Richard Perry'
+
+
 north-east:
-  - name: Lady Dorothy Brooks
-  - name: Peter Foreman
-  - name: Martin Vaughan
-  
+  - id: lady-dorothy-brooks
+    name: 'Lady Dorothy Brooks'
+  - id: peter-foreman
+    name: 'Peter Foreman'
+  - id: martin-vaughan
+    name: 'Martin Vaughan'
+
+
 north-west:
-  - name: Nick Griffin
+  - id: nick-griffin
+    name: 'Nick Griffin'
     wikipedia: https://en.wikipedia.org/wiki/Nick_Griffin
-    
+
+
+west-midlands:
+  - id: michael-coleman
+    name: 'Michael Coleman'
+  - id: jennifer-matthys
+    name: 'Jennifer Matthys'
+  - id: kenneth-griffiths
+    name: 'Kenneth Griffiths'
+  - id: simon-patten
+    name: 'Simon Patten'
+  - id: david-bradnock
+    name: 'David Bradnock'
+  - id: mark-badrick
+    name: 'Mark Badrick'
+  - id: phil-kimberley
+    name: 'Phil Kimberley'
+
+
 yorkshire-and-the-humber:
-  - name: Marlene Guest
-  - name: Adam Walker
-  - name: Danny Cooke
-  - name: Gordon Johnson
+  - id: marlene-guest
+    name: 'Marlene Guest'
+  - id: adam-walker
+    name: 'Adam Walker'
+  - id: danny-cooke
+    name: 'Danny Cooke'
+  - id: gordon-johnson
+    name: 'Gordon Johnson'

@@ -1,3 +1,4 @@
 northern-ireland:
-  - name: Diane Dodds
+  - id: diane-dodds
+    name: 'Diane Dodds'
     wikipedia: https://en.wikipedia.org/wiki/Diane_Dodds

@@ -1,77 +1,137 @@
-yorkshire-and-the-humber:
-  - name: Andrew Cooper
-  - name: Shan Oakes
-  - name: Dr Vicky Dunn
-  - name: Denise Craghill
-  - name: Martin Hemingway
-  - name: Kevin Warnes
-  
 east-midlands:
-  - name: Katharina Boettge
-  - name: Sue Mallender
-  - name: Peter Allen
-  - name: Richard Mallender
-  - name: Simon Hales
-  
+  - id: katharina-boettge
+    name: 'Katharina Boettge'
+  - id: sue-mallender
+    name: 'Sue Mallender'
+  - id: peter-allen
+    name: 'Peter Allen'
+  - id: richard-mallender
+    name: 'Richard Mallender'
+  - id: simon-hales
+    name: 'Simon Hales'
+
+
 eastern:
-  - name: Rupert Read
-  - name: Mark Ereira-Guyer
-  - name: Jill Mills
-  - name: Ash Haynes
-  - name: Marc Scheimann
-  - name: Robert Lindsay
-  - name: Fiona Radic
-  
+  - id: rupert-read
+    name: 'Rupert Read'
+  - id: mark-ereira-guyer
+    name: 'Mark Ereira-Guyer'
+  - id: jill-mills
+    name: 'Jill Mills'
+  - id: ash-haynes
+    name: 'Ash Haynes'
+  - id: marc-scheimann
+    name: 'Marc Scheimann'
+  - id: robert-lindsay
+    name: 'Robert Lindsay'
+  - id: fiona-radic
+    name: 'Fiona Radic'
+
+
 london:
-  - name: Jean Lambert
+  - id: jean-lambert
+    name: 'Jean Lambert'
     wikipedia: https://en.wikipedia.org/wiki/Jean_Lambert
-  - name: Caroline Allen
-  - name: Haroon Saad
-  - name: Shahrar Ali
-  - name: Danny Bates
-  - name: Tracey Hague
-  - name: Violeta Vajda
-  - name: Amelia Womack
-  
+  - id: caroline-allen
+    name: 'Caroline Allen'
+  - id: haroon-saad
+    name: 'Haroon Saad'
+  - id: shahrar-ali
+    name: 'Shahrar Ali'
+  - id: danny-bates
+    name: 'Danny Bates'
+  - id: tracey-hague
+    name: 'Tracey Hague'
+  - id: violeta-vajda
+    name: 'Violeta Vajda'
+  - id: amelia-womack
+    name: 'Amelia Womack'
+
 
 north-east:
-  - name: Shirley Ford
-  - name: Alison Whalley
-  - name: Caroline Robinson
-  
+  - id: shirley-ford
+    name: 'Shirley Ford'
+  - id: alison-whalley
+    name: 'Alison Whalley'
+  - id: caroline-robinson
+    name: 'Caroline Robinson'
+
+
 north-west:
-  - name: Peter Cranie
-  - name: Gina Dowding
-  - name: Laura Bannister
-  - name: Jill Perry
-  - name: John Knight
-  - name: Ulrike Zeshan
-  - name: Lewis Coyne
-  - name: Jake Welsh
+  - id: peter-cranie
+    name: 'Peter Cranie'
+  - id: gina-dowding
+    name: 'Gina Dowding'
+  - id: laura-bannister
+    name: 'Laura Bannister'
+  - id: jill-perry
+    name: 'Jill Perry'
+  - id: john-knight
+    name: 'John Knight'
+  - id: ulrike-zeshan
+    name: 'Ulrike Zeshan'
+  - id: lewis-coyne
+    name: 'Lewis Coyne'
+  - id: jake-welsh
+    name: 'Jake Welsh'
+
 
 south-west:
-  - name: Molly Scott Cato
+  - id: molly-scott-cato
+    name: 'Molly Scott Cato'
     wikipedia: https://en.wikipedia.org/wiki/Molly_Scott_Cato
-  - name: Emily McIvor
-  - name: Ricky Knight
-  - name: Audaye Elesedy
-  - name: Henry Gent
-  - name: Judy Maciejowska
-  
+  - id: emily-mcivor
+    name: 'Emily McIvor'
+  - id: ricky-knight
+    name: 'Ricky Knight'
+  - id: audaye-elesedy
+    name: 'Audaye Elesedy'
+  - id: henry-gent
+    name: 'Henry Gent'
+  - id: judy-maciejowska
+    name: 'Judy Maciejowska'
+
+
 wales:
-  - name: Pippa Bartolotti
+  - id: pippa-bartolotti
+    name: 'Pippa Bartolotti'
     wikipedia: https://en.wikipedia.org/wiki/Pippa_Bartolotti
-  - name: John Matthews
-  - name: Roz Cutler
-  - name: Chris Were
-  
+  - id: john-matthews
+    name: 'John Matthews'
+  - id: roz-cutler
+    name: 'Roz Cutler'
+  - id: chris-were
+    name: 'Chris Were'
+
+
 west-midlands:
-  - name: Will Duckworth
+  - id: will-duckworth
+    name: 'Will Duckworth'
     wikipedia: https://en.wikipedia.org/wiki/Will_Duckworth
-  - name: Aldo Mussi
-  - name: Vicky Duckworth
-  - name: Saffi Price
-  - name: Tom Harris
-  - name: Duncan Kerr
-  - name: Karl Macnaughton
-  
+  - id: aldo-mussi
+    name: 'Aldo Mussi'
+  - id: vicky-duckworth
+    name: 'Vicky Duckworth'
+  - id: saffi-price
+    name: 'Saffi Price'
+  - id: tom-harris
+    name: 'Tom Harris'
+  - id: duncan-kerr
+    name: 'Duncan Kerr'
+  - id: karl-macnaughton
+    name: 'Karl Macnaughton'
+
+
+yorkshire-and-the-humber:
+  - id: andrew-cooper
+    name: 'Andrew Cooper'
+  - id: shan-oakes
+    name: 'Shan Oakes'
+  - id: dr-vicky-dunn
+    name: 'Dr Vicky Dunn'
+  - id: denise-craghill
+    name: 'Denise Craghill'
+  - id: martin-hemingway
+    name: 'Martin Hemingway'
+  - id: kevin-warnes
+    name: 'Kevin Warnes'

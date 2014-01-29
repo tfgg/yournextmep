@@ -1,99 +1,175 @@
-yorkshire-and-the-humber:
-  - name: Edward McMillan-Scott
-    wikipedia: https://en.wikipedia.org/wiki/Edward_McMillan-Scott
-  - name: James Monaghan
-  - name: Joe Otten
-  - name: Chris Foote-Wood
-  - name: Jacqueline Bell
-
 east-midlands:
-  - name: Bill Newton Dunn
+  - id: bill-newton-dunn
+    name: 'Bill Newton Dunn'
     wikipedia: https://en.wikipedia.org/wiki/Bill_Newton_Dunn
-  - name: Issan Ghazni
-  - name: Phil Knowles
-  - name: George Smid
-  - name: Deborah Newton-Cook
+  - id: issan-ghazni
+    name: 'Issan Ghazni'
+  - id: phil-knowles
+    name: 'Phil Knowles'
+  - id: george-smid
+    name: 'George Smid'
+  - id: deborah-newton-cook
+    name: 'Deborah Newton-Cook'
 
-west-midlands:
-  - name: Phil Bennion
-    wikipedia: https://en.wikipedia.org/wiki/Phil_Bennion
-  - name: Jonathan Webber
-  - name: Christine Tinker
-  - name: Ayoub Khan
-  - name: Tim Bearder
-  - name: Joanna Corbin
-  - name: Neville Farmer
 
 eastern:
-  - name: Andrew Duff
+  - id: andrew-duff
+    name: 'Andrew Duff'
     wikipedia: https://en.wikipedia.org/wiki/Andrew_Duff
-  - name: Josephine Hayes
-  - name: Belinda Brooks-Gordon
-  - name: Stephen Robinson
-  - name: Michael Green
-  - name: Linda Jack
-  - name: Hugh Annand
+  - id: josephine-hayes
+    name: 'Josephine Hayes'
+  - id: belinda-brooks-gordon
+    name: 'Belinda Brooks-Gordon'
+  - id: stephen-robinson
+    name: 'Stephen Robinson'
+  - id: michael-green
+    name: 'Michael Green'
+  - id: linda-jack
+    name: 'Linda Jack'
+  - id: hugh-annand
+    name: 'Hugh Annand'
+
 
 london:
-  - name: Sarah Ludford
+  - id: sarah-ludford
+    name: 'Sarah Ludford'
     wikipedia: https://en.wikipedia.org/wiki/Sarah_Ludford
-  - name: Jonathan Fryer
+  - id: jonathan-fryer
+    name: 'Jonathan Fryer'
     wikipedia: https://en.wikipedia.org/wiki/Jonathan_Fryer
-  - name: Richard Davis
-  - name: Anuja Prashar
-  - name: Rosina Robson
-  - name: Turhan Ozen
-  - name: Simon James
-  - name: Matt McLaren
+  - id: richard-davis
+    name: 'Richard Davis'
+  - id: anuja-prashar
+    name: 'Anuja Prashar'
+  - id: rosina-robson
+    name: 'Rosina Robson'
+  - id: turhan-ozen
+    name: 'Turhan Ozen'
+  - id: simon-james
+    name: 'Simon James'
+  - id: matt-mclaren
+    name: 'Matt McLaren'
+
 
 north-east:
-  - name: Angelika Schneider
-  - name: Owen Temple
-  - name: Christian Vassie
+  - id: angelika-schneider
+    name: 'Angelika Schneider'
+  - id: owen-temple
+    name: 'Owen Temple'
+  - id: christian-vassie
+    name: 'Christian Vassie'
+
 
 north-west:
-  - name: Chris Davies
+  - id: chris-davies
+    name: 'Chris Davies'
     wikipedia: https://en.wikipedia.org/wiki/Chris_Davies
-  - name: Helen Foster-Grime
-  - name: Jo Crotty
-  - name: Qassim Afzal
-  - name: Jane Brophy
-  - name: Sue McGuire
-  - name: Gordon Lishman
-  - name: Neil Christian
+  - id: helen-foster-grime
+    name: 'Helen Foster-Grime'
+  - id: jo-crotty
+    name: 'Jo Crotty'
+  - id: qassim-afzal
+    name: 'Qassim Afzal'
+  - id: jane-brophy
+    name: 'Jane Brophy'
+  - id: sue-mcguire
+    name: 'Sue McGuire'
+  - id: gordon-lishman
+    name: 'Gordon Lishman'
+  - id: neil-christian
+    name: 'Neil Christian'
 
-south-east:
-  - name: Catherine Bearder
-    wikipedia: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
-  - name: Anthony Hook
-  - name: Dinti Batstone
-  - name: Giles Goodall
-  - name: Ian Bearder
-  - name: Allis Moss
-  - name: Steve Sollitt
-  - name: Bruce Tennent
-  - name: John Vincent
-  - name: Alan Bullion
-
-south-west:
-  - name: Graham Watson
-    wikipedia: https://en.wikipedia.org/wiki/Graham_Watson
-  - name: Kay Barnard
-  - name: Brian Matthew
-  - name: Andrew Wigley
-  - name: Jay Risbridger
 
 scotland:
-  - name: George Lyon
+  - id: george-lyon
+    name: 'George Lyon'
     wikipedia: https://en.wikipedia.org/wiki/George_Lyon_(Scottish_politician)
-  - name: Christine Jardine
-  - name: Lisa Strachan
-  - name: Richard Brodie
-  - name: Jade Holden
+  - id: christine-jardine
+    name: 'Christine Jardine'
+  - id: lisa-strachan
+    name: 'Lisa Strachan'
+  - id: richard-brodie
+    name: 'Richard Brodie'
+  - id: jade-holden
+    name: 'Jade Holden'
+
+
+south-east:
+  - id: catherine-bearder
+    name: 'Catherine Bearder'
+    wikipedia: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
+  - id: anthony-hook
+    name: 'Anthony Hook'
+  - id: dinti-batstone
+    name: 'Dinti Batstone'
+  - id: giles-goodall
+    name: 'Giles Goodall'
+  - id: ian-bearder
+    name: 'Ian Bearder'
+  - id: allis-moss
+    name: 'Allis Moss'
+  - id: steve-sollitt
+    name: 'Steve Sollitt'
+  - id: bruce-tennent
+    name: 'Bruce Tennent'
+  - id: john-vincent
+    name: 'John Vincent'
+  - id: alan-bullion
+    name: 'Alan Bullion'
+
+
+south-west:
+  - id: graham-watson
+    name: 'Graham Watson'
+    wikipedia: https://en.wikipedia.org/wiki/Graham_Watson
+  - id: kay-barnard
+    name: 'Kay Barnard'
+  - id: brian-matthew
+    name: 'Brian Matthew'
+  - id: andrew-wigley
+    name: 'Andrew Wigley'
+  - id: jay-risbridger
+    name: 'Jay Risbridger'
+
 
 wales:
-  - name: Alec Dauncey
-  - name: Rob Speht
-  - name: Anna White
-  - name: Bruce Roberts
-  
+  - id: alec-dauncey
+    name: 'Alec Dauncey'
+  - id: rob-speht
+    name: 'Rob Speht'
+  - id: anna-white
+    name: 'Anna White'
+  - id: bruce-roberts
+    name: 'Bruce Roberts'
+
+
+west-midlands:
+  - id: phil-bennion
+    name: 'Phil Bennion'
+    wikipedia: https://en.wikipedia.org/wiki/Phil_Bennion
+  - id: jonathan-webber
+    name: 'Jonathan Webber'
+  - id: christine-tinker
+    name: 'Christine Tinker'
+  - id: ayoub-khan
+    name: 'Ayoub Khan'
+  - id: tim-bearder
+    name: 'Tim Bearder'
+  - id: joanna-corbin
+    name: 'Joanna Corbin'
+  - id: neville-farmer
+    name: 'Neville Farmer'
+
+
+yorkshire-and-the-humber:
+  - id: edward-mcmillan-scott
+    name: 'Edward McMillan-Scott'
+    wikipedia: https://en.wikipedia.org/wiki/Edward_McMillan-Scott
+  - id: james-monaghan
+    name: 'James Monaghan'
+  - id: joe-otten
+    name: 'Joe Otten'
+  - id: chris-foote-wood
+    name: 'Chris Foote-Wood'
+  - id: jacqueline-bell
+    name: 'Jacqueline Bell'

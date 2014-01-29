@@ -1,2 +1,3 @@
 northern-ireland:
-  - name: Ross Brown
+  - id: ross-brown
+    name: 'Ross Brown'

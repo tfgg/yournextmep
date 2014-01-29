@@ -10,20 +10,24 @@ layout: default
   <div class='col-md-8'>
     {% assign pages=site.pages %}
     {% for party_pair in site.data.parties %}
-      {% assign party=party_pair[1] %}
-      <h3>{{ party.name }}</h3> 
+      {% assign party = party_pair[1] %}
+      {% assign candidates_party = party.id | append: '_candidates' %}
+      {% assign people_party = party.id | append: '_people' %}
 
-      <ol>
-      {% for candidate in pages %}
-        {% if candidate.layout == 'candidate' %}
-          {% if candidate.region == page.region and candidate.party == party.id %}
-            {% assign people_party = candidate.party | append: '_people' %}
-            {% assign person=site.data[people_party][candidate.person] %}
-            <li><a href='{{ candidate.url }}'>{{ person.name }}</a></li>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-      </ol>
+      {% assign candidates = site.data[candidates_party][page.region] %}
+      {% assign people = site.data[people_party] %}
+
+      {% if candidates %}
+        <h3>{{ party.name }}</h3> 
+
+        <ol>
+        {% for candidate in candidates %}
+          {{ candidate }}
+          {% assign person=people[candidate.id] %}
+          <li><a href='{{ candidate.url }}'>{{ person.name }}</a></li>
+        {% endfor %}
+        </ol>
+      {% endif %}
     {% endfor %}
   </div>
   <div class='col-md-4'>

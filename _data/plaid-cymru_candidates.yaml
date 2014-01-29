@@ -1,6 +1,10 @@
 wales:
-  - name: Jill Evans
+  - id: jill-evans
+    name: 'Jill Evans'
     wikipedia: https://en.wikipedia.org/wiki/Jill_Evans
-  - name: Marc Jones
-  - name: Stephen Cornelius
-  - name: Ioan Bellin
+  - id: marc-jones
+    name: 'Marc Jones'
+  - id: stephen-cornelius
+    name: 'Stephen Cornelius'
+  - id: ioan-bellin
+    name: 'Ioan Bellin'

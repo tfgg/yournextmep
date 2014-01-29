@@ -1,46 +1,82 @@
-south-west:
-  - name: Alan England
-  - name: Mike Blundell
-  - name: Clive Lavelle
-  - name: John Walker-Scott
-  - name: Stephen Wright
-  - name: Raymond Carr
+east-midlands:
+  - id: kevin-sills
+    name: 'Kevin Sills'
+  - id: dave-wickham
+    name: 'Dave Wickham'
 
-south-east:
-  - name: Steve Uncles
-  - name: Julia Gasper
-  - name: Amanda Hopwood
-  - name: Steve Clegg
-  - name: Simone Clarke
-  - name: Milly Uncles
-  - name: Mike Russell
-  - name: Mike Tibby
-  - name: Robert Sulley
-  - name: David Knight
 
-north-west:
-  - name: Stephen Morris
-  - name: Paul Rimmer
+eastern:
+  - id: robin-tilbrook
+    name: 'Robin Tilbrook'
+    wikipedia: https://en.wikipedia.org/wiki/English_Democrats_Party#Robin_Tilbrook
+  - id: charles-vickers
+    name: 'Charles Vickers'
+
+
+london:
+  - id: jenny-knight
+    name: 'Jenny Knight'
+
 
 north-east:
-  - name: Kevin Riddiough
-  - name: Sam Kelly
-  
-east-midlands:
-  - name: Kevin Sills
-  - name: Dave Wickham
-  
-eastern:
-  - name: Robin Tilbrook
-    wikipedia: https://en.wikipedia.org/wiki/English_Democrats_Party#Robin_Tilbrook
-  - name: Charles Vickers
-  
-london:
-  - name: Jenny Knight
-  
+  - id: kevin-riddiough
+    name: 'Kevin Riddiough'
+  - id: sam-kelly
+    name: 'Sam Kelly'
+
+
+north-west:
+  - id: stephen-morris
+    name: 'Stephen Morris'
+  - id: paul-rimmer
+    name: 'Paul Rimmer'
+
+
+south-east:
+  - id: steve-uncles
+    name: 'Steve Uncles'
+  - id: julia-gasper
+    name: 'Julia Gasper'
+  - id: amanda-hopwood
+    name: 'Amanda Hopwood'
+  - id: steve-clegg
+    name: 'Steve Clegg'
+  - id: simone-clarke
+    name: 'Simone Clarke'
+  - id: milly-uncles
+    name: 'Milly Uncles'
+  - id: mike-russell
+    name: 'Mike Russell'
+  - id: mike-tibby
+    name: 'Mike Tibby'
+  - id: robert-sulley
+    name: 'Robert Sulley'
+  - id: david-knight
+    name: 'David Knight'
+
+
+south-west:
+  - id: alan-england
+    name: 'Alan England'
+  - id: mike-blundell
+    name: 'Mike Blundell'
+  - id: clive-lavelle
+    name: 'Clive Lavelle'
+  - id: john-walker-scott
+    name: 'John Walker-Scott'
+  - id: stephen-wright
+    name: 'Stephen Wright'
+  - id: raymond-carr
+    name: 'Raymond Carr'
+
+
 west-midlands:
-  - name: Derek Hilling
-  
+  - id: derek-hilling
+    name: 'Derek Hilling'
+
+
 yorkshire-and-the-humber:
-  - name: Chris Beverley
-  - name: David Wildgoose
+  - id: chris-beverley
+    name: 'Chris Beverley'
+  - id: david-wildgoose
+    name: 'David Wildgoose'
