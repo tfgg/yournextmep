@@ -242,6 +242,12 @@ george-jeffrey:
 georgina-butler:
   id: georgina-butler
   name: 'Georgina Butler'
+  email: butler.georgina@gmail.com
+  links:
+    - url: http://georginabutler.com/
+      note: Website
+    - url: https://twitter.com/gbdiplo
+      note: Twitter account
 
 
 glyn-chambers:
@@ -252,23 +258,42 @@ glyn-chambers:
 graham-knight:
   id: graham-knight
   name: 'Graham Knight'
+  email: gjk@grahamknight.co.uk
+  links:
+    - url: https://twitter.com/GrahamKNIGHT2
+      note: Twitter account
+    - url: http://www.grahamknight.co.uk/
+      note: Website
 
 
 iain-mcgill:
   id: iain-mcgill
   name: 'Iain McGill'
+  links:
+    - url: http://www.voteiainmcgill.com/about.aspx
+      note: Website
+    - url: https://twitter.com/IainMcGill
+      note: Twitter account
 
 
 ian-duncan:
   id: ian-duncan
   name: 'Ian Duncan'
+  links:
+    - url: https://twitter.com/IanDuncan2014
+      note: Twitter account
 
 
 jacqueline-foster:
   id: jacqueline-foster
+  email: office@jacquelinefostermep.com
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Jacqueline_Foster
+    - note: Twitter account
+      url: https://twitter.com/jfostermep
+    - note: Website
+      url: http://www.jacquelinefostermep.com/
   name: 'Jacqueline Foster'
 
 
@@ -277,6 +302,10 @@ james-cracknell:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/James_Cracknell
+    - note: Website
+      url: http://www.jamescracknell.com/
+    - note: Twitter account
+      url: https://twitter.com/JamesCracknell
   name: 'James Cracknell'
 
 
@@ -293,11 +322,23 @@ jamie-gardiner:
 joe-barker:
   id: joe-barker
   name: 'Joe Barker'
+  email: askme@jobarker.co.uk
+  links:
+    - note: Website
+      url: http://www.jobarker.co.uk/
+    - note: Twitter account
+      url: https://twitter.com/JMVBarker
 
 
 john-flack:
   id: john-flack
   name: 'John Flack'
+  email: john@GiveEuropeFlack.org.uk
+  links:
+    - url: http://www.giveeuropeflack.org.uk/
+      note: Website
+    - url: https://twitter.com/GiveEuropeFlack
+      note: Twitter account
 
 
 john-procter:
@@ -308,6 +349,9 @@ john-procter:
 jonathan-collett:
   id: jonathan-collett
   name: 'Jonathan Collett'
+  links:
+    - url: https://twitter.com/JonCollett
+      note: Twitter account
 
 
 julie-girling:
@@ -315,12 +359,24 @@ julie-girling:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Julie_Girling
+    - note: Website
+      url: http://www.juliegirling.com/
+    - note: Twitter account
+      url: https://twitter.com/juliegirling
+    - note: Facebook account
+      url: https://www.facebook.com/julie.girling.mep
   name: 'Julie Girling'
 
 
 julie-marson:
   id: julie-marson
   name: 'Julie Marson'
+  email: juliemarsonsoutheast@outlook.com
+  links:
+    - note: Twitter account
+      url: https://twitter.com/JulieMarson
+    - note: Website
+      url: http://juliemarsonsoutheast.co.uk/
 
 
 kay-swinburne:
