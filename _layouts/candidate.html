@@ -2,7 +2,8 @@
 layout: default
 ---
 
-{% assign person=site.data.people[page.person] %}
+{% assign people_party = page.party | append: '_people' %}
+{% assign person=site.data[people_party][page.person] %}
 {% assign party=site.data.parties[page.party] %}
 {% assign region=site.data.regions[page.region] %}
 

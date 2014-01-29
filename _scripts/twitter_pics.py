@@ -53,7 +53,7 @@ for person, twitter_id in ids:
         f.write(chunk)
 
     person['image'] = "/" + path
-    person['twitter_description'] = description
+    person['summary'] = description
 
 pyaml.dump(people, sys.stdout, vspacing=[2, 0])
 
