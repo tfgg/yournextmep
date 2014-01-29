@@ -4,6 +4,9 @@ alyn-smith:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Alyn_Smith
   name: 'Alyn Smith'
+  wikipedia_biography: 'Alyn Smith (born 15 September 1973) is a Scottish politician,
+    and Scottish National Party Member of the European Parliament for Scotland. He
+    is also the SNP''s agricultural spokesman.'
 
 
 chris-stephens:
@@ -17,6 +20,13 @@ ian-hudghton:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Ian_Hudghton
   name: 'Ian Hudghton'
+  wikipedia_biography: 'Ian Stewart Hudghton (born 19 September 1951) is a Scottish
+    politician, and has been a Scottish National Party Member of the European Parliament
+    for Scotland since 1998, when he won his seat in a rare European Parliamentary
+    by-election, after the death of sitting SNP MEP Allan Macartney. Since the 2004
+    European elections, he has led the currently seven-strong European Free Alliance
+    Group in the Parliament, which retains its own identity within the joint Green-European
+    Free Alliance Group.'
 
 
 stephen-gethins:

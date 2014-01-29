@@ -69,6 +69,12 @@ nick-griffin:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Nick_Griffin
   name: 'Nick Griffin'
+  wikipedia_biography: 'Nicholas John "Nick" Griffin (born 1 March 1959) is a British
+    politician, chairman of the British National Party (BNP) and Member of the European
+    Parliament (MEP) for North West England. Born in Barnet, Griffin was educated
+    at Woodbridge School in Suffolk. He joined the National Front at the age of fourteen
+    and became a political worker for the party following his graduation from the
+    University of Cambridge.'
 
 
 peter-foreman:

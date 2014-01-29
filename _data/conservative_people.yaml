@@ -65,6 +65,12 @@ anthea-mcintyre:
       url: https://twitter.com/anthea_mcintyre
   name: 'Anthea McIntyre'
   summary: 'Conservative MEP for the West Midlands'
+  wikipedia_biography: 'Anthea McIntyre (born 1954) is an English businesswoman from
+    Ross-on-Wye who has been appointed in December 2011 under the Lisbon Treaty as
+    a Conservative Party (United Kingdom) Member of the European Parliament for the
+    West Midlands without an election, based on her unsuccessful standing in the 2009
+    European election. She will serve on the European Parliament''s Civil Liberties,
+    Justice and Home Affairs Committee.'
 
 
 ashley-fox:
@@ -82,6 +88,10 @@ ashley-fox:
       url: https://twitter.com/Ashleyfoxmep
   name: 'Ashley Fox'
   summary: 'Conservative MEP for the South West of England & Gibraltar'
+  wikipedia_biography: 'Ashley Peter Fox (born 15 November 1969) is a British solicitor
+    and politician who is currently a Member of the European Parliament, representing
+    South West England for the Conservative Party and the European Conservatives and
+    Reformists (ECR) political group.'
 
 
 belinda-don:
@@ -132,6 +142,11 @@ charles-tannock:
   name: 'Charles Tannock'
   summary: 'London Conservative MEP, ECR Foreign Affairs Coordinator, rtd psychiatrist.
     Leading for Londoners'' voices in EP. Retweet does not imply automatic endorsement'
+  wikipedia_biography: 'Dr Timothy Charles Ayrton Tannock (born in Aldershot, Hampshire)
+    is a British politician, psychiatrist, and Member of the European Parliament for
+    London for the Conservative Party. He was first elected to the European Parliament
+    in 1999. He was Vice-President of the Human Rights Subcommittee of the Parliament
+    2004–07 and Vice-President of the EU-Ukraine PCC delegation 2004-09.'
 
 
 chris-whiteside:
@@ -181,6 +196,12 @@ daniel-dalton:
     - note: Website
       url: http://danieldaltonblog.blogspot.co.uk/
   name: 'Daniel Dalton'
+  wikipedia_biography: 'Daniel Anthony Thomas Dalton (born 1 January 1974) is a former
+    English cricketer. Dalton was a right-handed batsman who bowled left-arm medium
+    pace. He was born at Oxford, Oxfordshire. Daniel Dalton played county second eleven
+    cricket for Kent, Gloucestershire and Warwickshire between 1996 and 2005 (with
+    the reference to this http://www. cricketarchive. com/Archive/Players/9/9111/Second_Eleven_Championship_Matches.
+    html and Minor Counties cricket with Warwickshire cricket board http://www.'
 
 
 daniel-hamilton:
@@ -209,6 +230,12 @@ daniel-hannan:
   name: 'Daniel Hannan'
   summary: 'Blogger, MEP, Old Whig. Loves Europe, not the EU. Author of ''How we Invented
     Freedom'', published in North America as ''Inventing Freedom''.'
+  wikipedia_biography: 'Daniel John Hannan (born 1 September 1971) is a British journalist,
+    author and politician who is a Member of the European Parliament, representing
+    South East England for the Conservative Party. He is also the Secretary-General
+    of the Alliance of European Conservatives and Reformists (AECR). An advocate of
+    localism and a Eurosceptic, Hannan earned some attention for making a speech in
+    the European Parliament criticising Gordon Brown.'
 
 
 david-campbell-bannerman:
@@ -225,6 +252,12 @@ david-campbell-bannerman:
       url: https://www.facebook.com/DCBMEP
   name: 'David Campbell Bannerman'
   summary: 'Conservative MEP for Eastern England'
+  wikipedia_biography: 'David Campbell Bannerman MEP (born 28 May 1960 in Bombay)
+    is a Member of the European Parliament for East of England for the Conservative
+    Party, having sat for the United Kingdom Independence Party until 24 May 2011.
+    He served as UKIP deputy leader from 2006 until 2010, when he was replaced by
+    Paul Nuttall. Before joining UKIP, he was a Conservative Party activist who came
+    to prominence as the Chairman of the Bow Group.'
 
 
 david-price:
@@ -253,6 +286,8 @@ emma-mcclarkin:
   name: 'Emma McClarkin'
   summary: 'I am a Conservative Member of the European Parliament for the East Midlands
     Region.'
+  wikipedia_biography: 'Emma McClarkin is a British politician, and Member of the
+    European Parliament for the East Midlands region for the Conservative Party.'
 
 
 geoffrey-van-orden:
@@ -347,6 +382,9 @@ jacqueline-foster:
   name: 'Jacqueline Foster'
   summary: 'Conservative MEP for the North West of England and Conservative Spokesman
     on Transport & Tourism in the European Parliament'
+  wikipedia_biography: 'Jacqueline Foster (née Jacqueline Renshaw, 30 December 1947)
+    is a British Conservative politician and company director, and Member of the European
+    Parliament for the North West England region.'
 
 
 james-cracknell:
@@ -361,6 +399,12 @@ james-cracknell:
       url: https://twitter.com/JamesCracknell
   name: 'James Cracknell'
   summary: 'Dr Doolittle I''m not but I think he''s saying Get off my land!'
+  wikipedia_biography: 'James Cracknell, OBE (born 5 May 1972) is a British rowing
+    champion and double Olympic gold medalist and adventurer. Cracknell is married
+    to TV and radio presenter Beverley Turner; they have three children. In the New
+    Year Honours List, 2004, he was appointed OBE for services to sport. He is also
+    a trained geography teacher, as stated in an episode of BBC comedy quiz School''s
+    Out.'
 
 
 james-walsh:
@@ -429,9 +473,14 @@ julie-girling:
   name: 'Julie Girling'
   summary: 'MEP for South West England and Gibraltar. More info on my website: http://t.co/HsEqEeHq0o
 
-    
+
 
     (From time to time tweets may be updated by my staff)'
+  wikipedia_biography: 'Julie Girling MEP is a British Conservative politician, currently
+    serving as a Member of European Parliament for the South West of England. Girling
+    is a former Leader of Cotswold District Council, and Cabinet Member for the Environment
+    on Gloucestershire County Council, resigning from both in the run-up to the 2009
+    elections.'
 
 
 julie-marson:
@@ -457,6 +506,8 @@ kay-swinburne:
     - note: Website
       url: http://www.kayswinburne.co.uk/
   name: 'Kay Swinburne'
+  wikipedia_biography: 'Jacqueline Kay Swinburne (born 8 June 1967) is a Welsh politician.
+    She is a Conservative Member of the European Parliament for Wales.'
 
 
 kevin-beaty:
@@ -504,6 +555,9 @@ marina-yannakoudakis:
   summary: 'Member of the European Parliament for London.
 
     Conservative Spokesman for Women''s Rights and Health.'
+  wikipedia_biography: 'Marina Yannakoudakis (born 16 April 1956) is a Conservative
+    Party Member of the European Parliament for London first elected at the 2009 European
+    Parliament election.'
 
 
 mark-brotherston:
@@ -529,6 +583,12 @@ marta-andreasen:
       url: http://www.martaandreasen.com/
   name: 'Marta Andreasen'
   summary: 'Conservative MEP and former European Commission Chief Accountant.'
+  wikipedia_biography: 'Marta Andreasen (born 26 November 1954) is an Argentine-born
+    Spanish accountant, employed in January 2002 by the European Commission as Chief
+    Accountant, and notable for raising concerns about flaws in the commission''s
+    accounting system which she felt left the commission vulnerable to potential fraud.
+    Elected as a Member of the European Parliament for the United Kingdom Independence
+    Party (UKIP) in 2009, she defected to the Conservative Party in February 2013.'
 
 
 martin-callanan:
@@ -539,6 +599,9 @@ martin-callanan:
     - note: Website
       url: http://martincallanan.com/
   name: 'Martin Callanan'
+  wikipedia_biography: 'Martin Callanan (born 8 August 1961) is a British Conservative
+    Party politician. He is Member of the European Parliament for North East England
+    and Chairman of the European Conservatives and Reformists group.'
 
 
 melisa-maynard:
@@ -579,6 +642,13 @@ nirj-deva:
   name: 'Nirj Deva'
   summary: 'British Conservative Member of the European Parliament for South East
     England. Development and Foreign Affairs committees.'
+  wikipedia_biography: 'Niranjan Joseph "Nirj" De Silva Deva-Aditya FRSA DL (born
+    11 May 1948) is a politician from the United Kingdom. A member of the Conservative
+    Party, he has been a Member of the European Parliament representing South East
+    England since 1999. He was previously a Member of Parliament (MP) in the British
+    House of Commons from 1992 to 1997, representing the constituency of Brentford
+    and Isleworth. Deva was born in Sri Lanka into a politically active family, and
+    was raised in Britain.'
 
 
 nosheena-mobarik:
@@ -592,6 +662,12 @@ philip-bradbourn:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Philip_Bradbourn
   name: 'Philip Bradbourn'
+  wikipedia_biography: 'Philip Bradbourn OBE MEP is a British politician, and Member
+    of the European Parliament for the West Midlands, for the Conservative Party.
+    He has been a member of the European Parliament since 1999. He was a parliamentary
+    candidate for Wolverhampton South East in the 1992 general election and stood
+    for the European Parliament in County Durham in 1994. Until his election he was
+    adviser to the Conservative Group Leader on Wolverhampton City Council.'
 
 
 richard-ashworth:
@@ -608,6 +684,13 @@ richard-ashworth:
   name: 'Richard Ashworth'
   summary: 'Richard Ashworth Conservative MEP for the South-East of England and leader
     of the Conservative delegation in Brussels'
+  wikipedia_biography: 'Richard James Ashworth (born 17 September 1947 in Folkestone)
+    is a Member of the European Parliament for South East England for the Conservative
+    Party. He is married with three daughters. Ashworth was educated at The King''s
+    School, Canterbury and studied agriculture and management at Seale-Hayne College
+    in Devon. He has been the chairman of a further education college (Plumpton in
+    East Sussex) for a number of years as well as serving on several public bodies
+    in the education sector.'
 
 
 richard-hopkin:
@@ -653,6 +736,9 @@ rupert-matthews:
   name: 'Rupert Matthews'
   summary: 'Hi I''m Rupert Matthews. I have been working in publishing for over 20
     years as both an author and an editor. Website http://t.co/AK7p97J747.'
+  wikipedia_biography: 'Rupert Oliver Matthews (born 1961) is an English author on
+    the paranormal, and Conservative Party politician. Matthews lives in Epsom Downs,
+    Surrey.'
 
 
 sajjad-karim:
@@ -667,11 +753,15 @@ sajjad-karim:
     - note: 'Twitter account'
       url: https://twitter.com/SHKMEP
   name: 'Sajjad Karim'
-  summary: 'Conservative MEP for North West England. 
+  summary: 'Conservative MEP for North West England.
 
-    A dynamic and diverse region, vital to Great Britain and the EU. 
+    A dynamic and diverse region, vital to Great Britain and the EU.
 
     Legal Affairs Spokesman.'
+  wikipedia_biography: 'Sajjad Haider Karim also known as Saj (born 11 July 1970)
+    is a Member of the European Parliament (MEP) for North West England. Karim was
+    the first British Muslim elected to the European Parliament on 4 June 2004. He
+    was re-elected in June 2009.'
 
 
 sheila-lawlor:
@@ -706,6 +796,8 @@ sophie-swire:
       url: https://en.wikipedia.org/wiki/Sophia_Swire
   name: 'Sophie Swire'
   summary:
+  wikipedia_biography: 'Sophia Swire is a British businesswoman and Afghanistan-Pakistan
+    expert.'
 
 
 stephen-castens:
@@ -742,6 +834,8 @@ syed-kamall:
       url: https://twitter.com/SyedKamall
   name: 'Syed Kamall'
   summary: 'Conservative MEP for London'
+  wikipedia_biography: 'Dr Syed Salah Kamall (born 15 February 1967) is a British
+    Conservative Party politician, Member of the European Parliament for London.'
 
 
 timothy-kirkhope:
@@ -758,6 +852,11 @@ timothy-kirkhope:
   name: 'Timothy Kirkhope'
   summary: 'Timothy Kirkhope, Conservative MEP for Yorkshire and the Humber. Lawyer,
     former Immigration Minister, EU spokesman on Law and Justice'
+  wikipedia_biography: 'Timothy John Robert Kirkhope (born 29 April 1945) is a British
+    lawyer and politician, currently serving as Member of the European Parliament
+    for Yorkshire and the Humber for the Conservative Party. After serving for ten
+    years as Member of Parliament for Leeds North East, he was first elected to the
+    European Parliament in 1999.'
 
 
 tom-hunt:
@@ -785,3 +884,9 @@ vicky-ford:
   name: 'Vicky Ford'
   summary: 'Official Twitter feed for Vicky Ford, Conservative Member of the European
     Parliament for the East of England. Updates from Vicky herself and her office.'
+  wikipedia_biography: 'Victoria Grace "Vicky" Ford (born September 21, 1967 in Omagh,
+    County Tyrone) was elected as Conservative Party Member of the European Parliament
+    for East of England in the 2009 European Parliament election. Vicky is the UK
+    Conservative spokesman for Industry and Research, sitting on the Committee on
+    Industry, Research and Energy and also has seats on the Committee on the Environment,
+    Public Health and Food Safety and the Committee on Economic and Monetary Affairs.'

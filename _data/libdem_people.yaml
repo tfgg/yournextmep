@@ -19,6 +19,12 @@ andrew-duff:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Andrew_Duff
   name: 'Andrew Duff'
+  wikipedia_biography: 'Andrew Duff OBE (born 25 December 1950) is a Liberal Democrat
+    politician, president of the Union of European Federalists, and a Member of the
+    European Parliament for the East of England region of the UK. He initially stood
+    in the 1984 European Parliament election, finishing third with 22.5% of the vote.
+    In the 1989 election he polled 8% of the vote, coming fourth, then in the 1994
+    election he came third with 20%.'
 
 
 andrew-wigley:
@@ -62,6 +68,8 @@ bill-newton-dunn:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Bill_Newton_Dunn
   name: 'Bill Newton Dunn'
+  wikipedia_biography: 'William "Bill" Newton Dunn is a British politician. He is
+    a Member of the European Parliament for the East Midlands for the Liberal Democrats.'
 
 
 brian-matthew:
@@ -85,6 +93,9 @@ catherine-bearder:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
   name: 'Catherine Bearder'
+  wikipedia_biography: 'South East England is a constituency of the European Parliament.
+    It currently elects 10 Members of the European Parliament (MEPs) using the D''Hondt
+    method of party-list proportional representation.'
 
 
 chris-davies:
@@ -93,6 +104,9 @@ chris-davies:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Chris_Davies
   name: 'Chris Davies'
+  wikipedia_biography: 'Christopher Graham Davies (born 7 July 1954) is a Liberal
+    Democrat politician in the United Kingdom. He is a former Member of Parliament,
+    and since 1999 he has been a Member of the European Parliament.'
 
 
 chris-foote-wood:
@@ -131,6 +145,13 @@ edward-mcmillan-scott:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Edward_McMillan-Scott
   name: 'Edward McMillan-Scott'
+  wikipedia_biography: 'Edward Hugh Christian McMillan-Scott (born 15 August 1949)
+    is a British Member of the European Parliament (MEP) for Yorkshire and the Humber
+    constituency. He has been elected four times as European Parliament Vice-President
+    since 2004. His main portfolio remains Human Rights and Democracy. He was first
+    elected as an MEP in 1984. McMillan-Scott was a Conservative until a dispute with
+    David Cameron over the British premier''s controversial new EU alliance: he joined
+    the Liberal Democrats in 2010.'
 
 
 george-lyon:
@@ -139,6 +160,13 @@ george-lyon:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/George_Lyon_(Scottish_politician)
   name: 'George Lyon'
+  wikipedia_biography: 'George Lyon (born 16 July 1956 in Rothesay) is a Scottish
+    Liberal Democrat politician, and a Member of the European Parliament for Scotland,
+    elected on 4 June 2009 when he took over from Elspeth Attwooll who retired after
+    ten years as Liberal Democrat MEP for Scotland. From 1999 to 2007 he was the Member
+    of the Scottish Parliament for Argyll and Bute, and served as Deputy Minister
+    for Finance, Public Service Reform and Parliamentary Business between 2005 and
+    2007.'
 
 
 george-smid:
@@ -162,6 +190,12 @@ graham-watson:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Graham_Watson
   name: 'Graham Watson'
+  wikipedia_biography: 'Sir Graham Robert Watson (born 23 March 1956) is a British
+    Politician. He has served as a Member of the European Parliament for South West
+    England since 1994 and was the leader of the Group of the European Liberal Democrat
+    and Reform Party 2002–2004 and the first leader of the Group of the Alliance of
+    Liberals and Democrats for Europe 2004–2009. Since 2011, he has been the President
+    of the European Liberal Democrat and Reform Party.'
 
 
 helen-foster-grime:
@@ -235,6 +269,11 @@ jonathan-fryer:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Jonathan_Fryer
   name: 'Jonathan Fryer'
+  wikipedia_biography: 'Jonathan Fryer (born 5 June 1950) is a British writer, broadcaster,
+    lecturer and Liberal Democrat politician. He was the LibDem candidate for the
+    constituency of Poplar and Limehouse in the 2010 general election . As Chairman
+    of the London Liberal Democrats, he has supervised the HQ''s move to Brixton,
+    and streamlined its operation.'
 
 
 jonathan-webber:
@@ -293,6 +332,11 @@ phil-bennion:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Phil_Bennion
   name: 'Phil Bennion'
+  wikipedia_biography: 'Phillip Bennion (born 7 October 1954) is a British Liberal
+    Democrat politician. He sits as a Member of the European Parliament for the West
+    Midlands, having replaced Liz Lynne after she stepped down in February 2012. Bennion
+    was born in Tamworth, Staffordshire and educated at Queen Elizabeth Grammar School.
+    He went on to study agriculture and agronomy at Aberdeen and Newcastle.'
 
 
 phil-knowles:

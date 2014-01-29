@@ -11,6 +11,10 @@ afzal-khan:
   name: 'Afzal Khan'
   summary: 'Campaigning for the North West in Europe. Labour NW MEP candidate and
     former Lord Mayor of Manchester.'
+  wikipedia_biography: 'Afzal Khan CBE (born 1960, in Jhelum, Pakistan), is a Labour
+    Party politician in the City of Manchester. He is a councillor in the Cheetham
+    ward and Executive Member for Children''s Services. Khan was the youngest, and
+    first Asian and Muslim, Lord Mayor of Manchester from 2005 to 2006.'
 
 
 alex-mayer:
@@ -67,7 +71,7 @@ angeliki-stogia:
     - note: 'Facebook page'
       url: https://www.facebook.com/astogia
   name: 'Angeliki Stogia'
-  summary: 'North West 2014 European Elections Candidate 
+  summary: 'North West 2014 European Elections Candidate
 
     #VCS #EU funding specialist, #WhalleyRange Labour Cllr, Labour activist,'
 
@@ -182,6 +186,10 @@ catherine-stihler:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Catherine_Stihler
   name: 'Catherine Stihler'
+  wikipedia_biography: 'Catherine Stihler (born 30 July 1973) is a British Labour
+    Party politician. She has been a Member of the European Parliament for Scotland
+    since 1999, being re-elected in 2004 and 2009. She is currently the only female
+    MEP representing Scotland.'
 
 
 chris-ostrowski:
@@ -242,6 +250,9 @@ claude-moraes:
   name: 'Claude Moraes'
   summary: 'MEP for London. Deputy Leader, European Parliamentary Labour Party. Socialist
     Spokesperson on Justice & Home Affairs in the European Parliament.'
+  wikipedia_biography: 'Claude Moraes is a Member of the European Parliament. He is
+    the Deputy Leader of the Labour Party in the European Parliament (the European
+    Parliamentary Labour Party) and one of eight MEPs representing London.'
 
 
 darren-hughes:
@@ -257,6 +268,13 @@ darren-hughes:
   name: 'Darren Hughes'
   summary: 'Labour/Coop Party MEP Candidate for Yorkshire and the Humber Region.   Chairman
     of Shield HIV and Rush House Ltd. All tweets in a personal capacity'
+  wikipedia_biography: 'Darren Colyn Hughes (born 3 April 1978) was a New Zealand
+    Member of Parliament between 2002 and 2011, first elected at the age of 24. He
+    represented the Labour Party and was a Minister outside Cabinet in the Fifth Labour
+    Government of New Zealand. In March 2011 Hughes resigned from Parliament after
+    news of him being investigated by the police became public. A complaint of a sexual
+    nature was laid against him by an 18-year-old male. After a lengthy police investigation,
+    Hughes was not charged.'
 
 
 david-martin:
@@ -272,6 +290,12 @@ david-martin:
   name: 'David Martin'
   summary: 'Scotland''s senior European MEP, former Vice-President of the European
     Parliament.  Currently member of International Trade Committee.'
+  wikipedia_biography: 'David Martin (born 26 August 1954 in Edinburgh) is a British
+    Labour Party politician, and member of the European Parliament for Scotland. He
+    was educated outside of Edinburgh at Liberton High School. He was first elected
+    as a councillor in 1982, and won the Lothians seat in the 1984 European Parliament
+    elections. He retained his seat, and following a reform of the electoral system,
+    was in 1999 elected to represent the whole of Scotland along with other members.'
 
 
 del-singh:
@@ -298,6 +322,9 @@ derek-vaughan:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Derek_Vaughan
   name: 'Derek Vaughan'
+  wikipedia_biography: 'Derek Vaughan (* 2 May 1961 in Neath) was elected as Labour
+    Party Member of the European Parliament for Wales in the 2009 European Parliament
+    election.'
 
 
 eleanor-tunnicliffe:
@@ -340,10 +367,10 @@ farah-nazeer:
     the economy, development & the environment. Of fiery disposition. Own views'
 
 
-glenis-willmot:
+glenis-willmott:
   email: office@gleniswillmott.org.uk
   gender: female
-  id: glenis-willmot
+  id: glenis-willmott
   image: /images/twitter/GlenisWillmott.jpg
   links:
     - note: Website
@@ -354,6 +381,9 @@ glenis-willmot:
       url: https://en.wikipedia.org/wiki/Glenis_Willmott
   name: 'Glenis Willmott'
   summary: 'Labour''s Leader in Europe and MEP for the East Midlands.'
+  wikipedia_biography: 'Glenis Willmott (born 4 March 1951) is a British politician,
+    currently leader of the European Parliamentary Labour Party (EPLP) and Labour
+    member of the European Parliament for East Midlands.'
 
 
 glyn-ford:
@@ -362,6 +392,10 @@ glyn-ford:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Glyn_Ford
   name: 'Glyn Ford'
+  wikipedia_biography: 'Glyn Ford (born 28 January 1950) was a member of the European
+    Parliament (1984–2009) initially for Greater Manchester East, until 1999 and then
+    South West England for the Labour Party and Gibraltar Socialist Labour Party.
+    He was born in Gloucester.'
 
 
 hadleigh-roberts:
@@ -603,6 +637,12 @@ linda-mcavan:
       url: https://twitter.com/LindaMcAvanMEP
   name: 'Linda McAvan'
   summary: 'Labour MEP for Yorkshire and The Humber'
+  wikipedia_biography: 'Linda McAvan (born 2 December 1962) is a British Labour Party
+    politician, who is a Member of the European Parliament for the Labour Party for
+    Yorkshire and the Humber. She has been a Member of the European Parliament since
+    1998, and was first elected in a by-election following the resignation of Norman
+    West. Before being elected she worked for Barnsley Borough Council and was the
+    European Officer for the Coalfields Community Campaign.'
 
 
 linda-woodings:
@@ -710,9 +750,9 @@ naseem-ayub:
     - note: 'Twitter account'
       url: https://twitter.com/VoteNaseem4MEP
   name: 'Naseem Ayub'
-  summary: 'Labour MEP candidate for the Eastern Region, 
+  summary: 'Labour MEP candidate for the Eastern Region,
 
-    Biscot Ward Councillor, 
+    Biscot Ward Councillor,
 
     Executive Member Luton Borough Council.'
 
@@ -727,6 +767,12 @@ neena-gill:
       url: https://twitter.com/neenaformep
   name: 'Neena Gill'
   summary: 'Neena Gill'
+  wikipedia_biography: 'Neena Gill was a Member of the European Parliament for the
+    West Midlands for the Labour Party from 1999 to 2009. Gill was the first ever
+    female Parliamentarian of British Asian origins. Prior to becoming a Member of
+    the European Parliament, she was Chief Executive of ASRA Group and the Newlon
+    Housing Group. Another first for a BAME background. Gill sat on the powerful Budget,
+    Legal and Industry Committees in the European Parliament.'
 
 
 nick-wallis:
@@ -834,6 +880,12 @@ richard-corbett:
   name: 'Richard Corbett'
   summary: 'Richard Corbett, Yorkshire Labour MEP 1997-2009 and #2 prospective candidate
     for 2014. Tweets marked ''RC'' are by Richard; others are by campaign volunteers.'
+  wikipedia_biography: 'Richard Corbett was a Member of the European Parliament for
+    the Labour Party for Yorkshire and the Humber, serving between 1996 and 2009.
+    Under the single member constituency system that predates the present proportional
+    representation system, he represented Merseyside West from 1996 to 1999. He lost
+    his seat in the 2009 European Parliament elections. He is currently an adviser
+    to the President of the European Council Herman Van Rompuy.'
 
 
 richard-howitt:
@@ -864,6 +916,9 @@ richard-howitt:
   name: 'Richard Howitt'
   summary: 'Labour MEP for Essex, Herts, Beds, Cambs, Norfolk, Suffolk. Foreign Affairs
     Spokesperson, Rapporteur Corporate Responsibility, fYR Macedonia'
+  wikipedia_biography: 'Richard Howitt (born 5 April 1961 in Reading, Berkshire) is
+    a Member of the European Parliament for the Labour Party for the East of England.
+    He has been a member of the European Parliament since 1994.'
 
 
 rory-palmer:
@@ -937,6 +992,13 @@ sion-simon:
       url: https://twitter.com/sionsimon
   name: 'Sion Simon'
   summary: 'writer and politician'
+  wikipedia_biography: 'Siôn Llewelyn Simon (born 23 December 1968) is a British Labour
+    politician, who served as the Member of Parliament for Birmingham Erdington from
+    the 2001 General Election to the 2010 General Election. Simon was the Parliamentary
+    Under-Secretary of State for Further Education and Parliamentary Under-Secretary
+    of State for Creative Industries. In 2010, he stood down from Parliament to campaign
+    for direct election of the Mayor of Birmingham, with the intent of running in
+    the first election.'
 
 
 steve-carter:

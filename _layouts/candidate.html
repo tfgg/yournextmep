@@ -34,6 +34,15 @@ layout: default
         </ul>
       </div>
     </div>
+    {% if person.summary %}
+    <div class='row'>
+      <div class='col-md-12'>
+        <h3>Summary</h3>
+        <p class='quote'>{{ person.summary }}</p>
+        <p class='attrib'>From their Twitter account</p>
+      </div>
+    </div>
+    {% endif %}
     {% if person.wikipedia_biography %}
     <div class='row'>
       <div class='col-md-12'>
@@ -48,15 +57,6 @@ layout: default
       <div class='col-md-12'>
         <h3>Biography</h3>
         <p class='quote'>{{ person.biography }}</p>
-      </div>
-    </div>
-    {% endif %}
-    {% if person.summary %}
-    <div class='row'>
-      <div class='col-md-12'>
-        <h3>Summary</h3>
-        <p class='quote'>{{ person.summary }}</p>
-        <p class='attrib'>From their Twitter account</p>
       </div>
     </div>
     {% endif %}

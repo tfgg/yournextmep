@@ -64,6 +64,12 @@ christopher-monckton:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Christopher_Monckton,_3rd_Viscount_Monckton_of_Brenchley
   name: 'Christopher Monckton'
+  wikipedia_biography: 'Christopher Walter Monckton, 3rd Viscount Monckton of Brenchley
+    (born 14 February 1952) is a British public speaker and hereditary peer. He is
+    known for his work as a journalist, Conservative political advisor, UKIP political
+    candidate and for his invention of the mathematical puzzle Eternity. Early on
+    in his public speaking career topics centred on his mathematical puzzle and conservative
+    politics.'
 
 
 david-coburn:
@@ -107,6 +113,12 @@ gerard-batten:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Gerard_Batten
   name: 'Gerard Batten'
+  wikipedia_biography: 'Gerard Joseph Batten (born 27 March 1954, London) is a Member
+    of the European Parliament for London for the United Kingdom Independence Party
+    (UKIP). He was first elected in 2004. He sits as a member of the Independence
+    and Democracy Group. He was a founder member of UKIP in September 1993. He was
+    the first Party Secretary from 1994 to 1997. He has fought local elections, a
+    by-election, a European election, and two general elections as a UKIP candidate.'
 
 
 henry-reilly:
@@ -155,6 +167,10 @@ jonathan-arnott:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Jonathan_Arnott
   name: 'Jonathan Arnott'
+  wikipedia_biography: 'Jonathan Arnott is a British politician from Sheffield. He
+    is the current General Secretary of the UK Independence Party and has stood as
+    a candidate in UK local, UK Parliament, European parliament and UK Police crime
+    commissioner elections.'
 
 
 jonathan-bullock:
@@ -253,6 +269,12 @@ nigel-farage:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Nigel_Farage
   name: 'Nigel Farage'
+  wikipedia_biography: 'Nigel Paul Farage is a British politician and leader of the
+    UK Independence Party (UKIP) since 2010; he also held that position from September
+    2006 to November 2009. Since 1999, he has been a Member of the European Parliament
+    for South East England and co-chairs the Europe of Freedom and Democracy group.
+    Farage was a founding member of UKIP, having left the Conservative Party in 1992
+    after the signing of the Maastricht Treaty.'
 
 
 nigel-jones:
@@ -291,6 +313,9 @@ paul-nuttall:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Paul_Nuttall
   name: 'Paul Nuttall'
+  wikipedia_biography: 'Paul Andrew Nuttall MEP (born 30 November 1976, Liverpool)
+    is the Deputy Leader of the UK Independence Party and Member of the European Parliament
+    for the North West England region.'
 
 
 paul-oakley:
@@ -334,6 +359,13 @@ roger-helmer:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Roger_Helmer
   name: 'Roger Helmer'
+  wikipedia_biography: 'Roger Helmer (born 25 January 1944 in London) is a British
+    business executive and politician and a United Kingdom Independence Party (UKIP)
+    Member of the European Parliament for the East Midlands region. He was elected
+    to the European Parliament in 1999 as a Conservative Party MEP, and re-elected
+    in 2004 and 2009. In March 2012 he defected from the Conservatives to UKIP. He
+    has described himself as a eurosceptic and is a supporter of the Better Off Out
+    campaign.'
 
 
 ross-durance:
@@ -372,6 +404,12 @@ stuart-agnew:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Stuart_Agnew
   name: 'Stuart Agnew'
+  wikipedia_biography: 'John Stuart Agnew (born 30 August 1949 in Norwich) is a Member
+    of the European Parliament for the East of England region for the United Kingdom
+    Independence Party. He was elected in 2009. He was educated at Gordonstoun School
+    and the Royal Agricultural College. He is a Norfolk farmer who formerly represented
+    Norfolk on the NFU Council. He is a long term UKIP member. In the European Parliament
+    he sits on the Committee on Agriculture and Rural Development.'
 
 
 tim-aker:
@@ -390,3 +428,7 @@ william-dartmouth:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/William_Legge,_10th_Earl_of_Dartmouth
   name: 'William Dartmouth'
+  wikipedia_biography: 'William Legge, 10th Earl of Dartmouth MEP (born 23 September
+    1949), is a British politician and hereditary peer. Legge is a Member of the European
+    Parliament (M.E.P. ) for South West England, representing the United Kingdom Independence
+    Party (UKIP). He now prefers to be known as William Dartmouth.'
