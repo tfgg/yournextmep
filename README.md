@@ -1,4 +1,4 @@
-YourNexMEP
+YourNextMEP
 ===========
 
 Slightly mad idea of making a UK European Elections 2014 candidate site entirely in Jekyll.
