@@ -1,17 +1,29 @@
 adrian-pepper:
   id: adrian-pepper
   name: 'Adrian Pepper'
+  links:
+    - url: http://adrianpepper.info/
+      note: Website
+    - url: https://twitter.com/thepepperview
+      note: Twitter account
 
 
 aled-davies:
   id: aled-davies
   name: 'Aled Davies'
+  links:
+    - url: https://twitter.com/Aled_Glanogeu
+      note: Twitter account
 
 
 alex-story:
   id: alex-story
   name: 'Alex Story'
-
+  email: alexstory@hotmail.com
+  links:
+    - url: http://alexstory.typepad.com/
+      note: Website
+  biography: Father-of-three Alex Story is a former Olympic rower and has campaigned in parliamentary and local elections across the region.
 
 andrew-lee:
   id: andrew-lee
@@ -26,6 +38,11 @@ andrew-lewer:
 annesley-abercorn:
   id: annesley-abercorn
   name: 'Annesley Abercorn'
+  links:
+    - url: http://www.annesleyabercorn.co.uk/
+      note: Website
+    - url: https://www.facebook.com/pages/Annesley-Abercorn/138220929546416
+      note: Facebook page
 
 
 anthea-mcintyre:
@@ -33,30 +50,48 @@ anthea-mcintyre:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Anthea_McIntyre
+    - note: 'Website'
+      url: http://www.antheamcintyre.com/
+    - note: 'Twitter account'
+      url: https://twitter.com/anthea_mcintyre
   name: 'Anthea McIntyre'
 
 
 ashley-fox:
   id: ashley-fox
+  email: ashley@ashleyfoxmep.co.uk
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Ashley_Fox
+    - note: Website 
+      url: http://www.ashleyfoxmep.com/
+    - note: Facebook page
+      url: https://www.facebook.com/ashleyfoxmep
+    - note: Twitter account
+      url: https://twitter.com/Ashleyfoxmep
   name: 'Ashley Fox'
 
 
 belinda-don:
   id: belinda-don
   name: 'Belinda Don'
+  links:
+    - note: Website
+      url: http://www.belindadon.com
 
 
 ben-houchen:
   id: ben-houchen
   name: 'Ben Houchen'
+  links:
+    - note: Twitter account
+      url: https://twitter.com/BenHouchen
 
 
 brendan-clarke-smith:
   id: brendan-clarke-smith
   name: 'Brendan Clarke-Smith'
+  extra: http://commons.wikimedia.org/wiki/File:Brendan_Clarke-Smith.jpg
 
 
 caroline-attfield:
