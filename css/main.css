@@ -16,7 +16,7 @@ div.footer {
 img.profile-image {
   width:100%;
   margin:0.2em;
-  border-radius:50px;
+  border-radius:100px;
 }
 
 p.quote {
@@ -24,8 +24,14 @@ p.quote {
   font-style:italic;
   color:#333;
 }
+
+p.attrib {
+  font-size:0.8em;
+  color:#666;
+  font-style:italic;
+}
  
 div.col-md-12 p.quote {
-  width:50%;
+  width:75%;
 }
 
