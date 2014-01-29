@@ -1,0 +1,114 @@
+wales:
+  - name: Kay Swinburne
+    wikipedia: https://en.wikipedia.org/wiki/Kay_Swinburne
+  - name: Aled Davies
+  - name: Dan Boucher
+  - name: Richard Hopkin
+
+east-midlands:
+  - name: Emma McClarkin
+    wikipedia: https://en.wikipedia.org/wiki/Emma_McClarkin
+  - name: Andrew Lewer
+  - name: Rupert Matthews
+  - name: Stephen Castens
+  - name: Brendan Clarke-Smith
+
+eastern:
+  - name: Vicky Ford
+    wikipedia: https://en.wikipedia.org/wiki/Vicky_Ford
+  - name: Geoffrey van Orden
+    wikipedia: https://en.wikipedia.org/wiki/Geoffrey_van_Orden
+  - name: David Campbell Bannerman
+    wikipedia: https://en.wikipedia.org/wiki/David_Campbell_Bannerman
+  - name: John Flack
+  - name: Tom Hunt
+  - name: Margaret Simons
+  - name: Jonathan Collett
+
+london:
+  - name: Syed Kamall
+    wikipedia: https://en.wikipedia.org/wiki/Syed_Kamall
+  - name: Charles Tannock
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Tannock
+  - name: Marina Yannakoudakis
+    wikipedia: https://en.wikipedia.org/wiki/Marina_Yannakoudakis
+  - name: Caroline Attfield
+  - name: Lynne Hack
+  - name: Sheila Lawlor
+  - name: Glyn Chambers
+  - name: Annesley Abercorn
+
+north-east:
+  - name: Martin Callanan
+    wikipedia: https://en.wikipedia.org/wiki/Martin_Callanan
+  - name: Ben Houchen
+  - name: Andrew Lee
+
+northern-ireland:
+  - name: Mark Brotherston
+
+north-west:
+  - name: Jacqueline Foster
+    wikipedia: https://en.wikipedia.org/wiki/Jacqueline_Foster
+  - name: Sajjad Karim
+    wikipedia: https://en.wikipedia.org/wiki/Sajjad_Karim
+  - name: Kevin Beaty
+  - name: Deborah Dunleavy
+  - name: Joe Barker
+  - name: Daniel Hamilton
+  - name: Chris Whiteside
+  - name: James Walsh
+
+scotland:
+  - name: Ian Duncan
+  - name: Belinda Don
+  - name: Nosheena Mobarik
+  - name: Jamie Gardiner
+  - name: Iain McGill
+  - name: Stuart Mcintyre
+
+south-east:
+  - name: Daniel Hannan
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_Hannan
+  - name: Nirj Deva
+    wikipedia: https://en.wikipedia.org/wiki/Nirj_Deva
+  - name: Richard Ashworth
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Ashworth
+  - name: Marta Andreasen
+    wikipedia: https://en.wikipedia.org/wiki/Marta_Andreasen
+  - name: Richard Robinson
+  - name: Graham Knight
+  - name: Julie Marson
+  - name: George Jeffrey
+  - name: Rory Love
+  - name: Adrian Pepper
+
+south-west:
+  - name: Ashley Fox
+    wikipedia: https://en.wikipedia.org/wiki/Ashley_Fox
+  - name: Julie Girling
+    wikipedia: https://en.wikipedia.org/wiki/Julie_Girling
+  - name: James Cracknell
+    wikipedia: https://en.wikipedia.org/wiki/James_Cracknell
+  - name: Georgina Butler
+  - name: Sophie Swire
+  - name: Melisa Maynard
+
+west-midlands:
+  - name: Philip Bradbourn
+    wikipedia: https://en.wikipedia.org/wiki/Philip_Bradbourn
+  - name: Anthea McIntyre
+    wikipedia: https://en.wikipedia.org/wiki/Anthea_McIntyre
+  - name: Daniel Dalton
+  - name: Michael Burnett
+  - name: Sibby Buckle
+  - name: David Price
+  - name: Dan Sames
+
+yorkshire-and-the-humber:
+  - name: Timothy Kirkhope
+    wikipedia: https://en.wikipedia.org/wiki/Timothy_Kirkhope
+  - name: Alex Story
+  - name: John Procter
+  - name: Carolyn Abbott
+  - name: Michael Naughton
