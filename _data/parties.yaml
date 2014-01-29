@@ -9,6 +9,14 @@ conservative:
   other_names:
     - name: 'Conservative and Unionist Party'
 
+liberty:
+  classification: Party
+  name: Liberty GB
+  other_names:
+    - name: "Liberty Great Britain"
+  founding_date: 2013-3-5
+  id: liberty
+
 engdem:
   classification: Party
   founding_date: 2002-1-1
