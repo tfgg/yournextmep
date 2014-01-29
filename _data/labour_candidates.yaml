@@ -1,0 +1,94 @@
+south-east:
+  - name: Anneliese Dodds
+  - name: John Howarth
+  - name: Emily Westley
+  - name: Farah Nazeer
+  - name: James Swindlehurst
+  - name: Maggie Hughes
+  - name: James Watkins
+  - name: Karen Landles
+  - name: Michael Hassell
+    
+east-midlands:
+  - name: Glenis Willmott
+  - name: Rory Palmer
+  - name: Linda Woodings
+  - name: Khalid Hadadi
+  - name: Nicki Brooks
+  
+eastern:
+  - name: Richard Howitt
+  - name: Alex Mayer
+  - name: Sandy Martin
+  - name: Bhavna Joshi
+  - name: Paul Bishop
+  - name: Naseem Ayub
+  - name: Chris Ostrowski
+  
+london:
+  - name: Claude Moraes
+  - name: Mary Honeyball
+  - name: Lucy Anderson
+  - name: Seb Dance
+  - name: Ivana Bartoletti
+  - name: Kamaljeet Jandu
+  - name: Sanchia Alasia
+  - name: Andrea Biondi
+
+north-east:
+  - name: Judith Kirton-Darling
+  - name: Paul Brannen
+  - name: Jayne Shotton
+  
+north-west:
+  - name: Arlene McCarthy
+  - name: Theresa Griffin
+  - name: Afzal Khan
+  - name: Julie Ward
+  - name: Wajid Khan
+  - name: Angeliki Stogia
+  - name: Steve Carter
+  - name: Pascal Lamb
+  
+scotland:
+  - name: David Martin
+  - name: Catherine Stihler
+  - name: Derek Munn
+  - name: Katrina Murray
+  - name: Asim Khan
+  - name: Kirsty O'Brien
+  
+south-west:
+  - name: Clare Moody
+  - name: Glyn Ford
+  - name: Ann Reeder
+  - name: Hadleigh Roberts
+  - name: Jude Robinson
+  - name: Junab Ali
+  
+wales:
+  - name: Derek Vaughan
+  - name: Jayne Bryant
+  - name: Alex Thomas
+  - name: Christina Rees
+  - name: Derek Vaughan
+  - name: Jayne Bryant
+  - name: Alex Thomas
+  - name: Christina Rees
+  
+west-midlands:
+  - name: Neena Gill
+  - name: Siôn Simon
+  - name: Lynda Waltho
+  - name: Ansar Ali Khan
+  - name: Olwen Hamer
+  - name: Tony Ethapemi
+  - name: Claire Edwards
+  
+yorkshire-and-the-humber:
+  - name: Linda McAvan
+  - name: Richard Corbett
+  - name: Eleanor Tunnicliffe
+  - name: Asghar Khan
+  - name: Helen Mirfin-Boukouris
+  - name: Darren Hughes
