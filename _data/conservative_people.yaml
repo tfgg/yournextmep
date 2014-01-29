@@ -384,22 +384,37 @@ kay-swinburne:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Kay_Swinburne
+    - note: Website
+      url: http://www.kayswinburne.co.uk/
+  email: kayswinburnemep@welshconservatives.com
   name: 'Kay Swinburne'
 
 
 kevin-beaty:
   id: kevin-beaty
   name: 'Kevin Beaty'
+  links:
+    - note: Twitter account
+      url: https://twitter.com/kevcow
 
 
 lynne-hack:
   id: lynne-hack
   name: 'Lynne Hack'
+  email: lynne@lynnehack.com
+  links:
+    - url: http://www.lynnehack.com/
+      note: Website
 
 
 margaret-simons:
   id: margaret-simons
   name: 'Margaret Simons'
+  links:
+    - url: http://www.margaretsimons.co.uk/
+      note: Website
+    - url: https://twitter.com/Margaret_Simons
+      note: Twitter account
 
 
 marina-yannakoudakis:
@@ -407,12 +422,19 @@ marina-yannakoudakis:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Marina_Yannakoudakis
+    - note: Website
+      url: http://www.marinayannakoudakis.com/
+    - note: Twitter account
+      url: https://twitter.com/MarinaMEP
   name: 'Marina Yannakoudakis'
 
 
 mark-brotherston:
   id: mark-brotherston
   name: 'Mark Brotherston'
+  links:
+    - url: https://twitter.com/MarkBrotherston
+      note: Twitter account
 
 
 marta-andreasen:
@@ -420,6 +442,10 @@ marta-andreasen:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Marta_Andreasen
+    - note: Twitter account
+      url: https://twitter.com/mandreasen
+    - note: Website
+      url: http://www.martaandreasen.com/
   name: 'Marta Andreasen'
 
 
@@ -428,12 +454,21 @@ martin-callanan:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Martin_Callanan
+    - note: Website
+      url: http://martincallanan.com/
   name: 'Martin Callanan'
 
 
 melisa-maynard:
   id: melisa-maynard
   name: 'Melisa Maynard'
+  links:
+    - url: http://melissamaynard.co.uk/
+      note: Website
+    - url: https://twitter.com/mmaynard4mep
+      note: Twitter account
+    - note: Facebook page
+      url: https://www.facebook.com/MelissaMaynard4MEP
 
 
 michael-burnett:
@@ -448,9 +483,14 @@ michael-naughton:
 
 nirj-deva:
   id: nirj-deva
+  email: office@nirjdeva.com
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Nirj_Deva
+    - note: Website
+      url: http://www.nirjdeva.com/
+    - note: Twitter account
+      url: https://twitter.com/NirjDeva
   name: 'Nirj Deva'
 
 
@@ -469,38 +509,67 @@ philip-bradbourn:
 
 richard-ashworth:
   id: richard-ashworth
+  email: richard.ashworth@europarl.europa.eu
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Richard_Ashworth
+    - note: Twitter account
+      url: https://twitter.com/RichardAshMEP
+    - note: Website
+      url: http://www.richardashworth.org/
   name: 'Richard Ashworth'
 
 
 richard-hopkin:
   id: richard-hopkin
   name: 'Richard Hopkin'
+  links:
+    - note: Twitter account
+      url: https://twitter.com/RichardHopkin
 
 
 richard-robinson:
   id: richard-robinson
   name: 'Richard Robinson'
+  links:
+    - note: Twitter account
+      url: https://twitter.com/RRsoutheast
+    - note: Facebook page
+      url: https://www.facebook.com/pages/Richard-Robinson/479131308807434
 
 
 rory-love:
   id: rory-love
   name: 'Rory Love'
+  links:
+    - note: Website
+      url: http://www.cllrrorylove.dsl.pipex.com/
 
 
 rupert-matthews:
   id: rupert-matthews
   name: 'Rupert Matthews'
+  links:
+    - url: https://en.wikipedia.org/wiki/Rupert_Matthews_(politician)
+      note: Wikipedia page
+    - url: https://twitter.com/RupertMatthews
+      note: Twitter account
+    - url: https://www.facebook.com/rupert.matthews1
+      note: Facebook page
 
 
 sajjad-karim:
   id: sajjad-karim
+  email: info@sajjadkarim.eu
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Sajjad_Karim
+    - note: Website
+      url: http://www.sajjadkarim.eu/
+    - note: Twitter account
+      url: https://twitter.com/SHKMEP
   name: 'Sajjad Karim'
+  
 
 
 sheila-lawlor:
