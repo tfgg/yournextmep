@@ -1,29 +1,37 @@
 adrian-pepper:
   id: adrian-pepper
-  name: 'Adrian Pepper'
+  image: /images/twitter/thepepperview.jpg
   links:
-    - url: http://adrianpepper.info/
-      note: Website
-    - url: https://twitter.com/thepepperview
-      note: Twitter account
+    - note: Website
+      url: http://adrianpepper.info/
+    - note: 'Twitter account'
+      url: https://twitter.com/thepepperview
+  name: 'Adrian Pepper'
+  summary: 'PR man @pepperpubaff, entrepreneur, publisher, European parliamentary
+    candidate for @Conservatives, author, volunteer, father and golfer'
 
 
 aled-davies:
   id: aled-davies
-  name: 'Aled Davies'
+  image: /images/twitter/Aled_Glanogeu.jpg
   links:
-    - url: https://twitter.com/Aled_Glanogeu
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/Aled_Glanogeu
+  name: 'Aled Davies'
+  summary: 'Father X 4, Welsh Hill Farmer, Leader of Welsh Conservative group on Powys
+    County Council, Councillor for LlanrhaeadrYM/Llansilin'
 
 
 alex-story:
-  id: alex-story
-  name: 'Alex Story'
+  biography: 'Father-of-three Alex Story is a former Olympic rower and has campaigned
+    in parliamentary and local elections across the region.'
   email: alexstory@hotmail.com
+  id: alex-story
   links:
-    - url: http://alexstory.typepad.com/
-      note: Website
-  biography: Father-of-three Alex Story is a former Olympic rower and has campaigned in parliamentary and local elections across the region.
+    - note: Website
+      url: http://alexstory.typepad.com/
+  name: 'Alex Story'
+
 
 andrew-lee:
   id: andrew-lee
@@ -37,61 +45,68 @@ andrew-lewer:
 
 annesley-abercorn:
   id: annesley-abercorn
-  name: 'Annesley Abercorn'
   links:
-    - url: http://www.annesleyabercorn.co.uk/
-      note: Website
-    - url: https://www.facebook.com/pages/Annesley-Abercorn/138220929546416
-      note: Facebook page
+    - note: Website
+      url: http://www.annesleyabercorn.co.uk/
+    - note: 'Facebook page'
+      url: https://www.facebook.com/pages/Annesley-Abercorn/138220929546416
+  name: 'Annesley Abercorn'
 
 
 anthea-mcintyre:
   id: anthea-mcintyre
+  image: /images/twitter/anthea_mcintyre.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Anthea_McIntyre
-    - note: 'Website'
+    - note: Website
       url: http://www.antheamcintyre.com/
     - note: 'Twitter account'
       url: https://twitter.com/anthea_mcintyre
   name: 'Anthea McIntyre'
+  summary: 'Conservative MEP for the West Midlands'
 
 
 ashley-fox:
-  id: ashley-fox
   email: ashley@ashleyfoxmep.co.uk
+  id: ashley-fox
+  image: /images/twitter/Ashleyfoxmep.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Ashley_Fox
-    - note: Website 
+    - note: Website
       url: http://www.ashleyfoxmep.com/
-    - note: Facebook page
+    - note: 'Facebook page'
       url: https://www.facebook.com/ashleyfoxmep
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/Ashleyfoxmep
   name: 'Ashley Fox'
+  summary: 'Conservative MEP for the South West of England & Gibraltar'
 
 
 belinda-don:
   id: belinda-don
-  name: 'Belinda Don'
   links:
     - note: Website
       url: http://www.belindadon.com
+  name: 'Belinda Don'
 
 
 ben-houchen:
   id: ben-houchen
-  name: 'Ben Houchen'
+  image: /images/twitter/BenHouchen.png
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/BenHouchen
+  name: 'Ben Houchen'
+  summary: 'Solicitor, Tory Councillor and North East Conservative MEP Candidate.
+    All opinions are my own but will be boring unless you''re interested in politics.'
 
 
 brendan-clarke-smith:
+  extra: http://commons.wikimedia.org/wiki/File:Brendan_Clarke-Smith.jpg
   id: brendan-clarke-smith
   name: 'Brendan Clarke-Smith'
-  extra: http://commons.wikimedia.org/wiki/File:Brendan_Clarke-Smith.jpg
 
 
 caroline-attfield:
@@ -106,90 +121,110 @@ carolyn-abbott:
 
 charles-tannock:
   id: charles-tannock
+  image: /images/twitter/CharlesTannock.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Charles_Tannock
-  name: 'Charles Tannock'
-  links:
     - note: Website
       url: http://www.charlestannock.com/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/CharlesTannock
+  name: 'Charles Tannock'
+  summary: 'London Conservative MEP, ECR Foreign Affairs Coordinator, rtd psychiatrist.
+    Leading for Londoners'' voices in EP. Retweet does not imply automatic endorsement'
 
 
 chris-whiteside:
   id: chris-whiteside
-  name: 'Chris Whiteside'
+  image: /images/twitter/ChrisWhiteside3.jpg
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/ChrisWhiteside3
     - note: Website
       url: http://www.chris4copeland.blogspot.co.uk/
+  name: 'Chris Whiteside'
+  summary: 'Economist, chair of Cumbria Conservatives.  Prospective European candidate
+    in the North West for 2014.'
 
 
 dan-boucher:
   id: dan-boucher
-  name: 'Dan Boucher'
+  image: /images/twitter/Dan4SwanseaEast.jpg
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/Dan4SwanseaEast
+  name: 'Dan Boucher'
+  summary: 'Conservative candidate for Swansea East in the election to the National
+    Assembly for Wales, May 2011.'
 
 
 dan-sames:
-  id: dan-sames
-  name: 'Dan Sames'
   email: Dan.Sames@Cherwell-dc.gov.uk
+  id: dan-sames
+  image: /images/twitter/DanSames.jpg
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/DanSames
     - note: Website
       url: http://dansames.yourcllr.com/
+  name: 'Dan Sames'
+  summary: 'Conservative Euro Parliament candidate for West Midlands and councillor
+    representing Bicester South Ward on Cherwell District Council and Bicester Town
+    Council'
 
 
 daniel-dalton:
   id: daniel-dalton
-  name: 'Daniel Dalton'
   links:
-    - url: https://en.wikipedia.org/wiki/Daniel_Dalton_(cricketer)
-      note: Wikipedia article
-    - url: http://danieldaltonblog.blogspot.co.uk/
-      note: Website
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Daniel_Dalton_(cricketer)
+    - note: Website
+      url: http://danieldaltonblog.blogspot.co.uk/
+  name: 'Daniel Dalton'
 
 
 daniel-hamilton:
   id: daniel-hamilton
-  name: 'Daniel Hamilton'
+  image: /images/twitter/danielrhamilton.jpg
   links:
-    - url: http://www.danhamilton.co.uk/
-      note: Website
-    - url: https://twitter.com/danielrhamilton
-      note: Twitter account
+    - note: Website
+      url: http://www.danhamilton.co.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/danielrhamilton
+  name: 'Daniel Hamilton'
+  summary: 'Bell Pottinger Partner & Conservative NW England European Parliament candidate.
+    British/Brazilian. EU, Brazil, Kosovo, Ukraine, South Caucasus, polling & food.'
 
 
 daniel-hannan:
   id: daniel-hannan
+  image: /images/twitter/DanHannanMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Daniel_Hannan
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/DanHannanMEP
     - note: Website
       url: http://www.hannan.co.uk
   name: 'Daniel Hannan'
+  summary: 'Blogger, MEP, Old Whig. Loves Europe, not the EU. Author of ''How we Invented
+    Freedom'', published in North America as ''Inventing Freedom''.'
 
 
 david-campbell-bannerman:
   id: david-campbell-bannerman
+  image: /images/twitter/DCBMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/David_Campbell_Bannerman
     - note: Website
       url: http://www.dcbmep.org/
-    - note: Twitter account
-      url: https://twitter.com/DCBMEP/
-    - note: Facebook page
+    - note: 'Twitter account'
+      url: https://twitter.com/DCBMEP
+    - note: 'Facebook page'
       url: https://www.facebook.com/DCBMEP
   name: 'David Campbell Bannerman'
+  summary: 'Conservative MEP for Eastern England'
 
 
 david-price:
@@ -199,55 +234,60 @@ david-price:
 
 deborah-dunleavy:
   id: deborah-dunleavy
-  name: 'Deborah Dunleavy'
   links:
-    - url: http://deborahdunleavy.org/
-      note: Website
+    - note: Website
+      url: http://deborahdunleavy.org/
+  name: 'Deborah Dunleavy'
 
 
 emma-mcclarkin:
   id: emma-mcclarkin
+  image: /images/twitter/EmmaMcClarkin.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Emma_McClarkin
     - note: Website
       url: http://emmamcclarkin.com/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/EmmaMcClarkin
   name: 'Emma McClarkin'
+  summary: 'I am a Conservative Member of the European Parliament for the East Midlands
+    Region.'
 
 
 geoffrey-van-orden:
-  id: geoffrey-van-orden
   email: geoffrey.vanorden@europarl.europa.eu
+  id: geoffrey-van-orden
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Geoffrey_van_Orden
     - note: Website
       url: http://www.geoffreyvanorden.com/
-    - note: Facebook page
+    - note: 'Facebook page'
       url: https://www.facebook.com/pages/Geoffrey-Van-Orden-MBE-MEP/403627379716612
   name: 'Geoffrey van Orden'
 
 
 george-jeffrey:
-  id: george-jeffrey
-  name: 'George Jeffrey'
   email: george@georgejeffrey.co.uk
+  id: george-jeffrey
   links:
     - note: Website
       url: http://georgejeffrey.co.uk/
+  name: 'George Jeffrey'
 
 
 georgina-butler:
-  id: georgina-butler
-  name: 'Georgina Butler'
   email: butler.georgina@gmail.com
+  id: georgina-butler
+  image: /images/twitter/gbdiplo.jpg
   links:
-    - url: http://georginabutler.com/
-      note: Website
-    - url: https://twitter.com/gbdiplo
-      note: Twitter account
+    - note: Website
+      url: http://georginabutler.com/
+    - note: 'Twitter account'
+      url: https://twitter.com/gbdiplo
+  name: 'Georgina Butler'
+  summary: 'Ex-Ambassador, Conservative Party activist'
 
 
 glyn-chambers:
@@ -256,57 +296,71 @@ glyn-chambers:
 
 
 graham-knight:
-  id: graham-knight
-  name: 'Graham Knight'
   email: gjk@grahamknight.co.uk
+  id: graham-knight
+  image: /images/twitter/GrahamKNIGHT2.jpg
   links:
-    - url: https://twitter.com/GrahamKNIGHT2
-      note: Twitter account
-    - url: http://www.grahamknight.co.uk/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/GrahamKNIGHT2
+    - note: Website
+      url: http://www.grahamknight.co.uk/
+  name: 'Graham Knight'
+  summary: 'I''m a Prospective Candidate for Member of the European Parliament representing
+    South East England. I am currently the Borough Councillor for Horley East.'
 
 
 iain-mcgill:
   id: iain-mcgill
-  name: 'Iain McGill'
+  image: /images/twitter/IainMcGill.jpg
   links:
-    - url: http://www.voteiainmcgill.com/about.aspx
-      note: Website
-    - url: https://twitter.com/IainMcGill
-      note: Twitter account
+    - note: Website
+      url: http://www.voteiainmcgill.com/about.aspx
+    - note: 'Twitter account'
+      url: https://twitter.com/IainMcGill
+  name: 'Iain McGill'
+  summary: '@JamTarts fan. Businessman. Tory. Travels a lot - mainly for fun. Blogs
+    at @think_scotland - loves the @homelesswrldcup'
 
 
 ian-duncan:
   id: ian-duncan
-  name: 'Ian Duncan'
+  image: /images/twitter/IanDuncan2014.jpg
   links:
-    - url: https://twitter.com/IanDuncan2014
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/IanDuncan2014
+  name: 'Ian Duncan'
+  summary: '@ScotTories candidate for the European elections in 2014. All views expressed
+    are my own'
 
 
 jacqueline-foster:
-  id: jacqueline-foster
   email: office@jacquelinefostermep.com
+  id: jacqueline-foster
+  image: /images/twitter/jfostermep.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Jacqueline_Foster
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/jfostermep
     - note: Website
       url: http://www.jacquelinefostermep.com/
   name: 'Jacqueline Foster'
+  summary: 'Conservative MEP for the North West of England and Conservative Spokesman
+    on Transport & Tourism in the European Parliament'
 
 
 james-cracknell:
   id: james-cracknell
+  image: /images/twitter/JamesCracknell.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/James_Cracknell
     - note: Website
       url: http://www.jamescracknell.com/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/JamesCracknell
   name: 'James Cracknell'
+  summary: 'Dr Doolittle I''m not but I think he''s saying Get off my land!'
 
 
 james-walsh:
@@ -320,25 +374,29 @@ jamie-gardiner:
 
 
 joe-barker:
-  id: joe-barker
-  name: 'Joe Barker'
   email: askme@jobarker.co.uk
+  id: joe-barker
+  image: /images/twitter/JMVBarker.jpg
   links:
     - note: Website
       url: http://www.jobarker.co.uk/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/JMVBarker
+  name: 'Joe Barker'
+  summary:
 
 
 john-flack:
-  id: john-flack
-  name: 'John Flack'
   email: john@GiveEuropeFlack.org.uk
+  id: john-flack
+  image: /images/twitter/GiveEuropeFlack.jpg
   links:
-    - url: http://www.giveeuropeflack.org.uk/
-      note: Website
-    - url: https://twitter.com/GiveEuropeFlack
-      note: Twitter account
+    - note: Website
+      url: http://www.giveeuropeflack.org.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/GiveEuropeFlack
+  name: 'John Flack'
+  summary: 'Campaigning for The East of England to Give Europe Flack'
 
 
 john-procter:
@@ -348,105 +406,129 @@ john-procter:
 
 jonathan-collett:
   id: jonathan-collett
-  name: 'Jonathan Collett'
+  image: /images/twitter/JonCollett.jpg
   links:
-    - url: https://twitter.com/JonCollett
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/JonCollett
+  name: 'Jonathan Collett'
+  summary: 'Communications professional'
 
 
 julie-girling:
   id: julie-girling
+  image: /images/twitter/juliegirling.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Julie_Girling
     - note: Website
       url: http://www.juliegirling.com/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/juliegirling
-    - note: Facebook account
+    - note: 'Facebook account'
       url: https://www.facebook.com/julie.girling.mep
   name: 'Julie Girling'
+  summary: 'MEP for South West England and Gibraltar. More info on my website: http://t.co/HsEqEeHq0o
+
+    
+
+    (From time to time tweets may be updated by my staff)'
 
 
 julie-marson:
-  id: julie-marson
-  name: 'Julie Marson'
   email: juliemarsonsoutheast@outlook.com
+  id: julie-marson
+  image: /images/twitter/JulieMarson.jpg
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/JulieMarson
     - note: Website
       url: http://juliemarsonsoutheast.co.uk/
+  name: 'Julie Marson'
+  summary: 'Thanet District Councillor for beautiful Broadstairs. Vice Chair Broadstairs
+    Town Team. Conservative candidate for South East region in 2014 European elections.'
 
 
 kay-swinburne:
+  email: kayswinburnemep@welshconservatives.com
   id: kay-swinburne
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Kay_Swinburne
     - note: Website
       url: http://www.kayswinburne.co.uk/
-  email: kayswinburnemep@welshconservatives.com
   name: 'Kay Swinburne'
 
 
 kevin-beaty:
   id: kevin-beaty
-  name: 'Kevin Beaty'
+  image: /images/twitter/kevcow.jpg
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/kevcow
+  name: 'Kevin Beaty'
+  summary: 'Dairy farmer and No.3 Conservative Candidate for Euro 2014 Election'
 
 
 lynne-hack:
-  id: lynne-hack
-  name: 'Lynne Hack'
   email: lynne@lynnehack.com
+  id: lynne-hack
   links:
-    - url: http://www.lynnehack.com/
-      note: Website
+    - note: Website
+      url: http://www.lynnehack.com/
+  name: 'Lynne Hack'
 
 
 margaret-simons:
   id: margaret-simons
-  name: 'Margaret Simons'
+  image: /images/twitter/Margaret_Simons.jpg
   links:
-    - url: http://www.margaretsimons.co.uk/
-      note: Website
-    - url: https://twitter.com/Margaret_Simons
-      note: Twitter account
+    - note: Website
+      url: http://www.margaretsimons.co.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/Margaret_Simons
+  name: 'Margaret Simons'
+  summary: 'Community activist, Public Health Specialist, MEP Candidate'
 
 
 marina-yannakoudakis:
   id: marina-yannakoudakis
+  image: /images/twitter/MarinaMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Marina_Yannakoudakis
     - note: Website
       url: http://www.marinayannakoudakis.com/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/MarinaMEP
   name: 'Marina Yannakoudakis'
+  summary: 'Member of the European Parliament for London.
+
+    Conservative Spokesman for Women''s Rights and Health.'
 
 
 mark-brotherston:
   id: mark-brotherston
-  name: 'Mark Brotherston'
+  image: /images/twitter/MarkBrotherston.jpg
   links:
-    - url: https://twitter.com/MarkBrotherston
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/MarkBrotherston
+  name: 'Mark Brotherston'
+  summary: 'NI Conservative European candidate: Passionate about 2020 vision for NI
+    and all things innovative....Tweets, and chocolate treats are my own...'
 
 
 marta-andreasen:
   id: marta-andreasen
+  image: /images/twitter/mandreasen.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Marta_Andreasen
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/mandreasen
     - note: Website
       url: http://www.martaandreasen.com/
   name: 'Marta Andreasen'
+  summary: 'Conservative MEP and former European Commission Chief Accountant.'
 
 
 martin-callanan:
@@ -461,14 +543,16 @@ martin-callanan:
 
 melisa-maynard:
   id: melisa-maynard
-  name: 'Melisa Maynard'
+  image: /images/twitter/mmaynard4mep.jpg
   links:
-    - url: http://melissamaynard.co.uk/
-      note: Website
-    - url: https://twitter.com/mmaynard4mep
-      note: Twitter account
-    - note: Facebook page
+    - note: Website
+      url: http://melissamaynard.co.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/mmaynard4mep
+    - note: 'Facebook page'
       url: https://www.facebook.com/MelissaMaynard4MEP
+  name: 'Melisa Maynard'
+  summary: 'Prospective  MEP Candidate for the South West and Gibraltar'
 
 
 michael-burnett:
@@ -482,16 +566,19 @@ michael-naughton:
 
 
 nirj-deva:
-  id: nirj-deva
   email: office@nirjdeva.com
+  id: nirj-deva
+  image: /images/twitter/NirjDeva.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Nirj_Deva
     - note: Website
       url: http://www.nirjdeva.com/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/NirjDeva
   name: 'Nirj Deva'
+  summary: 'British Conservative Member of the European Parliament for South East
+    England. Development and Foreign Affairs committees.'
 
 
 nosheena-mobarik:
@@ -508,161 +595,193 @@ philip-bradbourn:
 
 
 richard-ashworth:
-  id: richard-ashworth
   email: richard.ashworth@europarl.europa.eu
+  id: richard-ashworth
+  image: /images/twitter/RichardAshMEP.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Richard_Ashworth
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/RichardAshMEP
     - note: Website
       url: http://www.richardashworth.org/
   name: 'Richard Ashworth'
+  summary: 'Richard Ashworth Conservative MEP for the South-East of England and leader
+    of the Conservative delegation in Brussels'
 
 
 richard-hopkin:
   id: richard-hopkin
-  name: 'Richard Hopkin'
+  image: /images/twitter/RichardHopkin.jpg
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/RichardHopkin
+  name: 'Richard Hopkin'
+  summary: 'Welsh Conservatives candidate for European Parliament'
 
 
 richard-robinson:
   id: richard-robinson
-  name: 'Richard Robinson'
+  image: /images/twitter/RRsoutheast.jpg
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/RRsoutheast
-    - note: Facebook page
+    - note: 'Facebook page'
       url: https://www.facebook.com/pages/Richard-Robinson/479131308807434
+  name: 'Richard Robinson'
+  summary: 'Businessman, Conservative Party Activist, Eurosceptic.'
 
 
 rory-love:
   id: rory-love
-  name: 'Rory Love'
   links:
     - note: Website
       url: http://www.cllrrorylove.dsl.pipex.com/
+  name: 'Rory Love'
 
 
 rupert-matthews:
   id: rupert-matthews
-  name: 'Rupert Matthews'
+  image: /images/twitter/RupertMatthews.jpg
   links:
-    - url: https://en.wikipedia.org/wiki/Rupert_Matthews_(politician)
-      note: Wikipedia page
-    - url: https://twitter.com/RupertMatthews
-      note: Twitter account
-    - url: https://www.facebook.com/rupert.matthews1
-      note: Facebook page
+    - note: 'Wikipedia page'
+      url: https://en.wikipedia.org/wiki/Rupert_Matthews_(politician)
+    - note: 'Twitter account'
+      url: https://twitter.com/RupertMatthews
+    - note: 'Facebook page'
+      url: https://www.facebook.com/rupert.matthews1
+  name: 'Rupert Matthews'
+  summary: 'Hi I''m Rupert Matthews. I have been working in publishing for over 20
+    years as both an author and an editor. Website http://t.co/AK7p97J747.'
 
 
 sajjad-karim:
-  id: sajjad-karim
   email: info@sajjadkarim.eu
+  id: sajjad-karim
+  image: /images/twitter/SHKMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Sajjad_Karim
     - note: Website
       url: http://www.sajjadkarim.eu/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/SHKMEP
   name: 'Sajjad Karim'
-  
+  summary: 'Conservative MEP for North West England. 
+
+    A dynamic and diverse region, vital to Great Britain and the EU. 
+
+    Legal Affairs Spokesman.'
 
 
 sheila-lawlor:
-  id: sheila-lawlor
-  name: 'Sheila Lawlor'
   email: sheila_lawlor@yahoo.com
+  id: sheila-lawlor
   links:
-    - url: http://www.sheilalawlor.org/
-      note: Website
+    - note: Website
+      url: http://www.sheilalawlor.org/
+  name: 'Sheila Lawlor'
 
 
 sibby-buckle:
   id: sibby-buckle
-  name: 'Sibby Buckle'
+  image: /images/twitter/sibbuc.jpg
   links:
-    - url: https://twitter.com/sibbuc
-      note: Twitter account
-    - 
+    - note: 'Twitter account'
+      url: https://twitter.com/sibbuc
+  name: 'Sibby Buckle'
+  summary: 'pharmacist extraordinaire! passionate about healthcare, about you the
+    patient, about medicines optimisation, and about politics!!!'
 
 
 sophie-swire:
   id: sophie-swire
-  name: 'Sophie Swire'
+  image: /images/twitter/SwireSophie.png
   links:
-    - url: http://www.sophieswire.com/
-      note: Website
-    - url: https://twitter.com/SwireSophie
-      note: Twitter account
-    - url: https://en.wikipedia.org/wiki/Sophia_Swire
-      note: Wikipedia article
+    - note: Website
+      url: http://www.sophieswire.com/
+    - note: 'Twitter account'
+      url: https://twitter.com/SwireSophie
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Sophia_Swire
+  name: 'Sophie Swire'
+  summary:
 
 
 stephen-castens:
-  id: stephen-castens
   email: stephenc@emidsconservatives.com
-  name: 'Stephen Castens'
+  id: stephen-castens
   links:
-    - url: http://www.southleicestershire.org/person/stephen-castens
-      note: Local party page
+    - note: 'Local party page'
+      url: http://www.southleicestershire.org/person/stephen-castens
+  name: 'Stephen Castens'
 
 
 stuart-mcintyre:
   id: stuart-mcintyre
-  name: 'Stuart Mcintyre'
+  image: /images/twitter/stuartgmcintyre.jpg
   links:
-    - url: https://twitter.com/stuartgmcintyre
-      note: Twitter account
-    - url: http://agtot.com/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/stuartgmcintyre
+    - note: Website
+      url: http://agtot.com/
+  name: 'Stuart Mcintyre'
+  summary: 'Views my own. Retweets (obviously) are not endorsements.'
 
 
 syed-kamall:
-  id: syed-kamall
   email: Syed.Kamall@europarl.europa.eu
+  id: syed-kamall
+  image: /images/twitter/SyedKamall.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Syed_Kamall
     - note: Website
       url: http://www.syedkamall.co.uk/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/SyedKamall
   name: 'Syed Kamall'
+  summary: 'Conservative MEP for London'
 
 
 timothy-kirkhope:
-  id: timothy-kirkhope
   email: timothy.kirkhope@europarl.europa.eu
+  id: timothy-kirkhope
+  image: /images/twitter/TimKirkhopeMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Timothy_Kirkhope
     - note: Website
       url: http://www.kirkhope.org.uk/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/TimKirkhopeMEP
   name: 'Timothy Kirkhope'
+  summary: 'Timothy Kirkhope, Conservative MEP for Yorkshire and the Humber. Lawyer,
+    former Immigration Minister, EU spokesman on Law and Justice'
 
 
 tom-hunt:
   id: tom-hunt
-  name: 'Tom Hunt'
+  image: /images/twitter/cllrtomhunt1.jpg
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/cllrtomhunt1
+  name: 'Tom Hunt'
+  summary: 'Conservative MEP Candidate (East of England), Conservative councillor
+    (Cambridgeshire), Newcastle United fan'
 
 
 vicky-ford:
-  id: vicky-ford
   email: office@vickyford.org
+  id: vicky-ford
+  image: /images/twitter/vickyford.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Vicky_Ford
     - note: Website
       url: http://www.vickyford.org/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/vickyford
   name: 'Vicky Ford'
+  summary: 'Official Twitter feed for Vicky Ford, Conservative Member of the European
+    Parliament for the East of England. Updates from Vicky herself and her office.'

@@ -14,7 +14,11 @@ for person_id, person in people.items():
   if 'links' in person:
     for link in person['links']:
       if 'twitter' in link['url']:
-        ids.append((person, get_twitter_id(link['url'])))
+        twitter_id = get_twitter_id(link['url'])
+        if twitter_id == "":
+          print >>sys.stderr, link, person_id
+
+        ids.append((person, twitter_id))
 
 from local_settings import TWITTER
 import twitter
@@ -32,7 +36,7 @@ content_types = {'image/jpeg': 'jpg',
 #  existing.add(f.split('.')[0])
 
 for person, twitter_id in ids:
-  print twitter_id
+  print >>sys.stderr, twitter_id
 
   #if twitter_id not in existing:
   user = api.GetUser(screen_name=twitter_id)
