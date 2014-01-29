@@ -8,6 +8,6 @@ region: east-midlands
 party: labour
 links:
   - url: http://www.Linda4Europe.org
-    notes: Campaign website
+    note: Campaign website
 ---
 

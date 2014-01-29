@@ -8,8 +8,8 @@ region: eastern
 party: labour
 links:
   - url: "http://www.votejoshi4mep.co.uk/"
-    notes: Website
+    note: Website
   - url: "https://twitter.com/VoteJoshi"
-    notes: Campaign Twitter account
+    note: Campaign Twitter account
 ---
 

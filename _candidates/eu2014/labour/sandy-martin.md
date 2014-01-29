@@ -8,6 +8,6 @@ region: eastern
 party: labour
 links:
   - url: "http://sandymartin4europe.com/"
-    notes: Website
+    note: Website
 ---
 
