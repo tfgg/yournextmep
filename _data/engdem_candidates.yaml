@@ -21,3 +21,26 @@ south-east:
 north-west:
   - name: Stephen Morris
   - name: Paul Rimmer
+
+north-east:
+  - name: Kevin Riddiough
+  - name: Sam Kelly
+  
+east-midlands:
+  - name: Kevin Sills
+  - name: Dave Wickham
+  
+eastern:
+  - name: Robin Tilbrook
+    wikipedia: https://en.wikipedia.org/wiki/English_Democrats_Party#Robin_Tilbrook
+  - name: Charles Vickers
+  
+london:
+  - name: Jenny Knight
+  
+west-midlands:
+  - name: Derek Hilling
+  
+yorkshire-and-the-humber:
+  - name: Chris Beverley
+  - name: David Wildgoose
