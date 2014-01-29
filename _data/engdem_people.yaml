@@ -1,0 +1,141 @@
+alan-england:
+  id: alan-england
+  name: 'Alan England'
+
+
+amanda-hopwood:
+  id: amanda-hopwood
+  name: 'Amanda Hopwood'
+
+
+charles-vickers:
+  id: charles-vickers
+  name: 'Charles Vickers'
+
+
+chris-beverley:
+  id: chris-beverley
+  name: 'Chris Beverley'
+
+
+clive-lavelle:
+  id: clive-lavelle
+  name: 'Clive Lavelle'
+
+
+dave-wickham:
+  id: dave-wickham
+  name: 'Dave Wickham'
+
+
+david-knight:
+  id: david-knight
+  name: 'David Knight'
+
+
+david-wildgoose:
+  id: david-wildgoose
+  name: 'David Wildgoose'
+
+
+derek-hilling:
+  id: derek-hilling
+  name: 'Derek Hilling'
+
+
+jenny-knight:
+  id: jenny-knight
+  name: 'Jenny Knight'
+
+
+john-walker-scott:
+  id: john-walker-scott
+  name: 'John Walker-Scott'
+
+
+julia-gasper:
+  id: julia-gasper
+  name: 'Julia Gasper'
+
+
+kevin-riddiough:
+  id: kevin-riddiough
+  name: 'Kevin Riddiough'
+
+
+kevin-sills:
+  id: kevin-sills
+  name: 'Kevin Sills'
+
+
+mike-blundell:
+  id: mike-blundell
+  name: 'Mike Blundell'
+
+
+mike-russell:
+  id: mike-russell
+  name: 'Mike Russell'
+
+
+mike-tibby:
+  id: mike-tibby
+  name: 'Mike Tibby'
+
+
+milly-uncles:
+  id: milly-uncles
+  name: 'Milly Uncles'
+
+
+paul-rimmer:
+  id: paul-rimmer
+  name: 'Paul Rimmer'
+
+
+raymond-carr:
+  id: raymond-carr
+  name: 'Raymond Carr'
+
+
+robert-sulley:
+  id: robert-sulley
+  name: 'Robert Sulley'
+
+
+robin-tilbrook:
+  id: robin-tilbrook
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/English_Democrats_Party#Robin_Tilbrook
+  name: 'Robin Tilbrook'
+
+
+sam-kelly:
+  id: sam-kelly
+  name: 'Sam Kelly'
+
+
+simone-clarke:
+  id: simone-clarke
+  name: 'Simone Clarke'
+
+
+stephen-morris:
+  id: stephen-morris
+  name: 'Stephen Morris'
+
+
+stephen-wright:
+  id: stephen-wright
+  name: 'Stephen Wright'
+
+
+steve-clegg:
+  id: steve-clegg
+  name: 'Steve Clegg'
+
+
+steve-uncles:
+  id: steve-uncles
+  name: 'Steve Uncles'

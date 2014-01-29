@@ -1,0 +1,363 @@
+alan-bullion:
+  id: alan-bullion
+  name: 'Alan Bullion'
+
+
+alec-dauncey:
+  id: alec-dauncey
+  name: 'Alec Dauncey'
+
+
+allis-moss:
+  id: allis-moss
+  name: 'Allis Moss'
+
+
+andrew-duff:
+  id: andrew-duff
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Andrew_Duff
+  name: 'Andrew Duff'
+
+
+andrew-wigley:
+  id: andrew-wigley
+  name: 'Andrew Wigley'
+
+
+angelika-schneider:
+  id: angelika-schneider
+  name: 'Angelika Schneider'
+
+
+anna-white:
+  id: anna-white
+  name: 'Anna White'
+
+
+anthony-hook:
+  id: anthony-hook
+  name: 'Anthony Hook'
+
+
+anuja-prashar:
+  id: anuja-prashar
+  name: 'Anuja Prashar'
+
+
+ayoub-khan:
+  id: ayoub-khan
+  name: 'Ayoub Khan'
+
+
+belinda-brooks-gordon:
+  id: belinda-brooks-gordon
+  name: 'Belinda Brooks-Gordon'
+
+
+bill-newton-dunn:
+  id: bill-newton-dunn
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Bill_Newton_Dunn
+  name: 'Bill Newton Dunn'
+
+
+brian-matthew:
+  id: brian-matthew
+  name: 'Brian Matthew'
+
+
+bruce-roberts:
+  id: bruce-roberts
+  name: 'Bruce Roberts'
+
+
+bruce-tennent:
+  id: bruce-tennent
+  name: 'Bruce Tennent'
+
+
+catherine-bearder:
+  id: catherine-bearder
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
+  name: 'Catherine Bearder'
+
+
+chris-davies:
+  id: chris-davies
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Chris_Davies
+  name: 'Chris Davies'
+
+
+chris-foote-wood:
+  id: chris-foote-wood
+  name: 'Chris Foote-Wood'
+
+
+christian-vassie:
+  id: christian-vassie
+  name: 'Christian Vassie'
+
+
+christine-jardine:
+  id: christine-jardine
+  name: 'Christine Jardine'
+
+
+christine-tinker:
+  id: christine-tinker
+  name: 'Christine Tinker'
+
+
+deborah-newton-cook:
+  id: deborah-newton-cook
+  name: 'Deborah Newton-Cook'
+
+
+dinti-batstone:
+  id: dinti-batstone
+  name: 'Dinti Batstone'
+
+
+edward-mcmillan-scott:
+  id: edward-mcmillan-scott
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Edward_McMillan-Scott
+  name: 'Edward McMillan-Scott'
+
+
+george-lyon:
+  id: george-lyon
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/George_Lyon_(Scottish_politician)
+  name: 'George Lyon'
+
+
+george-smid:
+  id: george-smid
+  name: 'George Smid'
+
+
+giles-goodall:
+  id: giles-goodall
+  name: 'Giles Goodall'
+
+
+gordon-lishman:
+  id: gordon-lishman
+  name: 'Gordon Lishman'
+
+
+graham-watson:
+  id: graham-watson
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Graham_Watson
+  name: 'Graham Watson'
+
+
+helen-foster-grime:
+  id: helen-foster-grime
+  name: 'Helen Foster-Grime'
+
+
+hugh-annand:
+  id: hugh-annand
+  name: 'Hugh Annand'
+
+
+ian-bearder:
+  id: ian-bearder
+  name: 'Ian Bearder'
+
+
+issan-ghazni:
+  id: issan-ghazni
+  name: 'Issan Ghazni'
+
+
+jacqueline-bell:
+  id: jacqueline-bell
+  name: 'Jacqueline Bell'
+
+
+jade-holden:
+  id: jade-holden
+  name: 'Jade Holden'
+
+
+james-monaghan:
+  id: james-monaghan
+  name: 'James Monaghan'
+
+
+jane-brophy:
+  id: jane-brophy
+  name: 'Jane Brophy'
+
+
+jay-risbridger:
+  id: jay-risbridger
+  name: 'Jay Risbridger'
+
+
+jo-crotty:
+  id: jo-crotty
+  name: 'Jo Crotty'
+
+
+joanna-corbin:
+  id: joanna-corbin
+  name: 'Joanna Corbin'
+
+
+joe-otten:
+  id: joe-otten
+  name: 'Joe Otten'
+
+
+john-vincent:
+  id: john-vincent
+  name: 'John Vincent'
+
+
+jonathan-fryer:
+  id: jonathan-fryer
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Jonathan_Fryer
+  name: 'Jonathan Fryer'
+
+
+jonathan-webber:
+  id: jonathan-webber
+  name: 'Jonathan Webber'
+
+
+josephine-hayes:
+  id: josephine-hayes
+  name: 'Josephine Hayes'
+
+
+kay-barnard:
+  id: kay-barnard
+  name: 'Kay Barnard'
+
+
+linda-jack:
+  id: linda-jack
+  name: 'Linda Jack'
+
+
+lisa-strachan:
+  id: lisa-strachan
+  name: 'Lisa Strachan'
+
+
+matt-mclaren:
+  id: matt-mclaren
+  name: 'Matt McLaren'
+
+
+michael-green:
+  id: michael-green
+  name: 'Michael Green'
+
+
+neil-christian:
+  id: neil-christian
+  name: 'Neil Christian'
+
+
+neville-farmer:
+  id: neville-farmer
+  name: 'Neville Farmer'
+
+
+owen-temple:
+  id: owen-temple
+  name: 'Owen Temple'
+
+
+phil-bennion:
+  id: phil-bennion
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Phil_Bennion
+  name: 'Phil Bennion'
+
+
+phil-knowles:
+  id: phil-knowles
+  name: 'Phil Knowles'
+
+
+qassim-afzal:
+  id: qassim-afzal
+  name: 'Qassim Afzal'
+
+
+richard-brodie:
+  id: richard-brodie
+  name: 'Richard Brodie'
+
+
+richard-davis:
+  id: richard-davis
+  name: 'Richard Davis'
+
+
+rob-speht:
+  id: rob-speht
+  name: 'Rob Speht'
+
+
+rosina-robson:
+  id: rosina-robson
+  name: 'Rosina Robson'
+
+
+sarah-ludford:
+  id: sarah-ludford
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Sarah_Ludford
+  name: 'Sarah Ludford'
+
+
+simon-james:
+  id: simon-james
+  name: 'Simon James'
+
+
+stephen-robinson:
+  id: stephen-robinson
+  name: 'Stephen Robinson'
+
+
+steve-sollitt:
+  id: steve-sollitt
+  name: 'Steve Sollitt'
+
+
+sue-mcguire:
+  id: sue-mcguire
+  name: 'Sue McGuire'
+
+
+tim-bearder:
+  id: tim-bearder
+  name: 'Tim Bearder'
+
+
+turhan-ozen:
+  id: turhan-ozen
+  name: 'Turhan Ozen'

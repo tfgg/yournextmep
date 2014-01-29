@@ -1,0 +1,101 @@
+adam-walker:
+  id: adam-walker
+  name: 'Adam Walker'
+
+
+bob-brindley:
+  id: bob-brindley
+  name: 'Bob Brindley'
+
+
+cathy-duffy:
+  id: cathy-duffy
+  name: 'Cathy Duffy'
+
+
+danny-cooke:
+  id: danny-cooke
+  name: 'Danny Cooke'
+
+
+david-bradnock:
+  id: david-bradnock
+  name: 'David Bradnock'
+
+
+gordon-johnson:
+  id: gordon-johnson
+  name: 'Gordon Johnson'
+
+
+jennifer-matthys:
+  id: jennifer-matthys
+  name: 'Jennifer Matthys'
+
+
+kenneth-griffiths:
+  id: kenneth-griffiths
+  name: 'Kenneth Griffiths'
+
+
+lady-dorothy-brooks:
+  id: lady-dorothy-brooks
+  name: 'Lady Dorothy Brooks'
+
+
+mark-badrick:
+  id: mark-badrick
+  name: 'Mark Badrick'
+
+
+marlene-guest:
+  id: marlene-guest
+  name: 'Marlene Guest'
+
+
+martin-vaughan:
+  id: martin-vaughan
+  name: 'Martin Vaughan'
+
+
+michael-coleman:
+  id: michael-coleman
+  name: 'Michael Coleman'
+
+
+nick-griffin:
+  id: nick-griffin
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Nick_Griffin
+  name: 'Nick Griffin'
+
+
+peter-foreman:
+  id: peter-foreman
+  name: 'Peter Foreman'
+
+
+phil-kimberley:
+  id: phil-kimberley
+  name: 'Phil Kimberley'
+
+
+richard-perry:
+  id: richard-perry
+  name: 'Richard Perry'
+
+
+robert-west:
+  id: robert-west
+  name: 'Robert West'
+
+
+simon-patten:
+  id: simon-patten
+  name: 'Simon Patten'
+
+
+steve-brammer:
+  id: steve-brammer
+  name: 'Steve Brammer'

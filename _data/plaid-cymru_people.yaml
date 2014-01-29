@@ -1,0 +1,21 @@
+ioan-bellin:
+  id: ioan-bellin
+  name: 'Ioan Bellin'
+
+
+jill-evans:
+  id: jill-evans
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Jill_Evans
+  name: 'Jill Evans'
+
+
+marc-jones:
+  id: marc-jones
+  name: 'Marc Jones'
+
+
+stephen-cornelius:
+  id: stephen-cornelius
+  name: 'Stephen Cornelius'

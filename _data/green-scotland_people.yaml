@@ -1,0 +1,31 @@
+alastair-whitelaw:
+  id: alastair-whitelaw
+  name: 'Alastair Whitelaw'
+
+
+alis-ballance:
+  id: alis-ballance
+  name: 'Alis Ballance'
+
+
+chas-booth:
+  id: chas-booth
+  name: 'Chas Booth'
+
+
+grace-murray:
+  id: grace-murray
+  name: 'Grace Murray'
+
+
+maggie-chapman:
+  id: maggie-chapman
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Maggie_Chapman
+  name: 'Maggie Chapman'
+
+
+steen-parish:
+  id: steen-parish
+  name: 'Steen Parish'

@@ -18,7 +18,6 @@ layout: default
         {% if candidate.layout == 'candidate' %}
           {% if candidate.region == page.region and candidate.party == party.id %}
             {% assign people_party = candidate.party | append: '_people' %}
-            {{ people_party }}
             {% assign person=site.data[people_party][candidate.person] %}
             <li><a href='{{ candidate.url }}'>{{ person.name }}</a></li>
           {% endif %}
