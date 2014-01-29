@@ -110,31 +110,60 @@ charles-tannock:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Charles_Tannock
   name: 'Charles Tannock'
+  links:
+    - note: Website
+      url: http://www.charlestannock.com/
+    - note: Twitter account
+      url: https://twitter.com/CharlesTannock
 
 
 chris-whiteside:
   id: chris-whiteside
   name: 'Chris Whiteside'
+  links:
+    - note: Twitter account
+      url: https://twitter.com/ChrisWhiteside3
+    - note: Website
+      url: http://www.chris4copeland.blogspot.co.uk/
 
 
 dan-boucher:
   id: dan-boucher
   name: 'Dan Boucher'
+  links:
+    - note: Twitter account
+      url: https://twitter.com/Dan4SwanseaEast
 
 
 dan-sames:
   id: dan-sames
   name: 'Dan Sames'
+  email: Dan.Sames@Cherwell-dc.gov.uk
+  links:
+    - note: Twitter account
+      url: https://twitter.com/DanSames
+    - note: Website
+      url: http://dansames.yourcllr.com/
 
 
 daniel-dalton:
   id: daniel-dalton
   name: 'Daniel Dalton'
+  links:
+    - url: https://en.wikipedia.org/wiki/Daniel_Dalton_(cricketer)
+      note: Wikipedia article
+    - url: http://danieldaltonblog.blogspot.co.uk/
+      note: Website
 
 
 daniel-hamilton:
   id: daniel-hamilton
   name: 'Daniel Hamilton'
+  links:
+    - url: http://www.danhamilton.co.uk/
+      note: Website
+    - url: https://twitter.com/danielrhamilton
+      note: Twitter account
 
 
 daniel-hannan:
@@ -142,6 +171,10 @@ daniel-hannan:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Daniel_Hannan
+    - note: Twitter account
+      url: https://twitter.com/DanHannanMEP
+    - note: Website
+      url: http://www.hannan.co.uk
   name: 'Daniel Hannan'
 
 
@@ -150,6 +183,12 @@ david-campbell-bannerman:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/David_Campbell_Bannerman
+    - note: Website
+      url: http://www.dcbmep.org/
+    - note: Twitter account
+      url: https://twitter.com/DCBMEP/
+    - note: Facebook page
+      url: https://www.facebook.com/DCBMEP
   name: 'David Campbell Bannerman'
 
 
@@ -161,6 +200,9 @@ david-price:
 deborah-dunleavy:
   id: deborah-dunleavy
   name: 'Deborah Dunleavy'
+  links:
+    - url: http://deborahdunleavy.org/
+      note: Website
 
 
 emma-mcclarkin:
@@ -168,20 +210,33 @@ emma-mcclarkin:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Emma_McClarkin
+    - note: Website
+      url: http://emmamcclarkin.com/
+    - note: Twitter account
+      url: https://twitter.com/EmmaMcClarkin
   name: 'Emma McClarkin'
 
 
 geoffrey-van-orden:
   id: geoffrey-van-orden
+  email: geoffrey.vanorden@europarl.europa.eu
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Geoffrey_van_Orden
+    - note: Website
+      url: http://www.geoffreyvanorden.com/
+    - note: Facebook page
+      url: https://www.facebook.com/pages/Geoffrey-Van-Orden-MBE-MEP/403627379716612
   name: 'Geoffrey van Orden'
 
 
 george-jeffrey:
   id: george-jeffrey
   name: 'George Jeffrey'
+  email: george@georgejeffrey.co.uk
+  links:
+    - note: Website
+      url: http://georgejeffrey.co.uk/
 
 
 georgina-butler:
