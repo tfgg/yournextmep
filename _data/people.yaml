@@ -687,10 +687,12 @@ mary-honeyball:
       url: http://thehoneyballbuzz.com/
     - notes: 'Twitter account'
       url: https://twitter.com/maryhoneyball
+    - notes: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Mary_Honeyball
   name: 'Mary Honeyball'
-  twitter_description: 'I was elected to the European Parliament in 2000, as a Labour
-    Member for London.'
-
+  twitter_description: 'I was elected to the European Parliament in 2000, as a Labour Member for London.'
+  wikipedia_description: "Mary Hilda Rosamund Honeyball (born 12 November 1952 in Weymouth, Dorset) is a Member of the European Parliament for the Labour Party representing London. She has been a member of the European Parliament since 2000. Seventh on Labour's 1999 list, she had not been elected in the European Parliament Election, 1999, but replaced Pauline Green who resigned as an MEP in November 1999."
+  
 
 naseem-ayub:
   description: 'Born and raised in the Eastern Region in Bedfordshire, Naseem is married
