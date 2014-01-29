@@ -2,11 +2,11 @@ afzal-khan:
   id: afzal-khan
   image: /images/twitter/cllrakhan.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/cllrakhan
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/M._Afzal_Khan
-    - notes: Website
+    - note: Website
       url: http://afzalkhan.org.uk/
   name: 'Afzal Khan'
   summary: 'Campaigning for the North West in Europe. Labour NW MEP candidate and
@@ -23,9 +23,9 @@ alex-mayer:
   id: alex-mayer
   image: /images/twitter/alexlmayer.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/alexlmayer
-    - notes: Website
+    - note: Website
       url: http://www.alexmayer.eu/
   name: 'Alex Mayer'
   summary: '@UKLabour activist, European candidate and NPF rep. Works in media, volunteering
@@ -43,11 +43,11 @@ andrea-biondi:
   id: andrea-biondi
   image: /images/twitter/biondi4europe.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.andreabiondi.eu/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/biondi4europe
-    - notes: 'Facebook page'
+    - note: 'Facebook page'
       url: https://www.facebook.com/andreabiondieu
   name: 'Andrea Biondi'
   summary: 'Londoner, Italian, Labour & Professor of European Law @KCL_Law
@@ -60,11 +60,11 @@ angeliki-stogia:
   id: angeliki-stogia
   image: /images/twitter/Angeliki4eu.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.angeliki4eu.org/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/Angeliki4eu
-    - notes: 'Facebook page'
+    - note: 'Facebook page'
       url: https://www.facebook.com/astogia
   name: 'Angeliki Stogia'
   summary: 'North West 2014 European Elections Candidate
@@ -76,7 +76,7 @@ ann-reeder:
   id: ann-reeder
   image: /images/twitter/SomersetAnn.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/SomersetAnn
   name: 'Ann Reeder'
   summary: 'Labour candidate for the South West in European Election 2014. Tweets
@@ -87,11 +87,11 @@ anneliese-dodds:
   id: anneliese-dodds
   image: /images/twitter/AnnelieseDodds.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.anneliesedodds.org.uk/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/AnnelieseDodds
-    - notes: 'Facebook page'
+    - note: 'Facebook page'
       url: https://www.facebook.com/anneliesedodds4southeast
   name: 'Anneliese Dodds'
   summary: 'Researcher and lecturer in public policy and campaigner for social justice.'
@@ -101,7 +101,7 @@ ansar-ali-khan:
   id: ansar-ali-khan
   image: /images/twitter/ansar_ali_khan.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/ansar_ali_khan
   name: 'Ansar Ali-Khan'
   summary: 'Councillor for Washwood Heath Ward, Birmingham.  Chair of Hodge Hill Constituency.'
@@ -110,7 +110,7 @@ ansar-ali-khan:
 anthony-ethapemi:
   id: anthony-ethapemi
   links:
-    - notes: Website
+    - note: Website
       url: http://tonyethapemi.com/
   name: 'Anthony Ethapemi'
 
@@ -119,7 +119,7 @@ arlene-mccarthy:
   id: arlene-mccarthy
   image: /images/twitter/EuroMP_ArleneMc.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/EuroMP_ArleneMc
   name: 'Arlene McCarthy'
   summary: 'Labour Euro MP for the North West region. Vice Chair of the European Parliament’s
@@ -130,13 +130,13 @@ asghar-khan:
   id: asghar-khan
   image: /images/twitter/Asghar4Labour.png
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/asgharlab
-    - notes: 'Facebook page'
+    - note: 'Facebook page'
       url: https://www.facebook.com/asghar.khan.96
-    - notes: 'Campaign Twitter account'
+    - note: 'Campaign Twitter account'
       url: https://twitter.com/Asghar4Labour
-    - notes: Website
+    - note: Website
       url: http://www.asgharkhan4yorkshumber.org
   name: 'Asghar Khan'
   summary: 'Labour candidate for Yorkshire & Humberside in the forthcoming EU Elections.
@@ -147,11 +147,11 @@ asim-khan:
   id: asim-khan
   image: /images/twitter/asim_rel.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.asimkhan.org/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/asim_rel
-    - notes: 'Facebook page'
+    - note: 'Facebook page'
       url: https://www.facebook.com/asim2208
   name: 'Asim Khan'
   summary: 'Employment Lawyer and Prospective Scottish Labour candidate for the 2014
@@ -171,7 +171,7 @@ bhavna-joshi:
   id: bhavna-joshi
   image: /images/twitter/BhavnaJoshi.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/BhavnaJoshi
   name: 'Bhavna Joshi'
   summary: 'A busy bee with an interest in all things politics and health services.'
@@ -180,9 +180,9 @@ bhavna-joshi:
 catherine-stihler:
   id: catherine-stihler
   links:
-    - notes: Website
+    - note: Website
       url: http://www.cstihlermep.com/
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Catherine_Stihler
   name: 'Catherine Stihler'
 
@@ -203,11 +203,11 @@ christina-rees:
   id: christina-rees
   image: /images/twitter/ReesEurope.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://christinarees.co.uk/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/ReesEurope
-    - notes: 'Facebook page'
+    - note: 'Facebook page'
       url: https://www.facebook.com/groups/594311520593518/
   name: 'Christina Rees'
   summary: 'Keen campaigner for Labour, councillor in   Bridgend, eager to take our
@@ -223,9 +223,9 @@ clare-moody:
   id: clare-moody
   image: /images/twitter/ClareMMoody.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/ClareMMoody
-    - notes: Website
+    - note: Website
       url: http://www.claremoody.org/
   name: 'Clare Moody'
   summary: 'SW Labour European list candidate, @UnitetheUnion official in the South
@@ -236,11 +236,11 @@ claude-moraes:
   id: claude-moraes
   image: /images/twitter/ClaudeMoraesMEP.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.claudemoraes.com/
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Claude_Moraes
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/ClaudeMoraesMEP
   name: 'Claude Moraes'
   summary: 'MEP for London. Deputy Leader, European Parliamentary Labour Party. Socialist
@@ -251,11 +251,11 @@ darren-hughes:
   id: darren-hughes
   image: /images/twitter/darrenjlhughes.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.darrenjlhughes.com/
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Darren_Hughes
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/darrenjlhughes
   name: 'Darren Hughes'
   summary: 'Labour/Coop Party MEP Candidate for Yorkshire and the Humber Region.   Chairman
@@ -266,11 +266,11 @@ david-martin:
   id: david-martin
   image: /images/twitter/davidmartinmep.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.martinmep.com/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/davidmartinmep
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/David_Martin_(Scottish_politician)
   name: 'David Martin'
   summary: 'Scotland''s senior European MEP, former Vice-President of the European
@@ -286,7 +286,7 @@ derek-munn:
   id: derek-munn
   image: /images/twitter/Derek4Europe.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/Derek4Europe
   name: 'Derek Munn'
   summary: 'Prospective Scottish Labour candidate for the 2014 European elections'
@@ -296,9 +296,9 @@ derek-vaughan:
   email: contact@derekvaughanmep.org.uk
   id: derek-vaughan
   links:
-    - notes: Website
+    - note: Website
       url: http://www.derekvaughanmep.org.uk/
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Derek_Vaughan
   name: 'Derek Vaughan'
 
@@ -307,7 +307,7 @@ eleanor-tunnicliffe:
   id: eleanor-tunnicliffe
   image: /images/twitter/ejtunnicliffe.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/ejtunnicliffe
   name: 'Eleanor Tunnicliffe'
   summary: 'Labour activist, trade unionist, lawyer, cyclist, swimmer, feminist, hiker
@@ -318,9 +318,9 @@ emily-westley:
   id: emily-westley
   image: /images/twitter/emilywestley.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.emilywestley.eu/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/emilywestley
   name: 'Emily Westley'
   summary: 'Labour prospective South East England MEP. Married mother of 2 teenagers,
@@ -332,11 +332,11 @@ farah-nazeer:
   id: farah-nazeer
   image: /images/twitter/FarahNazeer.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://farahnazeerlabour.com/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/FarahNazeer
-    - notes: 'Facebook page'
+    - note: 'Facebook page'
       url: https://www.facebook.com/farah.nazeer.54
   name: 'Farah Nazeer'
   summary: 'Director of Policy & Campaigns at Bond. Newham Councillor. Concerned about
@@ -349,11 +349,11 @@ glenis-willmot:
   id: glenis-willmot
   image: /images/twitter/GlenisWillmott.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.gleniswillmott.eu/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/GlenisWillmott
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Glenis_Willmott
   name: 'Glenis Willmott'
   summary: 'Labour''s Leader in Europe and MEP for the East Midlands.'
@@ -362,7 +362,7 @@ glenis-willmot:
 glyn-ford:
   id: glyn-ford
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Glyn_Ford
   name: 'Glyn Ford'
 
@@ -371,11 +371,11 @@ hadleigh-roberts:
   id: hadleigh-roberts
   image: /images/twitter/HadleighRoberts.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://hadleighroberts.com/
-    - notes: 'Facebook page'
+    - note: 'Facebook page'
       url: https://www.facebook.com/HadleighEU
-    - notes: 'Twitter acount'
+    - note: 'Twitter acount'
       url: https://twitter.com/HadleighRoberts
   name: 'Hadleigh Roberts'
   summary: 'French/Spanish translator, inc François Hollande''s manifesto and EU docs.
@@ -386,9 +386,9 @@ helen-mirfin-boukouris:
   id: helen-mirfin-boukouris
   image: /images/twitter/MirfinBoukouris.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://helenmb.org.uk/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/MirfinBoukouris
   name: 'Helen Mirfin-Boukouris'
   summary: 'BA(Hons).MBA. City Councillor for Beighton Ward. Euro Election Candidate
@@ -400,9 +400,9 @@ ivana-bartoletti:
   id: ivana-bartoletti
   image: /images/twitter/IvanaBartoletti.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.ivanabartoletti.co.uk/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/IvanaBartoletti
   name: 'Ivana Bartoletti'
   summary: 'London Labour candidate for the 2014 European elections. NHS worker and
@@ -413,9 +413,9 @@ james-swindlehurst:
   id: james-swindlehurst
   image: /images/twitter/jamesswindy.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://jamesswindlehurst.com/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/jamesswindy
   name: 'James Swindlehurst'
   summary: 'Labour South East MEP Candidate, Labour Activist, Deputy Leader of Slough
@@ -426,7 +426,7 @@ james-watkins:
   id: james-watkins
   image: /images/twitter/watkins_js.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/watkins_js
   name: 'James Watkins'
   summary: 'Labour European Parliamentary Candidate for the South East'
@@ -436,9 +436,9 @@ jayne-bryant:
   id: jayne-bryant
   image: /images/twitter/JBryantWales.jpg
   links:
-    - notes: Website
+    - note: Website
       url: https://twitter.com/JBryantWales
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: http://bryant4wales.com/
   name: 'Jayne Bryant'
   summary: 'Member of Welsh Labour team for European elections 2014. Union & Co-op
@@ -449,9 +449,9 @@ jayne-shotton:
   id: jayne-shotton
   image: /images/twitter/jshttn.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/jshttn
-    - notes: Website
+    - note: Website
       url: http://jayneforyourmep.co.uk
   name: 'Jayne Shotton'
   summary: 'Trade union organiser, live and work in the North East,2014 European labour
@@ -462,11 +462,11 @@ john-howarth:
   id: john-howarth
   image: /images/twitter/johnhowarth1958.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.johnhowarth.com/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/johnhowarth1958
-    - notes: 'Facebook page'
+    - note: 'Facebook page'
       url: https://www.facebook.com/john.howarth
   name: 'John Howarth'
   summary: 'Businessman (@publicimpact1), strategist, journalist, musician (@albionterraceuk),
@@ -477,9 +477,9 @@ jude-robinson:
   id: jude-robinson
   image: /images/twitter/Juderobinson.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/Juderobinson
-    - notes: Website
+    - note: Website
       url: http://juderobinson.wordpress.com/
   name: 'Jude Robinson'
   summary:
@@ -489,9 +489,9 @@ judith-kirton-darling:
   id: judith-kirton-darling
   image: /images/twitter/Jude_KD.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/Jude_KD
-    - notes: 'Facebook page'
+    - note: 'Facebook page'
       url: https://www.facebook.com/Jude4thenorthEast
   name: 'Judith Kirton-Darling'
   summary: 'European TUC Confederal Secretary. Proud to be from Boro. Quaker. Labour.
@@ -502,7 +502,7 @@ julie-ward:
   id: julie-ward
   image: /images/twitter/julie4nw.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/julie4nw
   name: 'Julie Ward'
   summary: 'Poet & community/cultural activist: social change via empowerment of ordinary
@@ -514,11 +514,11 @@ junab-ali:
   id: junab-ali
   image: /images/twitter/junabali.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://junabali.com/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/junabali
-    - notes: 'Facebook page'
+    - note: 'Facebook page'
       url: https://www.facebook.com/pages/Junab-Ali-for-Labour-Candidate-South-West-MEP/128610430667859
   name: 'Junab Ali'
   summary:
@@ -528,9 +528,9 @@ kamaljeet-jandu:
   id: kamaljeet-jandu
   image: /images/twitter/KamaljeetJandu.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/KamaljeetJandu
-    - notes: Website
+    - note: Website
       url: http://www.kamaljeetjandu.org.uk/
   name: 'Kamaljeet Jandu'
   summary: 'London Labour Party candidate European Elections 2014. Aspiring 4 equality,
@@ -541,9 +541,9 @@ karen-landles:
   id: karen-landles
   image: /images/twitter/karenlandles.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://karenlandles.org.uk/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/karenlandles
   name: 'Karen Landles'
   summary: 'Change is easy; change for the better takes a bit more thought. Politics,
@@ -554,9 +554,9 @@ katrina-murray:
   id: katrina-murray
   image: /images/twitter/katrinamurray71.jpg
   links:
-    - notes: 'Campaign Facebook page'
+    - note: 'Campaign Facebook page'
       url: https://www.facebook.com/VoteKatrinaMurray
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/katrinamurray71
   name: 'Katrina Murray'
   summary: 'Trade unionist, Labour Party activist, NHS worker, Football supporter.  All
@@ -567,9 +567,9 @@ kevin-doran:
   id: kevin-doran
   image: /images/twitter/KevinDoranEU.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.kevindoran.eu/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/KevinDoranEU
   name: 'Kevin Doran'
   summary: 'Editor of http://t.co/J3l6yuBRfI.'
@@ -585,7 +585,7 @@ kirsty-o-brien:
   id: kirsty-o-brien
   image: /images/twitter/Coisty_OB.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/Coisty_OB
     - note: 'Campaign Facebook page'
       url: https://www.facebook.com/Kirsty4Europe
@@ -598,11 +598,11 @@ linda-mcavan:
   id: linda-mcavan
   image: /images/twitter/LindaMcAvanMEP.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.lindamcavanmep.org.uk/
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Linda_McAvan
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/LindaMcAvanMEP
   name: 'Linda McAvan'
   summary: 'Labour MEP for Yorkshire and The Humber'
@@ -613,7 +613,7 @@ linda-woodings:
   id: linda_woodings
   image: /images/twitter/LindaWoodings.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/LindaWoodings
   name: 'Linda Woodings'
   summary: 'Labour Candidate for Europe in the East Midlands, CWU Political Officer
@@ -624,9 +624,9 @@ lucy-anderson:
   id: lucy-anderson
   image: /images/twitter/Lucy4MEP.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.lucyanderson.org/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/Lucy4MEP
   name: 'Lucy Anderson'
   summary: 'Active in Labour, trade union, Co-op. For Social Europe & saving public
@@ -638,11 +638,11 @@ lynda-waltho:
   id: lynda-waltho
   image: /images/twitter/LW4WM.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/LW4WM
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Lynda_Waltho
-    - notes: 'Former Labour MP for Stourbridge (They Work For You)'
+    - note: 'Former Labour MP for Stourbridge (They Work For You)'
       url: http://www.theyworkforyou.com/mp/11845/lynda_waltho/stourbridge
   name: 'Lynda Waltho'
   summary: 'Former Teacher, Stourbridge MP and West Midlands'' Regional Minister.
@@ -659,9 +659,9 @@ maggie-hughs:
   id: maggie-hughs
   image: /images/twitter/EUMaggie_Hughes.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/EUMaggie_Hughes
-    - notes: Website
+    - note: Website
       url: http://www.maggiehughes.org.uk/
   name: 'Maggie Hughs'
   summary: 'Victims'' rights campaigner in Europe. Active trade unionist and Labour
@@ -672,11 +672,11 @@ mary-honeyball:
   id: mary-honeyball
   image: /images/twitter/maryhoneyball.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://thehoneyballbuzz.com/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/maryhoneyball
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Mary_Honeyball
   name: 'Mary Honeyball'
   summary: 'I was elected to the European Parliament in 2000, as a Labour Member for
@@ -698,7 +698,7 @@ naseem-ayub:
   id: naseem-ayub
   image: /images/twitter/VoteNaseem4MEP.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/VoteNaseem4MEP
   name: 'Naseem Ayub'
   summary: 'Labour MEP candidate for the Eastern Region,
@@ -712,9 +712,9 @@ neena-gill:
   id: neena-gill
   image: /images/twitter/neenaformep.jpg
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Neena_Gill
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/neenaformep
   name: 'Neena Gill'
   summary: 'Neena Gill'
@@ -724,9 +724,9 @@ nick-wallis:
   id: nick-wallis
   image: /images/twitter/cllrnickwallis.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.nickwallis4northeast.co.uk/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/cllrnickwallis
   name: 'Nick Wallis'
   summary: 'Labour Councillor, husband and dad from Darlington.  Campaigning to feature
@@ -738,7 +738,7 @@ nicki-brooks:
   id: nicki-brooks
   image: /images/twitter/NickiBrooksx.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/NickiBrooksx
   name: 'Nicki Brooks'
   summary: 'Labour Cllr at Gedling BC & Deputy Whip Notts CC, anti-fur campaigner,
@@ -750,9 +750,9 @@ olwen-hamer:
   id: olwen-hamer
   image: /images/twitter/OlwenHamer.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://olwenhamer.com/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/OlwenHamer
   name: 'Olwen Hamer'
   summary:
@@ -763,9 +763,9 @@ pascale-lamb:
   id: pascale-lamb
   image: /images/twitter/PascaleLamb.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/PascaleLamb
-    - notes: Website
+    - note: Website
       url: http://pascalelamb.wordpress.com/
   name: 'Pascale Lamb'
   summary: 'North-West Labour candidate for Euro 2014 elelctions. Work on economic
@@ -792,9 +792,9 @@ paul-brannen:
   id: paul-brannen
   image: /images/twitter/PaulBrannenNE.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.paulbrannen.co.uk/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/PaulBrannenNE
   name: 'Paul Brannen'
   summary: 'One of the team of three Labour Candidates in the North East for the European
@@ -805,7 +805,7 @@ phil-bloomer:
   id: phil-bloomer
   image: /images/twitter/pbloomer.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/pbloomer
   name: 'Phil Bloomer'
   summary: 'Business and Human Rights Resource Centre, Executive Director, tweeting
@@ -816,11 +816,11 @@ richard-corbett:
   id: richard-corbett
   image: /images/twitter/RichardC2014.png
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Richard_Corbett
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/RichardC2014
-    - notes: Website
+    - note: Website
       url: http://www.richardcorbett.org.uk/
   name: 'Richard Corbett'
   summary: 'Richard Corbett, Yorkshire Labour MEP 1997-2009 and #2 prospective candidate
@@ -829,16 +829,16 @@ richard-corbett:
 
 richard-howitt:
   biography: 'Richard Howitt MEP is seeking re-election as the longest-serving of
-    the region''''s existing Members of the European Parliament and having received
-    the accolade of being voted for unanimously by Labour''''s local constituencies
+    the region''s existing Members of the European Parliament and having received
+    the accolade of being voted for unanimously by Labour''s local constituencies
     to stand again in 2014. Within the region, Richard has been the leading advocate
     for European projects, championing funding for local businesses to be more environmentally-friendly,
     new investment in local transport routes and being responsible for extending twinned
     projects with partners on the French, Dutch and Belgian coast. In the European
-    Parliament Richard is an acknowledged expert on employment and on Europe''''s
+    Parliament Richard is an acknowledged expert on employment and on Europe''s
     relations with the wider world, and has written the European policies on business
     ethics and on human rights. Before becoming an MEP, Richard worked for a disabled
-    persons'''' charity and he now serves as vice-chair of the all-party Disability
+    persons'' charity and he now serves as vice-chair of the all-party Disability
     Rights Group of MEPs. Outside politics, Richard is dedicated to his partner and
     two children, and is a keen fan of cricket, football and other sports. source:
     http://www.easthertslabour.org/'
@@ -847,11 +847,11 @@ richard-howitt:
   id: richard-howitt
   image: /images/twitter/richardhowitt.png
   links:
-    - notes: Website
+    - note: Website
       url: http://www.richardhowittmep.com/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/richardhowitt
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Richard_Howitt_(politician)
   name: 'Richard Howitt'
   summary: 'Labour MEP for Essex, Herts, Beds, Cambs, Norfolk, Suffolk. Foreign Affairs
@@ -863,9 +863,9 @@ rory-palmer:
   id: rory-palmer
   image: /images/twitter/Rory_Palmer.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://rorypalmer.org/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/Rory_Palmer
   name: 'Rory Palmer'
   summary: 'Labour Candidate European Elections 2014, East Midlands | Deputy City
@@ -876,9 +876,9 @@ sanchia-alasia:
   id: sanchia-alasia
   image: /images/twitter/sanchia4europe.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://sanchiaalasia.com/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/sanchia4europe
   name: 'Sanchia Alasia'
   summary: 'Labour party candidate for the European elections 2014 (London region)
@@ -895,7 +895,7 @@ sandy-martin:
   id: sandy-martin
   image: /images/twitter/sandyofipswich.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/sandyofipswich
   name: 'Sandy Martin'
   summary: 'Labour Candidate for Eastern Region 2014, Leader Suffolk County Labour
@@ -906,9 +906,9 @@ seb-dance:
   id: seb-dance
   image: /images/twitter/SebDance.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/SebDance
-    - notes: Website
+    - note: Website
       url: http://www.sebdance.com/
   name: 'Seb Dance'
   summary: 'Labour candidate in the European Elections in London; standing for a Europe
@@ -919,11 +919,11 @@ sion-simon:
   id: sion-simon
   image: /images/twitter/sionsimon.jpg
   links:
-    - notes: 'Wikipedia page'
+    - note: 'Wikipedia page'
       url: https://en.wikipedia.org/wiki/Si%C3%B4n_Simon
-    - notes: Website
+    - note: Website
       url: http://www.sion-simon.org.uk/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/sionsimon
   name: 'Sion Simon'
   summary: 'writer and politician'
@@ -933,9 +933,9 @@ steve-carter:
   id: steve-carter
   image: /images/twitter/SteveCarter001.jpg
   links:
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/SteveCarter001
-    - notes: Website
+    - note: Website
       url: http://steve-carter.co.uk/
   name: 'Steve Carter'
   summary: 'Labour councillor for Hurdsfield Macclesfield'
@@ -945,9 +945,9 @@ theresa-griffin:
   id: theresa-griffin
   image: /images/twitter/TheresaG_EU.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://theresagriffin.eu/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/TheresaG_EU
   name: 'Theresa Griffin'
   summary: 'NW Labour activist. National Policy Forum rep. Member of UNITE and Co-operatve
@@ -959,9 +959,9 @@ tracey-simpson-lang:
   id: tracey-simpson-lang
   image: /images/twitter/cllrtraceysl.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://tracey4mep.wordpress.com/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/cllrtraceysl
   name: 'Tracey Simpson-Lang'
   summary: 'Labour Cllr Acomb York, Deputy Leader of the Council /Cabinet Member for
@@ -973,9 +973,9 @@ wajid-khan:
   id: wajid-khan
   image: /images/twitter/wajid4europe.jpg
   links:
-    - notes: Website
+    - note: Website
       url: http://www.wajidkhan4europe.co.uk/
-    - notes: 'Twitter account'
+    - note: 'Twitter account'
       url: https://twitter.com/wajid4europe
   name: 'Wajid Khan'
   summary: 'Wajid Khan is on the final MEP shortlist for the Labour party in the North

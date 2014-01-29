@@ -25,10 +25,10 @@ layout: default
       <div class='col-md-12'>
         <ul class='links'>
         {% for link in person.links %}
-          <li><a href='{{ link.url }}'>{{ link.notes }}</a></li>
+          <li><a href='{{ link.url }}'>{{ link.note }}</a></li>
         {% endfor %}
         {% for link in page.links %}
-          <li><a href='{{ link.url }}'>{{ link.notes }}</a></li>
+          <li><a href='{{ link.url }}'>{{ link.note }}</a></li>
         {% endfor %}
         </ul>
       </div>
@@ -42,19 +42,20 @@ layout: default
       </div>
     </div>
     {% endif %}
-    {% if person.description %}
+    {% if person.biography %}
     <div class='row'>
       <div class='col-md-12'>
-        <h3>Description</h3>
-        <p class='quote'>{{ person.description }}</p>
+        <h3>Biography</h3>
+        <p class='quote'>{{ person.biography }}</p>
       </div>
     </div>
     {% endif %}
-    {% if person.twitter_description %}
+    {% if person.summary %}
     <div class='row'>
       <div class='col-md-12'>
-        <h3>Twitter description</h3>
-        <p class='quote'>{{ person.twitter_description }}</p>
+        <h3>Summary</h3>
+        <p class='quote'>{{ person.summary }}</p>
+        <p class='attrib'>From their Twitter account</p>
       </div>
     </div>
     {% endif %}
