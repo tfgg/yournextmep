@@ -100,3 +100,13 @@ ukip:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/UK_Independence_Party
+      
+wdar:
+  classification: Party
+  id: wdar
+  name: We Demand a Referendum
+  founding_date: 2012-1-1
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/We_Demand_a_Referendum
+    
