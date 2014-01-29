@@ -109,4 +109,39 @@ wdar:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/We_Demand_a_Referendum
+
+sinn-fein:
+  classification: Party
+  id: sinn-fein
+  name: Sinn Féin
+  links:
+    - note: "Wikipedia article"
+      url: https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
+      
+sdlp:
+  classification: Party
+  id: sdlp
+  name: Social Democratic and Labour Party
+  links:
+    - note: "Wikipedia article"
+      url: https://en.wikipedia.org/wiki/Social_Democratic_and_Labour_Party
+      
+
+dup:
+  classification: Party
+  id: dup
+  name: Democratic Unionist Party
+  founding_date: 1971-9-30
+  links:
+    - note: "Wikipedia article"
+      url: https://en.wikipedia.org/wiki/Democratic_Unionist_Party
     
+uup:
+  classification: Party
+  id: uup
+  name: Ulster Unionist Party
+  founding_date: 1905-1-1
+  links:
+    - note: "Wikipedia article"
+      url: https://en.wikipedia.org/wiki/Ulster_Unionist_Party
+
