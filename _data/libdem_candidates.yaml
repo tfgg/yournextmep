@@ -1,0 +1,99 @@
+yorkshire-and-the-humber:
+  - name: Edward McMillan-Scott
+    wikipedia: https://en.wikipedia.org/wiki/Edward_McMillan-Scott
+  - name: James Monaghan
+  - name: Joe Otten
+  - name: Chris Foote-Wood
+  - name: Jacqueline Bell
+
+east-midlands:
+  - name: Bill Newton Dunn
+    wikipedia: https://en.wikipedia.org/wiki/Bill_Newton_Dunn
+  - name: Issan Ghazni
+  - name: Phil Knowles
+  - name: George Smid
+  - name: Deborah Newton-Cook
+
+west-midlands:
+  - name: Phil Bennion
+    wikipedia: https://en.wikipedia.org/wiki/Phil_Bennion
+  - name: Jonathan Webber
+  - name: Christine Tinker
+  - name: Ayoub Khan
+  - name: Tim Bearder
+  - name: Joanna Corbin
+  - name: Neville Farmer
+
+eastern:
+  - name: Andrew Duff
+    wikipedia: https://en.wikipedia.org/wiki/Andrew_Duff
+  - name: Josephine Hayes
+  - name: Belinda Brooks-Gordon
+  - name: Stephen Robinson
+  - name: Michael Green
+  - name: Linda Jack
+  - name: Hugh Annand
+
+london:
+  - name: Sarah Ludford
+    wikipedia: https://en.wikipedia.org/wiki/Sarah_Ludford
+  - name: Jonathan Fryer
+    wikipedia: https://en.wikipedia.org/wiki/Jonathan_Fryer
+  - name: Richard Davis
+  - name: Anuja Prashar
+  - name: Rosina Robson
+  - name: Turhan Ozen
+  - name: Simon James
+  - name: Matt McLaren
+
+north-east:
+  - name: Angelika Schneider
+  - name: Owen Temple
+  - name: Christian Vassie
+
+north-west:
+  - name: Chris Davies
+    wikipedia: https://en.wikipedia.org/wiki/Chris_Davies
+  - name: Helen Foster-Grime
+  - name: Jo Crotty
+  - name: Qassim Afzal
+  - name: Jane Brophy
+  - name: Sue McGuire
+  - name: Gordon Lishman
+  - name: Neil Christian
+
+south-east:
+  - name: Catherine Bearder
+    wikipedia: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
+  - name: Anthony Hook
+  - name: Dinti Batstone
+  - name: Giles Goodall
+  - name: Ian Bearder
+  - name: Allis Moss
+  - name: Steve Sollitt
+  - name: Bruce Tennent
+  - name: John Vincent
+  - name: Alan Bullion
+
+south-west:
+  - name: Graham Watson
+    wikipedia: https://en.wikipedia.org/wiki/Graham_Watson
+  - name: Kay Barnard
+  - name: Brian Matthew
+  - name: Andrew Wigley
+  - name: Jay Risbridger
+
+scotland:
+  - name: George Lyon
+    wikipedia: https://en.wikipedia.org/wiki/George_Lyon_(Scottish_politician)
+  - name: Christine Jardine
+  - name: Lisa Strachan
+  - name: Richard Brodie
+  - name: Jade Holden
+
+wales:
+  - name: Alec Dauncey
+  - name: Rob Speht
+  - name: Anna White
+  - name: Bruce Roberts
+  
