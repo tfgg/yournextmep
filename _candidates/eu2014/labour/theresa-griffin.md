@@ -1,8 +1,9 @@
 ---
 layout: candidate
+permalink: candidates/eu2014/labour/theresa-griffin/
 categories: candidate labour
 election: eu2014
-list-rank: 4
+list-rank: 1
 person: theresa-griffin
 region: north-west
 party: labour

@@ -67,7 +67,7 @@ angeliki-stogia:
     - note: 'Facebook page'
       url: https://www.facebook.com/astogia
   name: 'Angeliki Stogia'
-  summary: 'North West 2014 European Elections Candidate
+  summary: 'North West 2014 European Elections Candidate 
 
     #VCS #EU funding specialist, #WhalleyRange Labour Cllr, Labour activist,'
 
@@ -105,14 +105,6 @@ ansar-ali-khan:
       url: https://twitter.com/ansar_ali_khan
   name: 'Ansar Ali-Khan'
   summary: 'Councillor for Washwood Heath Ward, Birmingham.  Chair of Hodge Hill Constituency.'
-
-
-anthony-ethapemi:
-  id: anthony-ethapemi
-  links:
-    - note: Website
-      url: http://tonyethapemi.com/
-  name: 'Anthony Ethapemi'
 
 
 arlene-mccarthy:
@@ -169,12 +161,17 @@ bhavna-joshi:
   email: bhavna77joshi@hotmail.com
   gender: female
   id: bhavna-joshi
-  image: /images/twitter/BhavnaJoshi.jpg
+  image: /images/twitter/VoteJoshi.jpg
   links:
     - note: 'Twitter account'
       url: https://twitter.com/BhavnaJoshi
+    - note: Website
+      url: http://www.votejoshi4mep.co.uk/
+    - note: 'Campaign Twitter account'
+      url: https://twitter.com/VoteJoshi
   name: 'Bhavna Joshi'
-  summary: 'A busy bee with an interest in all things politics and health services.'
+  summary: 'Campaigning to be selected as the number one woman Labour MEP candidate
+    for the Eastern Region (2014) in the OMOV Ballot.'
 
 
 catherine-stihler:
@@ -581,8 +578,8 @@ khalid-hadadi:
   name: 'Khalid Hadadi'
 
 
-kirsty-o-brien:
-  id: kirsty-o-brien
+kirsty-obrien:
+  id: kirsty-obrien
   image: /images/twitter/Coisty_OB.jpg
   links:
     - note: 'Twitter account'
@@ -615,6 +612,8 @@ linda-woodings:
   links:
     - note: 'Twitter account'
       url: https://twitter.com/LindaWoodings
+    - note: 'Campaign website'
+      url: http://www.Linda4Europe.org
   name: 'Linda Woodings'
   summary: 'Labour Candidate for Europe in the East Midlands, CWU Political Officer
     for the East Midlands, a committed Labour Party member & activist.'
@@ -655,15 +654,15 @@ lynda-waltho:
     at Keele University.'
 
 
-maggie-hughs:
-  id: maggie-hughs
+maggie-hughes:
+  id: maggie-hughes
   image: /images/twitter/EUMaggie_Hughes.jpg
   links:
     - note: 'Twitter account'
       url: https://twitter.com/EUMaggie_Hughes
     - note: Website
       url: http://www.maggiehughes.org.uk/
-  name: 'Maggie Hughs'
+  name: 'Maggie Hughes'
   summary: 'Victims'' rights campaigner in Europe. Active trade unionist and Labour
     party activist. Candidate in the European Elections for Labour 2014 in South East.'
 
@@ -688,6 +687,16 @@ mary-honeyball:
     1999, but replaced Pauline Green who resigned as an MEP in November 1999.'
 
 
+michael-hassell:
+  id: michael-hassell
+  image: /images/twitter/MichaelHassell.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/MichaelHassell
+  name: 'Michael Hassell'
+  summary:
+
+
 naseem-ayub:
   biography: 'Born and raised in the Eastern Region in Bedfordshire, Naseem is married
     with four children. She was a teacher before being elected as a Luton Borough
@@ -701,9 +710,9 @@ naseem-ayub:
     - note: 'Twitter account'
       url: https://twitter.com/VoteNaseem4MEP
   name: 'Naseem Ayub'
-  summary: 'Labour MEP candidate for the Eastern Region,
+  summary: 'Labour MEP candidate for the Eastern Region, 
 
-    Biscot Ward Councillor,
+    Biscot Ward Councillor, 
 
     Executive Member Luton Borough Council.'
 
@@ -835,13 +844,12 @@ richard-howitt:
     for European projects, championing funding for local businesses to be more environmentally-friendly,
     new investment in local transport routes and being responsible for extending twinned
     projects with partners on the French, Dutch and Belgian coast. In the European
-    Parliament Richard is an acknowledged expert on employment and on Europe''s
-    relations with the wider world, and has written the European policies on business
-    ethics and on human rights. Before becoming an MEP, Richard worked for a disabled
-    persons'' charity and he now serves as vice-chair of the all-party Disability
-    Rights Group of MEPs. Outside politics, Richard is dedicated to his partner and
-    two children, and is a keen fan of cricket, football and other sports. source:
-    http://www.easthertslabour.org/'
+    Parliament Richard is an acknowledged expert on employment and on Europe''s relations
+    with the wider world, and has written the European policies on business ethics
+    and on human rights. Before becoming an MEP, Richard worked for a disabled persons''
+    charity and he now serves as vice-chair of the all-party Disability Rights Group
+    of MEPs. Outside politics, Richard is dedicated to his partner and two children,
+    and is a keen fan of cricket, football and other sports. source: http://www.easthertslabour.org/'
   email: constituency@richardhowittme.com
   gender: male
   id: richard-howitt
@@ -897,6 +905,8 @@ sandy-martin:
   links:
     - note: 'Twitter account'
       url: https://twitter.com/sandyofipswich
+    - note: Website
+      url: http://sandymartin4europe.com/
   name: 'Sandy Martin'
   summary: 'Labour Candidate for Eastern Region 2014, Leader Suffolk County Labour
     Group - Labour is my party, democratic socialism my creed, environment my passion'
@@ -952,6 +962,14 @@ theresa-griffin:
   name: 'Theresa Griffin'
   summary: 'NW Labour activist. National Policy Forum rep. Member of UNITE and Co-operatve
     Party. Work for UNISON. European Parliamentary candidate for 2014. Views my own.'
+
+
+tony-ethapemi:
+  id: tony-ethapemi
+  links:
+    - note: Website
+      url: http://tonyethapemi.com/
+  name: 'Tony Ethapemi'
 
 
 tracey-simpson-lang:
