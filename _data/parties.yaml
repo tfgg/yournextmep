@@ -20,3 +20,47 @@ labour:
   name: Labour
   other_names:
     - name: 'Labour Party'
+
+
+green:
+  classification: Party
+  id: green
+  name: Green
+  founding_date: 1990-1-1
+  other_names:
+    - name: 'Green Party of England and Wales'
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+
+
+lib-dem:
+  classification: Party
+  id: lib-dem
+  name: Liberal Democrats
+  founding_date: 1988-3-3
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Liberal_Democrats_(UK)
+
+
+plaid-cymru:
+  classification: Party
+  id: plaid-cymru
+  name: Plaid Cymru
+  founding_date: 1925-8-5
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Plaid_Cymru
+
+
+ukip:
+  classification: Party
+  id: ukip
+  name: UKIP
+  other_names:
+    - name: 'UK Independence Party'
+  founding_date: 1993-9-3
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/UK_Independence_Party
