@@ -575,52 +575,94 @@ sajjad-karim:
 sheila-lawlor:
   id: sheila-lawlor
   name: 'Sheila Lawlor'
+  email: sheila_lawlor@yahoo.com
+  links:
+    - url: http://www.sheilalawlor.org/
+      note: Website
 
 
 sibby-buckle:
   id: sibby-buckle
   name: 'Sibby Buckle'
+  links:
+    - url: https://twitter.com/sibbuc
+      note: Twitter account
+    - 
 
 
 sophie-swire:
   id: sophie-swire
   name: 'Sophie Swire'
+  links:
+    - url: http://www.sophieswire.com/
+      note: Website
+    - url: https://twitter.com/SwireSophie
+      note: Twitter account
+    - url: https://en.wikipedia.org/wiki/Sophia_Swire
+      note: Wikipedia article
 
 
 stephen-castens:
   id: stephen-castens
+  email: stephenc@emidsconservatives.com
   name: 'Stephen Castens'
+  links:
+    - url: http://www.southleicestershire.org/person/stephen-castens
+      note: Local party page
 
 
 stuart-mcintyre:
   id: stuart-mcintyre
   name: 'Stuart Mcintyre'
+  links:
+    - url: https://twitter.com/stuartgmcintyre
+      note: Twitter account
+    - url: http://agtot.com/
+      note: Website
 
 
 syed-kamall:
   id: syed-kamall
+  email: Syed.Kamall@europarl.europa.eu
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Syed_Kamall
+    - note: Website
+      url: http://www.syedkamall.co.uk/
+    - note: Twitter account
+      url: https://twitter.com/SyedKamall
   name: 'Syed Kamall'
 
 
 timothy-kirkhope:
   id: timothy-kirkhope
+  email: timothy.kirkhope@europarl.europa.eu
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Timothy_Kirkhope
+    - note: Website
+      url: http://www.kirkhope.org.uk/
+    - note: Twitter account
+      url: https://twitter.com/TimKirkhopeMEP
   name: 'Timothy Kirkhope'
 
 
 tom-hunt:
   id: tom-hunt
   name: 'Tom Hunt'
+  links:
+    - note: Twitter account
+      url: https://twitter.com/cllrtomhunt1
 
 
 vicky-ford:
   id: vicky-ford
+  email: office@vickyford.org
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Vicky_Ford
+    - note: Website
+      url: http://www.vickyford.org/
+    - note: Twitter account
+      url: https://twitter.com/vickyford
   name: 'Vicky Ford'
