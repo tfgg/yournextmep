@@ -207,16 +207,31 @@ james-cole:
 jane-collins:
   id: jane-collins
   name: 'Jane Collins'
+  links:
+    - url: https://twitter.com/Jane4ukip
+      note: Twitter account
 
 
 janice-atkinson:
   id: janice-atkinson
   name: 'Janice Atkinson'
+  links:
+    - url: https://twitter.com/JaniceUKIP
+      note: Twitter account
+    - url: http://votejaniceatkinsonukip.co.uk/
+      note: Website
 
 
 jason-smith:
   id: jason-smith
   name: 'Jason Smith'
+  links:
+    - url: https://twitter.com/JasonSmithUKIP
+      note: Twitter account
+    - url: http://trance-form.wix.com/jasonsmith
+      note: Website
+    - url: https://www.facebook.com/jason.smith.37454961
+      note: Facebook page
 
 
 jill-seymour:
