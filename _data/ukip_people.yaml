@@ -341,21 +341,43 @@ malcolm-macaskill:
 margot-parker:
   id: margot-parker
   name: 'Margot Parker'
+  links:
+    - url: https://twitter.com/MargotLJParker
+      note: Twitter account
 
 
 michael-green:
   id: michael-green
   name: 'Michael Green'
+  links:
+    - url: https://twitter.com/MikeGreenUKIP
+      note: Twitter account
+    - url: https://www.facebook.com/Burton.UKIP
+      note: Facebook page
+    - url: http://www.youtube.com/channel/UCh9Xum7anC9n3_hqge-7c5A?feature=watch
+      note: Youtube channel
 
 
 michael-heaver:
   id: michael-heaver
   name: 'Michael Heaver'
+  links:
+    - url: https://twitter.com/Michael_Heaver
+      note: Twitter account
+    - url: http://michaelheaversblog.blogspot.co.uk/
+      note: Website
 
 
 michael-mcmanus:
   id: michael-mcmanus
   name: 'Michael McManus'
+  links:
+    - url: https://twitter.com/mcmanusukip
+      note: Twitter account
+    - url: http://michaelmcmanusukip.blogspot.co.uk/
+      note: Website
+    - url: http://www.youtube.com/watch?v=Tkm87MLuJPg
+      note: Youtube channel
 
 
 michael-wrench:
@@ -368,9 +390,13 @@ mick-mcgough:
   name: 'Mick McGough'
 
 
-mike-hooken:
-  id: mike-hooken
-  name: 'Mike Hooken'
+mike-hookem:
+  id: mike-hookem
+  name: 'Mike Hookem'
+  email: mike.hookem@ukipynl.org
+  links:
+    - url: https://twitter.com/Mike_Hookem
+      note: Twitter account
 
 
 mike-scott-hayward:
