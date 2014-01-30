@@ -140,6 +140,9 @@ donna-edmunds:
 elizabeth-jones:
   id: elizabeth-jones
   name: 'Elizabeth Jones'
+  links:
+    - url: https://twitter.com/UKIPbrixtonHill
+      note: Twitter account
 
 
 gary-shores:
@@ -150,6 +153,11 @@ gary-shores:
 gawain-towler:
   id: gawain-towler
   name: 'Gawain Towler'
+  links:
+    - url: https://twitter.com/GawainTowler
+      note: Twitter account
+    - url: http://www.englandexpects.blogspot.co.uk/
+      note: Twitter account
 
 
 gerard-batten:
@@ -157,6 +165,10 @@ gerard-batten:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Gerard_Batten
+    - note: Twitter account
+      url: https://twitter.com/GerardBattenMEP
+    - note: Website
+      url: http://www.gerardbattenmep.co.uk/
   name: 'Gerard Batten'
   wikipedia_biography: 'Gerard Joseph Batten (born 27 March 1954, London) is a Member
     of the European Parliament for London for the United Kingdom Independence Party
@@ -169,16 +181,27 @@ gerard-batten:
 henry-reilly:
   id: henry-reilly
   name: 'Henry Reilly'
+  links:
+    - url: https://twitter.com/HenryReillyukip
+      note: Twitter account
 
 
 james-carver:
   id: james-carver
   name: 'James Carver'
+  links:
+    - url: http://www.jamescarver.org.uk/
+      note: Website
+    - url: https://twitter.com/JamesJimCarver
+      note: Twitter account
 
 
 james-cole:
   id: james-cole
   name: 'James Cole'
+  links:
+    - url: http://www.youtube.com/channel/UCW1gzvYSQcarwkOt2tioO6w?feature=watch
+      note: Youtube channel
 
 
 jane-collins:
