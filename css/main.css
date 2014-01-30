@@ -35,6 +35,13 @@ div.profile-3d img.profile-image {
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
   border-radius: 0;
+
+  -webkit-transition: -webkit-transform 0.1s;
+}
+
+div.profile-3d img.profile-image:hover {
+  -webkit-transform: rotateY( 1deg );
+  transform: rotateY( 1deg );
 }
 
 p.quote {
@@ -66,11 +73,19 @@ ol.candidates li {
   height:150px;
   padding:10px;
   text-align:center;
+  -webkit-perspective: 500px;
+  perspective: 500px;
 }
 
-ol.candidates > li > img.profile-image {
-  width:auto;
-  height:75px;
-  max-width:80px;
+ol.candidates > li > a > img.profile-image {
+  -webkit-transform: translate3d(0,0,1px);
+  transform: translate3d(0,0,1px);
+
+  transition: transform 1s;
+  -webkit-transition: -webkit-transform 0.1s;
 }
 
+ol.candidates > li > a > img.profile-image:hover {
+  -webkit-transform: translate3d(0,0,75px);
+  transform: translate3d(0,0,100px);
+}
