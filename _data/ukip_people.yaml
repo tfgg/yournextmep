@@ -592,6 +592,9 @@ shneur-odze:
 simon-noble:
   id: simon-noble
   name: 'Simon Noble'
+  links:
+    - url: https://twitter.com/NibsNoble
+      note: Twitter account
 
 
 simon-strutt:
@@ -602,11 +605,25 @@ simon-strutt:
 steven-mckeane:
   id: steven-mckeane
   name: 'Steven McKeane'
+  links:
+    - url: https://twitter.com/GalaReiver
+      note: Twitter account
+    - url: http://www.stevenmckeane.org/
+      note: Website
 
 
 steven-woolfe:
   id: steven-woolfe
   name: 'Steven Woolfe'
+  links:
+    - url: https://twitter.com/Steven_Woolfe
+      note: Twitter account
+    - url: http://www.stevenwoolfe.co.uk/
+      note: Website
+    - url: https://www.facebook.com/StevenWoolfeUKIP
+      note: Facebook apge
+    - url: http://www.youtube.com/user/TheBattleforBritain
+      note: Youtube channel
 
 
 stuart-agnew:
@@ -614,7 +631,11 @@ stuart-agnew:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Stuart_Agnew
+    - note: Website
+      url: http://www.stuartagnewmep.co.uk/
+    - note: Website
   name: 'Stuart Agnew'
+  email: ukipeastadmin@intamail.com
   wikipedia_biography: 'John Stuart Agnew (born 30 August 1949 in Norwich) is a Member
     of the European Parliament for the East of England region for the United Kingdom
     Independence Party. He was elected in 2009. He was educated at Gordonstoun School
@@ -626,6 +647,13 @@ stuart-agnew:
 tim-aker:
   id: tim-aker
   name: 'Tim Aker'
+  links:
+    - url: https://twitter.com/Tim_Aker
+      note: Twitter account
+    - url: http://www.timaker.co.uk/
+      note: Website
+    - url: https://www.facebook.com/AkerforEastEngland
+      note: Facebook page
 
 
 tony-mcintyre:
@@ -638,6 +666,8 @@ william-dartmouth:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/William_Legge,_10th_Earl_of_Dartmouth
+    - note: Website
+      url: http://www.williamdartmouth.com/
   name: 'William Dartmouth'
   wikipedia_biography: 'William Legge, 10th Earl of Dartmouth MEP (born 23 September
     1949), is a British politician and hereditary peer. Legge is a Member of the European
