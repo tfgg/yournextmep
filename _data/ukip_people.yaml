@@ -402,11 +402,19 @@ mike-hookem:
 mike-scott-hayward:
   id: mike-scott-hayward
   name: 'Mike Scott-Hayward'
+  links:
+    - url: http://mikescotthayward.blogspot.co.uk/
+      note: Website
+    - url: https://twitter.com/WeLikeMike
+      note: Twitter account
 
 
 nathan-gill:
   id: nathan-gill
   name: 'Nathan Gill'
+  links:
+    - url: https://twitter.com/NathanGillMEP
+      note: Twitter account
 
 
 nigel-farage:
@@ -414,6 +422,10 @@ nigel-farage:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Nigel_Farage
+    - note: Twitter account
+      url: https://twitter.com/Nigel_Farage
+    - note: Website
+      url: http://www.nigelfaragemep.co.uk/
   name: 'Nigel Farage'
   wikipedia_biography: 'Nigel Paul Farage is a British politician and leader of the
     UK Independence Party (UKIP) since 2010; he also held that position from September
@@ -431,21 +443,37 @@ nigel-jones:
 nigel-wickens:
   id: nigel-wickens
   name: 'Nigel Wickens'
+  links:
+    - url: https://twitter.com/NigelWickens
+      note: Twitter account
+    - url: http://nigelwickens.wordpress.com/
+      note: Website
 
 
 otto-inglis:
   id: otto-inglis
   name: 'Otto Inglis'
+  links:
+    - url: https://twitter.com/OttoInglis
+      note: Twitter account
 
 
 patricia-culligan:
   id: patricia-culligan
   name: 'Patricia Culligan'
+  links:
+    - url: http://www.youtube.com/channel/UCmH4qs8Hj6iPsVbX3snlo9Q?feature=watch
+      note: Youtube channel
+    - url: https://twitter.com/CulliganPA
+      note: Twitter account
 
 
 patrick-oflynn:
   id: patrick-oflynn
   name: 'Patrick O''Flynn'
+  links:
+    - url: https://twitter.com/oflynnexpress
+      note: Twitter account
 
 
 paul-henke:
@@ -458,6 +486,10 @@ paul-nuttall:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Paul_Nuttall
+    - note: Website
+      url: http://www.paulnuttallmep.com/
+    - note: Twitter account
+      url: https://twitter.com/paulnuttallukip
   name: 'Paul Nuttall'
   wikipedia_biography: 'Paul Andrew Nuttall MEP (born 30 November 1976, Liverpool)
     is the Deputy Leader of the UK Independence Party and Member of the European Parliament
