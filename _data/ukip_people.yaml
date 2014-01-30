@@ -1,9 +1,12 @@
 alan-stevens:
   id: alan-stevens
-  name: 'Alan Stevens'
+  image: /images/twitter/AWAHStevens.jpg
   links:
-    - url: https://twitter.com/AWAHStevens
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/AWAHStevens
+  name: 'Alan Stevens'
+  summary: 'UKIP Bucks County Councillor for Missenden, Candidate in European Election,
+    and in Chesham & Amersham in 2015.'
 
 
 alastair-mcfarlane:
@@ -12,21 +15,26 @@ alastair-mcfarlane:
 
 
 amjad-bashir:
-  id: amjad-bashir
-  name: 'Amjad Bashir'
   email: amjad.bashir@ukipynl.org
+  id: amjad-bashir
   links:
-    - url: http://www.amjadbashir.co.uk/
-      note: Website
+    - note: Website
+      url: http://www.amjadbashir.co.uk/
+  name: 'Amjad Bashir'
 
 
 andrew-mcneilis:
   id: andrew-mcneilis
-  name: 'Andrew McNeilis'
+  image: /images/twitter/andrewmcneilis.jpg
   links:
-    - url: https://twitter.com/andrewmcneilis
-      note: Twitter account
-    - url: http://www.andrewmcneilis.com
+    - note: 'Twitter account'
+      url: https://twitter.com/andrewmcneilis
+    - note: Website
+      url: http://www.andrewmcneilis.com
+  name: 'Andrew McNeilis'
+  summary: 'Campaigning for Integrated London. Passionate about an independent UK.
+    Ex Army Interested in people, places, learning, laughter, the divine comedy that
+    is life'
 
 
 andrew-smith:
@@ -40,29 +48,34 @@ andy-monk:
 
 
 anne-murgatroy:
+  email: meganne21@hotmail.co.uk
   id: anne-murgatroy
   name: 'Anne Murgatroy'
-  email: meganne21@hotmail.co.uk
 
 
 anthony-brown:
   id: anthony-brown
-  name: 'Anthony Brown'
+  image: /images/twitter/libertariantony.jpg
   links:
-    - url: https://www.facebook.com/anthonybrownukip
-      note: Facebook page
-    - url: https://twitter.com/libertariantony
-      note: Twitter account
+    - note: 'Facebook page'
+      url: https://www.facebook.com/anthonybrownukip
+    - note: 'Twitter account'
+      url: https://twitter.com/libertariantony
+  name: 'Anthony Brown'
+  summary: 'English libertarian committed to small government, low taxes and the maximum
+    individual freedom.  Prospective #UKIP candidate for London, EU elections 2014.'
 
 
 barry-cooper:
   id: barry-cooper
-  name: 'Barry Cooper'
+  image: /images/twitter/waddesdonbaz.jpg
   links:
-    - url: https://twitter.com/waddesdonbaz
-      note: Twitter account
-    - url: barrycooperukip.wordpress.com
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/waddesdonbaz
+    - note: Website
+      url: barrycooperukip.wordpress.com
+  name: 'Barry Cooper'
+  summary: 'UKIP MEP candidate, South East. Chairman, UKIP Buckinghamshire http://t.co/5ABLfZsr8V'
 
 
 barry-mahoney:
@@ -72,30 +85,37 @@ barry-mahoney:
 
 bill-etheridge:
   id: bill-etheridge
-  name: 'Bill Etheridge'
+  image: /images/twitter/milroy666.jpg
   links:
-    - url: http://www.billetheridge.co.uk/
-      note: Website
-    - url: https://twitter.com/milroy666
-      note: Twitter account
+    - note: Website
+      url: http://www.billetheridge.co.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/milroy666
+  name: 'Bill Etheridge'
+  summary: 'UKIP prospective parliamentary candidate Dudley north Black Country Spokesman
+    for the Campaign Against Political Correctness
+
+    Chairman of dudley/halesowen ukip'
 
 
 caroline-jones:
   id: caroline-jones
-  name: 'Caroline Jones'
   links:
-    - url: http://www.youtube.com/channel/UCBIgt5rcAZAeA7RW_OC4xwA?feature=watch
-      note: Youtube channel
+    - note: 'Youtube channel'
+      url: http://www.youtube.com/channel/UCBIgt5rcAZAeA7RW_OC4xwA?feature=watch
+  name: 'Caroline Jones'
 
 
 christopher-monckton:
   id: christopher-monckton
+  image: /images/twitter/chris_monckton.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Christopher_Monckton,_3rd_Viscount_Monckton_of_Brenchley
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/chris_monckton
   name: 'Christopher Monckton'
+  summary:
   wikipedia_biography: 'Christopher Walter Monckton, 3rd Viscount Monckton of Brenchley
     (born 14 February 1952) is a British public speaker and hereditary peer. He is
     known for his work as a journalist, Conservative political advisor, UKIP political
@@ -106,12 +126,14 @@ christopher-monckton:
 
 david-coburn:
   id: david-coburn
-  name: 'David Coburn'
+  image: /images/twitter/DavidCoburnUKip.jpg
   links:
-    - url: https://twitter.com/DavidCoburnUKip
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/DavidCoburnUKip
     - note: Website
       url: http://davidcoburnukip.blogspot.co.uk/
+  name: 'David Coburn'
+  summary: 'Lead UKIP Scotland MEP Candidate, Libertarian Blogger Served in Territorials'
 
 
 david-rowlands:
@@ -121,28 +143,38 @@ david-rowlands:
 
 diane-james:
   id: diane-james
-  name: 'Diane James'
+  image: /images/twitter/DianeUKIP.jpg
   links:
-    - url: https://twitter.com/DianeUKIP
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/DianeUKIP
+  name: 'Diane James'
+  summary: 'UKIP by-election candidate for the Eastleigh constituency.'
 
 
 donna-edmunds:
   id: donna-edmunds
-  name: 'Donna Edmunds'
+  image: /images/twitter/DonnaInSussex.jpg
   links:
-    - url: http://www.donnaedmunds.com/
-      note: Website
-    - url: https://twitter.com/DonnaInSussex
-      note: Twitter account
+    - note: Website
+      url: http://www.donnaedmunds.com/
+    - note: 'Twitter account'
+      url: https://twitter.com/DonnaInSussex
+  name: 'Donna Edmunds'
+  summary: 'UKIP shortlisted MEP candidate for the SE region. Founder and Editor of
+    @UKIPDaily'
 
 
 elizabeth-jones:
   id: elizabeth-jones
-  name: 'Elizabeth Jones'
+  image: /images/twitter/UKIPbrixtonHill.jpg
   links:
-    - url: https://twitter.com/UKIPbrixtonHill
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/UKIPbrixtonHill
+  name: 'Elizabeth Jones'
+  summary: 'Ward in centre of LB Lambeth, part of Streatham Constituency. ........
+    
+
+    VOTE UKIP VOTE JONES in Lambeth Council Byelection on Thu 17-1-13, #BrixtonHill'
 
 
 gary-shores:
@@ -152,24 +184,29 @@ gary-shores:
 
 gawain-towler:
   id: gawain-towler
-  name: 'Gawain Towler'
+  image: /images/twitter/GawainTowler.jpg
   links:
-    - url: https://twitter.com/GawainTowler
-      note: Twitter account
-    - url: http://www.englandexpects.blogspot.co.uk/
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/GawainTowler
+    - note: 'Twitter account'
+      url: http://www.englandexpects.blogspot.co.uk/
+  name: 'Gawain Towler'
+  summary: 'UKIP/EFD London coms chap'
 
 
 gerard-batten:
   id: gerard-batten
+  image: /images/twitter/GerardBattenMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Gerard_Batten
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/GerardBattenMEP
     - note: Website
       url: http://www.gerardbattenmep.co.uk/
   name: 'Gerard Batten'
+  summary: 'Member of the European Parliament for London - UKIP. Working for Britain''s
+    withdrawal from the EU.'
   wikipedia_biography: 'Gerard Joseph Batten (born 27 March 1954, London) is a Member
     of the European Parliament for London for the United Kingdom Independence Party
     (UKIP). He was first elected in 2004. He sits as a member of the Independence
@@ -180,90 +217,117 @@ gerard-batten:
 
 henry-reilly:
   id: henry-reilly
-  name: 'Henry Reilly'
+  image: /images/twitter/HenryReillyukip.jpg
   links:
-    - url: https://twitter.com/HenryReillyukip
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/HenryReillyukip
+  name: 'Henry Reilly'
+  summary: 'Dont care who or what you are - if you love the United Kingdom and want
+    it to be a free democratic Country for us all to live in you are my friend'
 
 
 james-carver:
   id: james-carver
-  name: 'James Carver'
+  image: /images/twitter/JamesJimCarver.jpg
   links:
-    - url: http://www.jamescarver.org.uk/
-      note: Website
-    - url: https://twitter.com/JamesJimCarver
-      note: Twitter account
+    - note: Website
+      url: http://www.jamescarver.org.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/JamesJimCarver
+  name: 'James Carver'
+  summary: 'Bespoke umbrella maker & prospective MEP, UKIP West Mids.  2014 Euro.
+    elections - http://t.co/P29gNVsgKd - http://t.co/XHSS5iYZ2v'
 
 
 james-cole:
   id: james-cole
-  name: 'James Cole'
   links:
-    - url: http://www.youtube.com/channel/UCW1gzvYSQcarwkOt2tioO6w?feature=watch
-      note: Youtube channel
+    - note: 'Youtube channel'
+      url: http://www.youtube.com/channel/UCW1gzvYSQcarwkOt2tioO6w?feature=watch
+  name: 'James Cole'
 
 
 jane-collins:
   id: jane-collins
-  name: 'Jane Collins'
+  image: /images/twitter/Jane4ukip.jpg
   links:
-    - url: https://twitter.com/Jane4ukip
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/Jane4ukip
+  name: 'Jane Collins'
+  summary: 'Jane Collins prospective parliamentary candidate for Rotherham'
 
 
 janice-atkinson:
   id: janice-atkinson
-  name: 'Janice Atkinson'
+  image: /images/twitter/JaniceUKIP.jpg
   links:
-    - url: https://twitter.com/JaniceUKIP
-      note: Twitter account
-    - url: http://votejaniceatkinsonukip.co.uk/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/JaniceUKIP
+    - note: Website
+      url: http://votejaniceatkinsonukip.co.uk/
+  name: 'Janice Atkinson'
+  summary: 'http://t.co/Vgmm2qwbhb - PR
+
+    UKIP member, author of UKIP welfare polices
+
+    Atkinsonsmallblog@dailymail.co.uk/Daily Express comment pages
+
+    Former Tory PPC'
 
 
 jason-smith:
   id: jason-smith
-  name: 'Jason Smith'
+  image: /images/twitter/JasonSmithUKIP.jpg
   links:
-    - url: https://twitter.com/JasonSmithUKIP
-      note: Twitter account
-    - url: http://trance-form.wix.com/jasonsmith
-      note: Website
-    - url: https://www.facebook.com/jason.smith.37454961
-      note: Facebook page
+    - note: 'Twitter account'
+      url: https://twitter.com/JasonSmithUKIP
+    - note: Website
+      url: http://trance-form.wix.com/jasonsmith
+    - note: 'Facebook page'
+      url: https://www.facebook.com/jason.smith.37454961
+  name: 'Jason Smith'
+  summary: 'UKIP Bradford & District Chairman. #Libertarian. Human & animal rights.
+    #BUAV #Freedom #No2ID No#GMO'
 
 
 jill-seymour:
   id: jill-seymour
-  name: 'Jill Seymour'
+  image: /images/twitter/JSeymourUKIP.jpg
   links:
-    - url: https://twitter.com/JSeymourUKIP
-      note: Twitter account
-    - url: http://jillseymourukip.expresscommerce.co.uk/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/JSeymourUKIP
+    - note: Website
+      url: http://jillseymourukip.expresscommerce.co.uk/
+  name: 'Jill Seymour'
+  summary: '@UKIP Lead MEP Candidate for the West Midlands. Current Parish Cllr. Views
+    are my own, RT''s not an endorsement.'
 
 
 john-tennant:
   id: john-tennant
-  name: 'John Tennant'
+  image: /images/twitter/johnukip.jpg
   links:
-    - url: http://www.johntennantukip.org/
-      note: Website
-    - url: https://twitter.com/johnukip
-      note: Twitter account
+    - note: Website
+      url: http://www.johntennantukip.org/
+    - note: 'Twitter account'
+      url: https://twitter.com/johnukip
+  name: 'John Tennant'
+  summary: 'Assistant to Derek Clark MEP'
 
 
 jonathan-arnott:
   id: jonathan-arnott
+  image: /images/twitter/JonathanArnott.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Jonathan_Arnott
-    - url: https://twitter.com/JonathanArnott
-      note: Twitter account
-    - url: http://www.jonathanarnott.co.uk/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/JonathanArnott
+    - note: Website
+      url: http://www.jonathanarnott.co.uk/
   name: 'Jonathan Arnott'
+  summary: 'UKIP General Secretary & no.1 NE MEP candidate 2014, chess Candidate Master,
+    author, Maths teacher, educational consultant & football commentator.'
   wikipedia_biography: 'Jonathan Arnott is a British politician from Sheffield. He
     is the current General Secretary of the UK Independence Party and has stood as
     a candidate in UK local, UK Parliament, European parliament and UK Police crime
@@ -271,24 +335,27 @@ jonathan-arnott:
 
 
 jonathan-bullock:
-  id: jonathan-bullock
-  name: 'Jonathan Bullock'
   email: jonathan.bullock@sky.com
+  id: jonathan-bullock
   links:
-    - url: http://www.ukip-well-kett.org.uk/
-      note: Website
+    - note: Website
+      url: http://www.ukip-well-kett.org.uk/
+  name: 'Jonathan Bullock'
 
 
 julia-reid:
   id: julia-reid
-  name: 'Julia Reid'
+  image: /images/twitter/Julia__Reid.jpg
   links:
-    - url: https://twitter.com/Julia__Reid
-      note: Twitter account
-    - url: http://www.juliareid.org.uk/
-      note: Website
-    - url: http://www.youtube.com/user/Thomasina777?feature=watch
-      note: Youtube channel
+    - note: 'Twitter account'
+      url: https://twitter.com/Julia__Reid
+    - note: Website
+      url: http://www.juliareid.org.uk/
+    - note: 'Youtube channel'
+      url: http://www.youtube.com/user/Thomasina777?feature=watch
+  name: 'Julia Reid'
+  summary: 'UKIP Prospective MEP Candidate (No.2 South West)  PPC Chippenham.    Assistant
+    to Trevor Colman MEP (UKIP) Chairman, UKIP North Wiltshire & Chippenham Branch'
 
 
 keith-crawford:
@@ -298,18 +365,24 @@ keith-crawford:
 
 kevin-newton:
   id: kevin-newton
-  name: 'Kevin Newton'
+  image: /images/twitter/KevinNewtonUKIP.jpg
   links:
-    - url: https://twitter.com/KevinNewtonUKIP
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/KevinNewtonUKIP
+  name: 'Kevin Newton'
+  summary:
 
 
 lawrence-webb:
   id: lawrence-webb
-  name: 'Lawrence Webb'
+  image: /images/twitter/UKIPWebb4London.jpg
   links:
-    - url: https://twitter.com/UKIPWebb4London
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/UKIPWebb4London
+  name: 'Lawrence Webb'
+  summary: 'UKIP Councillor for Gooshays Ward in LB Havering
+
+    UKIP Mayoral Candidate in 2012'
 
 
 lee-slaughter:
@@ -324,60 +397,79 @@ louise-bours:
 
 lyndon-jones:
   id: lyndon-jones
-  name: 'Lyndon Jones'
   links:
-    - url: http://www.ukiptelfordandwrekin.org.uk/west-midlands-mep-candidates/mep-2014-lyndon-jones/
-      note: UKIP Teflord & Wrekin page
+    - note: 'UKIP Teflord & Wrekin page'
+      url: http://www.ukiptelfordandwrekin.org.uk/west-midlands-mep-candidates/mep-2014-lyndon-jones/
+  name: 'Lyndon Jones'
 
 
 malcolm-macaskill:
   id: malcolm-macaskill
-  name: 'Malcolm Macaskill'
+  image: /images/twitter/m_macaskill.jpg
   links:
-    - url: https://twitter.com/m_macaskill
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/m_macaskill
+  name: 'Malcolm Macaskill'
+  summary: 'Proud son of the Royal Burgh of Rutherglen - Family and friends, politics,
+    law. motorbikes and the Isle of Skye. m@caskill.co.uk'
 
 
 margot-parker:
   id: margot-parker
-  name: 'Margot Parker'
+  image: /images/twitter/MargotLJParker.jpg
   links:
-    - url: https://twitter.com/MargotLJParker
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/MargotLJParker
+  name: 'Margot Parker'
+  summary: 'UKIP candidate (PPC) for Corby and East Northamptonshire.UKIP East Midlands
+    No 2 candidate euro elections 2014.
+
+     Love Europe, not the EU.
+
+      Views are mine.'
 
 
 michael-green:
   id: michael-green
-  name: 'Michael Green'
+  image: /images/twitter/MikeGreenUKIP.png
   links:
-    - url: https://twitter.com/MikeGreenUKIP
-      note: Twitter account
-    - url: https://www.facebook.com/Burton.UKIP
-      note: Facebook page
-    - url: http://www.youtube.com/channel/UCh9Xum7anC9n3_hqge-7c5A?feature=watch
-      note: Youtube channel
+    - note: 'Twitter account'
+      url: https://twitter.com/MikeGreenUKIP
+    - note: 'Facebook page'
+      url: https://www.facebook.com/Burton.UKIP
+    - note: 'Youtube channel'
+      url: http://www.youtube.com/channel/UCh9Xum7anC9n3_hqge-7c5A?feature=watch
+  name: 'Michael Green'
+  summary: 'Prospective MEP W. Mids - 2015 PPC for Burton and Uttoxeter - Branch Chair.
+    My thoughts are maybe not UKIP policy'
 
 
 michael-heaver:
   id: michael-heaver
-  name: 'Michael Heaver'
+  image: /images/twitter/Michael_Heaver.jpg
   links:
-    - url: https://twitter.com/Michael_Heaver
-      note: Twitter account
-    - url: http://michaelheaversblog.blogspot.co.uk/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/Michael_Heaver
+    - note: Website
+      url: http://michaelheaversblog.blogspot.co.uk/
+  name: 'Michael Heaver'
+  summary: 'Political commentator who campaigns for UKIP. MEP Candidate. CFC & Ibiza.
+    My views only.'
 
 
 michael-mcmanus:
   id: michael-mcmanus
-  name: 'Michael McManus'
+  image: /images/twitter/mcmanusukip.jpg
   links:
-    - url: https://twitter.com/mcmanusukip
-      note: Twitter account
-    - url: http://michaelmcmanusukip.blogspot.co.uk/
-      note: Website
-    - url: http://www.youtube.com/watch?v=Tkm87MLuJPg
-      note: Youtube channel
+    - note: 'Twitter account'
+      url: https://twitter.com/mcmanusukip
+    - note: Website
+      url: http://michaelmcmanusukip.blogspot.co.uk/
+    - note: 'Youtube channel'
+      url: http://www.youtube.com/watch?v=Tkm87MLuJPg
+  name: 'Michael McManus'
+  summary: 'UKIP member since 2003, former Deputy Chairman of UKIP youth wing, UKIP
+    candidate at local, general and European elections'
 
 
 michael-wrench:
@@ -391,42 +483,52 @@ mick-mcgough:
 
 
 mike-hookem:
-  id: mike-hookem
-  name: 'Mike Hookem'
   email: mike.hookem@ukipynl.org
+  id: mike-hookem
+  image: /images/twitter/Mike_Hookem.jpg
   links:
-    - url: https://twitter.com/Mike_Hookem
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/Mike_Hookem
+  name: 'Mike Hookem'
+  summary: 'My pledge is to work tirelessly for my region and the party. All views
+    my own.'
 
 
 mike-scott-hayward:
   id: mike-scott-hayward
-  name: 'Mike Scott-Hayward'
+  image: /images/twitter/WeLikeMike.jpg
   links:
-    - url: http://mikescotthayward.blogspot.co.uk/
-      note: Website
-    - url: https://twitter.com/WeLikeMike
-      note: Twitter account
+    - note: Website
+      url: http://mikescotthayward.blogspot.co.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/WeLikeMike
+  name: 'Mike Scott-Hayward'
+  summary: 'Eurosceptic, Former Army Officer, Private Pilot'
 
 
 nathan-gill:
   id: nathan-gill
-  name: 'Nathan Gill'
+  image: /images/twitter/NathanGillMEP.jpg
   links:
-    - url: https://twitter.com/NathanGillMEP
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/NathanGillMEP
+  name: 'Nathan Gill'
+  summary: 'Nos 1 Candidate for UKIP Wales, to represent the Party in the 2014 European
+    Elections as an MEP'
 
 
 nigel-farage:
   id: nigel-farage
+  image: /images/twitter/Nigel_Farage.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Nigel_Farage
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/Nigel_Farage
     - note: Website
       url: http://www.nigelfaragemep.co.uk/
   name: 'Nigel Farage'
+  summary: '@UKIP Leader and MEP for the South East of England'
   wikipedia_biography: 'Nigel Paul Farage is a British politician and leader of the
     UK Independence Party (UKIP) since 2010; he also held that position from September
     2006 to November 2009. Since 1999, he has been a Member of the European Parliament
@@ -442,38 +544,48 @@ nigel-jones:
 
 nigel-wickens:
   id: nigel-wickens
-  name: 'Nigel Wickens'
+  image: /images/twitter/NigelWickens.jpg
   links:
-    - url: https://twitter.com/NigelWickens
-      note: Twitter account
-    - url: http://nigelwickens.wordpress.com/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/NigelWickens
+    - note: Website
+      url: http://nigelwickens.wordpress.com/
+  name: 'Nigel Wickens'
+  summary: 'I am a member of UKIP to help return The UK to democracy and to get our
+    country back from EU dictatorship and bureaucracy'
 
 
 otto-inglis:
   id: otto-inglis
-  name: 'Otto Inglis'
+  image: /images/twitter/OttoInglis.jpg
   links:
-    - url: https://twitter.com/OttoInglis
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/OttoInglis
+  name: 'Otto Inglis'
+  summary: 'Secretary of UKIP Edinburgh & Lothians'
 
 
 patricia-culligan:
   id: patricia-culligan
-  name: 'Patricia Culligan'
+  image: /images/twitter/CulliganPA.jpg
   links:
-    - url: http://www.youtube.com/channel/UCmH4qs8Hj6iPsVbX3snlo9Q?feature=watch
-      note: Youtube channel
-    - url: https://twitter.com/CulliganPA
-      note: Twitter account
+    - note: 'Youtube channel'
+      url: http://www.youtube.com/channel/UCmH4qs8Hj6iPsVbX3snlo9Q?feature=watch
+    - note: 'Twitter account'
+      url: https://twitter.com/CulliganPA
+  name: 'Patricia Culligan'
+  summary: 'UKIP MEP SE Candidate'
 
 
 patrick-oflynn:
   id: patrick-oflynn
-  name: 'Patrick O''Flynn'
+  image: /images/twitter/oflynnexpress.jpg
   links:
-    - url: https://twitter.com/oflynnexpress
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/oflynnexpress
+  name: 'Patrick O''Flynn'
+  summary: 'Chief Political Commentator, Daily Express and UKIP MEP candidate all
+    my own views not those of my paper'
 
 
 paul-henke:
@@ -483,14 +595,16 @@ paul-henke:
 
 paul-nuttall:
   id: paul-nuttall
+  image: /images/twitter/paulnuttallukip.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Paul_Nuttall
     - note: Website
       url: http://www.paulnuttallmep.com/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/paulnuttallukip
   name: 'Paul Nuttall'
+  summary: 'UKIP MEP for North West England, UKIP Deputy Leader.'
   wikipedia_biography: 'Paul Andrew Nuttall MEP (born 30 November 1976, Liverpool)
     is the Deputy Leader of the UK Independence Party and Member of the European Parliament
     for the North West England region.'
@@ -498,12 +612,15 @@ paul-nuttall:
 
 paul-oakley:
   id: paul-oakley
-  name: 'Paul Oakley'
+  image: /images/twitter/PaulJamesOakley.jpg
   links:
-    - url: https://twitter.com/PaulJamesOakley
-      note: Twitter account
-    - url: https://www.facebook.com/OakleyUKIP
-      note: Facebook page
+    - note: 'Twitter account'
+      url: https://twitter.com/PaulJamesOakley
+    - note: 'Facebook page'
+      url: https://www.facebook.com/OakleyUKIP
+  name: 'Paul Oakley'
+  summary: 'MEP candidate for London 2014. Chairman of UKIP Greenwich & Lewisham.
+    Barrister.'
 
 
 peter-harper:
@@ -517,34 +634,40 @@ peter-whittle:
 
 
 phil-henrick:
-  id: phil-henrick
-  name: 'Phil Henrick'
   email: info@ukipsolihull.org
+  id: phil-henrick
   links:
-    - url: https://www.facebook.com/philhenrick4UKIPMEP?ref=hl
-      note: Facebook page
+    - note: 'Facebook page'
+      url: https://www.facebook.com/philhenrick4UKIPMEP?ref=hl
+  name: 'Phil Henrick'
 
 
 ray-finch:
   id: ray-finch
-  name: 'Ray Finch'
+  image: /images/twitter/raymondfinch.jpg
   links:
-    - url: https://twitter.com/raymondfinch
-      note: Twitter account
-    - url: https://www.facebook.com/RayFinchUKIP
-      note: Facebook page
+    - note: 'Twitter account'
+      url: https://twitter.com/raymondfinch
+    - note: 'Facebook page'
+      url: https://www.facebook.com/RayFinchUKIP
+  name: 'Ray Finch'
+  summary: 'UKIP Candidate for South East MEP - Follow Ray Finch Out of the EU. Personal
+    views only'
 
 
 richard-elvin:
   id: richard-elvin
-  name: 'Richard Elvin'
+  image: /images/twitter/globalrichard.jpg
   links:
-    - url: https://twitter.com/globalrichard
-      note: Twitter account
-    - url: http://richardelvin.com/
-      note: Website
-    - url: https://www.facebook.com/richardelvin2?fref=ts
-      note: Facebook page
+    - note: 'Twitter account'
+      url: https://twitter.com/globalrichard
+    - note: Website
+      url: http://richardelvin.com/
+    - note: 'Facebook page'
+      url: https://www.facebook.com/richardelvin2?fref=ts
+  name: 'Richard Elvin'
+  summary: 'Your MEP candidate in the North East who lives and works in the region.
+    Chairman UKIP North East.'
 
 
 robert-smith:
@@ -554,14 +677,16 @@ robert-smith:
 
 roger-helmer:
   id: roger-helmer
+  image: /images/twitter/RogerHelmerMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Roger_Helmer
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/RogerHelmerMEP
-    - url: http://www.rogerhelmermep.co.uk/
-      note: Website
+    - note: Website
+      url: http://www.rogerhelmermep.co.uk/
   name: 'Roger Helmer'
+  summary:
   wikipedia_biography: 'Roger Helmer (born 25 January 1944 in London) is a British
     business executive and politician and a United Kingdom Independence Party (UKIP)
     Member of the European Parliament for the East Midlands region. He was elected
@@ -577,24 +702,40 @@ ross-durance:
 
 
 shneur-odze:
-  id: shneur-odze
-  name: 'Shneur Odze'
   email: s@odze.co.uk
+  id: shneur-odze
+  image: /images/twitter/ShneurOdzeUKIP.jpg
   links:
-    - url: https://twitter.com/ShneurOdzeUKIP
-      note: Twitter account
-    - url: http://www.odze.co.uk/
-      note: Website
-    - url: https://www.facebook.com/OdzeForMEP
-      note: Facebook page
+    - note: 'Twitter account'
+      url: https://twitter.com/ShneurOdzeUKIP
+    - note: Website
+      url: http://www.odze.co.uk/
+    - note: 'Facebook page'
+      url: https://www.facebook.com/OdzeForMEP
+  name: 'Shneur Odze'
+  summary: 'UKIP North West candidate Email: sodze@yahoo.co.uk When not campaigning
+    to improve the lives, of my neighbours in Broughton Ward - Salford.'
 
 
 simon-noble:
   id: simon-noble
-  name: 'Simon Noble'
+  image: /images/twitter/NibsNoble.jpg
   links:
-    - url: https://twitter.com/NibsNoble
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/NibsNoble
+  name: 'Simon Noble'
+  summary: 'Solicitor. 
+
+
+
+     
+
+
+
+
+    UKIP candidate.
+
+    County Councillor Garstang 93 - 01. OU'
 
 
 simon-strutt:
@@ -604,38 +745,41 @@ simon-strutt:
 
 steven-mckeane:
   id: steven-mckeane
-  name: 'Steven McKeane'
+  image: /images/twitter/GalaReiver.jpg
   links:
-    - url: https://twitter.com/GalaReiver
-      note: Twitter account
-    - url: http://www.stevenmckeane.org/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/GalaReiver
+    - note: Website
+      url: http://www.stevenmckeane.org/
+  name: 'Steven McKeane'
+  summary: 'Views expressed are my own, tweets and retweets are not an endorsement.'
 
 
 steven-woolfe:
   id: steven-woolfe
-  name: 'Steven Woolfe'
+  image: /images/twitter/Steven_Woolfe.jpg
   links:
-    - url: https://twitter.com/Steven_Woolfe
-      note: Twitter account
-    - url: http://www.stevenwoolfe.co.uk/
-      note: Website
-    - url: https://www.facebook.com/StevenWoolfeUKIP
-      note: Facebook apge
-    - url: http://www.youtube.com/user/TheBattleforBritain
-      note: Youtube channel
+    - note: 'Twitter account'
+      url: https://twitter.com/Steven_Woolfe
+    - note: Website
+      url: http://www.stevenwoolfe.co.uk/
+    - note: 'Facebook apge'
+      url: https://www.facebook.com/StevenWoolfeUKIP
+    - note: 'Youtube channel'
+      url: http://www.youtube.com/user/TheBattleforBritain
+  name: 'Steven Woolfe'
+  summary:
 
 
 stuart-agnew:
+  email: ukipeastadmin@intamail.com
   id: stuart-agnew
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Stuart_Agnew
     - note: Website
       url: http://www.stuartagnewmep.co.uk/
-    - note: Website
   name: 'Stuart Agnew'
-  email: ukipeastadmin@intamail.com
   wikipedia_biography: 'John Stuart Agnew (born 30 August 1949 in Norwich) is a Member
     of the European Parliament for the East of England region for the United Kingdom
     Independence Party. He was elected in 2009. He was educated at Gordonstoun School
@@ -646,14 +790,17 @@ stuart-agnew:
 
 tim-aker:
   id: tim-aker
-  name: 'Tim Aker'
+  image: /images/twitter/Tim_Aker.jpg
   links:
-    - url: https://twitter.com/Tim_Aker
-      note: Twitter account
-    - url: http://www.timaker.co.uk/
-      note: Website
-    - url: https://www.facebook.com/AkerforEastEngland
-      note: Facebook page
+    - note: 'Twitter account'
+      url: https://twitter.com/Tim_Aker
+    - note: Website
+      url: http://www.timaker.co.uk/
+    - note: 'Facebook page'
+      url: https://www.facebook.com/AkerforEastEngland
+  name: 'Tim Aker'
+  summary: 'Head of @UKIP Policy Unit. Prospective #UKIP MEP for Eastern England including
+    #Essex #Beds #Cambs #Suffolk #Norfolk #Herts'
 
 
 tony-mcintyre:
