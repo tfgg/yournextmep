@@ -1,6 +1,9 @@
 alan-stevens:
   id: alan-stevens
   name: 'Alan Stevens'
+  links:
+    - url: https://twitter.com/AWAHStevens
+      note: Twitter account
 
 
 alastair-mcfarlane:
@@ -11,11 +14,19 @@ alastair-mcfarlane:
 amjad-bashir:
   id: amjad-bashir
   name: 'Amjad Bashir'
+  email: amjad.bashir@ukipynl.org
+  links:
+    - url: http://www.amjadbashir.co.uk/
+      note: Website
 
 
 andrew-mcneilis:
   id: andrew-mcneilis
   name: 'Andrew McNeilis'
+  links:
+    - url: https://twitter.com/andrewmcneilis
+      note: Twitter account
+    - url: http://www.andrewmcneilis.com
 
 
 andrew-smith:
@@ -31,11 +42,17 @@ andy-monk:
 anne-murgatroy:
   id: anne-murgatroy
   name: 'Anne Murgatroy'
+  email: meganne21@hotmail.co.uk
 
 
 anthony-brown:
   id: anthony-brown
   name: 'Anthony Brown'
+  links:
+    - url: https://www.facebook.com/anthonybrownukip
+      note: Facebook page
+    - url: https://twitter.com/libertariantony
+      note: Twitter account
 
 
 barry-cooper:
