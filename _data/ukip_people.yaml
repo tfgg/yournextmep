@@ -58,6 +58,11 @@ anthony-brown:
 barry-cooper:
   id: barry-cooper
   name: 'Barry Cooper'
+  links:
+    - url: https://twitter.com/waddesdonbaz
+      note: Twitter account
+    - url: barrycooperukip.wordpress.com
+      note: Website
 
 
 barry-mahoney:
@@ -68,11 +73,19 @@ barry-mahoney:
 bill-etheridge:
   id: bill-etheridge
   name: 'Bill Etheridge'
+  links:
+    - url: http://www.billetheridge.co.uk/
+      note: Website
+    - url: https://twitter.com/milroy666
+      note: Twitter account
 
 
 caroline-jones:
   id: caroline-jones
   name: 'Caroline Jones'
+  links:
+    - url: http://www.youtube.com/channel/UCBIgt5rcAZAeA7RW_OC4xwA?feature=watch
+      note: Youtube channel
 
 
 christopher-monckton:
@@ -80,6 +93,8 @@ christopher-monckton:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Christopher_Monckton,_3rd_Viscount_Monckton_of_Brenchley
+    - note: Twitter account
+      url: https://twitter.com/chris_monckton
   name: 'Christopher Monckton'
   wikipedia_biography: 'Christopher Walter Monckton, 3rd Viscount Monckton of Brenchley
     (born 14 February 1952) is a British public speaker and hereditary peer. He is
@@ -92,6 +107,11 @@ christopher-monckton:
 david-coburn:
   id: david-coburn
   name: 'David Coburn'
+  links:
+    - url: https://twitter.com/DavidCoburnUKip
+      note: Twitter account
+    - note: Website
+      url: http://davidcoburnukip.blogspot.co.uk/
 
 
 david-rowlands:
@@ -102,11 +122,19 @@ david-rowlands:
 diane-james:
   id: diane-james
   name: 'Diane James'
+  links:
+    - url: https://twitter.com/DianeUKIP
+      note: Twitter account
 
 
 donna-edmunds:
   id: donna-edmunds
   name: 'Donna Edmunds'
+  links:
+    - url: http://www.donnaedmunds.com/
+      note: Website
+    - url: https://twitter.com/DonnaInSussex
+      note: Twitter account
 
 
 elizabeth-jones:
