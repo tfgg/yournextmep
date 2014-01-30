@@ -499,6 +499,11 @@ paul-nuttall:
 paul-oakley:
   id: paul-oakley
   name: 'Paul Oakley'
+  links:
+    - url: https://twitter.com/PaulJamesOakley
+      note: Twitter account
+    - url: https://www.facebook.com/OakleyUKIP
+      note: Facebook page
 
 
 peter-harper:
@@ -514,16 +519,32 @@ peter-whittle:
 phil-henrick:
   id: phil-henrick
   name: 'Phil Henrick'
+  email: info@ukipsolihull.org
+  links:
+    - url: https://www.facebook.com/philhenrick4UKIPMEP?ref=hl
+      note: Facebook page
 
 
 ray-finch:
   id: ray-finch
   name: 'Ray Finch'
+  links:
+    - url: https://twitter.com/raymondfinch
+      note: Twitter account
+    - url: https://www.facebook.com/RayFinchUKIP
+      note: Facebook page
 
 
 richard-elvin:
   id: richard-elvin
   name: 'Richard Elvin'
+  links:
+    - url: https://twitter.com/globalrichard
+      note: Twitter account
+    - url: http://richardelvin.com/
+      note: Website
+    - url: https://www.facebook.com/richardelvin2?fref=ts
+      note: Facebook page
 
 
 robert-smith:
@@ -536,6 +557,10 @@ roger-helmer:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Roger_Helmer
+    - note: Twitter account
+      url: https://twitter.com/RogerHelmerMEP
+    - url: http://www.rogerhelmermep.co.uk/
+      note: Website
   name: 'Roger Helmer'
   wikipedia_biography: 'Roger Helmer (born 25 January 1944 in London) is a British
     business executive and politician and a United Kingdom Independence Party (UKIP)
@@ -554,6 +579,14 @@ ross-durance:
 shneur-odze:
   id: shneur-odze
   name: 'Shneur Odze'
+  email: s@odze.co.uk
+  links:
+    - url: https://twitter.com/ShneurOdzeUKIP
+      note: Twitter account
+    - url: http://www.odze.co.uk/
+      note: Website
+    - url: https://www.facebook.com/OdzeForMEP
+      note: Facebook page
 
 
 simon-noble:
