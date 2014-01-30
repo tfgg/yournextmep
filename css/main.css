@@ -24,6 +24,19 @@ img.profile-image {
   border-radius:100px;
 }
 
+div.profile-3d {
+  -webkit-perspective: 500px;
+  perspective: 500px;
+}
+
+div.profile-3d img.profile-image {
+  -webkit-transform: rotateY( 15deg );
+  transform: rotateY( 15deg );
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  border-radius: 0;
+}
+
 p.quote {
   font-size:1.1em;
   font-style:italic;

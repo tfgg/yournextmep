@@ -8,13 +8,13 @@ layout: default
 {% assign region=site.data.regions[page.region] %}
 
 <div class='row'>
-  <div class='col-md-2'>
+  <div class='col-md-2'><div class='profile-3d'>
     {% if person.image %}
     <img src='{{ person.image }}' class='profile-image'/>
     {% else %}
     <img src='/images/unknown_man.jpg' class='profile-image'/>
     {% endif %}
-  </div>
+  </div></div>
   <div class='col-md-10'>
     <h2>{{ person.name }}</h2>
     <p>{{ person.name }} is running in the <a href='/regions/{{ region.id }}'>{{ region.name }}</a> region for {{ party.name }}</p>
