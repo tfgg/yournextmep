@@ -1,45 +1,53 @@
 alan-bullion:
-  id: alan-bullion
-  name: 'Alan Bullion'
   email: alan.bullion@informa.com
+  id: alan-bullion
+  image: /images/twitter/AlanBullion.jpg
   links:
-    - url: http://alanbullion.mycouncillor.org.uk/
-      note: Website
-    - url: https://twitter.com/AlanBullion
-      note: Twitter account
+    - note: Website
+      url: http://alanbullion.mycouncillor.org.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/AlanBullion
+  name: 'Alan Bullion'
+  summary: 'Dr Alan Bullion is principal analyst and special reports publisher for
+    Informa Agra. He is also a Lib Dem Euro candidate for SE England and PPC for Sevenoaks.'
 
 
 alec-dauncey:
   id: alec-dauncey
-  name: 'Alec Dauncey'
+  image: /images/twitter/alecaberystwyth.jpg
   links:
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Alec_Dauncey_&pPK=7ca46e7b-a39c-478f-bbe8-7554f7acd4d1
-      note: Lib Dem candidate profile
-    - url: https://twitter.com/alecaberystwyth
-      note: Twitter account
+    - note: 'Lib Dem candidate profile'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Alec_Dauncey_&pPK=7ca46e7b-a39c-478f-bbe8-7554f7acd4d1
+    - note: 'Twitter account'
+      url: https://twitter.com/alecaberystwyth
+  name: 'Alec Dauncey'
+  summary: 'Forester, Liberal, Rationalist.'
 
 
 allis-moss:
   id: allis-moss
-  name: 'Allis Moss'
   links:
-    - url: http://www.europe4prosperity.com/index.php/who-are-we-2/83-alice-moss
-      note: Europe4prosperity profile
+    - note: 'Europe4prosperity profile'
+      url: http://www.europe4prosperity.com/index.php/who-are-we-2/83-alice-moss
+  name: 'Allis Moss'
 
 
 andrew-duff:
-  id: andrew-duff
   email: mep@andrewduffmep.org
+  id: andrew-duff
+  image: /images/twitter/Andrew_Duff_MEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Andrew_Duff
     - note: Website
       url: http://andrewduff.eu/
-    - note: Facebook page
+    - note: 'Facebook page'
       url: https://www.facebook.com/AndrewDuffMEP
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/Andrew_Duff_MEP
   name: 'Andrew Duff'
+  summary: 'MEP, Liberal Democrat, East of England, ALDE, Constitutional Affairs,
+    Federalism, Turkey'
   wikipedia_biography: 'Andrew Duff OBE (born 25 December 1950) is a Liberal Democrat
     politician, president of the Union of European Federalists, and a Member of the
     European Parliament for the East of England region of the UK. He initially stood
@@ -49,122 +57,147 @@ andrew-duff:
 
 
 andrew-wigley:
-  id: andrew-wigley
-  name: 'Andrew Wigley'
   email: andrew@andrewwigley.org
+  id: andrew-wigley
+  image: /images/twitter/andrewwigley.jpg
   links:
-    - url: https://twitter.com/andrewwigley
-      note: Twitter account
-    - url: http://www.andrewwigley.org/
-      note: Website
-    - url: https://www.facebook.com/AndrewWigley.org
-      note: Facebook page
+    - note: 'Twitter account'
+      url: https://twitter.com/andrewwigley
+    - note: Website
+      url: http://www.andrewwigley.org/
+    - note: 'Facebook page'
+      url: https://www.facebook.com/AndrewWigley.org
+  name: 'Andrew Wigley'
+  summary: 'LibDem candidate for 2014 Euros. Worked at Westminster, Brussels and in
+    business. Consultant. Doing postgrad African history studies. Views are my own.'
 
 
 angelika-schneider:
   id: angelika-schneider
-  name: 'Angelika Schneider'
+  image: /images/twitter/Angel4theNorth.jpg
   links:
-    - url: https://twitter.com/Angel4theNorth
-      note: Twitter account
-    - url: https://www.facebook.com/voteangelika
-      note: Facebook page
+    - note: 'Twitter account'
+      url: https://twitter.com/Angel4theNorth
+    - note: 'Facebook page'
+      url: https://www.facebook.com/voteangelika
+  name: 'Angelika Schneider'
+  summary: 'European Parliamentary candidate. North East England. Lib Dem.'
 
 
 anna-white:
   id: anna-white
-  name: 'Anna White'
   links:
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Anna_White&pPK=2c16f946-03fd-4c77-8109-b82018c33c32
-      note: Lib Dem candidate profile
+    - note: 'Lib Dem candidate profile'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Anna_White&pPK=2c16f946-03fd-4c77-8109-b82018c33c32
+  name: 'Anna White'
 
 
 anthony-hook:
   id: anthony-hook
-  name: 'Anthony Hook'
+  image: /images/twitter/antonyhook.jpg
   links:
-    - url: https://twitter.com/antonyhook
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/antonyhook
+  name: 'Anthony Hook'
+  summary: 'MEP Candidate Liberal Democrat, #2 on South East England List. Stronger
+    Economy. Barrister specialising in action on fraud & organised/international crime'
 
 
 anuja-prashar:
   id: anuja-prashar
-  name: 'Anuja Prashar'
+  image: /images/twitter/AnujaPrashar.jpg
   links:
-    - url: http://www.anujaprashar.co.uk/
-      note: Website
-    - url: https://twitter.com/AnujaPrashar
-      note: Twitter account
+    - note: Website
+      url: http://www.anujaprashar.co.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/AnujaPrashar
+  name: 'Anuja Prashar'
+  summary: 'Lecturer for emerging economies, globalisation, cross culture communication
+    & compartive business cultures, Transnational Business future. #CSR,#Emergingmarkets'
 
 
 ayoub-khan:
+  email: Ayoub_khan64@hotmail.com
   id: ayoub-khan
   name: 'Ayoub Khan'
-  email: Ayoub_khan64@hotmail.com
 
 
 belinda-brooks-gordon:
-  id: belinda-brooks-gordon
-  name: 'Belinda Brooks-Gordon'
   email: b.brooks-gordon@bbk.ac.uk
+  id: belinda-brooks-gordon
+  image: /images/twitter/BelindaBG.jpg
   links:
-    - url: https://twitter.com/BelindaBG
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/BelindaBG
+  name: 'Belinda Brooks-Gordon'
+  summary: 'Academic & Author in Psychology & Policy. Lupus survivor, Euro Candidate
+    2014. #Equality #Psychology #Justice #Politics #Sexuality.'
 
 
 bill-newton-dunn:
   id: bill-newton-dunn
+  image: /images/twitter/billnewtondunn.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Bill_Newton_Dunn
     - note: Website
       url: http://www.newton-dunn.com/
-    - url: https://twitter.com/billnewtondunn
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/billnewtondunn
   name: 'Bill Newton Dunn'
+  summary: 'UK''s longest serving MEP, and with the best voting record. Liberal Democrat
+    MEP for the East Midlands.'
   wikipedia_biography: 'William "Bill" Newton Dunn is a British politician. He is
     a Member of the European Parliament for the East Midlands for the Liberal Democrats.'
 
 
 brian-matthew:
   id: brian-matthew
-  name: 'Brian Matthew'
   links:
-    - url: http://www.nsomersetlibdems.org.uk/brian-mathew
-      note: North Somerset Lib Dems profile page
+    - note: 'North Somerset Lib Dems profile page'
+      url: http://www.nsomersetlibdems.org.uk/brian-mathew
+  name: 'Brian Matthew'
 
 
 bruce-roberts:
   id: bruce-roberts
-  name: 'Bruce Roberts'
+  image: /images/twitter/WxmBruce.jpg
   links:
-    - url: https://twitter.com/WxmBruce
-      note: Twitter account
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Bruce_Roberts&pPK=de4258a3-ac84-4289-b7d3-0ae8174c99ea
-      note: Lib Dem candidate profile
+    - note: 'Twitter account'
+      url: https://twitter.com/WxmBruce
+    - note: 'Lib Dem candidate profile'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Bruce_Roberts&pPK=de4258a3-ac84-4289-b7d3-0ae8174c99ea
+  name: 'Bruce Roberts'
+  summary: 'Professional Accountant. Amateur Philosopher.  Lib Dem. Swimmer. Wrexham
+    fan. Vegetarian.'
 
 
 bruce-tennent:
-  id: bruce-tennent
-  name: 'Bruce Tennent'
   email: bruce.tennent@eastleigh.gov.uk
+  id: bruce-tennent
+  image: /images/twitter/BruceTennent.jpg
   links:
-    - url: https://twitter.com/BruceTennent
-      note: Twitter account
-    - url: http://www.eastleigh.gov.uk/meetings/mgMiniSite.aspx?UID=918
-      note: Eastleigh Borough Council profile
+    - note: 'Twitter account'
+      url: https://twitter.com/BruceTennent
+    - note: 'Eastleigh Borough Council profile'
+      url: http://www.eastleigh.gov.uk/meetings/mgMiniSite.aspx?UID=918
+  name: 'Bruce Tennent'
+  summary: 'Councillor for West End & Hedge End Grange Park'
 
 
 catherine-bearder:
   id: catherine-bearder
+  image: /images/twitter/catherinemep.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
     - note: Website
       url: http://bearder.eu/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/catherinemep
   name: 'Catherine Bearder'
+  summary: 'Catherine Bearder is a Liberal Democrat MEP for the South East. Fighting
+    Human #Trafficking. Protecting the Environment. http://t.co/yttWmjd0jR'
   wikipedia_biography: 'South East England is a constituency of the European Parliament.
     It currently elects 10 Members of the European Parliament (MEPs) using the D''Hondt
     method of party-list proportional representation.'
@@ -172,14 +205,17 @@ catherine-bearder:
 
 chris-davies:
   id: chris-davies
+  image: /images/twitter/ChrisDaviesMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Chris_Davies
     - note: Website
       url: http://www.chrisdaviesmep.org.uk/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/ChrisDaviesMEP
   name: 'Chris Davies'
+  summary: 'Published and promoted by and on behalf of the Liberal Democrats, 8-10
+    Great George Street, London, SW1P 3AE. Hosted by Twitter. Updates by Chris + team.'
   wikipedia_biography: 'Christopher Graham Davies (born 7 July 1954) is a Liberal
     Democrat politician in the United Kingdom. He is a former Member of Parliament,
     and since 1999 he has been a Member of the European Parliament.'
@@ -187,65 +223,75 @@ chris-davies:
 
 chris-foote-wood:
   id: chris-foote-wood
-  name: 'Chris Foote-Wood'
+  image: /images/twitter/ChrisasDickens.jpg
   links:
-    - url: https://en.wikipedia.org/wiki/Chris_Foote_Wood
-      note: Wikipedia article
-    - url: https://twitter.com/ChrisasDickens
-      note: Twitter account
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Chris_Foote_Wood
+    - note: 'Twitter account'
+      url: https://twitter.com/ChrisasDickens
+  name: 'Chris Foote-Wood'
+  summary: 'One man show An Evening with Charles Dickens: Characters from Dickens''
+    novels brought to life with animated readings as performed by Dickens himself.'
+  wikipedia_biography: 'Chris Foote Wood (born Christopher Wood, Prestbury, Cheshire,
+    15 December 1940) is a Liberal Democrat politician in County Durham, England.'
 
 
 christian-vassie:
   id: christian-vassie
-  name: 'Christian Vassie'
+  image: /images/twitter/christianvassie.jpg
   links:
-    - url: http://www.vassie.co.uk/
-      note: Website
-    - url: https://twitter.com/christianvassie
-      note: Twitter account
+    - note: Website
+      url: http://www.vassie.co.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/christianvassie
+  name: 'Christian Vassie'
+  summary: 'Lib Dem politician, composer of music for film & tv, author, public speaker'
 
 
 christine-jardine:
+  email: comms@scotlibdems.org.uk
   id: christine-jardine
-  name: 'Christine Jardine'
-  email:  comms@scotlibdems.org.uk
   links:
-    - url: http://www.scotlibdems.org.uk/people/christine-jardine
-      note: Scot Lib Dems profile
-    - url: https://twitter.com/CAJardine
-      note: Twitter account
+    - note: 'Scot Lib Dems profile'
+      url: http://www.scotlibdems.org.uk/people/christine-jardine
+  name: 'Christine Jardine'
 
 
 christine-tinker:
-  id: christine-tinker
   email: libdem@christinetinker.wanadoo.co.uk
-  name: 'Christine Tinker'
+  id: christine-tinker
   links:
-    - url: http://www.libdems.org.uk/parliamentary_candidates_detail.aspx?name=Christine_Tinker&pPK=91158b0c-f520-4c83-918a-5ceb9d759900
-      note: Lib Dem candidate profile
-  
+    - note: 'Lib Dem candidate profile'
+      url: http://www.libdems.org.uk/parliamentary_candidates_detail.aspx?name=Christine_Tinker&pPK=91158b0c-f520-4c83-918a-5ceb9d759900
+  name: 'Christine Tinker'
 
 
 deborah-newton-cook:
-  id: deborah-newton-cook
-  name: 'Deborah Newton-Cook'
   email: deborahnewtoncook@gmail.com
+  id: deborah-newton-cook
+  image: /images/twitter/DNewtonCook.jpg
   links:
-    - url: https://twitter.com/DNewtonCook
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/DNewtonCook
+  name: 'Deborah Newton-Cook'
+  summary: 'I am a passionate Lib Dem (tattoo to prove it) and pro-European.'
 
 
 dinti-batstone:
+  email: Dinti2012@gmail.com
   id: dinti-batstone
-  name: 'Dinti Batstone'
-  email Dinti2012@gmail.com
+  image: /images/twitter/DintiBatstone.jpg
   links:
-    - url: http://dintibatstone.org/
-      note: Website
-    - url: https://twitter.com/DintiBatstone
-      note: Twitter account
-    - url: https://www.facebook.com/pages/Dinti-Batstone/105351986195513
-      note: Facebook page
+    - note: Website
+      url: http://dintibatstone.org/
+    - note: 'Twitter account'
+      url: https://twitter.com/DintiBatstone
+    - note: 'Facebook page'
+      url: https://www.facebook.com/pages/Dinti-Batstone/105351986195513
+  name: 'Dinti Batstone'
+  summary: 'Redhead, mother-of-two, Liberal Democrat. 
+
+    Recovering lawyer & MBA.'
 
 
 edward-mcmillan-scott:
@@ -256,7 +302,7 @@ edward-mcmillan-scott:
     - note: Website
       url: http://emcmillanscott.com/
     - note: https://twitter.com/emcmillanscott
-      url: Twitter account
+      url: 'Twitter account'
   name: 'Edward McMillan-Scott'
   wikipedia_biography: 'Edward Hugh Christian McMillan-Scott (born 15 August 1949)
     is a British Member of the European Parliament (MEP) for Yorkshire and the Humber
@@ -269,14 +315,17 @@ edward-mcmillan-scott:
 
 george-lyon:
   id: george-lyon
+  image: /images/twitter/georgelyonmep.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/George_Lyon_(Scottish_politician)
     - note: Website
       url: http://georgelyon.org.uk/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/georgelyonmep
   name: 'George Lyon'
+  summary: 'Liberal Democrat MEP for Scotland.Vice President Budget Committee. Liberal
+    Spokesperson on Agri Committee.'
   wikipedia_biography: 'George Lyon (born 16 July 1956 in Rothesay) is a Scottish
     Liberal Democrat politician, and a Member of the European Parliament for Scotland,
     elected on 4 June 2009 when he took over from Elspeth Attwooll who retired after
@@ -287,51 +336,62 @@ george-lyon:
 
 
 george-smid:
-  id: george-smid
-  name: 'George Smid'
   email: jg.smid@gmail.com
+  id: george-smid
+  image: /images/twitter/GeorgeSmid.png
   links:
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=George_Smid&pPK=7266c373-129a-4a00-b766-18c10f529764
-      note: Lib Dem candidate profile
-    - url: http://georgesmid.wordpress.com/
-      note: Website
-    - url: https://twitter.com/GeorgeSmid
-      note: Twitter account
+    - note: 'Lib Dem candidate profile'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=George_Smid&pPK=7266c373-129a-4a00-b766-18c10f529764
+    - note: Website
+      url: http://georgesmid.wordpress.com/
+    - note: 'Twitter account'
+      url: https://twitter.com/GeorgeSmid
+  name: 'George Smid'
+  summary: 'European by birth, British by choice, Liberal by conviction.'
 
 
 giles-goodall:
   id: giles-goodall
-  name: 'Giles Goodall'
+  image: /images/twitter/GoodallGiles.jpg
   links:
-    - url: http://www.gilesgoodall.org.uk/
-      note: Website
-    - url: https://twitter.com/GoodallGiles
-      note: Twitter account
-    - url: https://www.facebook.com/GoodallGiles
-      note: Facebook page
+    - note: Website
+      url: http://www.gilesgoodall.org.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/GoodallGiles
+    - note: 'Facebook page'
+      url: https://www.facebook.com/GoodallGiles
+  name: 'Giles Goodall'
+  summary: 'Lib Dem candidate for the European elections in South East England. Blogging
+    at @libdemvoice. Sometimes try jokes. Tweets are my own opinions.'
 
 
 gordon-lishman:
   id: gordon-lishman
-  name: 'Gordon Lishman'
   links:
-    - url: https://en.wikipedia.org/wiki/Gordon_Lishman
-      note: Wikipedia page
+    - note: 'Wikipedia page'
+      url: https://en.wikipedia.org/wiki/Gordon_Lishman
+  name: 'Gordon Lishman'
+  wikipedia_biography: 'Arthur Gordon Lishman CBE, known as Gordon Lishman (born 1947)
+    is a British social activist, Liberal politician, writer and former Director General
+    of Age Concern England.'
 
 
 graham-watson:
-  id: graham-watson
   email: info@grahamwatsonmep.org
+  id: graham-watson
+  image: /images/twitter/grahamwatsonmep.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Graham_Watson
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/grahamwatsonmep
-    - url: http://www.grahamwatsonmep.org/
-      note: Website
-    - note: Facebook page
+    - note: Website
+      url: http://www.grahamwatsonmep.org/
+    - note: 'Facebook page'
       url: https://www.facebook.com/grahamwatsonmep
   name: 'Graham Watson'
+  summary: 'I am the Lib Dem MEP for South West England and Gibraltar and President
+    of the Alliance of Liberals and Democrats for Europe Party.'
   wikipedia_biography: 'Sir Graham Robert Watson (born 23 March 1956) is a British
     Politician. He has served as a Member of the European Parliament for South West
     England since 1994 and was the leader of the Group of the European Liberal Democrat
@@ -342,40 +402,48 @@ graham-watson:
 
 helen-foster-grime:
   id: helen-foster-grime
-  name: 'Helen Foster-Grime'
+  image: /images/twitter/helen_fg.jpg
   links:
-    - url: https://twitter.com/helen_fg
-      note: Twitter account
-    - url: http://www.helenfostergrime.com/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/helen_fg
+    - note: Website
+      url: http://www.helenfostergrime.com/
+  name: 'Helen Foster-Grime'
+  summary:
 
 
 hugh-annand:
   id: hugh-annand
-  name: 'Hugh Annand'
+  image: /images/twitter/Hugh_Annand.jpg
   links:
-    - url: https://twitter.com/Hugh_Annand
-      note: Twitter account
-    - url: https://www.facebook.com/hughannand.libdem
-      note: Facebook page
+    - note: 'Twitter account'
+      url: https://twitter.com/Hugh_Annand
+    - note: 'Facebook page'
+      url: https://www.facebook.com/hughannand.libdem
+  name: 'Hugh Annand'
+  summary: 'Liberal Democrat no 7 candidate in the East of England for the 2014 European
+    parliamentary election, amongst other things. All tweets by me.'
 
 
 ian-bearder:
   id: ian-bearder
-  name: 'Ian Bearder'
   links:
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Ian_Bearder&pPK=65b668dc-4c83-4969-9fcc-43add756ffb6
-      note: Lib Dem candidate page
+    - note: 'Lib Dem candidate page'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Ian_Bearder&pPK=65b668dc-4c83-4969-9fcc-43add756ffb6
+  name: 'Ian Bearder'
 
 
 issan-ghazni:
   id: issan-ghazni
-  name: 'Issan Ghazni'
+  image: /images/twitter/Issanghazni.png
   links:
-    - url: http://issanghazni.com/
-      note: Website
-    - url: https://twitter.com/Issanghazni
-      note: Twitter account
+    - note: Website
+      url: http://issanghazni.com/
+    - note: 'Twitter account'
+      url: https://twitter.com/Issanghazni
+  name: 'Issan Ghazni'
+  summary: 'Liberal Democrat European Parliamentary candidate in the East Midlands.
+    Chair of @EMLibDems Facebook: groups/issanghazni  Tweets my own views.'
 
 
 jacqueline-bell:
@@ -385,91 +453,109 @@ jacqueline-bell:
 
 jade-holden:
   id: jade-holden
-  name: 'Jade Holden'
+  image: /images/twitter/JadeEHolden.png
   links:
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Jade_Holden&pPK=842f7dd8-daf7-4f32-9aec-4ff4b03e919e
-      note: Lib Dem candidate page
-    - url: https://twitter.com/JadeEHolden
-      note: Twitter account
+    - note: 'Lib Dem candidate page'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Jade_Holden&pPK=842f7dd8-daf7-4f32-9aec-4ff4b03e919e
+    - note: 'Twitter account'
+      url: https://twitter.com/JadeEHolden
+  name: 'Jade Holden'
+  summary: 'Scottish Liberal Democrat candidate for the Cowdenbeath by-election'
 
 
 james-monaghan:
   id: james-monaghan
-  name: 'James Monaghan'
+  image: /images/twitter/JamesMonaghan.jpg
   links:
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=James_Monaghan&pPK=fc7e62d8-e4d0-4f0b-bdc4-deacacf92a57
-      note: Lib Dem candidate page
-    - url: https://twitter.com/JamesMonaghan
-      note: Twitter account
+    - note: 'Lib Dem candidate page'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=James_Monaghan&pPK=fc7e62d8-e4d0-4f0b-bdc4-deacacf92a57
+    - note: 'Twitter account'
+      url: https://twitter.com/JamesMonaghan
+  name: 'James Monaghan'
+  summary:
 
 
 jane-brophy:
-  id: jane-brophy
-  name: 'Jane Brophy'
   email: info@janebrophy.co.uk
+  id: jane-brophy
+  image: /images/twitter/Cllr_JaneBrophy.jpg
   links:
-    - url: http://www.janebrophy.co.uk/
-      note: Website
-    - url: https://twitter.com/Cllr_JaneBrophy
-      note: Twitter account
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Jane_Brophy&pPK=ea1a9529-3452-470c-8d29-bb043cfe845a
-      note: Lib Dem candidate page
+    - note: Website
+      url: http://www.janebrophy.co.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/Cllr_JaneBrophy
+    - note: 'Lib Dem candidate page'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Jane_Brophy&pPK=ea1a9529-3452-470c-8d29-bb043cfe845a
+  name: 'Jane Brophy'
+  summary: 'Altrincham & Sale Lib Dems. Timperley Cllr, Trafford. Green & Vegetarian.
+    Mum to Teens. Nutrition Tweets @JaneBrophyRD Here on Health, Environment & Politics.'
 
 
 jay-risbridger:
   id: jay-risbridger
-  name: 'Jay Risbridger'
+  image: /images/twitter/JayRisbridger.jpg
   links:
-    - url: https://twitter.com/JayRisbridger
-      note: Twitter account
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Jay_Risbridger&pPK=46391cb8-99ea-4f54-a520-bf663862ce5a
-      note: Lib Dem candidate page
+    - note: 'Twitter account'
+      url: https://twitter.com/JayRisbridger
+    - note: 'Lib Dem candidate page'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Jay_Risbridger&pPK=46391cb8-99ea-4f54-a520-bf663862ce5a
+  name: 'Jay Risbridger'
+  summary: 'Director Green Stationery Company and Bath Oliver Currency C.I.C. 2014
+    Prospective Lib Dem Euro Candidate for South West.'
 
 
 jo-crotty:
   id: jo-crotty
-  name: 'Jo Crotty'
+  image: /images/twitter/ProfJoCrotty.jpg
   links:
-    - url: https://twitter.com/ProfJoCrotty
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/ProfJoCrotty
+  name: 'Jo Crotty'
+  summary: 'Chair of North West Liberal Democrats.  All views are my own.'
 
 
 joanna-corbin:
   id: joanna-corbin
-  name: 'Joanna Corbin'
   links:
-    - url: http://joannacorbin.org/
-      note: Website
+    - note: Website
+      url: http://joannacorbin.org/
+  name: 'Joanna Corbin'
 
 
 joe-otten:
-  id: joe-otten
-  name: 'Joe Otten'
   email: joe.otten%40sheffield.gov.uk
+  id: joe-otten
+  image: /images/twitter/CllrJoeOtten.jpg
   links:
-    - url: https://twitter.com/CllrJoeOtten
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/CllrJoeOtten
+  name: 'Joe Otten'
+  summary: 'Councillor for Dore and Totley, Sheffield. Lib Dem spokesman for Culture,
+    Leisure and Sport. For more personal and general politics tweets, follow @ExtraBold'
 
 
 john-vincent:
-  id: john-vincent
-  name: 'John Vincent'
   email: john.vincent@john-vincent.org.uk
+  id: john-vincent
   links:
-    - url: http://john-vincent.org.uk/
-      note: Website
+    - note: Website
+      url: http://john-vincent.org.uk/
+  name: 'John Vincent'
 
 
 jonathan-fryer:
   id: jonathan-fryer
+  image: /images/twitter/jonathanfryer.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Jonathan_Fryer
     - note: Website
       url: http://jonathanfryer.wordpress.com/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/jonathanfryer
   name: 'Jonathan Fryer'
+  summary: 'Writer, Lecturer, Broadcaster and Liberal Democrat Euro-candidate for
+    London'
   wikipedia_biography: 'Jonathan Fryer (born 5 June 1950) is a British writer, broadcaster,
     lecturer and Liberal Democrat politician. He was the LibDem candidate for the
     constituency of Poplar and Limehouse in the 2010 general election . As Chairman
@@ -478,45 +564,66 @@ jonathan-fryer:
 
 
 jonathan-webber:
-  id: jonathan-webber
-  name: 'Jonathan Webber'
   email: Chair@wmlibdems.org
+  id: jonathan-webber
   links:
-    - url: http://westmidslibdems.org.uk/en/contact/jonathan-webber
-      note: West Midlands Lib Dems profile
+    - note: 'West Midlands Lib Dems profile'
+      url: http://westmidslibdems.org.uk/en/contact/jonathan-webber
+  name: 'Jonathan Webber'
 
 
 josephine-hayes:
-  id: josephine-hayes
-  name: 'Josephine Hayes'
   email: cllr.jo.hayes@colchester.gov.uk
+  id: josephine-hayes
+  image: /images/twitter/JoHayesLibDem.jpg
   links:
-    - url: https://www.facebook.com/Jo.Hayes.Lib.Dem
-      note: Facebook page
-    - url: https://twitter.com/JoHayesLibDem
-      note: Twitter account
-    - url: http://johayes.mycouncillor.org.uk/
-      note: Website
+    - note: 'Facebook page'
+      url: https://www.facebook.com/Jo.Hayes.Lib.Dem
+    - note: 'Twitter account'
+      url: https://twitter.com/JoHayesLibDem
+    - note: Website
+      url: http://johayes.mycouncillor.org.uk/
+  name: 'Josephine Hayes'
+  summary: 'Liberal Democrat Councillor for Castle Ward, Colchester Borough Council
+    and prospective European Parliamentary candidate for East of England'
 
 
 kay-barnard:
   id: kay-barnard
-  name: 'Kay Barnard'
+  image: /images/twitter/Kay_Barnard.jpg
   links:
-    - url: http://kaybarnard.org/
-      note: Website
-    - url: https://twitter.com/Kay_Barnard
-      note: Twitter account
+    - note: Website
+      url: http://kaybarnard.org/
+    - note: 'Twitter account'
+      url: https://twitter.com/Kay_Barnard
+  name: 'Kay Barnard'
+  summary: 'Lib Dem campaigner, farmer, scientist and small business owner. Works
+    in international development helping countries feed themselves. Into all things
+    European.'
 
 
 linda-jack:
   id: linda-jack
-  name: 'Linda Jack'
+  image: /images/twitter/Lindylooz.png
   links:
-    - url: https://twitter.com/Lindylooz
-      note: Twitter account
-    - url: http://lindyloosmuze.blogspot.co.uk/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/Lindylooz
+    - note: Website
+      url: http://lindyloosmuze.blogspot.co.uk/
+  name: 'Linda Jack'
+  summary: 'Liberal Democrat activist, political commentator. 
+
+    
+
+    Chair of Liberal Left.
+
+    
+
+    Financial Capability consultant
+
+    
+
+    email: linda_a_jack@yahoo.co.uk'
 
 
 lisa-strachan:
@@ -526,32 +633,39 @@ lisa-strachan:
 
 matt-mclaren:
   id: matt-mclaren
-  name: 'Matt McLaren'
+  image: /images/twitter/mattjmclaren.jpg
   links:
-    - url: http://mattjmclaren.eu/
-      note: Website
-    - url: https://twitter.com/mattjmclaren
-      note: Twitter account
+    - note: Website
+      url: http://mattjmclaren.eu/
+    - note: 'Twitter account'
+      url: https://twitter.com/mattjmclaren
+  name: 'Matt McLaren'
+  summary: '@LondonLibDems European Parliamentary Candidate, @liberalyouth Honorary
+    Vice-President, @TPPNotforProfit Social Care Consultant, @HeythropCollege Alumnus'
 
 
 michael-green:
   id: michael-green
-  name: 'Michael Green'
   links:
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Michael_Green&pPK=56dd2bda-dd71-4d11-b78e-9be3739485a8
-      note: Lib Dem candidate profile page
-    - url: https://www.facebook.com/MichaelGreen4EastEnglandMEP
-      note: Facebook page
+    - note: 'Lib Dem candidate profile page'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Michael_Green&pPK=56dd2bda-dd71-4d11-b78e-9be3739485a8
+    - note: 'Facebook page'
+      url: https://www.facebook.com/MichaelGreen4EastEnglandMEP
+  name: 'Michael Green'
 
 
 neil-christian:
   id: neil-christian
-  name: 'Neil Christian'
+  image: /images/twitter/Neil_Christian.jpg
   links:
-    - url: https://twitter.com/Neil_Christian
-      note: Twitter account
-    - url: https://www.facebook.com/neil.c.christian
-      note: Facebook page
+    - note: 'Twitter account'
+      url: https://twitter.com/Neil_Christian
+    - note: 'Facebook page'
+      url: https://www.facebook.com/neil.c.christian
+  name: 'Neil Christian'
+  summary: 'Lib Dem list candidate for NW England in the 2014 European Parliament
+    election. Campaigning for a fair, free and open society, and a strong UK voice
+    in the EU.'
 
 
 neville-farmer:
@@ -561,26 +675,32 @@ neville-farmer:
 
 owen-temple:
   id: owen-temple
-  name: 'Owen Temple'
+  image: /images/twitter/OwenTemple2.jpg
   links:
-    - url: http://owentemple.mycouncillor.org.uk/
-      note: Website
-    - url: https://twitter.com/OwenTemple2
-      note: Twitter account
+    - note: Website
+      url: http://owentemple.mycouncillor.org.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/OwenTemple2
+  name: 'Owen Temple'
+  summary: 'Unique as the only Bristol Rovers supporting Liberal Democrat Councillor
+    in Consett'
 
 
 phil-bennion:
   id: phil-bennion
+  image: /images/twitter/PhilBennionMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Phil_Bennion
     - note: Website
       url: http://philbennion.org/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/PhilBennionMEP
-    - note: Facebook page
+    - note: 'Facebook page'
       url: https://www.facebook.com/PhilBennionMep
   name: 'Phil Bennion'
+  summary: 'Liberal Democrat Member of the European Parliament for the West Midlands.
+    https://t.co/lNgRlEteIb  http://t.co/jYpVa5igqx'
   wikipedia_biography: 'Phillip Bennion (born 7 October 1954) is a British Liberal
     Democrat politician. He sits as a Member of the European Parliament for the West
     Midlands, having replaced Liz Lynne after she stepped down in February 2012. Bennion
@@ -590,68 +710,80 @@ phil-bennion:
 
 phil-knowles:
   id: phil-knowles
-  name: 'Phil Knowles'
+  image: /images/twitter/PhilKnowlesLD.jpg
   links:
-    - url: https://twitter.com/PhilKnowlesLD
-      note: Twitter account
-    - url: http://www.philknowles.eu/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/PhilKnowlesLD
+    - note: Website
+      url: http://www.philknowles.eu/
+  name: 'Phil Knowles'
+  summary: 'All views my own but if you agree then they are also yours. Lib Dem campaigner
+    and advocate of Community Politics in Action'
 
 
 qassim-afzal:
   id: qassim-afzal
-  name: 'Qassim Afzal'
   links:
-    - url: http://qassim-afzal.com/
-      note: Website
+    - note: Website
+      url: http://qassim-afzal.com/
+  name: 'Qassim Afzal'
 
 
 richard-brodie:
   id: richard-brodie
-  name: 'Richard Brodie'
   links:
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Richard_Brodie&pPK=83008289-51ed-4d59-92d5-7d52337244e2
-      note: Lib Dem candidate profile
+    - note: 'Lib Dem candidate profile'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Richard_Brodie&pPK=83008289-51ed-4d59-92d5-7d52337244e2
+  name: 'Richard Brodie'
 
 
 richard-davis:
   id: richard-davis
-  name: 'Richard Davis'
+  image: /images/twitter/DrDickyD.png
   links:
-    - url: http://drricharddavis.co.uk/
-      note: Website
-    - url: https://twitter.com/DrDickyD
-      note: Twitter account 
+    - note: Website
+      url: http://drricharddavis.co.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/DrDickyD
+  name: 'Richard Davis'
+  summary: 'Lib Dem European Parliamentary candidate for London. Only by working together
+    internationally can we build a stronger economy in a fairer society at home.'
 
 
 rob-speht:
-  id: rob-speht
-  name: 'Rob Speht'
   email: robertspeht@gmail.com
+  id: rob-speht
   links:
-    - url: http://robspeht.net/
-      note: Website
+    - note: Website
+      url: http://robspeht.net/
+  name: 'Rob Speht'
 
 
 rosina-robson:
   id: rosina-robson
-  name: 'Rosina Robson'
+  image: /images/twitter/RosinaRobson.jpg
   links:
-    - url: https://twitter.com/RosinaRobson
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/RosinaRobson
+  name: 'Rosina Robson'
+  summary: 'Vice Chair, Richmond & Twickenham Lib Dems. Candidate on European Parliament
+    list for London'
 
 
 sarah-ludford:
-  id: sarah-ludford
   email: office@sarahludfordmep.org.uk
+  id: sarah-ludford
+  image: /images/twitter/SarahLudfordMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Sarah_Ludford,_Baroness_Ludford
     - note: Website
       url: http://www.sarahludfordmep.org.uk/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/SarahLudfordMEP
   name: 'Sarah Ludford'
+  summary: 'Liberal Democrat MEP for London and LibDem European justice & human rights
+    spokeswoman.  Account run by Sarah and by her press officer (signed dl)'
   wikipedia_biography: 'Sarah Ann Ludford, Baroness Ludford (born 14 March 1951) is
     a Liberal Democrat Member of the European Parliament (MEP) and a nonvoting member
     of the House of Lords (where her voting membership is suspended during her MEP
@@ -661,64 +793,81 @@ sarah-ludford:
 
 simon-james:
   id: simon-james
-  name: 'Simon James'
+  image: /images/twitter/simon4europe.jpg
   links:
-    - url: https://twitter.com/simon4europe
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/simon4europe
+  name: 'Simon James'
+  summary: 'Candidate for Lib Dem list for the London Euro Elections'
 
 
 stephen-robinson:
   id: stephen-robinson
-  name: 'Stephen Robinson'
+  image: /images/twitter/sj_robinson.jpg
   links:
-    - url: https://twitter.com/sj_robinson
-      note: Twitter account
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Stephen_Robinson&pPK=271dfde5-13b4-4795-9e24-8008cfe61ed0
-      note: Lib Dem candidate page
-    - url: http://www.stephenrobinson.org.uk
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/sj_robinson
+    - note: 'Lib Dem candidate page'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Stephen_Robinson&pPK=271dfde5-13b4-4795-9e24-8008cfe61ed0
+    - note: Website
+      url: http://www.stephenrobinson.org.uk
+  name: 'Stephen Robinson'
+  summary: '3rd sector PR+fundraising inc @kidsinspire. LD Cllr Chelmsford/Essex;
+    MEP candidate East Region. Member @chelmsfordrt. For more see URL.  Do get in
+    touch'
 
 
 steve-sollitt:
   id: steve-sollitt
-  name: 'Steve Sollitt'
+  image: /images/twitter/stevesollitt.jpg
   links:
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Steve_Sollitt&pPK=71f1b397-7f64-4b07-a3fd-7bac8a5845fd
-      note: Lib Dem candidate page
-    - url: https://twitter.com/stevesollitt
-      note: Twitter account
+    - note: 'Lib Dem candidate page'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Steve_Sollitt&pPK=71f1b397-7f64-4b07-a3fd-7bac8a5845fd
+    - note: 'Twitter account'
+      url: https://twitter.com/stevesollitt
+  name: 'Steve Sollitt'
+  summary: 'Interested in community, environment, campaigning, all things to do with
+    society and politics LD Cllr for Eastleigh South'
 
 
 sue-mcguire:
-  id: sue-mcguire
-  name: 'Sue McGuire'
   email: sue@bluefountain.com
+  id: sue-mcguire
+  image: /images/twitter/sue_mcguire.jpg
   links:
-    - url: http://suemcguire.mycouncillor.org.uk/
-      note: Website
-    - url: https://twitter.com/sue_mcguire
-      note: Twitter account
+    - note: Website
+      url: http://suemcguire.mycouncillor.org.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/sue_mcguire
+  name: 'Sue McGuire'
+  summary: 'Mum of 2 teenagers, business woman, LibDem councillor in Southport, chair
+    of Southport LibDems, charity trustee (SPAC) & school governor.  All views are
+    my own.'
 
 
 tim-bearder:
   id: tim-bearder
-  name: 'Tim Bearder'
+  image: /images/twitter/timbearder.jpg
   links:
-    - url: https://twitter.com/timbearder
-      note: Twitter account
-    - url: http://timbearder.eu/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/timbearder
+    - note: Website
+      url: http://timbearder.eu/
+  name: 'Tim Bearder'
+  summary: 'Liberal Democrat candidate for North Ward'
 
 
 turhan-ozen:
   id: turhan-ozen
-  name: 'Turhan Ozen'
+  image: /images/twitter/tozen.jpg
   links:
-    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Turhan_Ozen&pPK=ff72a037-6c49-41b0-96d7-6e37b626883f
-      note: Lib Dem candidate page
-    - url: https://twitter.com/tozen
-      note: Twitter account
-    - url: https://www.facebook.com/drtozen
-      note: Facebook page
-    - url: http://www.drozen.org
-      note: Website
+    - note: 'Lib Dem candidate page'
+      url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Turhan_Ozen&pPK=ff72a037-6c49-41b0-96d7-6e37b626883f
+    - note: 'Twitter account'
+      url: https://twitter.com/tozen
+    - note: 'Facebook page'
+      url: https://www.facebook.com/drtozen
+    - note: Website
+      url: http://www.drozen.org
+  name: 'Turhan Ozen'
+  summary: 'LibDem EUP Candidate for London'
