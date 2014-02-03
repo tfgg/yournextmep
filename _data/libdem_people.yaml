@@ -1,23 +1,44 @@
 alan-bullion:
   id: alan-bullion
   name: 'Alan Bullion'
+  email: alan.bullion@informa.com
+  links:
+    - url: http://alanbullion.mycouncillor.org.uk/
+      note: Website
+    - url: https://twitter.com/AlanBullion
+      note: Twitter account
 
 
 alec-dauncey:
   id: alec-dauncey
   name: 'Alec Dauncey'
+  links:
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Alec_Dauncey_&pPK=7ca46e7b-a39c-478f-bbe8-7554f7acd4d1
+      note: Lib Dem candidate profile
+    - url: https://twitter.com/alecaberystwyth
+      note: Twitter account
 
 
 allis-moss:
   id: allis-moss
   name: 'Allis Moss'
+  links:
+    - url: http://www.europe4prosperity.com/index.php/who-are-we-2/83-alice-moss
+      note: Europe4prosperity profile
 
 
 andrew-duff:
   id: andrew-duff
+  email: mep@andrewduffmep.org
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Andrew_Duff
+    - note: Website
+      url: http://andrewduff.eu/
+    - note: Facebook page
+      url: https://www.facebook.com/AndrewDuffMEP
+    - note: Twitter account
+      url: https://twitter.com/Andrew_Duff_MEP
   name: 'Andrew Duff'
   wikipedia_biography: 'Andrew Duff OBE (born 25 December 1950) is a Liberal Democrat
     politician, president of the Union of European Federalists, and a Member of the
