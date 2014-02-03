@@ -253,6 +253,10 @@ edward-mcmillan-scott:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Edward_McMillan-Scott
+    - note: Website
+      url: http://emcmillanscott.com/
+    - note: https://twitter.com/emcmillanscott
+      url: Twitter account
   name: 'Edward McMillan-Scott'
   wikipedia_biography: 'Edward Hugh Christian McMillan-Scott (born 15 August 1949)
     is a British Member of the European Parliament (MEP) for Yorkshire and the Humber
@@ -268,6 +272,10 @@ george-lyon:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/George_Lyon_(Scottish_politician)
+    - note: Website
+      url: http://georgelyon.org.uk/
+    - note: Twitter account
+      url: https://twitter.com/georgelyonmep
   name: 'George Lyon'
   wikipedia_biography: 'George Lyon (born 16 July 1956 in Rothesay) is a Scottish
     Liberal Democrat politician, and a Member of the European Parliament for Scotland,
@@ -281,23 +289,48 @@ george-lyon:
 george-smid:
   id: george-smid
   name: 'George Smid'
+  email: jg.smid@gmail.com
+  links:
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=George_Smid&pPK=7266c373-129a-4a00-b766-18c10f529764
+      note: Lib Dem candidate profile
+    - url: http://georgesmid.wordpress.com/
+      note: Website
+    - url: https://twitter.com/GeorgeSmid
+      note: Twitter account
 
 
 giles-goodall:
   id: giles-goodall
   name: 'Giles Goodall'
+  links:
+    - url: http://www.gilesgoodall.org.uk/
+      note: Website
+    - url: https://twitter.com/GoodallGiles
+      note: Twitter account
+    - url: https://www.facebook.com/GoodallGiles
+      note: Facebook page
 
 
 gordon-lishman:
   id: gordon-lishman
   name: 'Gordon Lishman'
+  links:
+    - url: https://en.wikipedia.org/wiki/Gordon_Lishman
+      note: Wikipedia page
 
 
 graham-watson:
   id: graham-watson
+  email: info@grahamwatsonmep.org
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Graham_Watson
+    - note: Twitter account
+      url: https://twitter.com/grahamwatsonmep
+    - url: http://www.grahamwatsonmep.org/
+      note: Website
+    - note: Facebook page
+      url: https://www.facebook.com/grahamwatsonmep
   name: 'Graham Watson'
   wikipedia_biography: 'Sir Graham Robert Watson (born 23 March 1956) is a British
     Politician. He has served as a Member of the European Parliament for South West
@@ -310,21 +343,39 @@ graham-watson:
 helen-foster-grime:
   id: helen-foster-grime
   name: 'Helen Foster-Grime'
+  links:
+    - url: https://twitter.com/helen_fg
+      note: Twitter account
+    - url: http://www.helenfostergrime.com/
+      note: Website
 
 
 hugh-annand:
   id: hugh-annand
   name: 'Hugh Annand'
+  links:
+    - url: https://twitter.com/Hugh_Annand
+      note: Twitter account
+    - url: https://www.facebook.com/hughannand.libdem
+      note: Facebook page
 
 
 ian-bearder:
   id: ian-bearder
   name: 'Ian Bearder'
+  links:
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Ian_Bearder&pPK=65b668dc-4c83-4969-9fcc-43add756ffb6
+      note: Lib Dem candidate page
 
 
 issan-ghazni:
   id: issan-ghazni
   name: 'Issan Ghazni'
+  links:
+    - url: http://issanghazni.com/
+      note: Website
+    - url: https://twitter.com/Issanghazni
+      note: Twitter account
 
 
 jacqueline-bell:
@@ -335,11 +386,21 @@ jacqueline-bell:
 jade-holden:
   id: jade-holden
   name: 'Jade Holden'
+  links:
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Jade_Holden&pPK=842f7dd8-daf7-4f32-9aec-4ff4b03e919e
+      note: Lib Dem candidate page
+    - url: https://twitter.com/JadeEHolden
+      note: Twitter account
 
 
 james-monaghan:
   id: james-monaghan
   name: 'James Monaghan'
+  links:
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=James_Monaghan&pPK=fc7e62d8-e4d0-4f0b-bdc4-deacacf92a57
+      note: Lib Dem candidate page
+    - url: https://twitter.com/JamesMonaghan
+      note: Twitter account
 
 
 jane-brophy:
