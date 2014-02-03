@@ -406,31 +406,58 @@ james-monaghan:
 jane-brophy:
   id: jane-brophy
   name: 'Jane Brophy'
+  email: info@janebrophy.co.uk
+  links:
+    - url: http://www.janebrophy.co.uk/
+      note: Website
+    - url: https://twitter.com/Cllr_JaneBrophy
+      note: Twitter account
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Jane_Brophy&pPK=ea1a9529-3452-470c-8d29-bb043cfe845a
+      note: Lib Dem candidate page
 
 
 jay-risbridger:
   id: jay-risbridger
   name: 'Jay Risbridger'
+  links:
+    - url: https://twitter.com/JayRisbridger
+      note: Twitter account
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Jay_Risbridger&pPK=46391cb8-99ea-4f54-a520-bf663862ce5a
+      note: Lib Dem candidate page
 
 
 jo-crotty:
   id: jo-crotty
   name: 'Jo Crotty'
+  links:
+    - url: https://twitter.com/ProfJoCrotty
+      note: Twitter account
 
 
 joanna-corbin:
   id: joanna-corbin
   name: 'Joanna Corbin'
+  links:
+    - url: http://joannacorbin.org/
+      note: Website
 
 
 joe-otten:
   id: joe-otten
   name: 'Joe Otten'
+  email: joe.otten%40sheffield.gov.uk
+  links:
+    - url: https://twitter.com/CllrJoeOtten
+      note: Twitter account
 
 
 john-vincent:
   id: john-vincent
   name: 'John Vincent'
+  email: john.vincent@john-vincent.org.uk
+  links:
+    - url: http://john-vincent.org.uk/
+      note: Website
 
 
 jonathan-fryer:
@@ -438,6 +465,10 @@ jonathan-fryer:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Jonathan_Fryer
+    - note: Website
+      url: http://jonathanfryer.wordpress.com/
+    - note: Twitter account
+      url: https://twitter.com/jonathanfryer
   name: 'Jonathan Fryer'
   wikipedia_biography: 'Jonathan Fryer (born 5 June 1950) is a British writer, broadcaster,
     lecturer and Liberal Democrat politician. He was the LibDem candidate for the
@@ -449,11 +480,23 @@ jonathan-fryer:
 jonathan-webber:
   id: jonathan-webber
   name: 'Jonathan Webber'
+  email: Chair@wmlibdems.org
+  links:
+    - url: http://westmidslibdems.org.uk/en/contact/jonathan-webber
+      note: West Midlands Lib Dems profile
 
 
 josephine-hayes:
   id: josephine-hayes
   name: 'Josephine Hayes'
+  email: cllr.jo.hayes@colchester.gov.uk
+  links:
+    - url: https://www.facebook.com/Jo.Hayes.Lib.Dem
+      note: Facebook page
+    - url: https://twitter.com/JoHayesLibDem
+      note: Twitter account
+    - url: http://johayes.mycouncillor.org.uk/
+      note: Website
 
 
 kay-barnard:
