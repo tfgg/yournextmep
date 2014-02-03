@@ -51,36 +51,65 @@ andrew-duff:
 andrew-wigley:
   id: andrew-wigley
   name: 'Andrew Wigley'
+  email: andrew@andrewwigley.org
+  links:
+    - url: https://twitter.com/andrewwigley
+      note: Twitter account
+    - url: http://www.andrewwigley.org/
+      note: Website
+    - url: https://www.facebook.com/AndrewWigley.org
+      note: Facebook page
 
 
 angelika-schneider:
   id: angelika-schneider
   name: 'Angelika Schneider'
+  links:
+    - url: https://twitter.com/Angel4theNorth
+      note: Twitter account
+    - url: https://www.facebook.com/voteangelika
+      note: Facebook page
 
 
 anna-white:
   id: anna-white
   name: 'Anna White'
+  links:
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Anna_White&pPK=2c16f946-03fd-4c77-8109-b82018c33c32
+      note: Lib Dem candidate profile
 
 
 anthony-hook:
   id: anthony-hook
   name: 'Anthony Hook'
+  links:
+    - url: https://twitter.com/antonyhook
+      note: Twitter account
 
 
 anuja-prashar:
   id: anuja-prashar
   name: 'Anuja Prashar'
+  links:
+    - url: http://www.anujaprashar.co.uk/
+      note: Website
+    - url: https://twitter.com/AnujaPrashar
+      note: Twitter account
 
 
 ayoub-khan:
   id: ayoub-khan
   name: 'Ayoub Khan'
+  email: Ayoub_khan64@hotmail.com
 
 
 belinda-brooks-gordon:
   id: belinda-brooks-gordon
   name: 'Belinda Brooks-Gordon'
+  email: b.brooks-gordon@bbk.ac.uk
+  links:
+    - url: https://twitter.com/BelindaBG
+      note: Twitter account
 
 
 bill-newton-dunn:
@@ -88,6 +117,10 @@ bill-newton-dunn:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Bill_Newton_Dunn
+    - note: Website
+      url: http://www.newton-dunn.com/
+    - url: https://twitter.com/billnewtondunn
+      note: Twitter account
   name: 'Bill Newton Dunn'
   wikipedia_biography: 'William "Bill" Newton Dunn is a British politician. He is
     a Member of the European Parliament for the East Midlands for the Liberal Democrats.'
@@ -96,16 +129,30 @@ bill-newton-dunn:
 brian-matthew:
   id: brian-matthew
   name: 'Brian Matthew'
+  links:
+    - url: http://www.nsomersetlibdems.org.uk/brian-mathew
+      note: North Somerset Lib Dems profile page
 
 
 bruce-roberts:
   id: bruce-roberts
   name: 'Bruce Roberts'
+  links:
+    - url: https://twitter.com/WxmBruce
+      note: Twitter account
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Bruce_Roberts&pPK=de4258a3-ac84-4289-b7d3-0ae8174c99ea
+      note: Lib Dem candidate profile
 
 
 bruce-tennent:
   id: bruce-tennent
   name: 'Bruce Tennent'
+  email: bruce.tennent@eastleigh.gov.uk
+  links:
+    - url: https://twitter.com/BruceTennent
+      note: Twitter account
+    - url: http://www.eastleigh.gov.uk/meetings/mgMiniSite.aspx?UID=918
+      note: Eastleigh Borough Council profile
 
 
 catherine-bearder:
@@ -113,6 +160,10 @@ catherine-bearder:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
+    - note: Website
+      url: http://bearder.eu/
+    - note: Twitter account
+      url: https://twitter.com/catherinemep
   name: 'Catherine Bearder'
   wikipedia_biography: 'South East England is a constituency of the European Parliament.
     It currently elects 10 Members of the European Parliament (MEPs) using the D''Hondt
@@ -124,6 +175,10 @@ chris-davies:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Chris_Davies
+    - note: Website
+      url: http://www.chrisdaviesmep.org.uk/
+    - note: Twitter account
+      url: https://twitter.com/ChrisDaviesMEP
   name: 'Chris Davies'
   wikipedia_biography: 'Christopher Graham Davies (born 7 July 1954) is a Liberal
     Democrat politician in the United Kingdom. He is a former Member of Parliament,
@@ -133,31 +188,64 @@ chris-davies:
 chris-foote-wood:
   id: chris-foote-wood
   name: 'Chris Foote-Wood'
+  links:
+    - url: https://en.wikipedia.org/wiki/Chris_Foote_Wood
+      note: Wikipedia article
+    - url: https://twitter.com/ChrisasDickens
+      note: Twitter account
 
 
 christian-vassie:
   id: christian-vassie
   name: 'Christian Vassie'
+  links:
+    - url: http://www.vassie.co.uk/
+      note: Website
+    - url: https://twitter.com/christianvassie
+      note: Twitter account
 
 
 christine-jardine:
   id: christine-jardine
   name: 'Christine Jardine'
+  email:  comms@scotlibdems.org.uk
+  links:
+    - url: http://www.scotlibdems.org.uk/people/christine-jardine
+      note: Scot Lib Dems profile
+    - url: https://twitter.com/CAJardine
+      note: Twitter account
 
 
 christine-tinker:
   id: christine-tinker
+  email: libdem@christinetinker.wanadoo.co.uk
   name: 'Christine Tinker'
+  links:
+    - url: http://www.libdems.org.uk/parliamentary_candidates_detail.aspx?name=Christine_Tinker&pPK=91158b0c-f520-4c83-918a-5ceb9d759900
+      note: Lib Dem candidate profile
+  
 
 
 deborah-newton-cook:
   id: deborah-newton-cook
   name: 'Deborah Newton-Cook'
+  email: deborahnewtoncook@gmail.com
+  links:
+    - url: https://twitter.com/DNewtonCook
+      note: Twitter account
 
 
 dinti-batstone:
   id: dinti-batstone
   name: 'Dinti Batstone'
+  email Dinti2012@gmail.com
+  links:
+    - url: http://dintibatstone.org/
+      note: Website
+    - url: https://twitter.com/DintiBatstone
+      note: Twitter account
+    - url: https://www.facebook.com/pages/Dinti-Batstone/105351986195513
+      note: Facebook page
 
 
 edward-mcmillan-scott:
