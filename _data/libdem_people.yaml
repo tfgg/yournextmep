@@ -502,11 +502,21 @@ josephine-hayes:
 kay-barnard:
   id: kay-barnard
   name: 'Kay Barnard'
+  links:
+    - url: http://kaybarnard.org/
+      note: Website
+    - url: https://twitter.com/Kay_Barnard
+      note: Twitter account
 
 
 linda-jack:
   id: linda-jack
   name: 'Linda Jack'
+  links:
+    - url: https://twitter.com/Lindylooz
+      note: Twitter account
+    - url: http://lindyloosmuze.blogspot.co.uk/
+      note: Website
 
 
 lisa-strachan:
@@ -517,16 +527,31 @@ lisa-strachan:
 matt-mclaren:
   id: matt-mclaren
   name: 'Matt McLaren'
+  links:
+    - url: http://mattjmclaren.eu/
+      note: Website
+    - url: https://twitter.com/mattjmclaren
+      note: Twitter account
 
 
 michael-green:
   id: michael-green
   name: 'Michael Green'
+  links:
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Michael_Green&pPK=56dd2bda-dd71-4d11-b78e-9be3739485a8
+      note: Lib Dem candidate profile page
+    - url: https://www.facebook.com/MichaelGreen4EastEnglandMEP
+      note: Facebook page
 
 
 neil-christian:
   id: neil-christian
   name: 'Neil Christian'
+  links:
+    - url: https://twitter.com/Neil_Christian
+      note: Twitter account
+    - url: https://www.facebook.com/neil.c.christian
+      note: Facebook page
 
 
 neville-farmer:
@@ -537,6 +562,11 @@ neville-farmer:
 owen-temple:
   id: owen-temple
   name: 'Owen Temple'
+  links:
+    - url: http://owentemple.mycouncillor.org.uk/
+      note: Website
+    - url: https://twitter.com/OwenTemple2
+      note: Twitter account
 
 
 phil-bennion:
@@ -544,6 +574,12 @@ phil-bennion:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Phil_Bennion
+    - note: Website
+      url: http://philbennion.org/
+    - note: Twitter account
+      url: https://twitter.com/PhilBennionMEP
+    - note: Facebook page
+      url: https://www.facebook.com/PhilBennionMep
   name: 'Phil Bennion'
   wikipedia_biography: 'Phillip Bennion (born 7 October 1954) is a British Liberal
     Democrat politician. He sits as a Member of the European Parliament for the West
@@ -555,38 +591,66 @@ phil-bennion:
 phil-knowles:
   id: phil-knowles
   name: 'Phil Knowles'
+  links:
+    - url: https://twitter.com/PhilKnowlesLD
+      note: Twitter account
+    - url: http://www.philknowles.eu/
+      note: Website
 
 
 qassim-afzal:
   id: qassim-afzal
   name: 'Qassim Afzal'
+  links:
+    - url: http://qassim-afzal.com/
+      note: Website
 
 
 richard-brodie:
   id: richard-brodie
   name: 'Richard Brodie'
+  links:
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Richard_Brodie&pPK=83008289-51ed-4d59-92d5-7d52337244e2
+      note: Lib Dem candidate profile
 
 
 richard-davis:
   id: richard-davis
   name: 'Richard Davis'
+  links:
+    - url: http://drricharddavis.co.uk/
+      note: Website
+    - url: https://twitter.com/DrDickyD
+      note: Twitter account 
 
 
 rob-speht:
   id: rob-speht
   name: 'Rob Speht'
+  email: robertspeht@gmail.com
+  links:
+    - url: http://robspeht.net/
+      note: Website
 
 
 rosina-robson:
   id: rosina-robson
   name: 'Rosina Robson'
+  links:
+    - url: https://twitter.com/RosinaRobson
+      note: Twitter account
 
 
 sarah-ludford:
   id: sarah-ludford
+  email: office@sarahludfordmep.org.uk
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Sarah_Ludford,_Baroness_Ludford
+    - note: Website
+      url: http://www.sarahludfordmep.org.uk/
+    - note: Twitter account
+      url: https://twitter.com/SarahLudfordMEP
   name: 'Sarah Ludford'
   wikipedia_biography: 'Sarah Ann Ludford, Baroness Ludford (born 14 March 1951) is
     a Liberal Democrat Member of the European Parliament (MEP) and a nonvoting member
