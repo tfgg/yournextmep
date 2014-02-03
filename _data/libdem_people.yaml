@@ -662,28 +662,63 @@ sarah-ludford:
 simon-james:
   id: simon-james
   name: 'Simon James'
+  links:
+    - url: https://twitter.com/simon4europe
+      note: Twitter account
 
 
 stephen-robinson:
   id: stephen-robinson
   name: 'Stephen Robinson'
+  links:
+    - url: https://twitter.com/sj_robinson
+      note: Twitter account
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Stephen_Robinson&pPK=271dfde5-13b4-4795-9e24-8008cfe61ed0
+      note: Lib Dem candidate page
+    - url: http://www.stephenrobinson.org.uk
+      note: Website
 
 
 steve-sollitt:
   id: steve-sollitt
   name: 'Steve Sollitt'
+  links:
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Steve_Sollitt&pPK=71f1b397-7f64-4b07-a3fd-7bac8a5845fd
+      note: Lib Dem candidate page
+    - url: https://twitter.com/stevesollitt
+      note: Twitter account
 
 
 sue-mcguire:
   id: sue-mcguire
   name: 'Sue McGuire'
+  email: sue@bluefountain.com
+  links:
+    - url: http://suemcguire.mycouncillor.org.uk/
+      note: Website
+    - url: https://twitter.com/sue_mcguire
+      note: Twitter account
 
 
 tim-bearder:
   id: tim-bearder
   name: 'Tim Bearder'
+  links:
+    - url: https://twitter.com/timbearder
+      note: Twitter account
+    - url: http://timbearder.eu/
+      note: Website
 
 
 turhan-ozen:
   id: turhan-ozen
   name: 'Turhan Ozen'
+  links:
+    - url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Turhan_Ozen&pPK=ff72a037-6c49-41b0-96d7-6e37b626883f
+      note: Lib Dem candidate page
+    - url: https://twitter.com/tozen
+      note: Twitter account
+    - url: https://www.facebook.com/drtozen
+      note: Facebook page
+    - url: http://www.drozen.org
+      note: Website
