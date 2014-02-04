@@ -190,41 +190,66 @@ jill-mills:
   name: 'Jill Mills'
   links:
     - url: http://eastern.greenparty.org.uk/people/jill-mills.html
+      note: Website
 
 
 jill-perry:
   id: jill-perry
   name: 'Jill Perry'
+  email: jill.perry@greenparty.org.uk
+  links:
+    - url: http://northwest.greenparty.org.uk/people/jill-perry.html
+      note: North West Green Party profile
 
 
 john-knight:
   id: john-knight
   name: 'John Knight'
+  email: john.knight@greenparty.org.uk
 
 
 john-matthews:
   id: john-matthews
   name: 'John Matthews'
+  links:
+    - url: http://greenparty.org.uk/people/john-matthews.html
+      note: Green Party profile
 
 
 judy-maciejowska:
   id: judy-maciejowska
   name: 'Judy Maciejowska'
+  links:
+    - url: http://www.greenparty.org.uk/people/98.html
+      note: Green Party profile
+    - url: https://twitter.com/judymaciejowska
+      note: Twitter account
 
 
 karl-macnaughton:
   id: karl-macnaughton
   name: 'Karl Macnaughton'
+  links:
+    - url: https://twitter.com/CllrKarl
+      note: Twitter account
 
 
 katharina-boettge:
   id: katharina-boettge
   name: 'Katharina Boettge'
+  links:
+    - url: https://twitter.com/KatBoettge
+      note: Twitter account
 
 
 kevin-warnes:
   id: kevin-warnes
   name: 'Kevin Warnes'
+  links:
+    - url: http://greenparty.org.uk/people/kevin-warnes.html
+      note: Green Party profile
+    - url: https://twitter.com/kevinwarnes
+      note: Twitter account
 
 
 laura-bannister:
@@ -235,16 +260,27 @@ laura-bannister:
 lewis-coyne:
   id: lewis-coyne
   name: 'Lewis Coyne'
+  links:
+    - url: https://twitter.com/LewisCoyne
+      note: Twitter account
 
 
 marc-scheimann:
   id: marc-scheimann
   name: 'Marc Scheimann'
+  email: marc.sheimann@greenparty.org.uk
+  links:
+    - url: http://greenparty.org.uk/people/marc-sheimann.html
+      note: Green Party profile
+    - url: https://www.facebook.com/marc.scheimann
+      note: Facebook page
 
 
 mark-ereira-guyer:
   id: mark-ereira-guyer
   name: 'Mark Ereira-Guyer'
+  links:
+    - url: https://twitter.com/markereiraguyer
 
 
 martin-hemingway:
