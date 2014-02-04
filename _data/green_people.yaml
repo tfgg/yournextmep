@@ -426,23 +426,41 @@ shan-oakes:
 shirley-ford:
   id: shirley-ford
   name: 'Shirley Ford'
+  email: shirley.ford@greenparty.org.uk
   links:
     - url: http://greenparty.org.uk/people/shirley-ford.html
+      note: Green Party profile
+    - url: https://twitter.com/ShirleyFord15
+      note: Twitter account
 
 
 simon-hales:
   id: simon-hales
   name: 'Simon Hales'
+  links:
+    - url: https://twitter.com/shales73
+      note: Twitter account
 
 
 sue-mallender:
   id: sue-mallender
   name: 'Sue Mallender'
+  email: sue.mallender@greenparty.org.uk
+  links:
+    - url: http://greenparty.org.uk/people/sue-mallender.html
+      note: Green Party profile
+    - url: https://twitter.com/Sue_Mallender
+      note: Twitter account
 
 
 tom-harris:
   id: tom-harris
   name: 'Tom Harris'
+  links:
+    - url: https://twitter.com/mrtomharris
+      note: Twitter account
+    - url: http://mrtomharris.wordpress.com/
+      note: Website
 
 
 tracey-hague:
@@ -458,11 +476,19 @@ ulrike-zeshan:
 vicky-duckworth:
   id: vicky-duckworth
   name: 'Vicky Duckworth'
+  links:
+    - url: https://twitter.com/VickyDuckworth
+      note: Twitter account
 
 
 violeta-vajda:
   id: violeta-vajda
   name: 'Violeta Vajda'
+  links:
+    - url: https://www.facebook.com/violeta.vajda
+      note: Facebook page
+    - url: https://twitter.com/violetavajda
+      note: Twitter account
 
 
 will-duckworth:
@@ -470,4 +496,6 @@ will-duckworth:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Will_Duckworth
+    - note: Twitter account
+      url: https://twitter.com/WillDuckworthGP
   name: 'Will Duckworth'
