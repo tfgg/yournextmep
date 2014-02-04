@@ -135,3 +135,25 @@ yorkshire-and-the-humber:
     name: 'Martin Hemingway'
   - id: kevin-warnes
     name: 'Kevin Warnes'
+
+south-east:
+  - id: keith-taylor
+    name: Keith Taylor
+  - id: alexandra-phillips
+    name: Alexandra Phillips
+  - id: derek-wall
+    name: Derek Wall
+  - id: jason-kitcat
+    name: Jason Kitcat
+  - id: miriam-kennet
+    name: Miriam Kennet
+  - id: beatrix-campbell
+    name: Beatrix Campbell
+  - id: beverley-golden
+    name: Beverley Golden
+  - id: jonathan-essex
+    name: Jonathan Essex
+  - id: jonathan-kent
+    name: Jonathan Kent
+  - id: stuart-jeffrey
+    name: Stuart Jeffrey

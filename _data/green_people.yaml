@@ -1,12 +1,17 @@
 aldo-mussi:
-  id: aldo-mussi
-  name: 'Aldo Mussi'
   email: aldo.mussi@bcu.ac.uk
+  id: aldo-mussi
   links:
-    - url: http://www.aldomussi.info/
-      note: Website
-    - http://www.bcu.ac.uk/health/departments/public-health/staff-profiles/aldo-mussi
-      note: Birmingham City University profile
+    - note: Website
+      url: http://www.aldomussi.info/
+    - note: 'Birmingham City University profile'
+      url: http://www.bcu.ac.uk/health/departments/public-health/staff-profiles/aldo-mussi
+  name: 'Aldo Mussi'
+
+
+alexandra-phillips:
+  id: alexandra-phillips
+  name: 'Alexandra Phillips'
 
 
 alison-whalley:
@@ -16,57 +21,82 @@ alison-whalley:
 
 amelia-womack:
   id: amelia-womack
-  name: 'Amelia Womack'
+  image: /images/twitter/green_ballerina.jpg
   links:
-    - url: https://www.facebook.com/AmeliaWomackforEurope
-      note: Facebook page
-    - url: http://ameliawomack.wordpress.com/
-      note: Website
-    - url: https://twitter.com/green_ballerina
-      note: Twitter account
+    - note: 'Facebook page'
+      url: https://www.facebook.com/AmeliaWomackforEurope
+    - note: Website
+      url: http://ameliawomack.wordpress.com/
+    - note: 'Twitter account'
+      url: https://twitter.com/green_ballerina
+  name: 'Amelia Womack'
+  summary: '@TheGreenParty MEP candidate, Socialist, Environmentalist, Environmental
+    Technology Student, @EndecocideEU Campaigner and Dancer'
 
 
 andrew-cooper:
   id: andrew-cooper
-  name: 'Andrew Cooper'
+  image: /images/twitter/clrandrewcooper.png
   links:
-    - url: http://www2.kirklees.gov.uk/you-kmc/kmc-howcouncilworks/councillors/profile/profile.aspx?cllrId=18
-      note: Kirklees council profile
-    - url: https://twitter.com/clrandrewcooper
-      note: Twitter account
-    - url: http://www.greeningkirklees.blogspot.co.uk/
-      note: Website
+    - note: 'Kirklees council profile'
+      url: http://www2.kirklees.gov.uk/you-kmc/kmc-howcouncilworks/councillors/profile/profile.aspx?cllrId=18
+    - note: 'Twitter account'
+      url: https://twitter.com/clrandrewcooper
+    - note: Website
+      url: http://www.greeningkirklees.blogspot.co.uk/
+  name: 'Andrew Cooper'
+  summary: 'Green Cllr on Kirklees and Kirkburton Parish. I work in the energy & microgen
+    sector & am the Party''s Lead Candidate for the 2014 Euros in Yorks & Humber'
 
 
 ash-haynes:
-  id: ash-haynes
-  name: 'Ash Haynes'
   email: ash.haynes@norwichgreenparty.org
+  id: ash-haynes
+  image: /images/twitter/ashlizhaynes.jpg
   links:
-    - url: http://norwich.greenparty.org.uk/councillors/ash-haynes-city-councillor-town-close-ward.html
-      note: Norwich Green Party profile
-    - url: https://twitter.com/ashlizhaynes
-      note: Twitter account
+    - note: 'Norwich Green Party profile'
+      url: http://norwich.greenparty.org.uk/councillors/ash-haynes-city-councillor-town-close-ward.html
+    - note: 'Twitter account'
+      url: https://twitter.com/ashlizhaynes
+  name: 'Ash Haynes'
+  summary: 'Green councillor for Town Close ward in Norwich. Housing and equality.
+    Owned by a cat called Ella.'
 
 
 audaye-elesedy:
   id: audaye-elesedy
-  name: 'Audaye Elesedy'
+  image: /images/twitter/audaye.jpg
   links:
-    - url: https://www.facebook.com/audaye.elesedy
-      note: Facebook page
-    - url: https://twitter.com/audaye
-      note: Twitter account
+    - note: 'Facebook page'
+      url: https://www.facebook.com/audaye.elesedy
+    - note: 'Twitter account'
+      url: https://twitter.com/audaye
+  name: 'Audaye Elesedy'
+  summary: 'Current affairs  - Broadcasting @SWCnR + director @phonic_fm  - Ecology
+    - Climate - IT - Green Politics - Euro candidacy - Tweets my own or borrowed.'
+
+
+beatrix-campbell:
+  id: beatrix-campbell
+  name: 'Beatrix Campbell'
+
+
+beverley-golden:
+  id: beverley-golden
+  name: 'Beverley Golden'
 
 
 caroline-allen:
   id: caroline-allen
-  name: 'Caroline Allen'
+  image: /images/twitter/Green_Caroline.png
   links:
-    - url: https://twitter.com/Green_Caroline
-      note: Twitter account
-    - url: http://www.carolineallengreenlondon.blogspot.co.uk/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/Green_Caroline
+    - note: Website
+      url: http://www.carolineallengreenlondon.blogspot.co.uk/
+  name: 'Caroline Allen'
+  summary: 'Vet. London Green Party Euro List no.2 and national Spokesperson on Animals.
+    My own views.'
 
 
 caroline-robinson:
@@ -76,180 +106,263 @@ caroline-robinson:
 
 chris-were:
   id: chris-were
-  name: 'Chris Were'
+  image: /images/twitter/ChristopherWere.png
   links:
-    - url: https://twitter.com/ChristopherWere
-      note: Twitter account
-    - url: http://christopherwere.com/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/ChristopherWere
+    - note: Website
+      url: http://christopherwere.com/
+  name: 'Chris Were'
+  summary: 'You can find out more on http://t.co/iY0l7VlX8Z'
 
 
 danny-bates:
   id: danny-bates
-  name: 'Danny Bates'
+  image: /images/twitter/Green_DannyB.jpg
   links:
-    - url: https://twitter.com/Green_DannyB
-      note: Twitter account
-    - url: http://www.danny4europe.org/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/Green_DannyB
+    - note: Website
+      url: http://www.danny4europe.org/
+  name: 'Danny Bates'
+  summary: 'Green activist, London Assistant to @GreenJeanMEP. Hackney resident, vegan.
+    Standing on the London Green Euro list.'
 
 
 denise-craghill:
   id: denise-craghill
-  name: 'Denise Craghill'
+  image: /images/twitter/DeniseCraghill.png
   links:
-    - url: https://twitter.com/DeniseCraghill
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/DeniseCraghill
+  name: 'Denise Craghill'
+  summary: 'Yorkshire CND fundraiser - http://t.co/4Oiri3YTD2; Green Party coordinator
+    for Guildhall ward York & 4th on Yorks. & the Humber Green Party list for Europe
+    2014'
+
+
+derek-wall:
+  id: derek-wall
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Derek_Wall
+  name: 'Derek Wall'
+  wikipedia_biography: 'Derek Wall is an English politician and member of the Green
+    Party of England and Wales. He is currently International Coordinator of the Green
+    Party. Formerly the party''s Principal Speaker, he is known as a prominent ecosocialist,
+    campaigning both for environmentalism and socialism. Alongside his political role,
+    Wall is an academic and a writer, having published on the subject of ecosocialism
+    and the wider Green politics movement. He is a contributor to the Morning Star
+    newspaper and a blogger.'
 
 
 dr-vicky-dunn:
   id: dr-vicky-dunn
-  name: 'Dr Vicky Dunn'
+  image: /images/twitter/HumberGreen.png
   links:
-    - url: https://twitter.com/HumberGreen
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/HumberGreen
+  name: 'Dr Vicky Dunn'
+  summary: 'Green Party candidate for Euro elections in 2014 (3rd on list of 6)  Coordinator
+    for N E Lincolnshire party     *views are my own'
 
 
 duncan-kerr:
   id: duncan-kerr
-  name: 'Duncan Kerr'
+  image: /images/twitter/DunxKerr.png
   links:
-    - url: https://twitter.com/DunxKerr
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/DunxKerr
+  name: 'Duncan Kerr'
+  summary: 'software engineer, hugger,'
 
 
 emily-mcivor:
-  id: emily-mcivor
-  name: 'Emily McIvor'
   email: emily.mcivor@headweb.co.uk
+  id: emily-mcivor
   links:
-    - url: https://www.facebook.com/McIvorEmily
-      note: Facebook page
+    - note: 'Facebook page'
+      url: https://www.facebook.com/McIvorEmily
+  name: 'Emily McIvor'
 
 
 fiona-radic:
   id: fiona-radic
-  name: 'Fiona Radic'
+  image: /images/twitter/FionaRadic.jpg
   links:
-    - url: https://twitter.com/FionaRadic
-      note: Twitter account
-    - url: http://fionaradic.wordpress.com/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/FionaRadic
+    - note: Website
+      url: http://fionaradic.wordpress.com/
+  name: 'Fiona Radic'
+  summary: 'Green Party candidate for the Eastern Region              in the 2014
+    European election'
 
 
 gina-dowding:
   id: gina-dowding
-  name: 'Gina Dowding'
+  image: /images/twitter/GinaDowding.png
   links:
-    - url: https://twitter.com/GinaDowding
-      note: Twitter account
-    - http://www.gdowding.blogspot.co.uk/
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/GinaDowding
+    - note: 'Twitter account'
+      url: http://www.gdowding.blogspot.co.uk/
+  name: 'Gina Dowding'
+  summary: 'Green Party candidate for NW 2014 Euro elections. County Councillor for
+    Lancaster Central. Mum. Loves being busy. Fortunately.'
 
 
 haroon-saad:
   id: haroon-saad
-  name: 'Haroon Saad'
+  image: /images/twitter/HaroonSaad1.jpg
   links:
-    - url: https://twitter.com/HaroonSaad1
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/HaroonSaad1
+  name: 'Haroon Saad'
+  summary: 'I work in urban regeneration and am the Green Party candidate  for Havering
+    and Redbridge in the GLA elections in May 2012.'
 
 
 henry-gent:
   id: henry-gent
-  name: 'Henry Gent'
   links:
-    - url: http://southwest.greenparty.org.uk/euros2014starthere/henry-gent.html
-      note: South West Green Party profile
+    - note: 'South West Green Party profile'
+      url: http://southwest.greenparty.org.uk/euros2014starthere/henry-gent.html
+  name: 'Henry Gent'
 
 
 jake-welsh:
   id: jake-welsh
-  name: 'Jake Welsh'
+  image: /images/twitter/veganfishcake.jpg
   links:
-    - url: https://twitter.com/veganfishcake
-      note: Twitter account
-    - url: http://jakewelsh.blogspot.co.uk/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/veganfishcake
+    - note: Website
+      url: http://jakewelsh.blogspot.co.uk/
+  name: 'Jake Welsh'
+  summary: 'vegan. cyclist. punk. feminist. @TheGreenParty candidate for European
+    elections in North West, and for Chorlton, Manchester. eco-socialist.'
+
+
+jason-kitcat:
+  id: jason-kitcat
+  name: 'Jason Kitcat'
 
 
 jean-lambert:
   id: jean-lambert
+  image: /images/twitter/GreenJeanMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Jean_Lambert
-    - note Website
+    - note: Website
       url: http://www.jeanlambertmep.org.uk/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/GreenJeanMEP
   name: 'Jean Lambert'
+  summary: 'Green MEP for London. Working for a fairer and greener society.'
+  wikipedia_biography: 'Jean Denise Lambert (born Jean Denise Archer on 1 June 1950,
+    Orsett, Essex) is an English politician, and Member of the European Parliament
+    for the London Region. A member of the Green Party of England and Wales, she has
+    been an MEP since 1999. One of two Green MEPs from the UK, the other is Keith
+    Taylor, Lambert is a Vice-President of the Greens/European Free Alliance Group
+    of MEPs.'
 
 
 jill-mills:
   id: jill-mills
-  name: 'Jill Mills'
   links:
-    - url: http://eastern.greenparty.org.uk/people/jill-mills.html
-      note: Website
+    - note: Website
+      url: http://eastern.greenparty.org.uk/people/jill-mills.html
+  name: 'Jill Mills'
 
 
 jill-perry:
-  id: jill-perry
-  name: 'Jill Perry'
   email: jill.perry@greenparty.org.uk
+  id: jill-perry
   links:
-    - url: http://northwest.greenparty.org.uk/people/jill-perry.html
-      note: North West Green Party profile
+    - note: 'North West Green Party profile'
+      url: http://northwest.greenparty.org.uk/people/jill-perry.html
+  name: 'Jill Perry'
 
 
 john-knight:
+  email: john.knight@greenparty.org.uk
   id: john-knight
   name: 'John Knight'
-  email: john.knight@greenparty.org.uk
 
 
 john-matthews:
   id: john-matthews
-  name: 'John Matthews'
   links:
-    - url: http://greenparty.org.uk/people/john-matthews.html
-      note: Green Party profile
+    - note: 'Green Party profile'
+      url: http://greenparty.org.uk/people/john-matthews.html
+  name: 'John Matthews'
+
+
+jonathan-essex:
+  id: jonathan-essex
+  name: 'Jonathan Essex'
+
+
+jonathan-kent:
+  id: jonathan-kent
+  name: 'Jonathan Kent'
 
 
 judy-maciejowska:
   id: judy-maciejowska
-  name: 'Judy Maciejowska'
+  image: /images/twitter/judymaciejowska.jpg
   links:
-    - url: http://www.greenparty.org.uk/people/98.html
-      note: Green Party profile
-    - url: https://twitter.com/judymaciejowska
-      note: Twitter account
+    - note: 'Green Party profile'
+      url: http://www.greenparty.org.uk/people/98.html
+    - note: 'Twitter account'
+      url: https://twitter.com/judymaciejowska
+  name: 'Judy Maciejowska'
+  summary: 'Green Party activist, rugby supporter, gardener, grandmother'
 
 
 karl-macnaughton:
   id: karl-macnaughton
-  name: 'Karl Macnaughton'
+  image: /images/twitter/CllrKarl.jpg
   links:
-    - url: https://twitter.com/CllrKarl
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/CllrKarl
+  name: 'Karl Macnaughton'
+  summary: 'Green Party Councillor for Chelmsley Wood Ward
+
+    Green Party Group Leader on Solihull Council'
 
 
 katharina-boettge:
   id: katharina-boettge
-  name: 'Katharina Boettge'
+  image: /images/twitter/KatBoettge.png
   links:
-    - url: https://twitter.com/KatBoettge
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/KatBoettge
+  name: 'Katharina Boettge'
+  summary: 'Lead candidate for the East Midlands Green Party Euro election 2014'
+
+
+keith-taylor:
+  id: keith-taylor
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Keith_Taylor
+  name: 'Keith Taylor'
 
 
 kevin-warnes:
   id: kevin-warnes
-  name: 'Kevin Warnes'
+  image: /images/twitter/kevinwarnes.jpg
   links:
-    - url: http://greenparty.org.uk/people/kevin-warnes.html
-      note: Green Party profile
-    - url: https://twitter.com/kevinwarnes
-      note: Twitter account
+    - note: 'Green Party profile'
+      url: http://greenparty.org.uk/people/kevin-warnes.html
+    - note: 'Twitter account'
+      url: https://twitter.com/kevinwarnes
+  name: 'Kevin Warnes'
+  summary: 'Bradford District Green Party Councillor for Shipley since 2004, re-elected
+    to Council in 2007 and 2011. 2014 Euro-elections candidate (Green List).'
 
 
 laura-bannister:
@@ -259,114 +372,154 @@ laura-bannister:
 
 lewis-coyne:
   id: lewis-coyne
-  name: 'Lewis Coyne'
+  image: /images/twitter/LewisCoyne.png
   links:
-    - url: https://twitter.com/LewisCoyne
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/LewisCoyne
+  name: 'Lewis Coyne'
+  summary: 'Who only by moving can balance,/Only by balancing move.'
 
 
 marc-scheimann:
-  id: marc-scheimann
-  name: 'Marc Scheimann'
   email: marc.sheimann@greenparty.org.uk
+  id: marc-scheimann
   links:
-    - url: http://greenparty.org.uk/people/marc-sheimann.html
-      note: Green Party profile
-    - url: https://www.facebook.com/marc.scheimann
-      note: Facebook page
+    - note: 'Green Party profile'
+      url: http://greenparty.org.uk/people/marc-sheimann.html
+    - note: 'Facebook page'
+      url: https://www.facebook.com/marc.scheimann
+  name: 'Marc Scheimann'
 
 
 mark-ereira-guyer:
   id: mark-ereira-guyer
-  name: 'Mark Ereira-Guyer'
+  image: /images/twitter/markereiraguyer.jpg
   links:
-    - url: https://twitter.com/markereiraguyer
-      note: Twitter account
-    - url: https://en.wikipedia.org/wiki/Mark_Ereira-Guyer
-      note: Wikipedia article
+    - note: 'Twitter account'
+      url: https://twitter.com/markereiraguyer
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Mark_Ereira-Guyer
+  name: 'Mark Ereira-Guyer'
+  summary: 'Green campaigner, Suffolk County Councillor & Voluntary/Community sector
+    consultant, general all-round Fiery Spirit'
+  wikipedia_biography: 'Mark Ereira-Guyer (sometimes known as Mark Ereira - his wife''s
+    surname is Guyer) is the Green party''s Suffolk county councillor for Tower division
+    in Bury St Edmunds.'
 
 
 martin-hemingway:
-  id: martin-hemingway
-  name: 'Martin Hemingway'
   email: martin.hemingway@greenparty.org.uk
+  id: martin-hemingway
+  image: /images/twitter/yorksgreenmarti.png
   links:
-    - url: http://greenparty.org.uk/people/martin-hemingway.html
-      note: Green Party profile
-    - url: https://twitter.com/yorksgreenmarti
-      note: Twitter account
-    - url: http://martinhemingwayforeurope.wordpress.com/
-      note: Website
+    - note: 'Green Party profile'
+      url: http://greenparty.org.uk/people/martin-hemingway.html
+    - note: 'Twitter account'
+      url: https://twitter.com/yorksgreenmarti
+    - note: Website
+      url: http://martinhemingwayforeurope.wordpress.com/
+  name: 'Martin Hemingway'
+  summary: 'Leeds Green Party, GPRC rep Yorkshire and the Humber'
+
+
+miriam-kennet:
+  id: miriam-kennet
+  name: 'Miriam Kennet'
 
 
 molly-scott-cato:
-  id: molly-scott-cato
   email: molly.scott.cato@greenparty.org.uk
+  id: molly-scott-cato
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Molly_Scott_Cato
-    - note: Green Party profile
+    - note: 'Green Party profile'
       url: http://www.greenparty.org.uk/people/molly-scott-cato.html
     - note: Website
       url: http://gaianeconomics.blogspot.co.uk/
   name: 'Molly Scott Cato'
+  wikipedia_biography: 'Molly Scott Cato Ph.D. (born in 1963 in Wales) is a green
+    economist and prominent member of the Green Party of England and Wales. She is
+    Professor of Strategy and Sustainability at the University of Roehampton and Convenor
+    of Roehampton Business School''s Responsible Capitalism research centre. Molly
+    is the Green Party''s Economics Spokesperson. She currently lives in Stroud, and
+    has three children.'
 
 
 peter-allen:
   id: peter-allen
-  name: 'Peter Allen'
+  image: /images/twitter/petergreenleft.jpg
   links:
-    - url: https://twitter.com/petergreenleft
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/petergreenleft
+  name: 'Peter Allen'
+  summary: 'Derbyshire Green Party and Green Left member'
 
 
 peter-cranie:
   id: peter-cranie
-  name: 'Peter Cranie'
+  image: /images/twitter/PeterCranie.jpg
   links:
-    - url: https://twitter.com/PeterCranie
-      note: Twitter account
-    - url: http://petercranie.blogspot.co.uk/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/PeterCranie
+    - note: Website
+      url: http://petercranie.blogspot.co.uk/
+  name: 'Peter Cranie'
+  summary: 'Dad, UCU Green Rep, Lecturer, Green Party NW Euro MP candidate'
 
 
 pippa-bartolotti:
   id: pippa-bartolotti
+  image: /images/twitter/pippabartolotti.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Pippa_Bartolotti
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/pippabartolotti
   name: 'Pippa Bartolotti'
+  summary: 'Working for a classless and sustainable society. Wales Green Party Leader
+    and Euro candidate 2014'
+  wikipedia_biography: 'Pippa Bartolotti is the current leader of Wales Green Party
+    since January 2012. Previously she was Wales Green Party’s deputy leader in 2010,
+    and was the Green Party''s parliamentary candidate for Newport West in the 2010
+    general election.'
 
 
 richard-mallender:
-  id: richard-mallender
-  name: 'Richard Mallender'
   email: richard.mallender@greenparty.org.uk
+  id: richard-mallender
+  image: /images/twitter/CllrRMallender.png
   links:
-    - url: http://www.greenparty.org.uk/people/richard-mallender.html
-      note: Green Party profile
-    - url: https://twitter.com/CllrRMallender
-      note: Twitter account
+    - note: 'Green Party profile'
+      url: http://www.greenparty.org.uk/people/richard-mallender.html
+    - note: 'Twitter account'
+      url: https://twitter.com/CllrRMallender
+  name: 'Richard Mallender'
+  summary: 'Green Party councillor in Lady Bay, West Bridgford; Chair, Green Party
+    Executive'
 
 
 ricky-knight:
   id: ricky-knight
-  name: 'Ricky Knight'
+  image: /images/twitter/greenknight49.jpg
   links:
-    - url: http://greenparty.org.uk/people/ricky-knight.html
-      note: Green Party profile
-    - url: https://twitter.com/greenknight49
-      note: Twitter account
+    - note: 'Green Party profile'
+      url: http://greenparty.org.uk/people/ricky-knight.html
+    - note: 'Twitter account'
+      url: https://twitter.com/greenknight49
+  name: 'Ricky Knight'
+  summary: 'Green activist (tireless); local Cllr; former teecha (retired); muso (active
+    and passive)'
 
 
 robert-lindsay:
   id: robert-lindsay
-  name: 'Robert Lindsay'
+  image: /images/twitter/robjlinds.jpg
   links:
-    - url: https://twitter.com/robjlinds
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/robjlinds
+  name: 'Robert Lindsay'
+  summary: 'Bildeston parish councillor, Green campaigner, freelance writer, smallholder'
 
 
 roz-cutler:
@@ -376,91 +529,129 @@ roz-cutler:
 
 rupert-read:
   id: rupert-read
-  name: 'Rupert Read'
+  image: /images/twitter/GreenRupertRead.png
   links:
-    - url: http://greenparty.org.uk/people/rupert-read.html
-      note: Green Party profile
-    - url: https://en.wikipedia.org/wiki/Rupert_Read
-      note: Wikipedia article
-    - url: http://www.rupertread.net/
-      note: Website
-    - url: https://twitter.com/GreenRupertRead
-      note: Twitter account
-      
+    - note: 'Green Party profile'
+      url: http://greenparty.org.uk/people/rupert-read.html
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Rupert_Read
+    - note: Website
+      url: http://www.rupertread.net/
+    - note: 'Twitter account'
+      url: https://twitter.com/GreenRupertRead
+  name: 'Rupert Read'
+  summary: 'Fed up with politics? Follow me for a fresh take on the issues that matter
+    to you. Vote for me on 22nd May to be your @TheGreenParty MEP in the Eastern Region.'
+  wikipedia_biography: 'Rupert Read is an academic and a Green Party politician in
+    England. He is Chair of the Green House thinktank, East of England Green Party
+    Co-ordinator and a Reader in Philosophy at the University of East Anglia. Read
+    comments regularly through the Eastern Daily Press ''One World Column''. In his
+    regular appearances in the local and national press, he speaks on sustainable
+    transport, green economics and social justice.'
 
 
 saffi-price:
   id: saffi-price
-  name: 'Saffi Price'
+  image: /images/twitter/SaffiPrice.jpg
   links:
-    - url: https://twitter.com/SaffiPrice
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/SaffiPrice
+  name: 'Saffi Price'
+  summary: 'If you can''t be in the place you love  then love the place you''re in.
+    All views are my own and in no way reflect the opinions of the organisation I
+    work for.'
 
 
 shahrar-ali:
-  id: shahrar-ali
-  name: 'Shahrar Ali'
   email: shahrar.ali@greenparty.org.uk
+  id: shahrar-ali
+  image: /images/twitter/shahrarali.jpg
   links:
-    - url: http://greenparty.org.uk/people/shahrar-ali.html
-      note: Green Party profile
-    - url: http://shahrarali.net/
-      note: Website
-    - url: https://twitter.com/shahrarali
-      note: Twitter account
+    - note: 'Green Party profile'
+      url: http://greenparty.org.uk/people/shahrar-ali.html
+    - note: Website
+      url: http://shahrarali.net/
+    - note: 'Twitter account'
+      url: https://twitter.com/shahrarali
+  name: 'Shahrar Ali'
+  summary: 'A minute is a long time in blogosphere. A holiday is a short one in politics.
+    @TheGreenParty candidate for European Parliament 2014.'
 
 
 shan-oakes:
-  id: shan-oakes
-  name: 'Shan Oakes'
   email: shan.oakes@greenparty.org.uk
+  id: shan-oakes
+  image: /images/twitter/shanoakes.jpg
   links:
-    - url: http://greenparty.org.uk/people/shan-oakes.html
-      note: Green Party profile
-    - url: http://shanoakes.blogspot.co.uk/
-      note: Website
-    - url: https://twitter.com/shanoakes
-      note: Twitter account
+    - note: 'Green Party profile'
+      url: http://greenparty.org.uk/people/shan-oakes.html
+    - note: Website
+      url: http://shanoakes.blogspot.co.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/shanoakes
+  name: 'Shan Oakes'
+  summary: 'Green Party No 2 European candidate for Yorks and the Humber for 2014,  Green
+    Party Equalities and Diversity coordinator,   Earth Charter UK....etc'
 
 
 shirley-ford:
-  id: shirley-ford
-  name: 'Shirley Ford'
   email: shirley.ford@greenparty.org.uk
+  id: shirley-ford
+  image: /images/twitter/ShirleyFord15.jpg
   links:
-    - url: http://greenparty.org.uk/people/shirley-ford.html
-      note: Green Party profile
-    - url: https://twitter.com/ShirleyFord15
-      note: Twitter account
+    - note: 'Green Party profile'
+      url: http://greenparty.org.uk/people/shirley-ford.html
+    - note: 'Twitter account'
+      url: https://twitter.com/ShirleyFord15
+  name: 'Shirley Ford'
+  summary: 'Green Party European Election Candidate in NE, Spokesperson on Culture,
+    Media, Sport, parent, school admin worker, singer in Making Waves Choir, trade
+    unionist'
 
 
 simon-hales:
   id: simon-hales
-  name: 'Simon Hales'
+  image: /images/twitter/shales73.gif
   links:
-    - url: https://twitter.com/shales73
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/shales73
+  name: 'Simon Hales'
+  summary: 'Eco-socialist, Green Party and Green Left member, ICT Geek and Derby County
+    FC supporter :)
+
+    All Power To The People''s Assemblies!'
+
+
+stuart-jeffrey:
+  id: stuart-jeffrey
+  name: 'Stuart Jeffrey'
 
 
 sue-mallender:
-  id: sue-mallender
-  name: 'Sue Mallender'
   email: sue.mallender@greenparty.org.uk
+  id: sue-mallender
+  image: /images/twitter/Sue_Mallender.jpg
   links:
-    - url: http://greenparty.org.uk/people/sue-mallender.html
-      note: Green Party profile
-    - url: https://twitter.com/Sue_Mallender
-      note: Twitter account
+    - note: 'Green Party profile'
+      url: http://greenparty.org.uk/people/sue-mallender.html
+    - note: 'Twitter account'
+      url: https://twitter.com/Sue_Mallender
+  name: 'Sue Mallender'
+  summary: 'Green Party Councillor, Rushcliffe Borough Council, Lady Bay Ward'
 
 
 tom-harris:
   id: tom-harris
-  name: 'Tom Harris'
+  image: /images/twitter/mrtomharris.jpg
   links:
-    - url: https://twitter.com/mrtomharris
-      note: Twitter account
-    - url: http://mrtomharris.wordpress.com/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/mrtomharris
+    - note: Website
+      url: http://mrtomharris.wordpress.com/
+  name: 'Tom Harris'
+  summary: 'First ever Green Party Local Authority Councillor in Staffordshire. NOT
+    the Tom Harris who is MP for Glasgow South! Tweets are purely personal opinions,
+    etc.'
 
 
 tracey-hague:
@@ -475,27 +666,43 @@ ulrike-zeshan:
 
 vicky-duckworth:
   id: vicky-duckworth
-  name: 'Vicky Duckworth'
+  image: /images/twitter/VickyDuckworth.gif
   links:
-    - url: https://twitter.com/VickyDuckworth
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/VickyDuckworth
+  name: 'Vicky Duckworth'
+  summary: 'I''m an active member of Dudley Green Party.'
 
 
 violeta-vajda:
   id: violeta-vajda
-  name: 'Violeta Vajda'
+  image: /images/twitter/violetavajda.jpg
   links:
-    - url: https://www.facebook.com/violeta.vajda
-      note: Facebook page
-    - url: https://twitter.com/violetavajda
-      note: Twitter account
+    - note: 'Facebook page'
+      url: https://www.facebook.com/violeta.vajda
+    - note: 'Twitter account'
+      url: https://twitter.com/violetavajda
+  name: 'Violeta Vajda'
+  summary: 'Green activist and researcher committed to ending racism against Roma
+    people'
 
 
 will-duckworth:
   id: will-duckworth
+  image: /images/twitter/WillDuckworthGP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Will_Duckworth
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/WillDuckworthGP
   name: 'Will Duckworth'
+  summary: 'Deputy Leader of the Green Party of England and Wales, West Mids number
+    1 Euro candidate and proud to be called a watermelon. Views my own and jokes I
+    disown.'
+  wikipedia_biography: 'Will Duckworth (born 20 January 1954) is a Green Party of
+    England and Wales politician, and the party''s current deputy leader. He has been
+    the first Green Party councillor in the Black Country after he was elected to
+    Metropolitan Borough of Dudley in 2012. He was elected as the party''s second
+    ever deputy leader on 3 September 2012 taking over from Adrian Ramsay. He is also
+    the West Midlands regional Green Party first choice candidate on the list for
+    the 2014 European Parliament election.'

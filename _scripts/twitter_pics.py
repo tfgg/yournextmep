@@ -29,7 +29,8 @@ api = twitter.Api(consumer_key=TWITTER['consumer_key'],
                   access_token_secret=TWITTER['access_token_secret'])
 
 content_types = {'image/jpeg': 'jpg',
-                 'image/png': 'png',}
+                 'image/png': 'png',
+                 'image/gif': 'gif',}
 
 #existing = set()
 #for f in os.listdir('images/twitter'):
