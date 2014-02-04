@@ -97,16 +97,24 @@ danny-bates:
 denise-craghill:
   id: denise-craghill
   name: 'Denise Craghill'
+  links:
+    - url: https://twitter.com/DeniseCraghill
+      note: Twitter account
 
 
 dr-vicky-dunn:
   id: dr-vicky-dunn
   name: 'Dr Vicky Dunn'
+  links:
+    - url: https://twitter.com/HumberGreen
+      note: Twitter account
 
 
 duncan-kerr:
   id: duncan-kerr
   name: 'Duncan Kerr'
+  links:
+    - url: https://twitter.com/DunxKerr
 
 
 emily-mcivor:
