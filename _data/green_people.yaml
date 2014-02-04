@@ -46,16 +46,27 @@ ash-haynes:
     - url: http://norwich.greenparty.org.uk/councillors/ash-haynes-city-councillor-town-close-ward.html
       note: Norwich Green Party profile
     - url: https://twitter.com/ashlizhaynes
+      note: Twitter account
 
 
 audaye-elesedy:
   id: audaye-elesedy
   name: 'Audaye Elesedy'
+  links:
+    - url: https://www.facebook.com/audaye.elesedy
+      note: Facebook page
+    - url: https://twitter.com/audaye
+      note: Twitter account
 
 
 caroline-allen:
   id: caroline-allen
   name: 'Caroline Allen'
+  links:
+    - url: https://twitter.com/Green_Caroline
+      note: Twitter account
+    - url: http://www.carolineallengreenlondon.blogspot.co.uk/
+      note: Website
 
 
 caroline-robinson:
@@ -66,11 +77,21 @@ caroline-robinson:
 chris-were:
   id: chris-were
   name: 'Chris Were'
+  links:
+    - url: https://twitter.com/ChristopherWere
+      note: Twitter account
+    - url: http://christopherwere.com/
+      note: Website
 
 
 danny-bates:
   id: danny-bates
   name: 'Danny Bates'
+  links:
+    - url: https://twitter.com/Green_DannyB
+      note: Twitter account
+    - url: http://www.danny4europe.org/
+      note: Website
 
 
 denise-craghill:
