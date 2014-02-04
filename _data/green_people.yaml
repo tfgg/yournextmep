@@ -281,29 +281,53 @@ mark-ereira-guyer:
   name: 'Mark Ereira-Guyer'
   links:
     - url: https://twitter.com/markereiraguyer
+      note: Twitter account
+    - url: https://en.wikipedia.org/wiki/Mark_Ereira-Guyer
+      note: Wikipedia article
 
 
 martin-hemingway:
   id: martin-hemingway
   name: 'Martin Hemingway'
+  email: martin.hemingway@greenparty.org.uk
+  links:
+    - url: http://greenparty.org.uk/people/martin-hemingway.html
+      note: Green Party profile
+    - url: https://twitter.com/yorksgreenmarti
+      note: Twitter account
+    - url: http://martinhemingwayforeurope.wordpress.com/
+      note: Website
 
 
 molly-scott-cato:
   id: molly-scott-cato
+  email: molly.scott.cato@greenparty.org.uk
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Molly_Scott_Cato
+    - note: Green Party profile
+      url: http://www.greenparty.org.uk/people/molly-scott-cato.html
+    - note: Website
+      url: http://gaianeconomics.blogspot.co.uk/
   name: 'Molly Scott Cato'
 
 
 peter-allen:
   id: peter-allen
   name: 'Peter Allen'
+  links:
+    - url: https://twitter.com/petergreenleft
+      note: Twitter account
 
 
 peter-cranie:
   id: peter-cranie
   name: 'Peter Cranie'
+  links:
+    - url: https://twitter.com/PeterCranie
+      note: Twitter account
+    - url: http://petercranie.blogspot.co.uk/
+      note: Website
 
 
 pippa-bartolotti:
@@ -311,12 +335,20 @@ pippa-bartolotti:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Pippa_Bartolotti
+    - note: Twitter account
+      url: https://twitter.com/pippabartolotti
   name: 'Pippa Bartolotti'
 
 
 richard-mallender:
   id: richard-mallender
   name: 'Richard Mallender'
+  email: richard.mallender@greenparty.org.uk
+  links:
+    - url: http://www.greenparty.org.uk/people/richard-mallender.html
+      note: Green Party profile
+    - url: https://twitter.com/CllrRMallender
+      note: Twitter account
 
 
 ricky-knight:
