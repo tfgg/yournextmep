@@ -142,21 +142,35 @@ gina-dowding:
   name: 'Gina Dowding'
   links:
     - url: https://twitter.com/GinaDowding
+      note: Twitter account
+    - http://www.gdowding.blogspot.co.uk/
+      note: Twitter account
 
 
 haroon-saad:
   id: haroon-saad
   name: 'Haroon Saad'
+  links:
+    - url: https://twitter.com/HaroonSaad1
+      note: Twitter account
 
 
 henry-gent:
   id: henry-gent
   name: 'Henry Gent'
+  links:
+    - url: http://southwest.greenparty.org.uk/euros2014starthere/henry-gent.html
+      note: South West Green Party profile
 
 
 jake-welsh:
   id: jake-welsh
   name: 'Jake Welsh'
+  links:
+    - url: https://twitter.com/veganfishcake
+      note: Twitter account
+    - url: http://jakewelsh.blogspot.co.uk/
+      note: Website
 
 
 jean-lambert:
@@ -164,12 +178,18 @@ jean-lambert:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Jean_Lambert
+    - note Website
+      url: http://www.jeanlambertmep.org.uk/
+    - note: Twitter account
+      url: https://twitter.com/GreenJeanMEP
   name: 'Jean Lambert'
 
 
 jill-mills:
   id: jill-mills
   name: 'Jill Mills'
+  links:
+    - url: http://eastern.greenparty.org.uk/people/jill-mills.html
 
 
 jill-perry:
