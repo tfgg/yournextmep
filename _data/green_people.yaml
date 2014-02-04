@@ -354,11 +354,19 @@ richard-mallender:
 ricky-knight:
   id: ricky-knight
   name: 'Ricky Knight'
+  links:
+    - url: http://greenparty.org.uk/people/ricky-knight.html
+      note: Green Party profile
+    - url: https://twitter.com/greenknight49
+      note: Twitter account
 
 
 robert-lindsay:
   id: robert-lindsay
   name: 'Robert Lindsay'
+  links:
+    - url: https://twitter.com/robjlinds
+      note: Twitter account
 
 
 roz-cutler:
@@ -369,26 +377,57 @@ roz-cutler:
 rupert-read:
   id: rupert-read
   name: 'Rupert Read'
+  links:
+    - url: http://greenparty.org.uk/people/rupert-read.html
+      note: Green Party profile
+    - url: https://en.wikipedia.org/wiki/Rupert_Read
+      note: Wikipedia article
+    - url: http://www.rupertread.net/
+      note: Website
+    - url: https://twitter.com/GreenRupertRead
+      note: Twitter account
+      
 
 
 saffi-price:
   id: saffi-price
   name: 'Saffi Price'
+  links:
+    - url: https://twitter.com/SaffiPrice
+      note: Twitter account
 
 
 shahrar-ali:
   id: shahrar-ali
   name: 'Shahrar Ali'
+  email: shahrar.ali@greenparty.org.uk
+  links:
+    - url: http://greenparty.org.uk/people/shahrar-ali.html
+      note: Green Party profile
+    - url: http://shahrarali.net/
+      note: Website
+    - url: https://twitter.com/shahrarali
+      note: Twitter account
 
 
 shan-oakes:
   id: shan-oakes
   name: 'Shan Oakes'
+  email: shan.oakes@greenparty.org.uk
+  links:
+    - url: http://greenparty.org.uk/people/shan-oakes.html
+      note: Green Party profile
+    - url: http://shanoakes.blogspot.co.uk/
+      note: Website
+    - url: https://twitter.com/shanoakes
+      note: Twitter account
 
 
 shirley-ford:
   id: shirley-ford
   name: 'Shirley Ford'
+  links:
+    - url: http://greenparty.org.uk/people/shirley-ford.html
 
 
 simon-hales:
