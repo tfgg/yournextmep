@@ -9,7 +9,7 @@ people = yaml.load(open("_data/{}_people.yaml".format(party)))
 
 for region in candidates:
   for i, candidate in enumerate(candidates[region]):
-    person_id = slugify(candidate['name'])
+    person_id = slugify(unicode(candidate['name']))
     rank = i
 
     s = """---

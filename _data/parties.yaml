@@ -1,3 +1,19 @@
+bnp:
+  classification: Party
+  founding_date: 1982-1-1
+  id: bnp
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/British_National_Party
+  name: 'British National Party'
+  wikipedia_biography: 'The British National Party (BNP) is a far-right political
+    party formed as a splinter group from the National Front by John Tyndall in 1982.
+    It restricted membership to "indigenous British" people until a 2010 legal challenge
+    to its constitution. The BNP advocates "firm but voluntary incentives for immigrants
+    and their descendants to return home", as well as the repeal of anti-discrimination
+    legislation.'
+
+
 conservative:
   classification: Party
   founding_date: 1834-1-1
@@ -8,6 +24,12 @@ conservative:
   name: Conservatives
   other_names:
     - name: 'Conservative and Unionist Party'
+  wikipedia_biography: 'The Conservative Party, officially the Conservative and Unionist
+    Party, is a centre-right political party in the United Kingdom that espouses the
+    philosophies of conservatism and British unionism. As of 2013 it is the most powerful
+    party in the United Kingdom, being the largest single party in the House of Commons
+    with 303 MPs, the largest party in local government with 9,391 councillors, and
+    the largest British party in the European Parliament with 25 MEPs.'
 
 
 dup:
@@ -18,6 +40,13 @@ dup:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Democratic_Unionist_Party
   name: 'Democratic Unionist Party'
+  wikipedia_biography: 'The Democratic Unionist Party (DUP) is the larger of the two
+    main unionist political parties in Northern Ireland. Founded by Ian Paisley and
+    currently led by Peter Robinson, it is currently the largest party in the Northern
+    Ireland Assembly and the fourth-largest party in the House of Commons of the United
+    Kingdom. The DUP has strong links to Protestant churches, particularly the Free
+    Presbyterian Church of Ulster, the church Paisley founded, and is considered a
+    Protestant political party.'
 
 
 engdem:
@@ -40,6 +69,11 @@ green:
   name: Green
   other_names:
     - name: 'Green Party of England and Wales'
+  wikipedia_biography: 'The Green Party of England and Wales (GPEW; Welsh: Plaid Werdd
+    Cymru a Lloegr) is a political party in England and Wales which follows the traditions
+    of Green politics and maintains a strong commitment to social progressivism. It
+    is the largest Green party in the United Kingdom, containing within it various
+    regional divisions including the semi-autonomous Wales Green Party.'
 
 
 green-ni:
@@ -60,6 +94,12 @@ green-scotland:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Scottish_Green_Party
   name: 'Scottish Green Party'
+  wikipedia_biography: 'The Scottish Green Party (Scottish Gaelic: Pàrtaidh Uaine
+    na h-Alba; Scots: Scots Green Pairty) is a green party in Scotland. It has two
+    MSPs in the devolved Scottish Parliament: Alison Johnstone, representing Lothian;
+    and Patrick Harvie, representing Glasgow. It is the only party other than the
+    Scottish National Party to both support Scottish independence and have representation
+    in Scottish Parliament.'
 
 
 labour:
@@ -72,6 +112,12 @@ labour:
   name: Labour
   other_names:
     - name: 'Labour Party'
+  wikipedia_biography: 'The Labour Party is a centre-left political party in the United
+    Kingdom, and one of the two main British political parties along with the Conservative
+    Party. The Labour Party was founded in 1900 and overtook the Liberal Party in
+    general elections during the early 1920s, forming minority governments under Ramsay
+    MacDonald in 1924 and 1929–1931. The party was in a wartime coalition from 1940
+    to 1945, after which it formed a majority government under Clement Attlee.'
 
 
 libdem:
@@ -104,6 +150,12 @@ plaid-cymru:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Plaid_Cymru
   name: 'Plaid Cymru'
+  wikipedia_biography: 'Plaid Cymru (English: The Party of Wales; often referred to
+    simply as Plaid) is a political party in Wales. It advocates the establishment
+    of an independent Welsh state. Plaid Cymru was formed in 1925 and won its first
+    seat in 1966. Plaid Cymru by 2012 had 1 of 4 Welsh seats in the European Parliament,
+    3 of 40 Welsh seats in the Parliament of the United Kingdom, 11 of 60 seats in
+    the National Assembly for Wales, and 206 of 1,264 principal local authority councillors.'
 
 
 sdlp:
@@ -113,6 +165,12 @@ sdlp:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Social_Democratic_and_Labour_Party
   name: 'Social Democratic and Labour Party'
+  wikipedia_biography: 'The Social Democratic and Labour Party (SDLP; Irish: Páirtí
+    Sóisialta Daonlathach an Lucht Oibre) is an Irish nationalist and social democratic
+    political party in Northern Ireland. The SDLP has fraternal links with other European
+    social-democratic parties, including the Irish Labour Party and British Labour
+    Party (neither of which contest elections in Northern Ireland), and is affiliated
+    to the Socialist International and Party of European Socialists.'
 
 
 sinn-fein:
@@ -122,6 +180,12 @@ sinn-fein:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
   name: 'Sinn Féin'
+  wikipedia_biography: 'Sinn Féin is an Irish republican political party in the Republic
+    of Ireland and Northern Ireland. The name is Irish for "ourselves" or "we ourselves",
+    although it is frequently mistranslated as "ourselves alone". Originating in the
+    Sinn Féin organisation founded in 1905 by Arthur Griffith, it took its current
+    form in 1970 after a split within the party. Sinn Féin is led by Gerry Adams,
+    and has elected representatives in both Northern Ireland and the Republic of Ireland.'
 
 
 ukip:
@@ -134,6 +198,11 @@ ukip:
   name: UKIP
   other_names:
     - name: 'UK Independence Party'
+  wikipedia_biography: 'The UK Independence Party is a Eurosceptic right-wing populist
+    political party in the United Kingdom. The party describes itself in its constitution
+    as a "democratic, libertarian party". UKIP currently has 11 of the 73 UK seats
+    in the European Parliament following the 2009 elections and subsequent changes.
+    It also has three members in the House of Lords, all the result of defections.'
 
 
 uup:
@@ -144,6 +213,12 @@ uup:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Ulster_Unionist_Party
   name: 'Ulster Unionist Party'
+  wikipedia_biography: 'The Ulster Unionist Party (UUP) – sometimes referred to as
+    the Official Unionist Party (OUP) or, in a historic sense, simply the Unionist
+    Party – is the older of the two main unionist political parties in Northern Ireland.
+    Before the split in unionism in the late 1960s, when the former Protestant Unionist
+    Party began to attract more hardline support away from the UUP, it governed Northern
+    Ireland between 1921 and 1972 as the sole major unionist party.'
 
 
 wdar:
@@ -154,3 +229,9 @@ wdar:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/We_Demand_a_Referendum
   name: 'We Demand a Referendum'
+  wikipedia_biography: 'We Demand a Referendum (WDAR) is a British political party
+    launched by Nikki Sinclaire MEP in June 2012. It is a eurosceptic single-issue
+    party that aims to contest all British constituencies in the upcoming 2014 European
+    Parliament election in order to force a referendum on British membership of the
+    European Union (EU). According to a YouGov poll, roughly a third of British adults
+    said they would vote for this party.'
