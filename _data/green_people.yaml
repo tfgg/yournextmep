@@ -1,6 +1,12 @@
 aldo-mussi:
   id: aldo-mussi
   name: 'Aldo Mussi'
+  email: aldo.mussi@bcu.ac.uk
+  links:
+    - url: http://www.aldomussi.info/
+      note: Website
+    - http://www.bcu.ac.uk/health/departments/public-health/staff-profiles/aldo-mussi
+      note: Birmingham City University profile
 
 
 alison-whalley:
@@ -11,16 +17,35 @@ alison-whalley:
 amelia-womack:
   id: amelia-womack
   name: 'Amelia Womack'
+  links:
+    - url: https://www.facebook.com/AmeliaWomackforEurope
+      note: Facebook page
+    - url: http://ameliawomack.wordpress.com/
+      note: Website
+    - url: https://twitter.com/green_ballerina
+      note: Twitter account
 
 
 andrew-cooper:
   id: andrew-cooper
   name: 'Andrew Cooper'
+  links:
+    - url: http://www2.kirklees.gov.uk/you-kmc/kmc-howcouncilworks/councillors/profile/profile.aspx?cllrId=18
+      note: Kirklees council profile
+    - url: https://twitter.com/clrandrewcooper
+      note: Twitter account
+    - url: http://www.greeningkirklees.blogspot.co.uk/
+      note: Website
 
 
 ash-haynes:
   id: ash-haynes
   name: 'Ash Haynes'
+  email: ash.haynes@norwichgreenparty.org
+  links:
+    - url: http://norwich.greenparty.org.uk/councillors/ash-haynes-city-councillor-town-close-ward.html
+      note: Norwich Green Party profile
+    - url: https://twitter.com/ashlizhaynes
 
 
 audaye-elesedy:
