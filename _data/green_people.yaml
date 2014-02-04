@@ -115,21 +115,33 @@ duncan-kerr:
   name: 'Duncan Kerr'
   links:
     - url: https://twitter.com/DunxKerr
+      note: Twitter account
 
 
 emily-mcivor:
   id: emily-mcivor
   name: 'Emily McIvor'
+  email: emily.mcivor@headweb.co.uk
+  links:
+    - url: https://www.facebook.com/McIvorEmily
+      note: Facebook page
 
 
 fiona-radic:
   id: fiona-radic
   name: 'Fiona Radic'
+  links:
+    - url: https://twitter.com/FionaRadic
+      note: Twitter account
+    - url: http://fionaradic.wordpress.com/
+      note: Website
 
 
 gina-dowding:
   id: gina-dowding
   name: 'Gina Dowding'
+  links:
+    - url: https://twitter.com/GinaDowding
 
 
 haroon-saad:
