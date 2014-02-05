@@ -6,6 +6,7 @@ bnp:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/British_National_Party
   name: 'British National Party'
+  name_article: 'the British National Party'
   wikipedia_biography: 'The British National Party (BNP) is a far-right political
     party formed as a splinter group from the National Front by John Tyndall in 1982.
     It restricted membership to "indigenous British" people until a 2010 legal challenge
@@ -21,7 +22,8 @@ conservative:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Conservative_Party_(UK)
-  name: Conservatives
+  name: Conservative Party
+  name_article: the Conservative Party
   other_names:
     - name: 'Conservative and Unionist Party'
   wikipedia_biography: 'The Conservative Party, officially the Conservative and Unionist
@@ -40,6 +42,7 @@ dup:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Democratic_Unionist_Party
   name: 'Democratic Unionist Party'
+  name_article: 'the Democratic Unionist Party'
   wikipedia_biography: 'The Democratic Unionist Party (DUP) is the larger of the two
     main unionist political parties in Northern Ireland. Founded by Ian Paisley and
     currently led by Peter Robinson, it is currently the largest party in the Northern
@@ -57,6 +60,7 @@ engdem:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/English_Democrats_Party
   name: 'English Democrats'
+  name_article: 'the English Democrats'
 
 
 green:
@@ -66,7 +70,8 @@ green:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
-  name: Green
+  name: Green Party
+  name_article: the Green Party
   other_names:
     - name: 'Green Party of England and Wales'
   wikipedia_biography: 'The Green Party of England and Wales (GPEW; Welsh: Plaid Werdd
@@ -84,6 +89,7 @@ green-ni:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Green_Party_of_Northern_Ireland
   name: 'Green Party of Northern Ireland'
+  name_article: 'the Green Party of Northern Ireland'
 
 
 green-scotland:
@@ -94,6 +100,7 @@ green-scotland:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Scottish_Green_Party
   name: 'Scottish Green Party'
+  name_article: 'the Scottish Green Party'
   wikipedia_biography: 'The Scottish Green Party (Scottish Gaelic: Pàrtaidh Uaine
     na h-Alba; Scots: Scots Green Pairty) is a green party in Scotland. It has two
     MSPs in the devolved Scottish Parliament: Alison Johnstone, representing Lothian;
@@ -109,9 +116,8 @@ labour:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Labour_Party_(UK)
-  name: Labour
-  other_names:
-    - name: 'Labour Party'
+  name: Labour Party
+  name_article: the Labour Party
   wikipedia_biography: 'The Labour Party is a centre-left political party in the United
     Kingdom, and one of the two main British political parties along with the Conservative
     Party. The Labour Party was founded in 1900 and overtook the Liberal Party in
@@ -128,6 +134,7 @@ libdem:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Liberal_Democrats_(UK)
   name: 'Liberal Democrats'
+  name_article: 'the Liberal Democrats'
 
 
 liberty:
@@ -138,6 +145,7 @@ liberty:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Liberty_GB
   name: 'Liberty GB'
+  name_article: 'Liberty GB'
   other_names:
     - name: 'Liberty Great Britain'
 
@@ -150,6 +158,7 @@ plaid-cymru:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Plaid_Cymru
   name: 'Plaid Cymru'
+  name_article: 'Plaid Cymru'
   wikipedia_biography: 'Plaid Cymru (English: The Party of Wales; often referred to
     simply as Plaid) is a political party in Wales. It advocates the establishment
     of an independent Welsh state. Plaid Cymru was formed in 1925 and won its first
@@ -165,6 +174,7 @@ sdlp:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Social_Democratic_and_Labour_Party
   name: 'Social Democratic and Labour Party'
+  name_article: 'the Social Democratic and Labour Party'
   wikipedia_biography: 'The Social Democratic and Labour Party (SDLP; Irish: Páirtí
     Sóisialta Daonlathach an Lucht Oibre) is an Irish nationalist and social democratic
     political party in Northern Ireland. The SDLP has fraternal links with other European
@@ -180,6 +190,7 @@ sinn-fein:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
   name: 'Sinn Féin'
+  name_article: 'Sinn Féin'
   wikipedia_biography: 'Sinn Féin is an Irish republican political party in the Republic
     of Ireland and Northern Ireland. The name is Irish for "ourselves" or "we ourselves",
     although it is frequently mistranslated as "ourselves alone". Originating in the
@@ -196,6 +207,7 @@ ukip:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/UK_Independence_Party
   name: UKIP
+  name_article: UKIP
   other_names:
     - name: 'UK Independence Party'
   wikipedia_biography: 'The UK Independence Party is a Eurosceptic right-wing populist
@@ -213,6 +225,7 @@ uup:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Ulster_Unionist_Party
   name: 'Ulster Unionist Party'
+  name_article: 'the Ulster Unionist Party'
   wikipedia_biography: 'The Ulster Unionist Party (UUP) – sometimes referred to as
     the Official Unionist Party (OUP) or, in a historic sense, simply the Unionist
     Party – is the older of the two main unionist political parties in Northern Ireland.
@@ -229,6 +242,7 @@ wdar:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/We_Demand_a_Referendum
   name: 'We Demand a Referendum'
+  name_article: 'We Demand a Referendum'
   wikipedia_biography: 'We Demand a Referendum (WDAR) is a British political party
     launched by Nikki Sinclaire MEP in June 2012. It is a eurosceptic single-issue
     party that aims to contest all British constituencies in the upcoming 2014 European
