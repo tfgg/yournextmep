@@ -3,7 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/plaid-cymru/ioan-bellin/
 categories: candidate plaid-cymru
 election: eu2014
-list-rank: 3
+list-rank: 4
+list-rank-ordinal: 4th
 person: ioan-bellin
 region: wales
 party: plaid-cymru

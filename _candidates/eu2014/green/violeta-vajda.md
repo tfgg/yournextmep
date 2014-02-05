@@ -3,7 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/green/violeta-vajda/
 categories: candidate green
 election: eu2014
-list-rank: 6
+list-rank: 7
+list-rank-ordinal: 7th
 person: violeta-vajda
 region: london
 party: green

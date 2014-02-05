@@ -398,11 +398,24 @@ katharina-boettge:
 
 
 keith-taylor:
+  email: contactkeith@greenmeps.org.uk
   id: keith-taylor
+  image: /images/twitter/GreenKeithMEP.jpg
   links:
     - note: 'Wikipedia article'
-      url: https://en.wikipedia.org/wiki/Keith_Taylor
+      url: https://en.wikipedia.org/wiki/Keith_Taylor_(British_politician)
+    - note: Website
+      url: http://www.keithtaylormep.org.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/GreenKeithMEP
   name: 'Keith Taylor'
+  summary: 'Green MEP for South East England. Working for a fairer, greener future.'
+  wikipedia_biography: 'Keith Taylor is an English politician and senior figure in
+    the Green Party of England and Wales. Taylor was one of the two Principal Speakers
+    of the party from August 2004 to November 2006. Taylor gained prominence for being
+    at the time the Green Party''s most successful parliamentary candidate ever in
+    the UK, after winning 22% of the vote in the Brighton Pavilion constituency at
+    the 2005 General Election.'
 
 
 kevin-warnes:
