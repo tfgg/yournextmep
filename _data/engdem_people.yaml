@@ -1,6 +1,9 @@
 alan-england:
   id: alan-england
   name: 'Alan England'
+  links:
+    - url: https://www.facebook.com/Alan.England.English.Democrats
+      note: Facebook page
 
 
 amanda-hopwood:
@@ -11,11 +14,21 @@ amanda-hopwood:
 charles-vickers:
   id: charles-vickers
   name: 'Charles Vickers'
+  links:
+    - url: https://www.facebook.com/Charles.Vickers.English.Democrats
+      note: Facebook page
 
 
 chris-beverley:
   id: chris-beverley
   name: 'Chris Beverley'
+  links:
+    - url: https://twitter.com/chrisbeverley
+      note: Twitter account
+    - url: https://www.facebook.com/chrisbeverleyenglishdemocrats
+      note: Facebook page
+    - url: http://www.chrisbeverley.com
+      note: Website
 
 
 clive-lavelle:
@@ -31,6 +44,11 @@ dave-wickham:
 david-knight:
   id: david-knight
   name: 'David Knight'
+  links:
+    - url: https://www.facebook.com/David.Knight.English.Democrats
+      note: Facebook page
+    - url: http://www.davidknight.tk/
+      note: Website
 
 
 david-wildgoose:
@@ -41,11 +59,22 @@ david-wildgoose:
 derek-hilling:
   id: derek-hilling
   name: 'Derek Hilling'
+  email: derekhilling@EngDem.org
+  links:
+    - url: https://www.facebook.com/Derek.Hilling.English.Democrats
+      note: Facebook page
 
 
 jenny-knight:
   id: jenny-knight
   name: 'Jenny Knight'
+  links:
+    - url: http://www.jennyknightenglishdemocrats.org/
+      note: Website
+    - url: https://twitter.com/jennyknight2014
+      note: Twitter account
+    - url: https://www.facebook.com/Jenny.Knight.English.Democrats
+      note: Facebook page
 
 
 john-walker-scott:
