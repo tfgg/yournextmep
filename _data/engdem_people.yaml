@@ -161,6 +161,10 @@ robin-tilbrook:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/English_Democrats_Party#Robin_Tilbrook
+    - note: Website
+      url: http://robintilbrook.blogspot.co.uk/
+    - note: Twitter account
+      url: https://twitter.com/RobinTilbrook
   name: 'Robin Tilbrook'
 
 
@@ -177,6 +181,11 @@ simone-clarke:
 stephen-morris:
   id: stephen-morris
   name: 'Stephen Morris'
+  links:
+    - url: http://www.stephenmorris.info/
+      note: Website
+    - url: https://twitter.com/SteMorris
+      note: Twitter account
 
 
 stephen-wright:
@@ -187,8 +196,18 @@ stephen-wright:
 steve-clegg:
   id: steve-clegg
   name: 'Steve Clegg'
+  links:
+    - url: https://www.facebook.com/Steve.Clegg.English.Democrats
+      note: Facebook page
 
 
 steve-uncles:
   id: steve-uncles
   name: 'Steve Uncles'
+  links:
+    - url: http://steveunclesenglishdemocrats.org/
+      note: Website
+    - url: http://twitter.com/SteveUncles
+      note: Twitter account
+    - url: http://www.facebook.com/Steve.Uncles.English.Democrats
+      note: Facebook page
