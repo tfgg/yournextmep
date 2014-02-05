@@ -4,6 +4,8 @@ alan-england:
   links:
     - url: https://www.facebook.com/Alan.England.English.Democrats
       note: Facebook page
+    - url: http://englishdemocratssouthwestcampaign.wordpress.com/
+      note: Website
 
 
 amanda-hopwood:
@@ -63,6 +65,10 @@ derek-hilling:
   links:
     - url: https://www.facebook.com/Derek.Hilling.English.Democrats
       note: Facebook page
+    - url: http://englishdemocratswestmidlandscampaign.wordpress.com/
+      note: Website
+    - url: http://twitter.com/DerekJHilling
+      note: Twitter account
 
 
 jenny-knight:
@@ -85,16 +91,34 @@ john-walker-scott:
 julia-gasper:
   id: julia-gasper
   name: 'Julia Gasper'
+  links:
+    - url: https://www.facebook.com/pages/Julia-Gasper-English-Democrats/691413944214247
+      note: Facebook page
+    - url: http://juliagasper.blogspot.co.uk/
+      note: Website
 
 
 kevin-riddiough:
   id: kevin-riddiough
   name: 'Kevin Riddiough'
+  links:
+    - url: http://opinionsofthemasses.blogspot.co.uk/
+      note: Website
+    - url: https://www.facebook.com/Kevin.Riddiough.English.Democrats
+      note: Facebook page
 
 
 kevin-sills:
   id: kevin-sills
   name: 'Kevin Sills'
+  email: KevinSills@EngDem.org
+  links:
+    - url: http://englishdemocratseastmidlandscampaign.wordpress.com/
+      note: Website
+    - url: http://twitter.com/KSillsEngDem
+      note: Twitter account
+    - url: http://www.facebook.com/Kevin.Sills.English.Democrats
+      note: Facebook page
 
 
 mike-blundell:
