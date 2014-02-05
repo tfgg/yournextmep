@@ -605,6 +605,7 @@ kay-barnard:
 linda-jack:
   id: linda-jack
   image: /images/twitter/Lindylooz.png
+  email: linda_a_jack@yahoo.co.uk
   links:
     - note: 'Twitter account'
       url: https://twitter.com/Lindylooz
@@ -783,7 +784,8 @@ sarah-ludford:
       url: https://twitter.com/SarahLudfordMEP
   name: 'Sarah Ludford'
   summary: 'Liberal Democrat MEP for London and LibDem European justice & human rights
-    spokeswoman.  Account run by Sarah and by her press officer (signed dl)'
+    spokeswoman. 
+ Account run by Sarah and by her press officer (signed dl)'
   wikipedia_biography: 'Sarah Ann Ludford, Baroness Ludford (born 14 March 1951) is
     a Liberal Democrat Member of the European Parliament (MEP) and a nonvoting member
     of the House of Lords (where her voting membership is suspended during her MEP
