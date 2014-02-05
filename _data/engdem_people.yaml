@@ -1,11 +1,11 @@
 alan-england:
   id: alan-england
-  name: 'Alan England'
   links:
-    - url: https://www.facebook.com/Alan.England.English.Democrats
-      note: Facebook page
-    - url: http://englishdemocratssouthwestcampaign.wordpress.com/
-      note: Website
+    - note: 'Facebook page'
+      url: https://www.facebook.com/Alan.England.English.Democrats
+    - note: Website
+      url: http://englishdemocratssouthwestcampaign.wordpress.com/
+  name: 'Alan England'
 
 
 amanda-hopwood:
@@ -15,22 +15,25 @@ amanda-hopwood:
 
 charles-vickers:
   id: charles-vickers
-  name: 'Charles Vickers'
   links:
-    - url: https://www.facebook.com/Charles.Vickers.English.Democrats
-      note: Facebook page
+    - note: 'Facebook page'
+      url: https://www.facebook.com/Charles.Vickers.English.Democrats
+  name: 'Charles Vickers'
 
 
 chris-beverley:
   id: chris-beverley
-  name: 'Chris Beverley'
+  image: /images/twitter/chrisbeverley.jpg
   links:
-    - url: https://twitter.com/chrisbeverley
-      note: Twitter account
-    - url: https://www.facebook.com/chrisbeverleyenglishdemocrats
-      note: Facebook page
-    - url: http://www.chrisbeverley.com
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/chrisbeverley
+    - note: 'Facebook page'
+      url: https://www.facebook.com/chrisbeverleyenglishdemocrats
+    - note: Website
+      url: http://www.chrisbeverley.com
+  name: 'Chris Beverley'
+  summary: 'Prospective English Democrats candidate for Yorkshire and the Humber in
+    the 2014 European Elections'
 
 
 clive-lavelle:
@@ -45,12 +48,12 @@ dave-wickham:
 
 david-knight:
   id: david-knight
-  name: 'David Knight'
   links:
-    - url: https://www.facebook.com/David.Knight.English.Democrats
-      note: Facebook page
-    - url: http://www.davidknight.tk/
-      note: Website
+    - note: 'Facebook page'
+      url: https://www.facebook.com/David.Knight.English.Democrats
+    - note: Website
+      url: http://www.davidknight.tk/
+  name: 'David Knight'
 
 
 david-wildgoose:
@@ -59,28 +62,34 @@ david-wildgoose:
 
 
 derek-hilling:
-  id: derek-hilling
-  name: 'Derek Hilling'
   email: derekhilling@EngDem.org
+  id: derek-hilling
+  image: /images/twitter/DerekJHilling.jpg
   links:
-    - url: https://www.facebook.com/Derek.Hilling.English.Democrats
-      note: Facebook page
-    - url: http://englishdemocratswestmidlandscampaign.wordpress.com/
-      note: Website
-    - url: http://twitter.com/DerekJHilling
-      note: Twitter account
+    - note: 'Facebook page'
+      url: https://www.facebook.com/Derek.Hilling.English.Democrats
+    - note: Website
+      url: http://englishdemocratswestmidlandscampaign.wordpress.com/
+    - note: 'Twitter account'
+      url: http://twitter.com/DerekJHilling
+  name: 'Derek Hilling'
+  summary: 'English Democrats Prospective Lead Candidate for West Midlands in EU Elections
+    2014'
 
 
 jenny-knight:
   id: jenny-knight
-  name: 'Jenny Knight'
+  image: /images/twitter/jennyknight2014.jpg
   links:
-    - url: http://www.jennyknightenglishdemocrats.org/
-      note: Website
-    - url: https://twitter.com/jennyknight2014
-      note: Twitter account
-    - url: https://www.facebook.com/Jenny.Knight.English.Democrats
-      note: Facebook page
+    - note: Website
+      url: http://www.jennyknightenglishdemocrats.org/
+    - note: 'Twitter account'
+      url: https://twitter.com/jennyknight2014
+    - note: 'Facebook page'
+      url: https://www.facebook.com/Jenny.Knight.English.Democrats
+  name: 'Jenny Knight'
+  summary: 'Jenny Knight is the English Democrats Prospective Lead Candidate for London
+    in 2014 EU Elecitons.  https://t.co/5P4EcS3NZr'
 
 
 john-walker-scott:
@@ -90,35 +99,39 @@ john-walker-scott:
 
 julia-gasper:
   id: julia-gasper
-  name: 'Julia Gasper'
   links:
-    - url: https://www.facebook.com/pages/Julia-Gasper-English-Democrats/691413944214247
-      note: Facebook page
-    - url: http://juliagasper.blogspot.co.uk/
-      note: Website
+    - note: 'Facebook page'
+      url: https://www.facebook.com/pages/Julia-Gasper-English-Democrats/691413944214247
+    - note: Website
+      url: http://juliagasper.blogspot.co.uk/
+  name: 'Julia Gasper'
 
 
 kevin-riddiough:
   id: kevin-riddiough
-  name: 'Kevin Riddiough'
   links:
-    - url: http://opinionsofthemasses.blogspot.co.uk/
-      note: Website
-    - url: https://www.facebook.com/Kevin.Riddiough.English.Democrats
-      note: Facebook page
+    - note: Website
+      url: http://opinionsofthemasses.blogspot.co.uk/
+    - note: 'Facebook page'
+      url: https://www.facebook.com/Kevin.Riddiough.English.Democrats
+  name: 'Kevin Riddiough'
 
 
 kevin-sills:
-  id: kevin-sills
-  name: 'Kevin Sills'
   email: KevinSills@EngDem.org
+  id: kevin-sills
+  image: /images/twitter/KSillsEngDem.jpg
   links:
-    - url: http://englishdemocratseastmidlandscampaign.wordpress.com/
-      note: Website
-    - url: http://twitter.com/KSillsEngDem
-      note: Twitter account
-    - url: http://www.facebook.com/Kevin.Sills.English.Democrats
-      note: Facebook page
+    - note: Website
+      url: http://englishdemocratseastmidlandscampaign.wordpress.com/
+    - note: 'Twitter account'
+      url: http://twitter.com/KSillsEngDem
+    - note: 'Facebook page'
+      url: http://www.facebook.com/Kevin.Sills.English.Democrats
+  name: 'Kevin Sills'
+  summary: 'English Democrat East Midlands MEP candidate EU election 2014. To Protect
+    & preserve England. English Independence with a quick & easy EU exit no referendum
+    req'
 
 
 mike-blundell:
@@ -158,14 +171,18 @@ robert-sulley:
 
 robin-tilbrook:
   id: robin-tilbrook
+  image: /images/twitter/RobinTilbrook.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/English_Democrats_Party#Robin_Tilbrook
     - note: Website
       url: http://robintilbrook.blogspot.co.uk/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/RobinTilbrook
   name: 'Robin Tilbrook'
+  summary: 'The English Democrats'' Chairman.
+
+    http://t.co/RpCKmswTPA'
 
 
 sam-kelly:
@@ -180,12 +197,14 @@ simone-clarke:
 
 stephen-morris:
   id: stephen-morris
-  name: 'Stephen Morris'
+  image: /images/twitter/SteMorris.jpg
   links:
-    - url: http://www.stephenmorris.info/
-      note: Website
-    - url: https://twitter.com/SteMorris
-      note: Twitter account
+    - note: Website
+      url: http://www.stephenmorris.info/
+    - note: 'Twitter account'
+      url: https://twitter.com/SteMorris
+  name: 'Stephen Morris'
+  summary: 'English Democrats North West Chairman, Lead Candidate 2014 EU Elections'
 
 
 stephen-wright:
@@ -195,19 +214,22 @@ stephen-wright:
 
 steve-clegg:
   id: steve-clegg
-  name: 'Steve Clegg'
   links:
-    - url: https://www.facebook.com/Steve.Clegg.English.Democrats
-      note: Facebook page
+    - note: 'Facebook page'
+      url: https://www.facebook.com/Steve.Clegg.English.Democrats
+  name: 'Steve Clegg'
 
 
 steve-uncles:
   id: steve-uncles
-  name: 'Steve Uncles'
+  image: /images/twitter/SteveUncles.jpg
   links:
-    - url: http://steveunclesenglishdemocrats.org/
-      note: Website
-    - url: http://twitter.com/SteveUncles
-      note: Twitter account
-    - url: http://www.facebook.com/Steve.Uncles.English.Democrats
-      note: Facebook page
+    - note: Website
+      url: http://steveunclesenglishdemocrats.org/
+    - note: 'Twitter account'
+      url: http://twitter.com/SteveUncles
+    - note: 'Facebook page'
+      url: http://www.facebook.com/Steve.Uncles.English.Democrats
+  name: 'Steve Uncles'
+  summary: 'South East England Region.....  English Democrats Prospective Lead Candidate
+    for the 2014 Elections.................. (from Dartford, KENT)'
