@@ -1,3 +1,14 @@
 ross-brown:
   id: ross-brown
   name: 'Ross Brown'
+  links:
+    - url: http://voterossbrown.eu/
+      note: Website
+    - url: http://www.greenpartyni.co.uk/our-european-candidate/
+      note: Green party NI profile
+    - url: https://www.facebook.com/voterossbrown
+      note: Facebook page
+    - url: https://twitter.com/voterossbrown
+      note: Twitter account
+    - url: https://www.youtube.com/user/utube4227
+      note: Youtube channel
