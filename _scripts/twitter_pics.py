@@ -60,5 +60,7 @@ for person, twitter_id in ids:
     person['image'] = "/" + path
     person['summary'] = description
 
-pyaml.dump(people, sys.stdout, vspacing=[2, 0])
+f = open(sys.argv[1], 'w+')
+pyaml.dump(people, f, vspacing=[2, 0])
+f.close()
 

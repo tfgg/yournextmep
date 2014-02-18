@@ -266,13 +266,8 @@ janice-atkinson:
     - note: Website
       url: http://votejaniceatkinsonukip.co.uk/
   name: 'Janice Atkinson'
-  summary: 'http://t.co/Vgmm2qwbhb - PR
-
-    UKIP member, author of UKIP welfare polices
-
-    Atkinsonsmallblog@dailymail.co.uk/Daily Express comment pages
-
-    Former Tory PPC'
+  summary: 'http://t.co/qeaee4nYfS - PR UKIP member, author of UKIP welfare polices
+    Atkinsonsmallblog@dailymail.co.uk/Daily Express comment pages Former Tory PPC'
 
 
 jason-smith:
@@ -413,12 +408,6 @@ malcolm-macaskill:
   summary: 'Proud son of the Royal Burgh of Rutherglen - Family and friends, politics,
     law. motorbikes and the Isle of Skye. m@caskill.co.uk'
 
-mark-hughes:
-  id: mark-hughes
-  name: Mark Hughes
-  links:
-    - url: https://twitter.com/MarkJHughes
-      note: Twitter account
 
 margot-parker:
   id: margot-parker
@@ -433,6 +422,17 @@ margot-parker:
      Love Europe, not the EU.
 
       Views are mine.'
+
+
+mark-hughes:
+  id: mark-hughes
+  image: /images/twitter/MarkJHughes.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/MarkJHughes
+  name: 'Mark Hughes'
+  summary: '#UKIP Prospective Member of European Parliament for East of England. Financial
+    Planner providing Independent Financial Advice, Economic & Political commentary.'
 
 
 michael-green:
@@ -459,8 +459,7 @@ michael-heaver:
     - note: Website
       url: http://michaelheaversblog.blogspot.co.uk/
   name: 'Michael Heaver'
-  summary: 'Political commentator who campaigns for UKIP. MEP Candidate. CFC & Ibiza.
-    My views only.'
+  summary: 'Bring on the Meritocracy. UKIPer. CFC & Ibiza. My views only.'
 
 
 michael-mcmanus:
@@ -509,7 +508,7 @@ mike-scott-hayward:
     - note: 'Twitter account'
       url: https://twitter.com/WeLikeMike
   name: 'Mike Scott-Hayward'
-  summary: 'Eurosceptic, Former Army Officer, Private Pilot'
+  summary: 'Eurosceptic, Former Army Officer, Private Pilot, My Views are My Own!!'
 
 
 nathan-gill:
@@ -586,9 +585,6 @@ patricia-culligan:
 patrick-oflynn:
   id: patrick-oflynn
   image: /images/twitter/oflynnexpress.jpg
-  links:
-    - note: 'Twitter account'
-      url: https://twitter.com/oflynnexpress
   name: 'Patrick O''Flynn'
   summary: 'Chief Political Commentator, Daily Express and UKIP MEP candidate all
     my own views not those of my paper'

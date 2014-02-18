@@ -6,6 +6,6 @@ election: eu2014
 list-rank: 1
 list-rank-ordinal: 1st
 person: henry-reilly
-region: northern ireland
+region: northern-ireland
 party: ukip
 ---
