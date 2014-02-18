@@ -1,11 +1,11 @@
 ---
 layout: candidate
-permalink: candidates/eu2014/bnp/lady-dorothy-brooks/
+permalink: candidates/eu2014/bnp/lady-dorothy-brooke/
 categories: candidate bnp
 election: eu2014
 list-rank: 1
 list-rank-ordinal: 1st
-person: lady-dorothy-brooks
+person: lady-dorothy-brooke
 region: north-east
 party: bnp
 ---
