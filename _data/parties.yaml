@@ -1,3 +1,13 @@
+alliance:
+  classification: Party
+  id: alliance
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Alliance_Party_of_Northern_Ireland
+  name: 'Alliance Party of Northern Ireland'
+  name_article: 'the Alliance Party of Northern Ireland'
+
+    
 bnp:
   classification: Party
   founding_date: 1982-1-1
