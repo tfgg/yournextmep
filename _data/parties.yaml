@@ -182,6 +182,14 @@ sdlp:
     Party (neither of which contest elections in Northern Ireland), and is affiliated
     to the Socialist International and Party of European Socialists.'
 
+snp:
+  classification: Party
+  id: snp
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Scottish_National_Party
+  name: 'Scottish National Party'
+  name_article: 'the Scottish National Party'
 
 sinn-fein:
   classification: Party
