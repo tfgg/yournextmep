@@ -9,6 +9,7 @@ rev-george-hargreaves:
     the Christian Party (UK), and former music producer and songwriter.'
 
 nikki-sinclaire:
+  id: nikki-sinclaire
   name: Nikki Sinclaire
   links:
     - url: http://www.yourmep.org/
@@ -19,4 +20,5 @@ nikki-sinclaire:
       note: Wikipedia page
 
 andy-adris:
+  id: andy-adris
   name: Andy Adris
