@@ -1,9 +1,9 @@
 adam-walker:
   id: adam-walker
-  name: 'Adam Walker'
   links:
-    - url: https://www.facebook.com/adamwalkerbnp
-      note: Facebook page
+    - note: 'Facebook page'
+      url: https://www.facebook.com/adamwalkerbnp
+  name: 'Adam Walker'
 
 
 bob-brindley:
@@ -12,12 +12,12 @@ bob-brindley:
 
 
 cathy-duffy:
-  id: cathy-duffy
-  name: 'Cathy Duffy'
   email: cllr.catherine.duffy@charnwood.gov.uk
+  id: cathy-duffy
   links:
-    - url: https://www.charnwood.gov.uk/councillors/cllr_catherine_duffy
-      note: Charnwood Borough Council profile
+    - note: 'Charnwood Borough Council profile'
+      url: https://www.charnwood.gov.uk/councillors/cllr_catherine_duffy
+  name: 'Cathy Duffy'
 
 
 danny-cooke:
@@ -47,12 +47,18 @@ kenneth-griffiths:
 
 lady-dorothy-brooke:
   id: lady-dorothy-brooke
-  name: 'Lady Dorothy Brooke'
+  image: /images/twitter/DorothyMBrooke.jpg
   links:
-    - url: https://twitter.com/DorothyMBrooke
-      note: Twitter account
-    - url: https://www.facebook.com/dorothy.brooke.1
-      note: Facebook page
+    - note: 'Twitter account'
+      url: https://twitter.com/DorothyMBrooke
+    - note: 'Facebook page'
+      url: https://www.facebook.com/dorothy.brooke.1
+  name: 'Lady Dorothy Brooke'
+  summary: 'Lady Dorothy MacBeth Brooke
+
+    
+
+    BNP candidate and a right BobbyDazzler'
 
 
 mark-badrick:
@@ -72,22 +78,25 @@ martin-vaughan:
 
 michael-coleman:
   id: michael-coleman
-  name: 'Michael Coleman'
   links:
-    - url: http://stokepatriot.blogspot.co.uk/
-      note: Website
+    - note: Website
+      url: http://stokepatriot.blogspot.co.uk/
+  name: 'Michael Coleman'
 
 
 nick-griffin:
   id: nick-griffin
+  image: /images/twitter/nickgriffinmep.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Nick_Griffin
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/nickgriffinmep
     - note: Website
       url: http://www.nickgriffinmep.eu/
   name: 'Nick Griffin'
+  summary: 'This is the official twitter page of British National Party Chairman and
+    Member of the European Parliament for the North West region, Nick Griffin.'
   wikipedia_biography: 'Nicholas John "Nick" Griffin (born 1 March 1959) is a British
     politician, chairman of the British National Party (BNP) and Member of the European
     Parliament (MEP) for North West England. Born in Barnet, Griffin was educated
@@ -108,10 +117,10 @@ phil-kimberley:
 
 richard-perry:
   id: richard-perry
-  name: 'Richard Perry'
   links:
-    - url: http://easternregionbnp.blogspot.co.uk/
-      note: Website
+    - note: Website
+      url: http://easternregionbnp.blogspot.co.uk/
+  name: 'Richard Perry'
 
 
 robert-west:
@@ -121,10 +130,10 @@ robert-west:
 
 simon-patten:
   id: simon-patten
-  name: 'Simon Patten'
   links:
-    - url: https://www.facebook.com/simon.patten.58
-      note: Facebook page
+    - note: 'Facebook page'
+      url: https://www.facebook.com/simon.patten.58
+  name: 'Simon Patten'
 
 
 steve-brammer:
