@@ -1,10 +1,13 @@
-rufus-hound:
-  id: rufus-hound
-  name: Rufus Hound
-  links:
-    - url: https://en.wikipedia.org/wiki/Rufus_Hound
-      note: Wikipedia article
-
 dr-louise-irvine:
   id: dr-louise-irvine
-  name: Dr Louise Irvine
+  name: 'Dr Louise Irvine'
+
+
+rufus-hound:
+  id: rufus-hound
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Rufus_Hound
+  name: 'Rufus Hound'
+  wikipedia_biography: 'Rufus Hound (born Robert James Blair Simpson on 6 March 1979)
+    is an English comedian, actor and presenter.'
