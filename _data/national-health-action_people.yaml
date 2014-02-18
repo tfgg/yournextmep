@@ -1,0 +1,10 @@
+rufus-hound:
+  id: rufus-hound
+  name: Rufus Hound
+  links:
+    - url: https://en.wikipedia.org/wiki/Rufus_Hound
+      note: Wikipedia article
+
+dr-louise-irvine:
+  id: dr-louise-irvine
+  name: Dr Louise Irvine
