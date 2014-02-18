@@ -1,0 +1,11 @@
+anna-lo:
+  id: anna-lo
+  name: Anna Lo
+  links:
+    - url: https://en.wikipedia.org/wiki/Anna_Lo
+      note: Wikipedia article
+    - url: http://www.annalo.org/
+      note: Website
+    - url: http://allianceparty.org/contact/belfast-south-anna-lo-mla
+      note: Alliance Party profile
+
