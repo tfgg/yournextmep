@@ -1,14 +1,17 @@
 ross-brown:
   id: ross-brown
-  name: 'Ross Brown'
+  image: /images/twitter/voterossbrown.png
   links:
-    - url: http://voterossbrown.eu/
-      note: Website
-    - url: http://www.greenpartyni.co.uk/our-european-candidate/
-      note: Green party NI profile
-    - url: https://www.facebook.com/voterossbrown
-      note: Facebook page
-    - url: https://twitter.com/voterossbrown
-      note: Twitter account
-    - url: https://www.youtube.com/user/utube4227
-      note: Youtube channel
+    - note: Website
+      url: http://voterossbrown.eu/
+    - note: 'Green party NI profile'
+      url: http://www.greenpartyni.co.uk/our-european-candidate/
+    - note: 'Facebook page'
+      url: https://www.facebook.com/voterossbrown
+    - note: 'Twitter account'
+      url: https://twitter.com/voterossbrown
+    - note: 'Youtube channel'
+      url: https://www.youtube.com/user/utube4227
+  name: 'Ross Brown'
+  summary: 'Chair of the Green Party in East Belfast and candidate for the 2014 European
+    Election in N. Ireland.'

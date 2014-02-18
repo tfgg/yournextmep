@@ -1,13 +1,18 @@
 diane-dodds:
   id: diane-dodds
+  image: /images/twitter/DianeDoddsMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Diane_Dodds
     - note: Website
       url: http://www.dianedodds.co.uk/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/DianeDoddsMEP
   name: 'Diane Dodds'
+  summary: 'DUP Member of the European Parliament. Office: Garvey Studios, Longstone
+    St, Lisburn. Tel 028 9266 7733
+
+    Also provide business updates through @Dodds4Business'
   wikipedia_biography: 'Diane Dodds (born 16 August 1958) is a Democratic Unionist
     Party politician from Northern Ireland, and a Member of the European Parliament
     (MEP) for the Northern Ireland constituency.'

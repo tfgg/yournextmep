@@ -1,3 +1,30 @@
+andy-adris:
+  id: andy-adris
+  name: 'Andy Adris'
+
+
+nikki-sinclaire:
+  id: nikki-sinclaire
+  image: /images/twitter/NSinclaireMEP.jpg
+  links:
+    - note: Website
+      url: http://www.yourmep.org/
+    - note: 'Twitter account'
+      url: https://twitter.com/NSinclaireMEP
+    - note: 'Wikipedia page'
+      url: https://en.wikipedia.org/wiki/Nikki_Sinclaire
+  name: 'Nikki Sinclaire'
+  summary: 'We Demand A Referendum Now MEP for the West Midlands (#Worcs #Staffs #Warks
+    #Hereford #Shrops) campaigning for a referendum on the UK’s membership of the
+    EU'
+  wikipedia_biography: 'Nicole "Nikki" Sinclaire (born 26 July 1968) is a politician
+    from the United Kingdom and is the We Demand a Referendum Party Member of the
+    European Parliament for the West Midlands. She was elected MEP in June 2009 as
+    a UK Independence Party candidate but later resigned from the Europe of Freedom
+    and Democracy (EFD) group in which UKIP is part of in the European Parliament,
+    citing the alleged extreme right-wing views of some of the group''s members.'
+
+
 rev-george-hargreaves:
   id: rev-george-hargreaves
   links:
@@ -7,18 +34,3 @@ rev-george-hargreaves:
   wikipedia_biography: 'James George Hargreaves (born 1958), known as George Hargreaves
     or J. G. Hargreaves, is a religious minister, political campaigner, leader of
     the Christian Party (UK), and former music producer and songwriter.'
-
-nikki-sinclaire:
-  id: nikki-sinclaire
-  name: Nikki Sinclaire
-  links:
-    - url: http://www.yourmep.org/
-      note: Website
-    - url: https://twitter.com/NSinclaireMEP
-      note: Twitter account
-    - url: https://en.wikipedia.org/wiki/Nikki_Sinclaire
-      note: Wikipedia page
-
-andy-adris:
-  id: andy-adris
-  name: Andy Adris

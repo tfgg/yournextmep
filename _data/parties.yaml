@@ -22,8 +22,8 @@ conservative:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Conservative_Party_(UK)
-  name: Conservative Party
-  name_article: the Conservative Party
+  name: 'Conservative Party'
+  name_article: 'the Conservative Party'
   other_names:
     - name: 'Conservative and Unionist Party'
   wikipedia_biography: 'The Conservative Party, officially the Conservative and Unionist
@@ -70,8 +70,8 @@ green:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
-  name: Green Party
-  name_article: the Green Party
+  name: 'Green Party'
+  name_article: 'the Green Party'
   other_names:
     - name: 'Green Party of England and Wales'
   wikipedia_biography: 'The Green Party of England and Wales (GPEW; Welsh: Plaid Werdd
@@ -116,8 +116,8 @@ labour:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Labour_Party_(UK)
-  name: Labour Party
-  name_article: the Labour Party
+  name: 'Labour Party'
+  name_article: 'the Labour Party'
   wikipedia_biography: 'The Labour Party is a centre-left political party in the United
     Kingdom, and one of the two main British political parties along with the Conservative
     Party. The Labour Party was founded in 1900 and overtook the Liberal Party in
@@ -182,14 +182,6 @@ sdlp:
     Party (neither of which contest elections in Northern Ireland), and is affiliated
     to the Socialist International and Party of European Socialists.'
 
-snp:
-  classification: Party
-  id: snp
-  links:
-    - note: 'Wikipedia article'
-      url: https://en.wikipedia.org/wiki/Scottish_National_Party
-  name: 'Scottish National Party'
-  name_article: 'the Scottish National Party'
 
 sinn-fein:
   classification: Party
@@ -205,6 +197,22 @@ sinn-fein:
     Sinn Féin organisation founded in 1905 by Arthur Griffith, it took its current
     form in 1970 after a split within the party. Sinn Féin is led by Gerry Adams,
     and has elected representatives in both Northern Ireland and the Republic of Ireland.'
+
+
+snp:
+  classification: Party
+  id: snp
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Scottish_National_Party
+  name: 'Scottish National Party'
+  name_article: 'the Scottish National Party'
+  wikipedia_biography: 'The Scottish National Party (SNP; Scottish Gaelic: Pàrtaidh
+    Nàiseanta na h-Alba; Scots: Scots Naitional Pairty) is a social democratic political
+    party in Scotland which campaigns for Scottish independence from the United Kingdom.
+    The SNP was founded in 1934, and has had continuous representation in the Parliament
+    of the United Kingdom since Winnie Ewing''s groundbreaking victory at the 1967
+    Hamilton by-election.'
 
 
 ukip:
