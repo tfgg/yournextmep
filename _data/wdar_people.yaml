@@ -7,3 +7,16 @@ rev-george-hargreaves:
   wikipedia_biography: 'James George Hargreaves (born 1958), known as George Hargreaves
     or J. G. Hargreaves, is a religious minister, political campaigner, leader of
     the Christian Party (UK), and former music producer and songwriter.'
+
+nikki-sinclaire:
+  name: Nikki Sinclaire
+  links:
+    - url: http://www.yourmep.org/
+      note: Website
+    - url: https://twitter.com/NSinclaireMEP
+      note: Twitter account
+    - url: https://en.wikipedia.org/wiki/Nikki_Sinclaire
+      note: Wikipedia page
+
+andy-adris:
+  name: Andy Adris
