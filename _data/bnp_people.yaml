@@ -1,6 +1,9 @@
 adam-walker:
   id: adam-walker
   name: 'Adam Walker'
+  links:
+    - url: https://www.facebook.com/adamwalkerbnp
+      note: Facebook page
 
 
 bob-brindley:
@@ -11,6 +14,10 @@ bob-brindley:
 cathy-duffy:
   id: cathy-duffy
   name: 'Cathy Duffy'
+  email: cllr.catherine.duffy@charnwood.gov.uk
+  links:
+    - url: https://www.charnwood.gov.uk/councillors/cllr_catherine_duffy
+      note: Charnwood Borough Council profile
 
 
 danny-cooke:
@@ -38,9 +45,14 @@ kenneth-griffiths:
   name: 'Kenneth Griffiths'
 
 
-lady-dorothy-brooks:
-  id: lady-dorothy-brooks
-  name: 'Lady Dorothy Brooks'
+lady-dorothy-brooke:
+  id: lady-dorothy-brooke
+  name: 'Lady Dorothy Brooke'
+  links:
+    - url: https://twitter.com/DorothyMBrooke
+      note: Twitter account
+    - url: https://www.facebook.com/dorothy.brooke.1
+      note: Facebook page
 
 
 mark-badrick:
@@ -61,6 +73,9 @@ martin-vaughan:
 michael-coleman:
   id: michael-coleman
   name: 'Michael Coleman'
+  links:
+    - url: http://stokepatriot.blogspot.co.uk/
+      note: Website
 
 
 nick-griffin:
@@ -68,6 +83,10 @@ nick-griffin:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Nick_Griffin
+    - note: Twitter account
+      url: https://twitter.com/nickgriffinmep
+    - note: Website
+      url: http://www.nickgriffinmep.eu/
   name: 'Nick Griffin'
   wikipedia_biography: 'Nicholas John "Nick" Griffin (born 1 March 1959) is a British
     politician, chairman of the British National Party (BNP) and Member of the European
@@ -90,6 +109,9 @@ phil-kimberley:
 richard-perry:
   id: richard-perry
   name: 'Richard Perry'
+  links:
+    - url: http://easternregionbnp.blogspot.co.uk/
+      note: Website
 
 
 robert-west:
@@ -100,6 +122,9 @@ robert-west:
 simon-patten:
   id: simon-patten
   name: 'Simon Patten'
+  links:
+    - url: https://www.facebook.com/simon.patten.58
+      note: Facebook page
 
 
 steve-brammer:
