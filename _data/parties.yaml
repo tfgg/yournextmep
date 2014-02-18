@@ -159,6 +159,13 @@ liberty:
   other_names:
     - name: 'Liberty Great Britain'
 
+national-health-action:
+  id: national-health-action
+  name: National Health Action Party
+  name_article: "the National Health Action Party"
+  links:
+    - note: Wikipedia article
+      url: https://en.wikipedia.org/wiki/National_Health_Action_Party
 
 plaid-cymru:
   classification: Party
