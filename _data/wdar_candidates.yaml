@@ -1,4 +1,11 @@
 north-west:
   - id: rev-george-hargreaves
     name: 'Rev. George Hargreaves'
-    wikipedia: https://en.wikipedia.org/wiki/George_Hargreaves_(politician)
+
+
+west-midlands:
+  - id: nikki-sinclaire
+    name: Nikki Sinclaire
+  - id: andy-adris
+    name: Andy Adris
+
