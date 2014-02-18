@@ -47,10 +47,10 @@ andy-monk:
   name: 'Andy Monk'
 
 
-anne-murgatroy:
+anne-murgatroyd:
   email: meganne21@hotmail.co.uk
-  id: anne-murgatroy
-  name: 'Anne Murgatroy'
+  id: anne-murgatroyd
+  name: 'Anne Murgatroyd'
 
 
 anthony-brown:
@@ -413,6 +413,12 @@ malcolm-macaskill:
   summary: 'Proud son of the Royal Burgh of Rutherglen - Family and friends, politics,
     law. motorbikes and the Isle of Skye. m@caskill.co.uk'
 
+mark-hughes:
+  id: mark-hughes
+  name: Mark Hughes
+  links:
+    - url: https://twitter.com/MarkJHughes
+      note: Twitter account
 
 margot-parker:
   id: margot-parker
