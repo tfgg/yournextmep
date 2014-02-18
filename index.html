@@ -6,6 +6,11 @@ title: YourNextMEP
 <div class="row">
   <div class="col-md-12">
     <h1>UK EU election regions</h1>
+    <form action='/api/postcode' method='POST' class='form-inline'>
+      <input type="text" placeholder="enter your postcode">
+      <button type="submit" class="btn">Find region</button>
+    </form>
+
     <ul class="regions">
       {% for region in site.pages %}
         {% if region.layout == 'region' %}
