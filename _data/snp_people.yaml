@@ -3,6 +3,10 @@ alyn-smith:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Alyn_Smith
+    - note: Website
+      url: http://www.alynsmith.eu/
+    - note: Twitter account
+      url: https://twitter.com/AlynSmithMEP
   name: 'Alyn Smith'
   wikipedia_biography: 'Alyn Smith (born 15 September 1973) is a Scottish politician,
     and Scottish National Party Member of the European Parliament for Scotland. He
@@ -12,6 +16,12 @@ alyn-smith:
 chris-stephens:
   id: chris-stephens
   name: 'Chris Stephens'
+  links:
+    - note: Twitter account
+      url: https://twitter.com/CStephenssnp
+    - note: Website
+      url: http://chrisstephenssnp.blogspot.co.uk/
+      
 
 
 ian-hudghton:
@@ -19,6 +29,10 @@ ian-hudghton:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Ian_Hudghton
+    - note: Website
+      url: http://hudghtonmep.eu/
+    - note: Twitter account
+      url: https://twitter.com/hudghtonmepSNP
   name: 'Ian Hudghton'
   wikipedia_biography: 'Ian Stewart Hudghton (born 19 September 1951) is a Scottish
     politician, and has been a Scottish National Party Member of the European Parliament
@@ -32,13 +46,31 @@ ian-hudghton:
 stephen-gethins:
   id: stephen-gethins
   name: 'Stephen Gethins'
+  links:
+    - url: https://twitter.com/StephenGethins
+      note: Twitter account
+    - url: http://www.stephengethins.eu/
+      note: Website
 
 
 tasmina-ahmed-sheikh:
   id: tasmina-ahmed-sheikh
   name: 'Tasmina Ahmed-Sheikh'
+  links:
+    - url: http://www.tasmina.eu/
+      note: Website
+    - url: https://twitter.com/TasminaSheikh
+      note: Twitter account
 
 
 toni-giugliano:
   id: toni-giugliano
   name: 'Toni Giugliano'
+  links:
+    - url: https://twitter.com/ToniGiugliano
+      note: Twitter account
+    - url: https://www.facebook.com/Toni4eu
+      note: Facebook page
+    - url: http://www.toni4europe.org/
+      note: Website
+
