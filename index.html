@@ -10,7 +10,7 @@ $(document).ready(function(){
   form.submit(function() {
     $.post('/api/postcode', form.serialize(),
           function(data) {
-            alert(data);
+            window.location = data.url;
           });
 
     return false;
