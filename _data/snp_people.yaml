@@ -1,13 +1,16 @@
 alyn-smith:
   id: alyn-smith
+  image: /images/twitter/AlynSmithMEP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Alyn_Smith
     - note: Website
       url: http://www.alynsmith.eu/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/AlynSmithMEP
   name: 'Alyn Smith'
+  summary: '@TheSNP Member of the European Parliament for Scotland. Working for prosperity,
+    egalitarianism, community and internationalism. Mixes a fine vodka martini.'
   wikipedia_biography: 'Alyn Smith (born 15 September 1973) is a Scottish politician,
     and Scottish National Party Member of the European Parliament for Scotland. He
     is also the SNP''s agricultural spokesman.'
@@ -15,25 +18,30 @@ alyn-smith:
 
 chris-stephens:
   id: chris-stephens
-  name: 'Chris Stephens'
+  image: /images/twitter/CStephenssnp.jpg
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/CStephenssnp
     - note: Website
       url: http://chrisstephenssnp.blogspot.co.uk/
-      
+  name: 'Chris Stephens'
+  summary: 'SNP and UNISON activist in Glasgow, Partick Thistle Supporter too! SNP
+    Euro Candidate in 2014'
 
 
 ian-hudghton:
   id: ian-hudghton
+  image: /images/twitter/hudghtonmepSNP.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Ian_Hudghton
     - note: Website
       url: http://hudghtonmep.eu/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/hudghtonmepSNP
   name: 'Ian Hudghton'
+  summary: 'SNP President since 2005. SNP Member of the European Parliament since
+    1998. SNP Councillor 1986-98. SNP active member since 1967.'
   wikipedia_biography: 'Ian Stewart Hudghton (born 19 September 1951) is a Scottish
     politician, and has been a Scottish National Party Member of the European Parliament
     for Scotland since 1998, when he won his seat in a rare European Parliamentary
@@ -45,32 +53,41 @@ ian-hudghton:
 
 stephen-gethins:
   id: stephen-gethins
-  name: 'Stephen Gethins'
+  image: /images/twitter/StephenGethins.jpg
   links:
-    - url: https://twitter.com/StephenGethins
-      note: Twitter account
-    - url: http://www.stephengethins.eu/
-      note: Website
+    - note: 'Twitter account'
+      url: https://twitter.com/StephenGethins
+    - note: Website
+      url: http://www.stephengethins.eu/
+  name: 'Stephen Gethins'
+  summary: 'Having the best time doing different things and watching United play well.
+    Work on politics, Scotland in World and SNP Europe candidate'
 
 
 tasmina-ahmed-sheikh:
   id: tasmina-ahmed-sheikh
-  name: 'Tasmina Ahmed-Sheikh'
+  image: /images/twitter/TasminaSheikh.jpg
   links:
-    - url: http://www.tasmina.eu/
-      note: Website
-    - url: https://twitter.com/TasminaSheikh
-      note: Twitter account
+    - note: Website
+      url: http://www.tasmina.eu/
+    - note: 'Twitter account'
+      url: https://twitter.com/TasminaSheikh
+  name: 'Tasmina Ahmed-Sheikh'
+  summary: 'SNP candidate for European elections 2014, Lawyer, @YesScotland Advisory
+    Board member, Winner Asian Woman of Achievement 2012, Founder @ScotAsianWomen,
+    Actress.'
 
 
 toni-giugliano:
   id: toni-giugliano
-  name: 'Toni Giugliano'
+  image: /images/twitter/ToniGiugliano.jpg
   links:
-    - url: https://twitter.com/ToniGiugliano
-      note: Twitter account
-    - url: https://www.facebook.com/Toni4eu
-      note: Facebook page
-    - url: http://www.toni4europe.org/
-      note: Website
-
+    - note: 'Twitter account'
+      url: https://twitter.com/ToniGiugliano
+    - note: 'Facebook page'
+      url: https://www.facebook.com/Toni4eu
+    - note: Website
+      url: http://www.toni4europe.org/
+  name: 'Toni Giugliano'
+  summary: 'Italian-born Scot tweeting about Independence and Europe. SNP 2014 Euro
+    candidate. Interest Groups Adviser at Yes Scotland.  Views my own.'

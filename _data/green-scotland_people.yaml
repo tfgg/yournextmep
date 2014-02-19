@@ -1,25 +1,31 @@
 alastair-whitelaw:
   id: alastair-whitelaw
-  name: 'Alastair Whitelaw'
   image: /images/other/alastair-whitelaw.jpg
+  name: 'Alastair Whitelaw'
 
 
 alis-ballance:
   id: alis-ballance
-  name: 'Alis Ballance'
+  image: /images/twitter/alisballance.jpg
   links:
-    - url: https://twitter.com/alisballance
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/alisballance
+  name: 'Alis Ballance'
+  summary: 'Top candidate for the Scottish Green Party for the South Region. Founder
+    of Moffat CAN and elected member of NHS Dumfries & Galloway Board.'
 
 
 chas-booth:
   id: chas-booth
-  name: 'Chas Booth'
+  image: /images/other/chas-booth.jpg
   links:
-    - url: http://www.edinburghgreens.org.uk/site/councillors/chas-booth/
-      note: Edinburgh Greens profile
-    - url: https://twitter.com/CllrChasBooth
-      note: Twitter account
+    - note: 'Edinburgh Greens profile'
+      url: http://www.edinburghgreens.org.uk/site/councillors/chas-booth/
+    - note: 'Twitter account'
+      url: https://twitter.com/CllrChasBooth
+  name: 'Chas Booth'
+  summary: '.@EdinburghGreens & @scotgp Green Councillor for Leith. Trustee w @greenerleith
+    & @TheBikeStation. Former @uk_ace campaigner. Husband & Dad.'
 
 
 grace-murray:
@@ -29,22 +35,27 @@ grace-murray:
 
 maggie-chapman:
   id: maggie-chapman
+  image: /images/twitter/MaggieEdinburgh.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Maggie_Chapman
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/MaggieEdinburgh
     - note: Website
       url: http://maggiechapman.wordpress.com/
   name: 'Maggie Chapman'
+  summary: 'Socialist, green, geographer, councillor, from Harare, in Edinburgh, @scotgp
+    lead candidate for 2014 European elections, editor @brightgrn'
 
 
 steen-parish:
   id: steen-parish
-  name: 'Steen Parish'
+  image: /images/twitter/steenparish.jpg
   links:
-    - url: http://www.greenparish.org/
-      note: Website
-    - url: https://twitter.com/steenparish
-      note: Twitter account
-
+    - note: Website
+      url: http://www.greenparish.org/
+    - note: 'Twitter account'
+      url: https://twitter.com/steenparish
+  name: 'Steen Parish'
+  summary: 'Steen Parish was the Scottish Green Party''s candidate for the Maryhill/Kelvin
+    Ward of Glasgow in the 2012 Scotish local elections'
