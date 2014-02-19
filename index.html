@@ -31,11 +31,9 @@ $(document).ready(function(){
   <div class="col-md-12">
     <h1>UK EU election regions</h1>
     <ul class="regions">
-      {% for region in site.pages %}
-        {% if region.layout == 'region' %}
+      {% for region in site.pages %}{% if region.layout == 'region' %}
           <li><a href="{{ region.url }}">{{ region.title }}</a></li>
-        {% endif %}
-      {% endfor %}
+      {% endif %}{% endfor %}
     </ul>
   </div>
 </div>
