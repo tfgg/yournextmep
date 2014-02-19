@@ -94,3 +94,37 @@ spawned uWSGI worker 1 (and the only) (pid: 24440, cores: 1)
 [pid: 24440|app: 0|req: 5/5] 86.8.154.248 () {50 vars in 909 bytes} [Wed Feb 19 00:06:45 2014] POST /api/postcode => generated 72 bytes in 52 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
 [pid: 24440|app: 0|req: 6/6] 86.8.154.248 () {50 vars in 909 bytes} [Wed Feb 19 00:07:21 2014] POST /api/postcode => generated 72 bytes in 40 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
 [pid: 24440|app: 0|req: 7/7] 86.8.154.248 () {50 vars in 909 bytes} [Wed Feb 19 00:07:52 2014] POST /api/postcode => generated 72 bytes in 81 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 24440|app: 0|req: 8/8] 86.8.154.248 () {50 vars in 909 bytes} [Wed Feb 19 00:08:19 2014] POST /api/postcode => generated 72 bytes in 42 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)
+[pid: 24440|app: 0|req: 9/9] 86.8.154.248 () {50 vars in 909 bytes} [Wed Feb 19 00:09:06 2014] POST /api/postcode => generated 291 bytes in 49 msecs (HTTP/1.1 500) 2 headers in 84 bytes (1 switches on core 0)
+[pid: 24440|app: 0|req: 10/10] 86.8.154.248 () {50 vars in 909 bytes} [Wed Feb 19 00:09:08 2014] POST /api/postcode => generated 291 bytes in 46 msecs (HTTP/1.1 500) 2 headers in 84 bytes (1 switches on core 0)
+[pid: 24440|app: 0|req: 11/11] 86.8.154.248 () {50 vars in 909 bytes} [Wed Feb 19 00:09:08 2014] POST /api/postcode => generated 291 bytes in 59 msecs (HTTP/1.1 500) 2 headers in 84 bytes (1 switches on core 0)
+[pid: 24440|app: 0|req: 12/12] 86.8.154.248 () {50 vars in 909 bytes} [Wed Feb 19 00:09:33 2014] POST /api/postcode => generated 291 bytes in 65 msecs (HTTP/1.1 500) 2 headers in 84 bytes (1 switches on core 0)
+*** Starting uWSGI 2.0.1 (64bit) on [Wed Feb 19 00:10:20 2014] ***
+compiled with version: 4.7.3 on 18 February 2014 23:42:08
+os: Linux-3.8.0-19-generic #30-Ubuntu SMP Wed May 1 16:35:23 UTC 2013
+nodename: TestServ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/yournextmep/site/_api
+detected binary path: /home/yournextmep/ENV/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 15962
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address server.sock fd 3
+Python version: 2.7.4 (default, Sep 26 2013, 03:23:21)  [GCC 4.7.3]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1b623f0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72760 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1b623f0 pid: 25213 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 25213, cores: 1)
+[pid: 25213|app: 0|req: 1/1] 86.8.154.248 () {50 vars in 909 bytes} [Wed Feb 19 00:10:28 2014] POST /api/postcode => generated 291 bytes in 89 msecs (HTTP/1.1 500) 2 headers in 84 bytes (1 switches on core 0)
+[pid: 25213|app: 0|req: 2/2] 86.8.154.248 () {50 vars in 909 bytes} [Wed Feb 19 00:10:32 2014] POST /api/postcode => generated 72 bytes in 44 msecs (HTTP/1.1 200) 2 headers in 71 bytes (1 switches on core 0)

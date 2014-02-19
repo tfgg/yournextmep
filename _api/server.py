@@ -19,7 +19,7 @@ def postcode():
 
   postcode = clean_postcode(postcode)
 
-  url = "http://mapit.mysociety.org/postcode/{}".format(postcode)
+  url = "http://mapit.mysociety.org/postcode/{}".format(postcode[:8])
   resp = requests.get(url)
   data = resp.json()
 
