@@ -1,16 +1,25 @@
 alastair-whitelaw:
   id: alastair-whitelaw
   name: 'Alastair Whitelaw'
+  image: /images/other/alastair-whitelaw.jpg
 
 
 alis-ballance:
   id: alis-ballance
   name: 'Alis Ballance'
+  links:
+    - url: https://twitter.com/alisballance
+      note: Twitter account
 
 
 chas-booth:
   id: chas-booth
   name: 'Chas Booth'
+  links:
+    - url: http://www.edinburghgreens.org.uk/site/councillors/chas-booth/
+      note: Edinburgh Greens profile
+    - url: https://twitter.com/CllrChasBooth
+      note: Twitter account
 
 
 grace-murray:
@@ -23,9 +32,19 @@ maggie-chapman:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Maggie_Chapman
+    - note: Twitter account
+      url: https://twitter.com/MaggieEdinburgh
+    - note: Website
+      url: http://maggiechapman.wordpress.com/
   name: 'Maggie Chapman'
 
 
 steen-parish:
   id: steen-parish
   name: 'Steen Parish'
+  links:
+    - url: http://www.greenparish.org/
+      note: Website
+    - url: https://twitter.com/steenparish
+      note: Twitter account
+
