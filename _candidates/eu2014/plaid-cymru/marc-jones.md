@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: marc-jones
 region: wales
 party: plaid-cymru
+title: Wales - Plaid Cymru - Marc Jones
 ---

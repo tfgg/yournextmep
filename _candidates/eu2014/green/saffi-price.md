@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: saffi-price
 region: west-midlands
 party: green
+title: West Midlands - Green Party - Saffi Price
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: john-walker-scott
 region: south-west
 party: engdem
+title: South West - English Democrats - John Walker-Scott
 ---

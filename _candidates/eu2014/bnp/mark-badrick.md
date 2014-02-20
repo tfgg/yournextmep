@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: mark-badrick
 region: west-midlands
 party: bnp
+title: West Midlands - British National Party - Mark Badrick
 ---

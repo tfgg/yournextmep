@@ -8,4 +8,5 @@ list-rank-ordinal: 8th
 person: jake-welsh
 region: north-west
 party: green
+title: North West - Green Party - Jake Welsh
 ---

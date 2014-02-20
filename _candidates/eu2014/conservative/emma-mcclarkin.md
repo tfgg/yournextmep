@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: emma-mcclarkin
 region: east-midlands
 party: conservative
+title: East Midlands - Conservative Party - Emma McClarkin
 ---

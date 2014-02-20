@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: lewis-coyne
 region: north-west
 party: green
+title: North West - Green Party - Lewis Coyne
 ---

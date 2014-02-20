@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: stuart-agnew
 region: eastern
 party: ukip
+title: Eastern - UKIP - Stuart Agnew
 ---

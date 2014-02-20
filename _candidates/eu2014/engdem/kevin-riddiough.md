@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: kevin-riddiough
 region: north-east
 party: engdem
+title: North East - English Democrats - Kevin Riddiough
 ---

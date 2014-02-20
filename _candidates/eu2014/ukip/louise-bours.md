@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: louise-bours
 region: north-west
 party: ukip
+title: North West - UKIP - Louise Bours
 ---

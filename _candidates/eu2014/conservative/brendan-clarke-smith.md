@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: brendan-clarke-smith
 region: east-midlands
 party: conservative
+title: East Midlands - Conservative Party - Brendan Clarke-Smith
 ---

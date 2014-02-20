@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: nigel-farage
 region: south-east
 party: ukip
+title: South East - UKIP - Nigel Farage
 ---

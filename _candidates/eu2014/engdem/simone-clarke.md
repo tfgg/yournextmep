@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: simone-clarke
 region: south-east
 party: engdem
+title: South East - English Democrats - Simone Clarke
 ---

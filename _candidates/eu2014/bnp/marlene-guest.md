@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: marlene-guest
 region: yorkshire-and-the-humber
 party: bnp
+title: Yorkshire and the Humber - British National Party - Marlene Guest
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: diane-james
 region: south-east
 party: ukip
+title: South East - UKIP - Diane James
 ---

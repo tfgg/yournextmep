@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: dan-sames
 region: west-midlands
 party: conservative
+title: West Midlands - Conservative Party - Dan Sames
 ---

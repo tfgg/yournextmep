@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: stephen-robinson
 region: eastern
 party: libdem
+title: Eastern - Liberal Democrats - Stephen Robinson
 ---

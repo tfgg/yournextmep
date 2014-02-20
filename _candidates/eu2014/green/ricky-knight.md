@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: ricky-knight
 region: south-west
 party: green
+title: South West - Green Party - Ricky Knight
 ---

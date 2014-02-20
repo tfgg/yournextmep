@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: afzal-khan
 region: north-west
 party: labour
+title: North West - Labour Party - Afzal Khan
 ---

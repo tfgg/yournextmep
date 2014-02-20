@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: richard-corbett
 region: yorkshire-and-the-humber
 party: labour
+title: Yorkshire and the Humber - Labour Party - Richard Corbett
 ---

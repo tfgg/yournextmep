@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: bhavna-joshi
 region: eastern
 party: labour
+title: Eastern - Labour Party - Bhavna Joshi
 ---

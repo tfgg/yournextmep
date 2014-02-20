@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: kevin-warnes
 region: yorkshire-and-the-humber
 party: green
+title: Yorkshire and the Humber - Green Party - Kevin Warnes
 ---

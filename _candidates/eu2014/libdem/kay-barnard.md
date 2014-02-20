@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: kay-barnard
 region: south-west
 party: libdem
+title: South West - Liberal Democrats - Kay Barnard
 ---

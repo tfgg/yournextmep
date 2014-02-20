@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: ian-duncan
 region: scotland
 party: conservative
+title: Scotland - Conservative Party - Ian Duncan
 ---

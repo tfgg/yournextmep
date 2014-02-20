@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: mark-ereira-guyer
 region: eastern
 party: green
+title: Eastern - Green Party - Mark Ereira-Guyer
 ---

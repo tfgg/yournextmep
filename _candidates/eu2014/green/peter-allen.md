@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: peter-allen
 region: east-midlands
 party: green
+title: East Midlands - Green Party - Peter Allen
 ---

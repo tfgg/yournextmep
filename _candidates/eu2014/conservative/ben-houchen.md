@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: ben-houchen
 region: north-east
 party: conservative
+title: North East - Conservative Party - Ben Houchen
 ---

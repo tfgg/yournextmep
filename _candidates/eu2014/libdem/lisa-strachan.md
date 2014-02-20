@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: lisa-strachan
 region: scotland
 party: libdem
+title: Scotland - Liberal Democrats - Lisa Strachan
 ---

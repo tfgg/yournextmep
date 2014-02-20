@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: edward-mcmillan-scott
 region: yorkshire-and-the-humber
 party: libdem
+title: Yorkshire and the Humber - Liberal Democrats - Edward McMillan-Scott
 ---

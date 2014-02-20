@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: turhan-ozen
 region: london
 party: libdem
+title: London - Liberal Democrats - Turhan Ozen
 ---

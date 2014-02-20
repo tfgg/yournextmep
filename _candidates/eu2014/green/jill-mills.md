@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: jill-mills
 region: eastern
 party: green
+title: Eastern - Green Party - Jill Mills
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: dan-boucher
 region: wales
 party: conservative
+title: Wales - Conservative Party - Dan Boucher
 ---

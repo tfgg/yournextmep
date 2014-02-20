@@ -8,4 +8,5 @@ list-rank-ordinal: 8th
 person: peter-harper
 region: north-west
 party: ukip
+title: North West - UKIP - Peter Harper
 ---

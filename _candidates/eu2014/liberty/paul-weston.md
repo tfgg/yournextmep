@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: paul-weston
 region: south-east
 party: liberty
+title: South East - Liberty GB - Paul Weston
 ---

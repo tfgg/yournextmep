@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: gerard-batten
 region: london
 party: ukip
+title: London - UKIP - Gerard Batten
 ---

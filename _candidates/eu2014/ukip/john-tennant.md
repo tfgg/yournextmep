@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: john-tennant
 region: north-east
 party: ukip
+title: North East - UKIP - John Tennant
 ---

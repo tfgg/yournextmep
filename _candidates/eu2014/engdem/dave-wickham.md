@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: dave-wickham
 region: east-midlands
 party: engdem
+title: East Midlands - English Democrats - Dave Wickham
 ---

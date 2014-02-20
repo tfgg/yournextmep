@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: william-dartmouth
 region: south-west
 party: ukip
+title: South West - UKIP - William Dartmouth
 ---

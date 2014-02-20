@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: phil-knowles
 region: east-midlands
 party: libdem
+title: East Midlands - Liberal Democrats - Phil Knowles
 ---

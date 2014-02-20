@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: michael-wrench
 region: west-midlands
 party: ukip
+title: West Midlands - UKIP - Michael Wrench
 ---

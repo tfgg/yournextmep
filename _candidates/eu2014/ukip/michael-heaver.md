@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: michael-heaver
 region: eastern
 party: ukip
+title: Eastern - UKIP - Michael Heaver
 ---

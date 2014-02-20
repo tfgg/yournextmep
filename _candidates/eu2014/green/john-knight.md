@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: john-knight
 region: north-west
 party: green
+title: North West - Green Party - John Knight
 ---

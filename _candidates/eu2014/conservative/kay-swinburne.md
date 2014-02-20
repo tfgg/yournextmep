@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: kay-swinburne
 region: wales
 party: conservative
+title: Wales - Conservative Party - Kay Swinburne
 ---

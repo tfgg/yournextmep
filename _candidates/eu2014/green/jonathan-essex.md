@@ -8,4 +8,5 @@ list-rank-ordinal: 8th
 person: jonathan-essex
 region: south-east
 party: green
+title: South East - Green Party - Jonathan Essex
 ---

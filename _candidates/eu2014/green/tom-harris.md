@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: tom-harris
 region: west-midlands
 party: green
+title: West Midlands - Green Party - Tom Harris
 ---

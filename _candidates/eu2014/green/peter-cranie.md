@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: peter-cranie
 region: north-west
 party: green
+title: North West - Green Party - Peter Cranie
 ---

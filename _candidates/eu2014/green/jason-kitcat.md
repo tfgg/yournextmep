@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: jason-kitcat
 region: south-east
 party: green
+title: South East - Green Party - Jason Kitcat
 ---

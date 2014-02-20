@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: asghar-khan
 region: yorkshire-and-the-humber
 party: labour
+title: Yorkshire and the Humber - Labour Party - Asghar Khan
 ---

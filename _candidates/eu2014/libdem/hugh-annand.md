@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: hugh-annand
 region: eastern
 party: libdem
+title: Eastern - Liberal Democrats - Hugh Annand
 ---

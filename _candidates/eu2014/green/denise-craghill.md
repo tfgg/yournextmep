@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: denise-craghill
 region: yorkshire-and-the-humber
 party: green
+title: Yorkshire and the Humber - Green Party - Denise Craghill
 ---

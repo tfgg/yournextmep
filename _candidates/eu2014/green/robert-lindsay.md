@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: robert-lindsay
 region: eastern
 party: green
+title: Eastern - Green Party - Robert Lindsay
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: patricia-culligan
 region: south-east
 party: ukip
+title: South East - UKIP - Patricia Culligan
 ---

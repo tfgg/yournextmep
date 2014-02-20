@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: tim-bearder
 region: west-midlands
 party: libdem
+title: West Midlands - Liberal Democrats - Tim Bearder
 ---

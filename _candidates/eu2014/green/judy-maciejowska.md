@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: judy-maciejowska
 region: south-west
 party: green
+title: South West - Green Party - Judy Maciejowska
 ---

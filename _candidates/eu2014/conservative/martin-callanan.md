@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: martin-callanan
 region: north-east
 party: conservative
+title: North East - Conservative Party - Martin Callanan
 ---

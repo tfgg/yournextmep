@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: andrew-mcneilis
 region: london
 party: ukip
+title: London - UKIP - Andrew McNeilis
 ---

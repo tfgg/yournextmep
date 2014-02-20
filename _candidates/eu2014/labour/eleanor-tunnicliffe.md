@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: eleanor-tunnicliffe
 region: yorkshire-and-the-humber
 party: labour
+title: Yorkshire and the Humber - Labour Party - Eleanor Tunnicliffe
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: jane-brophy
 region: north-west
 party: libdem
+title: North West - Liberal Democrats - Jane Brophy
 ---

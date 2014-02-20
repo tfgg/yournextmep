@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: simon-james
 region: london
 party: libdem
+title: London - Liberal Democrats - Simon James
 ---

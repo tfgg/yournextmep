@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: henry-reilly
 region: northern-ireland
 party: ukip
+title: Northern Ireland - UKIP - Henry Reilly
 ---

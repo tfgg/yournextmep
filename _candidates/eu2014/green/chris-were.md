@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: chris-were
 region: wales
 party: green
+title: Wales - Green Party - Chris Were
 ---

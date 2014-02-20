@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: david-campbell-bannerman
 region: eastern
 party: conservative
+title: Eastern - Conservative Party - David Campbell Bannerman
 ---

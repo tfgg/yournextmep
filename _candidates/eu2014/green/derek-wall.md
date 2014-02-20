@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: derek-wall
 region: south-east
 party: green
+title: South East - Green Party - Derek Wall
 ---

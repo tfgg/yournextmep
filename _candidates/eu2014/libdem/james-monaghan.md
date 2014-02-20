@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: james-monaghan
 region: yorkshire-and-the-humber
 party: libdem
+title: Yorkshire and the Humber - Liberal Democrats - James Monaghan
 ---

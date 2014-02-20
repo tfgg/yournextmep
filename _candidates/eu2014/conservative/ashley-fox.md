@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: ashley-fox
 region: south-west
 party: conservative
+title: South West - Conservative Party - Ashley Fox
 ---

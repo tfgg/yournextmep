@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: alastair-mcfarlane
 region: london
 party: ukip
+title: London - UKIP - Alastair McFarlane
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: paul-brannen
 region: north-east
 party: labour
+title: North East - Labour Party - Paul Brannen
 ---

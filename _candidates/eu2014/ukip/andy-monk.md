@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: andy-monk
 region: eastern
 party: ukip
+title: Eastern - UKIP - Andy Monk
 ---

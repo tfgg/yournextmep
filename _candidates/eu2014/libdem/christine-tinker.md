@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: christine-tinker
 region: west-midlands
 party: libdem
+title: West Midlands - Liberal Democrats - Christine Tinker
 ---

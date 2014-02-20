@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: josephine-hayes
 region: eastern
 party: libdem
+title: Eastern - Liberal Democrats - Josephine Hayes
 ---

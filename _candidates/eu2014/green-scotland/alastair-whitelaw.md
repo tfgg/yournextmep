@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: alastair-whitelaw
 region: scotland
 party: green-scotland
+title: Scotland - Scottish Green Party - Alastair Whitelaw
 ---

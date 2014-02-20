@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: alex-attwood
 region: northern-ireland
 party: sdlp
+title: Northern Ireland - Social Democratic and Labour Party - Alex Attwood
 ---

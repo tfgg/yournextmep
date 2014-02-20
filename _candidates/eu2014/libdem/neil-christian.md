@@ -8,4 +8,5 @@ list-rank-ordinal: 8th
 person: neil-christian
 region: north-west
 party: libdem
+title: North West - Liberal Democrats - Neil Christian
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: tracey-hague
 region: london
 party: green
+title: London - Green Party - Tracey Hague
 ---

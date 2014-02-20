@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: steve-carter
 region: north-west
 party: labour
+title: North West - Labour Party - Steve Carter
 ---

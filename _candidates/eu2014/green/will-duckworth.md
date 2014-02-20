@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: will-duckworth
 region: west-midlands
 party: green
+title: West Midlands - Green Party - Will Duckworth
 ---

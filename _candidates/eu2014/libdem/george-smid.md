@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: george-smid
 region: east-midlands
 party: libdem
+title: East Midlands - Liberal Democrats - George Smid
 ---

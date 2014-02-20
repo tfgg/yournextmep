@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: laura-bannister
 region: north-west
 party: green
+title: North West - Green Party - Laura Bannister
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: jill-seymour
 region: west-midlands
 party: ukip
+title: West Midlands - UKIP - Jill Seymour
 ---

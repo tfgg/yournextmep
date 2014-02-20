@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: rob-speht
 region: wales
 party: libdem
+title: Wales - Liberal Democrats - Rob Speht
 ---

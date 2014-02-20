@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: paul-rimmer
 region: north-west
 party: engdem
+title: North West - English Democrats - Paul Rimmer
 ---

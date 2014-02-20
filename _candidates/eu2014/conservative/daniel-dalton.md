@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: daniel-dalton
 region: west-midlands
 party: conservative
+title: West Midlands - Conservative Party - Daniel Dalton
 ---

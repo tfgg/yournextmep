@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: anthea-mcintyre
 region: west-midlands
 party: conservative
+title: West Midlands - Conservative Party - Anthea McIntyre
 ---

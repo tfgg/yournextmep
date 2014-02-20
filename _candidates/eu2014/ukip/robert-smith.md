@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: robert-smith
 region: south-west
 party: ukip
+title: South West - UKIP - Robert Smith
 ---

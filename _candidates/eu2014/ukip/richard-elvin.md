@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: richard-elvin
 region: north-east
 party: ukip
+title: North East - UKIP - Richard Elvin
 ---

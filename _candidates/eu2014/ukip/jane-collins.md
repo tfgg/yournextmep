@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: jane-collins
 region: yorkshire-and-the-humber
 party: ukip
+title: Yorkshire and the Humber - UKIP - Jane Collins
 ---

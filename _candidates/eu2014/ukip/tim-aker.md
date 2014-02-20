@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: tim-aker
 region: eastern
 party: ukip
+title: Eastern - UKIP - Tim Aker
 ---

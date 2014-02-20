@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: paul-nuttall
 region: north-west
 party: ukip
+title: North West - UKIP - Paul Nuttall
 ---

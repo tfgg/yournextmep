@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: shahrar-ali
 region: london
 party: green
+title: London - Green Party - Shahrar Ali
 ---

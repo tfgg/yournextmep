@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: jennifer-matthys
 region: west-midlands
 party: bnp
+title: West Midlands - British National Party - Jennifer Matthys
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: angeliki-stogia
 region: north-west
 party: labour
+title: North West - Labour Party - Angeliki Stogia
 ---

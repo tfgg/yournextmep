@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: john-matthews
 region: wales
 party: green
+title: Wales - Green Party - John Matthews
 ---

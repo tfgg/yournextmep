@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: iain-mcgill
 region: scotland
 party: conservative
+title: Scotland - Conservative Party - Iain McGill
 ---

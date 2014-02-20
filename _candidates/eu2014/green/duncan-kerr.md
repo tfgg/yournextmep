@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: duncan-kerr
 region: west-midlands
 party: green
+title: West Midlands - Green Party - Duncan Kerr
 ---

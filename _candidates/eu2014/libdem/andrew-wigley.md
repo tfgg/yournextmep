@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: andrew-wigley
 region: south-west
 party: libdem
+title: South West - Liberal Democrats - Andrew Wigley
 ---

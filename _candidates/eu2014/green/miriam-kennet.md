@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: miriam-kennet
 region: south-east
 party: green
+title: South East - Green Party - Miriam Kennet
 ---

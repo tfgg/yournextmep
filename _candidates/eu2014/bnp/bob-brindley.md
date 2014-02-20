@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: bob-brindley
 region: east-midlands
 party: bnp
+title: East Midlands - British National Party - Bob Brindley
 ---

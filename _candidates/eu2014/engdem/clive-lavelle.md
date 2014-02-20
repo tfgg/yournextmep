@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: clive-lavelle
 region: south-west
 party: engdem
+title: South West - English Democrats - Clive Lavelle
 ---

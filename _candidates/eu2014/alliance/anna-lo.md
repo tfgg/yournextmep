@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: anna-lo
 region: northern-ireland
 party: alliance
+title: Northern Ireland - Alliance Party of Northern Ireland - Anna Lo
 ---

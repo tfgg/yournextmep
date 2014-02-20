@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: alex-mayer
 region: eastern
 party: labour
+title: Eastern - Labour Party - Alex Mayer
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: mark-hughes
 region: eastern
 party: ukip
+title: Eastern - UKIP - Mark Hughes
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: david-price
 region: west-midlands
 party: conservative
+title: West Midlands - Conservative Party - David Price
 ---

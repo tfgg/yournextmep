@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: james-carver
 region: west-midlands
 party: ukip
+title: West Midlands - UKIP - James Carver
 ---

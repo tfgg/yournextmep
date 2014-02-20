@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: diane-dodds
 region: northern-ireland
 party: dup
+title: Northern Ireland - Democratic Unionist Party - Diane Dodds
 ---

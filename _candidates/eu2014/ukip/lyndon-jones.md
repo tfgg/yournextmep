@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: lyndon-jones
 region: west-midlands
 party: ukip
+title: West Midlands - UKIP - Lyndon Jones
 ---

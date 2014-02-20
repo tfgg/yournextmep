@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: giles-goodall
 region: south-east
 party: libdem
+title: South East - Liberal Democrats - Giles Goodall
 ---

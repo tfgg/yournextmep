@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: chris-whiteside
 region: north-west
 party: conservative
+title: North West - Conservative Party - Chris Whiteside
 ---

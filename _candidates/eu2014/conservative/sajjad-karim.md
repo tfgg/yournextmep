@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: sajjad-karim
 region: north-west
 party: conservative
+title: North West - Conservative Party - Sajjad Karim
 ---

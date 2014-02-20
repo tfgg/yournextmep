@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: amanda-hopwood
 region: south-east
 party: engdem
+title: South East - English Democrats - Amanda Hopwood
 ---

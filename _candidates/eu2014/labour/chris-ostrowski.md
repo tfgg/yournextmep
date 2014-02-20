@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: chris-ostrowski
 region: eastern
 party: labour
+title: Eastern - Labour Party - Chris Ostrowski
 ---

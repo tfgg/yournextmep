@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: paul-bishop
 region: eastern
 party: labour
+title: Eastern - Labour Party - Paul Bishop
 ---

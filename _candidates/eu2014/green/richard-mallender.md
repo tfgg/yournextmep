@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: richard-mallender
 region: east-midlands
 party: green
+title: East Midlands - Green Party - Richard Mallender
 ---

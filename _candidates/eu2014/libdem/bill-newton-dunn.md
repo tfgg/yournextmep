@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: bill-newton-dunn
 region: east-midlands
 party: libdem
+title: East Midlands - Liberal Democrats - Bill Newton Dunn
 ---

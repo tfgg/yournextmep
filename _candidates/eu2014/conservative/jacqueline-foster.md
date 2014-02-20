@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: jacqueline-foster
 region: north-west
 party: conservative
+title: North West - Conservative Party - Jacqueline Foster
 ---

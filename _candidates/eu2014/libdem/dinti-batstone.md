@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: dinti-batstone
 region: south-east
 party: libdem
+title: South East - Liberal Democrats - Dinti Batstone
 ---

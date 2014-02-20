@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: christine-jardine
 region: scotland
 party: libdem
+title: Scotland - Liberal Democrats - Christine Jardine
 ---

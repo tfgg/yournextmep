@@ -8,4 +8,5 @@ list-rank-ordinal: 9th
 person: john-vincent
 region: south-east
 party: libdem
+title: South East - Liberal Democrats - John Vincent
 ---

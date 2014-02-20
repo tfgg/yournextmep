@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: martin-hemingway
 region: yorkshire-and-the-humber
 party: green
+title: Yorkshire and the Humber - Green Party - Martin Hemingway
 ---

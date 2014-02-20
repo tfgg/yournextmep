@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: sophie-swire
 region: south-west
 party: conservative
+title: South West - Conservative Party - Sophie Swire
 ---

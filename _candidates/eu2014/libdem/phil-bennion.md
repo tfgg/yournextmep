@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: phil-bennion
 region: west-midlands
 party: libdem
+title: West Midlands - Liberal Democrats - Phil Bennion
 ---

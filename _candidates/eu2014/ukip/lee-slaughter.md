@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: lee-slaughter
 region: north-west
 party: ukip
+title: North West - UKIP - Lee Slaughter
 ---

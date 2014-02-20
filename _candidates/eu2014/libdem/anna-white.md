@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: anna-white
 region: wales
 party: libdem
+title: Wales - Liberal Democrats - Anna White
 ---

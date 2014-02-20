@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: caroline-jones
 region: wales
 party: ukip
+title: Wales - UKIP - Caroline Jones
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: gordon-johnson
 region: yorkshire-and-the-humber
 party: bnp
+title: Yorkshire and the Humber - British National Party - Gordon Johnson
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: sam-kelly
 region: north-east
 party: engdem
+title: North East - English Democrats - Sam Kelly
 ---

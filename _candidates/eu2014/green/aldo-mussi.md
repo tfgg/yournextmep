@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: aldo-mussi
 region: west-midlands
 party: green
+title: West Midlands - Green Party - Aldo Mussi
 ---

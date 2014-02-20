@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: lynne-hack
 region: london
 party: conservative
+title: London - Conservative Party - Lynne Hack
 ---

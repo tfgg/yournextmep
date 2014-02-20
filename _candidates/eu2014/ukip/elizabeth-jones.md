@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: elizabeth-jones
 region: london
 party: ukip
+title: London - UKIP - Elizabeth Jones
 ---

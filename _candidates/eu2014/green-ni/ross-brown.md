@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: ross-brown
 region: northern-ireland
 party: green-ni
+title: Northern Ireland - Green Party of Northern Ireland - Ross Brown
 ---

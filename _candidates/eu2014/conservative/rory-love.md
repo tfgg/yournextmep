@@ -8,4 +8,5 @@ list-rank-ordinal: 9th
 person: rory-love
 region: south-east
 party: conservative
+title: South East - Conservative Party - Rory Love
 ---

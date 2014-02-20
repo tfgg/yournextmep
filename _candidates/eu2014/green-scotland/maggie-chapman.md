@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: maggie-chapman
 region: scotland
 party: green-scotland
+title: Scotland - Scottish Green Party - Maggie Chapman
 ---

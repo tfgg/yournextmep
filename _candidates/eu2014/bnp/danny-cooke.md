@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: danny-cooke
 region: yorkshire-and-the-humber
 party: bnp
+title: Yorkshire and the Humber - British National Party - Danny Cooke
 ---

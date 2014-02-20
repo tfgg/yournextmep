@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: steven-woolfe
 region: north-west
 party: ukip
+title: North West - UKIP - Steven Woolfe
 ---

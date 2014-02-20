@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: david-coburn
 region: scotland
 party: ukip
+title: Scotland - UKIP - David Coburn
 ---

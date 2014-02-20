@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: john-flack
 region: eastern
 party: conservative
+title: Eastern - Conservative Party - John Flack
 ---

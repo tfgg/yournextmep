@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: haroon-saad
 region: london
 party: green
+title: London - Green Party - Haroon Saad
 ---

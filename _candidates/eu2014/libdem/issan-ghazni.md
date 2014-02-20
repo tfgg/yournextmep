@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: issan-ghazni
 region: east-midlands
 party: libdem
+title: East Midlands - Liberal Democrats - Issan Ghazni
 ---

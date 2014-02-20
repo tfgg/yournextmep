@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: shan-oakes
 region: yorkshire-and-the-humber
 party: green
+title: Yorkshire and the Humber - Green Party - Shan Oakes
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: bill-etheridge
 region: west-midlands
 party: ukip
+title: West Midlands - UKIP - Bill Etheridge
 ---

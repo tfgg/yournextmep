@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: allis-moss
 region: south-east
 party: libdem
+title: South East - Liberal Democrats - Allis Moss
 ---

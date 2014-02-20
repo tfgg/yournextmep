@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: andrew-lewer
 region: east-midlands
 party: conservative
+title: East Midlands - Conservative Party - Andrew Lewer
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: david-rowlands
 region: wales
 party: ukip
+title: Wales - UKIP - David Rowlands
 ---

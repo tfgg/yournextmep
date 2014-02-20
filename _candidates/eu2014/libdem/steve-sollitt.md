@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: steve-sollitt
 region: south-east
 party: libdem
+title: South East - Liberal Democrats - Steve Sollitt
 ---

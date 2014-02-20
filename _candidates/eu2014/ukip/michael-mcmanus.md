@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: michael-mcmanus
 region: north-west
 party: ukip
+title: North West - UKIP - Michael McManus
 ---

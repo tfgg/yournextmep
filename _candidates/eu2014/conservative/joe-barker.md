@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: joe-barker
 region: north-west
 party: conservative
+title: North West - Conservative Party - Joe Barker
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: james-cole
 region: wales
 party: ukip
+title: Wales - UKIP - James Cole
 ---

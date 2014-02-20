@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: gawain-towler
 region: south-west
 party: ukip
+title: South West - UKIP - Gawain Towler
 ---

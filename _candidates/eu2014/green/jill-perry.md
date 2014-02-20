@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: jill-perry
 region: north-west
 party: green
+title: North West - Green Party - Jill Perry
 ---

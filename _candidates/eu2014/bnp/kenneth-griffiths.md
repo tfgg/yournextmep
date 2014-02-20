@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: kenneth-griffiths
 region: west-midlands
 party: bnp
+title: West Midlands - British National Party - Kenneth Griffiths
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: richard-robinson
 region: south-east
 party: conservative
+title: South East - Conservative Party - Richard Robinson
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: helen-foster-grime
 region: north-west
 party: libdem
+title: North West - Liberal Democrats - Helen Foster-Grime
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 10th
 person: stuart-jeffrey
 region: south-east
 party: green
+title: South East - Green Party - Stuart Jeffrey
 ---

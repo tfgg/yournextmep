@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: phil-kimberley
 region: west-midlands
 party: bnp
+title: West Midlands - British National Party - Phil Kimberley
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: joanna-corbin
 region: west-midlands
 party: libdem
+title: West Midlands - Liberal Democrats - Joanna Corbin
 ---

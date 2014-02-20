@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: jamie-gardiner
 region: scotland
 party: conservative
+title: Scotland - Conservative Party - Jamie Gardiner
 ---

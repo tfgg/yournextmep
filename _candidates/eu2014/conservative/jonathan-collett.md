@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: jonathan-collett
 region: eastern
 party: conservative
+title: Eastern - Conservative Party - Jonathan Collett
 ---

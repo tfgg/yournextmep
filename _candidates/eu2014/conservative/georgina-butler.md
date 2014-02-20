@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: georgina-butler
 region: south-west
 party: conservative
+title: South West - Conservative Party - Georgina Butler
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: phil-henrick
 region: west-midlands
 party: ukip
+title: West Midlands - UKIP - Phil Henrick
 ---

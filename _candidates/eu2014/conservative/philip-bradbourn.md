@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: philip-bradbourn
 region: west-midlands
 party: conservative
+title: West Midlands - Conservative Party - Philip Bradbourn
 ---

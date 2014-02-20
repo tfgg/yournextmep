@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: violeta-vajda
 region: london
 party: green
+title: London - Green Party - Violeta Vajda
 ---

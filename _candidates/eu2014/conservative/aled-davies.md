@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: aled-davies
 region: wales
 party: conservative
+title: Wales - Conservative Party - Aled Davies
 ---

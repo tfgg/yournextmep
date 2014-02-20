@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: jean-lambert
 region: london
 party: green
+title: London - Green Party - Jean Lambert
 ---

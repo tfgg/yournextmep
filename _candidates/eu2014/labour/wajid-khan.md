@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: wajid-khan
 region: north-west
 party: labour
+title: North West - Labour Party - Wajid Khan
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: naseem-ayub
 region: eastern
 party: labour
+title: Eastern - Labour Party - Naseem Ayub
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: chris-stephens
 region: scotland
 party: snp
+title: Scotland - Scottish National Party - Chris Stephens
 ---

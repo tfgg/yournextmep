@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: brian-matthew
 region: south-west
 party: libdem
+title: South West - Liberal Democrats - Brian Matthew
 ---

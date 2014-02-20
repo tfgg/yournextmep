@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: danny-bates
 region: london
 party: green
+title: London - Green Party - Danny Bates
 ---

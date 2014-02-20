@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: alis-ballance
 region: scotland
 party: green-scotland
+title: Scotland - Scottish Green Party - Alis Ballance
 ---

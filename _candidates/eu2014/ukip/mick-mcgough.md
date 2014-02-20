@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: mick-mcgough
 region: eastern
 party: ukip
+title: Eastern - UKIP - Mick McGough
 ---

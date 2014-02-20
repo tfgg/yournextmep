@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: alison-whalley
 region: north-east
 party: green
+title: North East - Green Party - Alison Whalley
 ---

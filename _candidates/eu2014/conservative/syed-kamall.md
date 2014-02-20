@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: syed-kamall
 region: london
 party: conservative
+title: London - Conservative Party - Syed Kamall
 ---

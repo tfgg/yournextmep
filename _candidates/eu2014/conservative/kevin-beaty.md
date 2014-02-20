@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: kevin-beaty
 region: north-west
 party: conservative
+title: North West - Conservative Party - Kevin Beaty
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: pippa-bartolotti
 region: wales
 party: green
+title: Wales - Green Party - Pippa Bartolotti
 ---

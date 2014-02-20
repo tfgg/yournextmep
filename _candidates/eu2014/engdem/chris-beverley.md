@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: chris-beverley
 region: yorkshire-and-the-humber
 party: engdem
+title: Yorkshire and the Humber - English Democrats - Chris Beverley
 ---

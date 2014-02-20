@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: graham-watson
 region: south-west
 party: libdem
+title: South West - Liberal Democrats - Graham Watson
 ---

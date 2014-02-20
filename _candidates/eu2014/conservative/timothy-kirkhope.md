@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: timothy-kirkhope
 region: yorkshire-and-the-humber
 party: conservative
+title: Yorkshire and the Humber - Conservative Party - Timothy Kirkhope
 ---

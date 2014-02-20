@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: robert-west
 region: east-midlands
 party: bnp
+title: East Midlands - British National Party - Robert West
 ---

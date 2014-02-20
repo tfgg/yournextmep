@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: ian-bearder
 region: south-east
 party: libdem
+title: South East - Liberal Democrats - Ian Bearder
 ---

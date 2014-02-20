@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: sandy-martin
 region: eastern
 party: labour
+title: Eastern - Labour Party - Sandy Martin
 ---

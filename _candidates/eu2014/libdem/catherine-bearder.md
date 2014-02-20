@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: catherine-bearder
 region: south-east
 party: libdem
+title: South East - Liberal Democrats - Catherine Bearder
 ---

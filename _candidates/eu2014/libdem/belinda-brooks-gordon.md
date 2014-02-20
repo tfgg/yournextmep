@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: belinda-brooks-gordon
 region: eastern
 party: libdem
+title: Eastern - Liberal Democrats - Belinda Brooks-Gordon
 ---

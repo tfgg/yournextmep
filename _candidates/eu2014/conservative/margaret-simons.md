@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: margaret-simons
 region: eastern
 party: conservative
+title: Eastern - Conservative Party - Margaret Simons
 ---

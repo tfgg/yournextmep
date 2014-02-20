@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: jonathan-bullock
 region: east-midlands
 party: ukip
+title: East Midlands - UKIP - Jonathan Bullock
 ---

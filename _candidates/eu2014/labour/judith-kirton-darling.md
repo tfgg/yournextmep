@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: judith-kirton-darling
 region: north-east
 party: labour
+title: North East - Labour Party - Judith Kirton-Darling
 ---

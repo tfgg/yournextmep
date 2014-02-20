@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: angelika-schneider
 region: north-east
 party: libdem
+title: North East - Liberal Democrats - Angelika Schneider
 ---

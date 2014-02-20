@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: jonathan-arnott
 region: north-east
 party: ukip
+title: North East - UKIP - Jonathan Arnott
 ---

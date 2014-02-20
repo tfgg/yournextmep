@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: grace-murray
 region: scotland
 party: green-scotland
+title: Scotland - Scottish Green Party - Grace Murray
 ---

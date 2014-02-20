@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: julia-reid
 region: south-west
 party: ukip
+title: South West - UKIP - Julia Reid
 ---

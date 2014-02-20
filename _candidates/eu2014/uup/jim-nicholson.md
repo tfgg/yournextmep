@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: jim-nicholson
 region: northern-ireland
 party: uup
+title: Northern Ireland - Ulster Unionist Party - Jim Nicholson
 ---

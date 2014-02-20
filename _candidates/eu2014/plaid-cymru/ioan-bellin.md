@@ -8,4 +8,5 @@ list-rank-ordinal: 4th
 person: ioan-bellin
 region: wales
 party: plaid-cymru
+title: Wales - Plaid Cymru - Ioan Bellin
 ---

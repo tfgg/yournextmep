@@ -8,4 +8,5 @@ list-rank-ordinal: 1st
 person: ian-hudghton
 region: scotland
 party: snp
+title: Scotland - Scottish National Party - Ian Hudghton
 ---

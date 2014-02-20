@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: rupert-matthews
 region: east-midlands
 party: conservative
+title: East Midlands - Conservative Party - Rupert Matthews
 ---

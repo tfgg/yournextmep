@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: chas-booth
 region: scotland
 party: green-scotland
+title: Scotland - Scottish Green Party - Chas Booth
 ---

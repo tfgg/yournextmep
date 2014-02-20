@@ -8,4 +8,5 @@ list-rank-ordinal: 6th
 person: steen-parish
 region: scotland
 party: green-scotland
+title: Scotland - Scottish Green Party - Steen Parish
 ---

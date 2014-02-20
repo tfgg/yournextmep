@@ -8,4 +8,5 @@ list-rank-ordinal: 5th
 person: barry-mahoney
 region: east-midlands
 party: ukip
+title: East Midlands - UKIP - Barry Mahoney
 ---

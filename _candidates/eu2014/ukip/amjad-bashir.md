@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: amjad-bashir
 region: yorkshire-and-the-humber
 party: ukip
+title: Yorkshire and the Humber - UKIP - Amjad Bashir
 ---

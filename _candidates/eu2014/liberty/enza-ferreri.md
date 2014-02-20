@@ -8,4 +8,5 @@ list-rank-ordinal: 2nd
 person: enza-ferreri
 region: south-east
 party: liberty
+title: South East - Liberty GB - Enza Ferreri
 ---

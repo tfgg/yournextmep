@@ -8,4 +8,5 @@ list-rank-ordinal: 7th
 person: anthony-brown
 region: london
 party: ukip
+title: London - UKIP - Anthony Brown
 ---

@@ -8,4 +8,5 @@ list-rank-ordinal: 3rd
 person: roz-cutler
 region: wales
 party: green
+title: Wales - Green Party - Roz Cutler
 ---
