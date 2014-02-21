@@ -5,7 +5,8 @@ north-west:
 
 west-midlands:
   - id: nikki-sinclaire
-    name: Nikki Sinclaire
+    name: 'Nikki Sinclaire'
+    incumbent: true
   - id: andy-adris
-    name: Andy Adris
+    name: 'Andy Adris'
 
