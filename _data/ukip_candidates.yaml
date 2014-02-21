@@ -1,7 +1,7 @@
 east-midlands:
   - id: roger-helmer
     name: 'Roger Helmer'
-    wikipedia: https://en.wikipedia.org/wiki/Roger_Helmer
+    incumbent: true
   - id: margot-parker
     name: 'Margot Parker'
   - id: jonathan-bullock
@@ -17,6 +17,7 @@ eastern:
     name: 'Patrick O''Flynn'
   - id: stuart-agnew
     name: 'Stuart Agnew'
+    incumbent: true
   - id: tim-aker
     name: 'Tim Aker'
   - id: michael-heaver
@@ -32,6 +33,7 @@ eastern:
 london:
   - id: gerard-batten
     name: 'Gerard Batten'
+    incumbent: true
   - id: paul-oakley
     name: 'Paul Oakley'
   - id: elizabeth-jones
@@ -60,6 +62,7 @@ north-east:
 north-west:
   - id: paul-nuttall
     name: 'Paul Nuttall'
+    incumbent: true
   - id: louise-bours
     name: 'Louise Bours'
   - id: steven-woolfe
@@ -89,6 +92,7 @@ scotland:
 south-east:
   - id: nigel-farage
     name: 'Nigel Farage'
+    incumbent: true
   - id: janice-atkinson
     name: 'Janice Atkinson'
   - id: diane-james
@@ -112,6 +116,7 @@ south-east:
 south-west:
   - id: william-dartmouth
     name: 'William Dartmouth'
+    incumbent: true
   - id: julia-reid
     name: 'Julia Reid'
   - id: gawain-towler
