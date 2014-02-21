@@ -2,9 +2,11 @@ scotland:
   - id: ian-hudghton
     name: 'Ian Hudghton'
     wikipedia: https://en.wikipedia.org/wiki/Ian_Hudghton
+    incumbent: true
   - id: alyn-smith
     name: 'Alyn Smith'
     wikipedia: https://en.wikipedia.org/wiki/Alyn_Smith
+    incumbent: true
   - id: tasmina-ahmed-sheikh
     name: 'Tasmina Ahmed-Sheikh'
   - id: stephen-gethins
