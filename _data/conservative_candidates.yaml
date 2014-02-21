@@ -1,6 +1,7 @@
 east-midlands:
   - id: emma-mcclarkin
     name: 'Emma McClarkin'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/Emma_McClarkin
   - id: andrew-lewer
     name: 'Andrew Lewer'
@@ -16,12 +17,15 @@ eastern:
   - id: vicky-ford
     name: 'Vicky Ford'
     wikipedia: https://en.wikipedia.org/wiki/Vicky_Ford
+    incumbent: true
   - id: geoffrey-van-orden
     name: 'Geoffrey van Orden'
     wikipedia: https://en.wikipedia.org/wiki/Geoffrey_van_Orden
+    incumbent: true
   - id: david-campbell-bannerman
     name: 'David Campbell Bannerman'
     wikipedia: https://en.wikipedia.org/wiki/David_Campbell_Bannerman
+    incumbent: true
   - id: john-flack
     name: 'John Flack'
   - id: tom-hunt
@@ -36,12 +40,15 @@ london:
   - id: syed-kamall
     name: 'Syed Kamall'
     wikipedia: https://en.wikipedia.org/wiki/Syed_Kamall
+    incumbent: true
   - id: charles-tannock
     name: 'Charles Tannock'
     wikipedia: https://en.wikipedia.org/wiki/Charles_Tannock
+    incumbent: true
   - id: marina-yannakoudakis
     name: 'Marina Yannakoudakis'
     wikipedia: https://en.wikipedia.org/wiki/Marina_Yannakoudakis
+    incumbent: true
   - id: caroline-attfield
     name: 'Caroline Attfield'
   - id: lynne-hack
@@ -58,6 +65,7 @@ north-east:
   - id: martin-callanan
     name: 'Martin Callanan'
     wikipedia: https://en.wikipedia.org/wiki/Martin_Callanan
+    incumbent: true
   - id: ben-houchen
     name: 'Ben Houchen'
   - id: andrew-lee
@@ -68,9 +76,11 @@ north-west:
   - id: jacqueline-foster
     name: 'Jacqueline Foster'
     wikipedia: https://en.wikipedia.org/wiki/Jacqueline_Foster
+    incumbent: true
   - id: sajjad-karim
     name: 'Sajjad Karim'
     wikipedia: https://en.wikipedia.org/wiki/Sajjad_Karim
+    incumbent: true
   - id: kevin-beaty
     name: 'Kevin Beaty'
   - id: deborah-dunleavy
@@ -109,15 +119,19 @@ south-east:
   - id: daniel-hannan
     name: 'Daniel Hannan'
     wikipedia: https://en.wikipedia.org/wiki/Daniel_Hannan
+    incumbent: true
   - id: nirj-deva
     name: 'Nirj Deva'
     wikipedia: https://en.wikipedia.org/wiki/Nirj_Deva
+    incumbent: true
   - id: richard-ashworth
     name: 'Richard Ashworth'
     wikipedia: https://en.wikipedia.org/wiki/Richard_Ashworth
+    incumbent: true
   - id: marta-andreasen
     name: 'Marta Andreasen'
     wikipedia: https://en.wikipedia.org/wiki/Marta_Andreasen
+    incumbent: true
   - id: richard-robinson
     name: 'Richard Robinson'
   - id: graham-knight
@@ -136,9 +150,11 @@ south-west:
   - id: ashley-fox
     name: 'Ashley Fox'
     wikipedia: https://en.wikipedia.org/wiki/Ashley_Fox
+    incumbent: true
   - id: julie-girling
     name: 'Julie Girling'
     wikipedia: https://en.wikipedia.org/wiki/Julie_Girling
+    incumbent: true
   - id: james-cracknell
     name: 'James Cracknell'
     wikipedia: https://en.wikipedia.org/wiki/James_Cracknell
@@ -154,6 +170,7 @@ wales:
   - id: kay-swinburne
     name: 'Kay Swinburne'
     wikipedia: https://en.wikipedia.org/wiki/Kay_Swinburne
+    incumbent: true
   - id: aled-davies
     name: 'Aled Davies'
   - id: dan-boucher
@@ -166,9 +183,11 @@ west-midlands:
   - id: philip-bradbourn
     name: 'Philip Bradbourn'
     wikipedia: https://en.wikipedia.org/wiki/Philip_Bradbourn
+    incumbent: true
   - id: anthea-mcintyre
     name: 'Anthea McIntyre'
     wikipedia: https://en.wikipedia.org/wiki/Anthea_McIntyre
+    incumbent: true
   - id: daniel-dalton
     name: 'Daniel Dalton'
   - id: michael-burnett
@@ -185,6 +204,7 @@ yorkshire-and-the-humber:
   - id: timothy-kirkhope
     name: 'Timothy Kirkhope'
     wikipedia: https://en.wikipedia.org/wiki/Timothy_Kirkhope
+    incumbent: true
   - id: alex-story
     name: 'Alex Story'
   - id: john-procter
