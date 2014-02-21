@@ -1,6 +1,7 @@
 east-midlands:
   - id: bill-newton-dunn
     name: 'Bill Newton Dunn'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/Bill_Newton_Dunn
   - id: issan-ghazni
     name: 'Issan Ghazni'
@@ -15,6 +16,7 @@ east-midlands:
 eastern:
   - id: andrew-duff
     name: 'Andrew Duff'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/Andrew_Duff
   - id: josephine-hayes
     name: 'Josephine Hayes'
@@ -33,6 +35,7 @@ eastern:
 london:
   - id: sarah-ludford
     name: 'Sarah Ludford'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/Sarah_Ludford
   - id: jonathan-fryer
     name: 'Jonathan Fryer'
@@ -64,6 +67,7 @@ north-west:
   - id: chris-davies
     name: 'Chris Davies'
     wikipedia: https://en.wikipedia.org/wiki/Chris_Davies
+    incumbent: true
   - id: helen-foster-grime
     name: 'Helen Foster-Grime'
   - id: jo-crotty
@@ -83,6 +87,7 @@ north-west:
 scotland:
   - id: george-lyon
     name: 'George Lyon'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/George_Lyon_(Scottish_politician)
   - id: christine-jardine
     name: 'Christine Jardine'
@@ -97,6 +102,7 @@ scotland:
 south-east:
   - id: catherine-bearder
     name: 'Catherine Bearder'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
   - id: anthony-hook
     name: 'Anthony Hook'
@@ -121,6 +127,7 @@ south-east:
 south-west:
   - id: graham-watson
     name: 'Graham Watson'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/Graham_Watson
   - id: kay-barnard
     name: 'Kay Barnard'
@@ -146,6 +153,7 @@ wales:
 west-midlands:
   - id: phil-bennion
     name: 'Phil Bennion'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/Phil_Bennion
   - id: jonathan-webber
     name: 'Jonathan Webber'
@@ -164,6 +172,7 @@ west-midlands:
 yorkshire-and-the-humber:
   - id: edward-mcmillan-scott
     name: 'Edward McMillan-Scott'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/Edward_McMillan-Scott
   - id: james-monaghan
     name: 'James Monaghan'
