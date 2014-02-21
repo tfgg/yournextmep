@@ -9,4 +9,5 @@ person: elizabeth-jones
 region: london
 party: ukip
 title: London - UKIP - Elizabeth Jones
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: james-cole
 region: wales
 party: ukip
 title: Wales - UKIP - James Cole
+incumbent: false
 ---

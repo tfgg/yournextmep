@@ -9,4 +9,5 @@ person: richard-howitt
 region: eastern
 party: labour
 title: Eastern - Labour Party - Richard Howitt
+incumbent: true
 ---

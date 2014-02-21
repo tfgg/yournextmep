@@ -9,4 +9,5 @@ person: jack-buckby
 region: south-east
 party: liberty
 title: South East - Liberty GB - Jack Buckby
+incumbent: false
 ---

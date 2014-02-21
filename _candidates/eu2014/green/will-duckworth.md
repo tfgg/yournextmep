@@ -9,4 +9,5 @@ person: will-duckworth
 region: west-midlands
 party: green
 title: West Midlands - Green Party - Will Duckworth
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: kevin-beaty
 region: north-west
 party: conservative
 title: North West - Conservative Party - Kevin Beaty
+incumbent: false
 ---

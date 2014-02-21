@@ -9,4 +9,5 @@ person: john-matthews
 region: wales
 party: green
 title: Wales - Green Party - John Matthews
+incumbent: false
 ---

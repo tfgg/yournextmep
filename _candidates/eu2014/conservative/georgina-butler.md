@@ -9,4 +9,5 @@ person: georgina-butler
 region: south-west
 party: conservative
 title: South West - Conservative Party - Georgina Butler
+incumbent: false
 ---

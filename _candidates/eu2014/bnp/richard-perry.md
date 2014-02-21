@@ -9,4 +9,5 @@ person: richard-perry
 region: eastern
 party: bnp
 title: Eastern - British National Party - Richard Perry
+incumbent: false
 ---

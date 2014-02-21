@@ -9,4 +9,5 @@ person: laura-bannister
 region: north-west
 party: green
 title: North West - Green Party - Laura Bannister
+incumbent: false
 ---

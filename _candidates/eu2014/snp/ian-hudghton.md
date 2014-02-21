@@ -9,4 +9,5 @@ person: ian-hudghton
 region: scotland
 party: snp
 title: Scotland - Scottish National Party - Ian Hudghton
+incumbent: true
 ---

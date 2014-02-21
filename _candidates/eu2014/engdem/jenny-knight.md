@@ -9,4 +9,5 @@ person: jenny-knight
 region: london
 party: engdem
 title: London - English Democrats - Jenny Knight
+incumbent: false
 ---

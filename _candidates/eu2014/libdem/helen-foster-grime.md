@@ -9,4 +9,5 @@ person: helen-foster-grime
 region: north-west
 party: libdem
 title: North West - Liberal Democrats - Helen Foster-Grime
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: martin-vaughan
 region: north-east
 party: bnp
 title: North East - British National Party - Martin Vaughan
+incumbent: false
 ---

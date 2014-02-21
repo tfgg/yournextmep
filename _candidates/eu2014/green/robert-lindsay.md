@@ -9,4 +9,5 @@ person: robert-lindsay
 region: eastern
 party: green
 title: Eastern - Green Party - Robert Lindsay
+incumbent: false
 ---

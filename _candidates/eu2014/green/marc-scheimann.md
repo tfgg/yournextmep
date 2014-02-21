@@ -9,4 +9,5 @@ person: marc-scheimann
 region: eastern
 party: green
 title: Eastern - Green Party - Marc Scheimann
+incumbent: false
 ---

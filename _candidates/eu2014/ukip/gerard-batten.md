@@ -9,4 +9,5 @@ person: gerard-batten
 region: london
 party: ukip
 title: London - UKIP - Gerard Batten
+incumbent: true
 ---

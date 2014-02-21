@@ -9,4 +9,5 @@ person: jill-perry
 region: north-west
 party: green
 title: North West - Green Party - Jill Perry
+incumbent: false
 ---

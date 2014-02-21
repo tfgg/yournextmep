@@ -9,4 +9,5 @@ person: caroline-robinson
 region: north-east
 party: green
 title: North East - Green Party - Caroline Robinson
+incumbent: false
 ---

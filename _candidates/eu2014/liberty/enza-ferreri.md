@@ -9,4 +9,5 @@ person: enza-ferreri
 region: south-east
 party: liberty
 title: South East - Liberty GB - Enza Ferreri
+incumbent: false
 ---

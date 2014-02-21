@@ -8,4 +8,6 @@ list-rank-ordinal: 5th
 person: ivana-bartoletti
 region: london
 party: labour
+title: London - Labour Party - Ivana Bartoletti
+incumbent: false
 ---

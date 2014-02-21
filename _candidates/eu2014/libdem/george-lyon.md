@@ -9,4 +9,5 @@ person: george-lyon
 region: scotland
 party: libdem
 title: Scotland - Liberal Democrats - George Lyon
+incumbent: true
 ---

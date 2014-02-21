@@ -9,4 +9,5 @@ person: donna-edmunds
 region: south-east
 party: ukip
 title: South East - UKIP - Donna Edmunds
+incumbent: false
 ---

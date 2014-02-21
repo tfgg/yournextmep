@@ -9,4 +9,5 @@ person: keith-crawford
 region: south-west
 party: ukip
 title: South West - UKIP - Keith Crawford
+incumbent: false
 ---

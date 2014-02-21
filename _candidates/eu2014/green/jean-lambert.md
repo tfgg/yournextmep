@@ -9,4 +9,5 @@ person: jean-lambert
 region: london
 party: green
 title: London - Green Party - Jean Lambert
+incumbent: true
 ---

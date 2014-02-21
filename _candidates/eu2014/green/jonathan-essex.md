@@ -9,4 +9,5 @@ person: jonathan-essex
 region: south-east
 party: green
 title: South East - Green Party - Jonathan Essex
+incumbent: false
 ---

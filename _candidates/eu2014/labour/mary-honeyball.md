@@ -8,4 +8,6 @@ list-rank-ordinal: 2nd
 person: mary-honeyball
 region: london
 party: labour
+title: London - Labour Party - Mary Honeyball
+incumbent: true
 ---

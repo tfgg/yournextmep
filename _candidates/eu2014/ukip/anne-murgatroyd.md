@@ -9,4 +9,5 @@ person: anne-murgatroyd
 region: yorkshire-and-the-humber
 party: ukip
 title: Yorkshire and the Humber - UKIP - Anne Murgatroyd
+incumbent: false
 ---

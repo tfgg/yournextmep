@@ -9,4 +9,5 @@ person: shneur-odze
 region: north-west
 party: ukip
 title: North West - UKIP - Shneur Odze
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: peter-allen
 region: east-midlands
 party: green
 title: East Midlands - Green Party - Peter Allen
+incumbent: false
 ---

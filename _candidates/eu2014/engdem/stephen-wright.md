@@ -9,4 +9,5 @@ person: stephen-wright
 region: south-west
 party: engdem
 title: South West - English Democrats - Stephen Wright
+incumbent: false
 ---

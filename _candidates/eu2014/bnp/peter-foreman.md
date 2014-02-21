@@ -9,4 +9,5 @@ person: peter-foreman
 region: north-east
 party: bnp
 title: North East - British National Party - Peter Foreman
+incumbent: false
 ---

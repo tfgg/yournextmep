@@ -9,4 +9,5 @@ person: gawain-towler
 region: south-west
 party: ukip
 title: South West - UKIP - Gawain Towler
+incumbent: false
 ---

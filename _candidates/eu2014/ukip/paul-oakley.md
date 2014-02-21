@@ -9,4 +9,5 @@ person: paul-oakley
 region: london
 party: ukip
 title: London - UKIP - Paul Oakley
+incumbent: false
 ---

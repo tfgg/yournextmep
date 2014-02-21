@@ -8,4 +8,6 @@ list-rank-ordinal: 1st
 person: david-martin
 region: scotland
 party: labour
+title: Scotland - Labour Party - David Martin
+incumbent: true
 ---

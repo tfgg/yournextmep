@@ -9,4 +9,5 @@ person: peter-cranie
 region: north-west
 party: green
 title: North West - Green Party - Peter Cranie
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: julia-gasper
 region: south-east
 party: engdem
 title: South East - English Democrats - Julia Gasper
+incumbent: false
 ---

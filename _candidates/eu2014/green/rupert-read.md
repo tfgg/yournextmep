@@ -9,4 +9,5 @@ person: rupert-read
 region: eastern
 party: green
 title: Eastern - Green Party - Rupert Read
+incumbent: false
 ---

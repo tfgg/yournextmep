@@ -9,4 +9,5 @@ person: rosina-robson
 region: london
 party: libdem
 title: London - Liberal Democrats - Rosina Robson
+incumbent: false
 ---

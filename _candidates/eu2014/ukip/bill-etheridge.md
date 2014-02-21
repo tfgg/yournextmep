@@ -9,4 +9,5 @@ person: bill-etheridge
 region: west-midlands
 party: ukip
 title: West Midlands - UKIP - Bill Etheridge
+incumbent: false
 ---

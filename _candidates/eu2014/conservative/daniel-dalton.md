@@ -9,4 +9,5 @@ person: daniel-dalton
 region: west-midlands
 party: conservative
 title: West Midlands - Conservative Party - Daniel Dalton
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: sue-mcguire
 region: north-west
 party: libdem
 title: North West - Liberal Democrats - Sue McGuire
+incumbent: false
 ---

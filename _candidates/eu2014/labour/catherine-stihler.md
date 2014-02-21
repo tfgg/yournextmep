@@ -8,4 +8,6 @@ list-rank-ordinal: 2nd
 person: catherine-stihler
 region: scotland
 party: labour
+title: Scotland - Labour Party - Catherine Stihler
+incumbent: true
 ---

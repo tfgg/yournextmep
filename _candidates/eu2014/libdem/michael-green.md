@@ -9,4 +9,5 @@ person: michael-green
 region: eastern
 party: libdem
 title: Eastern - Liberal Democrats - Michael Green
+incumbent: false
 ---

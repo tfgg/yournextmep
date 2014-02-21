@@ -9,4 +9,5 @@ person: steve-brammer
 region: east-midlands
 party: bnp
 title: East Midlands - British National Party - Steve Brammer
+incumbent: false
 ---

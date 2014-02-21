@@ -8,4 +8,6 @@ list-rank-ordinal: 5th
 person: jude-robinson
 region: south-west
 party: labour
+title: South West - Labour Party - Jude Robinson
+incumbent: false
 ---

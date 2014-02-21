@@ -8,4 +8,6 @@ list-rank-ordinal: 5th
 person: nicki-brooks
 region: east-midlands
 party: labour
+title: East Midlands - Labour Party - Nicki Brooks
+incumbent: false
 ---

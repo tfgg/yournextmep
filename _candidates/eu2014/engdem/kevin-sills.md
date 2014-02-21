@@ -9,4 +9,5 @@ person: kevin-sills
 region: east-midlands
 party: engdem
 title: East Midlands - English Democrats - Kevin Sills
+incumbent: false
 ---

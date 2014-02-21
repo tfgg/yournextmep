@@ -9,4 +9,5 @@ person: mark-hughes
 region: eastern
 party: ukip
 title: Eastern - UKIP - Mark Hughes
+incumbent: false
 ---

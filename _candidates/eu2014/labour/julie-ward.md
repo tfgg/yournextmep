@@ -9,4 +9,5 @@ person: julie-ward
 region: north-west
 party: labour
 title: North West - Labour Party - Julie Ward
+incumbent: false
 ---

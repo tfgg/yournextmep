@@ -9,4 +9,5 @@ person: pascale-lamb
 region: north-west
 party: labour
 title: North West - Labour Party - Pascale Lamb
+incumbent: false
 ---

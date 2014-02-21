@@ -9,4 +9,5 @@ person: george-jeffrey
 region: south-east
 party: conservative
 title: South East - Conservative Party - George Jeffrey
+incumbent: false
 ---

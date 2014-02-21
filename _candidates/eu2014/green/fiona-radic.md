@@ -9,4 +9,5 @@ person: fiona-radic
 region: eastern
 party: green
 title: Eastern - Green Party - Fiona Radic
+incumbent: false
 ---

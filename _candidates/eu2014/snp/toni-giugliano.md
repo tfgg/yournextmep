@@ -9,4 +9,5 @@ person: toni-giugliano
 region: scotland
 party: snp
 title: Scotland - Scottish National Party - Toni Giugliano
+incumbent: false
 ---

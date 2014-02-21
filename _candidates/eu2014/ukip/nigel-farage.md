@@ -9,4 +9,5 @@ person: nigel-farage
 region: south-east
 party: ukip
 title: South East - UKIP - Nigel Farage
+incumbent: true
 ---

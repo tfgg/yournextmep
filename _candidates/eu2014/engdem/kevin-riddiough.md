@@ -9,4 +9,5 @@ person: kevin-riddiough
 region: north-east
 party: engdem
 title: North East - English Democrats - Kevin Riddiough
+incumbent: false
 ---

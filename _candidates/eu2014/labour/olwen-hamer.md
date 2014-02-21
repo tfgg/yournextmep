@@ -8,4 +8,6 @@ list-rank-ordinal: 5th
 person: olwen-hamer
 region: west-midlands
 party: labour
+title: West Midlands - Labour Party - Olwen Hamer
+incumbent: false
 ---

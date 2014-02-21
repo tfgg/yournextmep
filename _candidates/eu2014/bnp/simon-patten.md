@@ -9,4 +9,5 @@ person: simon-patten
 region: west-midlands
 party: bnp
 title: West Midlands - British National Party - Simon Patten
+incumbent: false
 ---

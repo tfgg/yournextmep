@@ -9,4 +9,5 @@ person: jill-evans
 region: wales
 party: plaid-cymru
 title: Wales - Plaid Cymru - Jill Evans
+incumbent: true
 ---

@@ -9,4 +9,5 @@ person: jayne-shotton
 region: north-east
 party: labour
 title: North East - Labour Party - Jayne Shotton
+incumbent: false
 ---

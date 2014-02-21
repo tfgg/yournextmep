@@ -9,4 +9,5 @@ person: jamie-gardiner
 region: scotland
 party: conservative
 title: Scotland - Conservative Party - Jamie Gardiner
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: sajjad-karim
 region: north-west
 party: conservative
 title: North West - Conservative Party - Sajjad Karim
+incumbent: true
 ---

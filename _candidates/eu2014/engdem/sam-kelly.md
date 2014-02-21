@@ -9,4 +9,5 @@ person: sam-kelly
 region: north-east
 party: engdem
 title: North East - English Democrats - Sam Kelly
+incumbent: false
 ---

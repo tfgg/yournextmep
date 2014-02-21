@@ -9,4 +9,5 @@ person: richard-elvin
 region: north-east
 party: ukip
 title: North East - UKIP - Richard Elvin
+incumbent: false
 ---

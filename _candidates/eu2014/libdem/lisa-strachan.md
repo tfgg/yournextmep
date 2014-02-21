@@ -9,4 +9,5 @@ person: lisa-strachan
 region: scotland
 party: libdem
 title: Scotland - Liberal Democrats - Lisa Strachan
+incumbent: false
 ---

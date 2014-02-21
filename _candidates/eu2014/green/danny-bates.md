@@ -9,4 +9,5 @@ person: danny-bates
 region: london
 party: green
 title: London - Green Party - Danny Bates
+incumbent: false
 ---

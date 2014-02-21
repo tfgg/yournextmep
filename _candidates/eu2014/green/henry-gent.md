@@ -9,4 +9,5 @@ person: henry-gent
 region: south-west
 party: green
 title: South West - Green Party - Henry Gent
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: caroline-jones
 region: wales
 party: ukip
 title: Wales - UKIP - Caroline Jones
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: patrick-oflynn
 region: eastern
 party: ukip
 title: Eastern - UKIP - Patrick O'Flynn
+incumbent: false
 ---

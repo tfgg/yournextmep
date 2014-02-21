@@ -9,4 +9,5 @@ person: qassim-afzal
 region: north-west
 party: libdem
 title: North West - Liberal Democrats - Qassim Afzal
+incumbent: false
 ---

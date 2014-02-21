@@ -9,4 +9,5 @@ person: david-rowlands
 region: wales
 party: ukip
 title: Wales - UKIP - David Rowlands
+incumbent: false
 ---

@@ -8,4 +8,6 @@ list-rank-ordinal: 1st
 person: martina-anderson
 region: northern-ireland
 party: sinn-fein
+title: Northern Ireland - Sinn Féin - Martina Anderson
+incumbent: true
 ---

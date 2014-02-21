@@ -9,4 +9,5 @@ person: joe-barker
 region: north-west
 party: conservative
 title: North West - Conservative Party - Joe Barker
+incumbent: false
 ---

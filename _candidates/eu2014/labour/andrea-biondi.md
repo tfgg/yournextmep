@@ -8,4 +8,6 @@ list-rank-ordinal: 8th
 person: andrea-biondi
 region: london
 party: labour
+title: London - Labour Party - Andrea Biondi
+incumbent: false
 ---

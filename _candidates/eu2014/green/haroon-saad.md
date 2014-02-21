@@ -9,4 +9,5 @@ person: haroon-saad
 region: london
 party: green
 title: London - Green Party - Haroon Saad
+incumbent: false
 ---

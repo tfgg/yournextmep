@@ -9,4 +9,5 @@ person: katharina-boettge
 region: east-midlands
 party: green
 title: East Midlands - Green Party - Katharina Boettge
+incumbent: false
 ---

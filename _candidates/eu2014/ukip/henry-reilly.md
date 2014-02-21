@@ -9,4 +9,5 @@ person: henry-reilly
 region: northern-ireland
 party: ukip
 title: Northern Ireland - UKIP - Henry Reilly
+incumbent: false
 ---

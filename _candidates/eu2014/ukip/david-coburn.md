@@ -9,4 +9,5 @@ person: david-coburn
 region: scotland
 party: ukip
 title: Scotland - UKIP - David Coburn
+incumbent: false
 ---

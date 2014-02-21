@@ -9,4 +9,5 @@ person: richard-robinson
 region: south-east
 party: conservative
 title: South East - Conservative Party - Richard Robinson
+incumbent: false
 ---

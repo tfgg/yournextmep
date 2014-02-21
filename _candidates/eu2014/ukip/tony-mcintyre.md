@@ -9,4 +9,5 @@ person: tony-mcintyre
 region: south-west
 party: ukip
 title: South West - UKIP - Tony McIntyre
+incumbent: false
 ---

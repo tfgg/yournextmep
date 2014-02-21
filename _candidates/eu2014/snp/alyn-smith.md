@@ -9,4 +9,5 @@ person: alyn-smith
 region: scotland
 party: snp
 title: Scotland - Scottish National Party - Alyn Smith
+incumbent: true
 ---

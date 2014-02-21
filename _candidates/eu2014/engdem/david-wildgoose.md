@@ -9,4 +9,5 @@ person: david-wildgoose
 region: yorkshire-and-the-humber
 party: engdem
 title: Yorkshire and the Humber - English Democrats - David Wildgoose
+incumbent: false
 ---

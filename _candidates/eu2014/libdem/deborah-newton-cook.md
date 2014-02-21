@@ -9,4 +9,5 @@ person: deborah-newton-cook
 region: east-midlands
 party: libdem
 title: East Midlands - Liberal Democrats - Deborah Newton-Cook
+incumbent: false
 ---

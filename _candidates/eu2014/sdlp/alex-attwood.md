@@ -9,4 +9,5 @@ person: alex-attwood
 region: northern-ireland
 party: sdlp
 title: Northern Ireland - Social Democratic and Labour Party - Alex Attwood
+incumbent: false
 ---

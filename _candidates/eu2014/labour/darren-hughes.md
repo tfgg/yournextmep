@@ -9,4 +9,5 @@ person: darren-hughes
 region: yorkshire-and-the-humber
 party: labour
 title: Yorkshire and the Humber - Labour Party - Darren Hughes
+incumbent: false
 ---

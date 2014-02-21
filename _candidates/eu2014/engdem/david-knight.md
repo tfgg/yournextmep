@@ -9,4 +9,5 @@ person: david-knight
 region: south-east
 party: engdem
 title: South East - English Democrats - David Knight
+incumbent: false
 ---

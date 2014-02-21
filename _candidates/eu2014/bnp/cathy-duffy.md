@@ -9,4 +9,5 @@ person: cathy-duffy
 region: east-midlands
 party: bnp
 title: East Midlands - British National Party - Cathy Duffy
+incumbent: false
 ---

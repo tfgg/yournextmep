@@ -8,4 +8,6 @@ list-rank-ordinal: 1st
 person: clare-moody
 region: south-west
 party: labour
+title: South West - Labour Party - Clare Moody
+incumbent: false
 ---

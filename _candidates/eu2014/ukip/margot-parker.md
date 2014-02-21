@@ -9,4 +9,5 @@ person: margot-parker
 region: east-midlands
 party: ukip
 title: East Midlands - UKIP - Margot Parker
+incumbent: false
 ---

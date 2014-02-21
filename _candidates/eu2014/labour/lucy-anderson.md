@@ -8,4 +8,6 @@ list-rank-ordinal: 3rd
 person: lucy-anderson
 region: london
 party: labour
+title: London - Labour Party - Lucy Anderson
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: daniel-hamilton
 region: north-west
 party: conservative
 title: North West - Conservative Party - Daniel Hamilton
+incumbent: false
 ---

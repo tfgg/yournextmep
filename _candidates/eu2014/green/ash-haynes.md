@@ -9,4 +9,5 @@ person: ash-haynes
 region: eastern
 party: green
 title: Eastern - Green Party - Ash Haynes
+incumbent: false
 ---

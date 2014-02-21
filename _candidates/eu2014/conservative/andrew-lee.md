@@ -9,4 +9,5 @@ person: andrew-lee
 region: north-east
 party: conservative
 title: North East - Conservative Party - Andrew Lee
+incumbent: false
 ---

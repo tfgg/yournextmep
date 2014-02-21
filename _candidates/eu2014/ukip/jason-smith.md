@@ -9,4 +9,5 @@ person: jason-smith
 region: yorkshire-and-the-humber
 party: ukip
 title: Yorkshire and the Humber - UKIP - Jason Smith
+incumbent: false
 ---

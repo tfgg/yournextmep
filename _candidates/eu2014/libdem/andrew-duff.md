@@ -9,4 +9,5 @@ person: andrew-duff
 region: eastern
 party: libdem
 title: Eastern - Liberal Democrats - Andrew Duff
+incumbent: true
 ---

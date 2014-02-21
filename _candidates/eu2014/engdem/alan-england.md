@@ -9,4 +9,5 @@ person: alan-england
 region: south-west
 party: engdem
 title: South West - English Democrats - Alan England
+incumbent: false
 ---

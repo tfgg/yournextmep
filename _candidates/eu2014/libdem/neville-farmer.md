@@ -9,4 +9,5 @@ person: neville-farmer
 region: west-midlands
 party: libdem
 title: West Midlands - Liberal Democrats - Neville Farmer
+incumbent: false
 ---

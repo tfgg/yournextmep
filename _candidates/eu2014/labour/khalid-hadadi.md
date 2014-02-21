@@ -8,4 +8,6 @@ list-rank-ordinal: 4th
 person: khalid-hadadi
 region: east-midlands
 party: labour
+title: East Midlands - Labour Party - Khalid Hadadi
+incumbent: false
 ---

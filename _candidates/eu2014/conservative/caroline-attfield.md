@@ -9,4 +9,5 @@ person: caroline-attfield
 region: london
 party: conservative
 title: London - Conservative Party - Caroline Attfield
+incumbent: false
 ---

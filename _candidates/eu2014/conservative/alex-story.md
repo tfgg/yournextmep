@@ -9,4 +9,5 @@ person: alex-story
 region: yorkshire-and-the-humber
 party: conservative
 title: Yorkshire and the Humber - Conservative Party - Alex Story
+incumbent: false
 ---

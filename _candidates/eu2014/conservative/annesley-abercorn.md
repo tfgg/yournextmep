@@ -9,4 +9,5 @@ person: annesley-abercorn
 region: london
 party: conservative
 title: London - Conservative Party - Annesley Abercorn
+incumbent: false
 ---

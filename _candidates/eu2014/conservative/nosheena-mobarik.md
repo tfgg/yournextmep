@@ -9,4 +9,5 @@ person: nosheena-mobarik
 region: scotland
 party: conservative
 title: Scotland - Conservative Party - Nosheena Mobarik
+incumbent: false
 ---

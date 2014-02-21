@@ -9,4 +9,5 @@ person: anna-white
 region: wales
 party: libdem
 title: Wales - Liberal Democrats - Anna White
+incumbent: false
 ---

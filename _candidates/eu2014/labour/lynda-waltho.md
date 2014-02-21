@@ -8,4 +8,6 @@ list-rank-ordinal: 3rd
 person: lynda-waltho
 region: west-midlands
 party: labour
+title: West Midlands - Labour Party - Lynda Waltho
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: richard-davis
 region: london
 party: libdem
 title: London - Liberal Democrats - Richard Davis
+incumbent: false
 ---

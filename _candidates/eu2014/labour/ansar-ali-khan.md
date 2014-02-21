@@ -8,4 +8,6 @@ list-rank-ordinal: 4th
 person: ansar-ali-khan
 region: west-midlands
 party: labour
+title: West Midlands - Labour Party - Ansar Ali Khan
+incumbent: false
 ---

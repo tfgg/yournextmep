@@ -9,4 +9,5 @@ person: dinti-batstone
 region: south-east
 party: libdem
 title: South East - Liberal Democrats - Dinti Batstone
+incumbent: false
 ---

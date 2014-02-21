@@ -9,4 +9,5 @@ person: jane-brophy
 region: north-west
 party: libdem
 title: North West - Liberal Democrats - Jane Brophy
+incumbent: false
 ---

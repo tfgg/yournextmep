@@ -9,4 +9,5 @@ person: alan-bullion
 region: south-east
 party: libdem
 title: South East - Liberal Democrats - Alan Bullion
+incumbent: false
 ---

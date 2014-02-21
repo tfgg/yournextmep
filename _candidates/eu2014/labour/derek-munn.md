@@ -8,4 +8,6 @@ list-rank-ordinal: 3rd
 person: derek-munn
 region: scotland
 party: labour
+title: Scotland - Labour Party - Derek Munn
+incumbent: false
 ---

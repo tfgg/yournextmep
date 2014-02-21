@@ -9,4 +9,5 @@ person: nigel-jones
 region: south-east
 party: ukip
 title: South East - UKIP - Nigel Jones
+incumbent: false
 ---

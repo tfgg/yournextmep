@@ -9,4 +9,5 @@ person: daniel-hannan
 region: south-east
 party: conservative
 title: South East - Conservative Party - Daniel Hannan
+incumbent: true
 ---

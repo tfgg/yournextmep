@@ -8,4 +8,6 @@ list-rank-ordinal: 7th
 person: james-watkins
 region: south-east
 party: labour
+title: South East - Labour Party - James Watkins
+incumbent: false
 ---

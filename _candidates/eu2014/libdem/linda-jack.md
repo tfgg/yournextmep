@@ -9,4 +9,5 @@ person: linda-jack
 region: eastern
 party: libdem
 title: Eastern - Liberal Democrats - Linda Jack
+incumbent: false
 ---

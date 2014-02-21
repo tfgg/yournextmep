@@ -9,4 +9,5 @@ person: christine-jardine
 region: scotland
 party: libdem
 title: Scotland - Liberal Democrats - Christine Jardine
+incumbent: false
 ---

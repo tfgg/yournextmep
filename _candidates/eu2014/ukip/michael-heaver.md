@@ -9,4 +9,5 @@ person: michael-heaver
 region: eastern
 party: ukip
 title: Eastern - UKIP - Michael Heaver
+incumbent: false
 ---

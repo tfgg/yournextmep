@@ -9,4 +9,5 @@ person: nick-griffin
 region: north-west
 party: bnp
 title: North West - British National Party - Nick Griffin
+incumbent: true
 ---

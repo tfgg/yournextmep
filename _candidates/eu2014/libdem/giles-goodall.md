@@ -9,4 +9,5 @@ person: giles-goodall
 region: south-east
 party: libdem
 title: South East - Liberal Democrats - Giles Goodall
+incumbent: false
 ---

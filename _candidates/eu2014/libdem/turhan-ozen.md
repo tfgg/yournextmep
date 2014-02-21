@@ -9,4 +9,5 @@ person: turhan-ozen
 region: london
 party: libdem
 title: London - Liberal Democrats - Turhan Ozen
+incumbent: false
 ---

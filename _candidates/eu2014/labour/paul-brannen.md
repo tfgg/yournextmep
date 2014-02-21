@@ -9,4 +9,5 @@ person: paul-brannen
 region: north-east
 party: labour
 title: North East - Labour Party - Paul Brannen
+incumbent: false
 ---

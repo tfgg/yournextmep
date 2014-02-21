@@ -9,4 +9,5 @@ person: james-cracknell
 region: south-west
 party: conservative
 title: South West - Conservative Party - James Cracknell
+incumbent: false
 ---

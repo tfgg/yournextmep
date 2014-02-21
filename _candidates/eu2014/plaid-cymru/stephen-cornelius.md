@@ -9,4 +9,5 @@ person: stephen-cornelius
 region: wales
 party: plaid-cymru
 title: Wales - Plaid Cymru - Stephen Cornelius
+incumbent: false
 ---

@@ -8,4 +8,6 @@ list-rank-ordinal: 3rd
 person: ann-reeder
 region: south-west
 party: labour
+title: South West - Labour Party - Ann Reeder
+incumbent: false
 ---

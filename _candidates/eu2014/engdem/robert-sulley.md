@@ -9,4 +9,5 @@ person: robert-sulley
 region: south-east
 party: engdem
 title: South East - English Democrats - Robert Sulley
+incumbent: false
 ---

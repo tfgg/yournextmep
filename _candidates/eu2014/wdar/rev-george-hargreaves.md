@@ -9,4 +9,5 @@ person: rev-george-hargreaves
 region: north-west
 party: wdar
 title: North West - We Demand a Referendum - Rev. George Hargreaves
+incumbent: false
 ---

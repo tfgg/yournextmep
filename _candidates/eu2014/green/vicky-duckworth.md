@@ -9,4 +9,5 @@ person: vicky-duckworth
 region: west-midlands
 party: green
 title: West Midlands - Green Party - Vicky Duckworth
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: steve-uncles
 region: south-east
 party: engdem
 title: South East - English Democrats - Steve Uncles
+incumbent: false
 ---

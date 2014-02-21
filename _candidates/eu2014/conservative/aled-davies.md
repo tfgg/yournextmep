@@ -9,4 +9,5 @@ person: aled-davies
 region: wales
 party: conservative
 title: Wales - Conservative Party - Aled Davies
+incumbent: false
 ---

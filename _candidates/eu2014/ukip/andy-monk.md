@@ -9,4 +9,5 @@ person: andy-monk
 region: eastern
 party: ukip
 title: Eastern - UKIP - Andy Monk
+incumbent: false
 ---

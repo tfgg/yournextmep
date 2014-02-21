@@ -9,4 +9,5 @@ person: diane-james
 region: south-east
 party: ukip
 title: South East - UKIP - Diane James
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: robert-smith
 region: south-west
 party: ukip
 title: South West - UKIP - Robert Smith
+incumbent: false
 ---

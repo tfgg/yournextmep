@@ -9,4 +9,5 @@ person: carolyn-abbott
 region: yorkshire-and-the-humber
 party: conservative
 title: Yorkshire and the Humber - Conservative Party - Carolyn Abbott
+incumbent: false
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign region=site.data.regions[page.region] %}
 <div class='row'>
   <div class='col-md-12'>
@@ -34,14 +35,16 @@ layout: default
         <ol class='candidates'>
         {% for candidate in candidates %}
           {% assign person=people[candidate.id] %}
-          <li>
+          <li class='{% if candidate.incumbent %}candidate-incumbent{% endif %}'>
             <a href='/candidates/eu2014/{{ party.id }}/{{ person.id}}/' alt='{{ person.name }}'>
             {% if person.image %}
             <img src='{{ person.image }}' class='profile-image'/>
             {% else %}
             <img src='/images/unknown_man.jpg' class='profile-image'/>
             {% endif %}</a><br/>
+            {% if candidate.incumbent %}<u>{% endif %}
             <a href='/candidates/eu2014/{{ party.id }}/{{ person.id}}/'>{{ forloop.index }}. {{ person.name }}</a>
+            {% if candidate.incumbent %}</u>{% endif %}
           </li>
         {% endfor %}
         </ol>
@@ -49,6 +52,46 @@ layout: default
       </div>
       {% endif %}
     {% endfor %}
+  </div>
+</div>
+<div class='row'>
+  <div class='col-md-12'>
+    <div id="map"></div>
+    <script>
+      $(document).ready(function() {
+        var map = new L.Map("map");
+        var osm = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: 'Map data © OpenStreetMap contributors',
+          maxZoom: 18
+        });
+        map.addLayer(osm);
+
+        $.get("/geojson/{{ region.identifiers[0].identifier }}.geojson")
+         .done(function(data) {
+              var area = new L.GeoJSON(JSON.parse(data));
+              map.addLayer(area);
+
+              var bounds = new L.LatLngBounds();
+              area._iterateLayers(function (layer) {
+                  if (layer instanceof L.MultiPolygon) {
+                      layer._iterateLayers(function(layer2) {
+                          var new_bounds = layer2.getBounds();
+                          bounds.extend(new_bounds.getSouthWest());
+                          bounds.extend(new_bounds.getNorthEast());
+                      });
+                  }
+                  if (layer instanceof L.Polygon) {
+                      bounds = layer.getBounds();
+                  }
+              }, area);
+              map.fitBounds(bounds);
+          });
+
+          setTimeout(function() {
+              map.invalidateSize();
+          }, 5);
+      });
+    </script>
   </div>
 </div>
 

@@ -9,4 +9,5 @@ person: louise-bours
 region: north-west
 party: ukip
 title: North West - UKIP - Louise Bours
+incumbent: false
 ---

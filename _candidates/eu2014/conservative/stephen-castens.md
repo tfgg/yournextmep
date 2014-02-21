@@ -9,4 +9,5 @@ person: stephen-castens
 region: east-midlands
 party: conservative
 title: East Midlands - Conservative Party - Stephen Castens
+incumbent: false
 ---

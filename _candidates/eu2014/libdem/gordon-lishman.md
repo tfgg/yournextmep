@@ -9,4 +9,5 @@ person: gordon-lishman
 region: north-west
 party: libdem
 title: North West - Liberal Democrats - Gordon Lishman
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: julie-girling
 region: south-west
 party: conservative
 title: South West - Conservative Party - Julie Girling
+incumbent: true
 ---

@@ -8,4 +8,6 @@ list-rank-ordinal: 7th
 person: sanchia-alasia
 region: london
 party: labour
+title: London - Labour Party - Sanchia Alasia
+incumbent: false
 ---

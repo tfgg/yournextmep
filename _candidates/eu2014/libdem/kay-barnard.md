@@ -9,4 +9,5 @@ person: kay-barnard
 region: south-west
 party: libdem
 title: South West - Liberal Democrats - Kay Barnard
+incumbent: false
 ---

@@ -8,4 +8,6 @@ list-rank-ordinal: 4th
 person: seb-dance
 region: london
 party: labour
+title: London - Labour Party - Seb Dance
+incumbent: false
 ---

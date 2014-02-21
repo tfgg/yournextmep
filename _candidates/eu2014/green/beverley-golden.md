@@ -9,4 +9,5 @@ person: beverley-golden
 region: south-east
 party: green
 title: South East - Green Party - Beverley Golden
+incumbent: false
 ---

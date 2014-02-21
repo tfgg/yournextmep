@@ -8,4 +8,6 @@ list-rank-ordinal: 2nd
 person: glyn-ford
 region: south-west
 party: labour
+title: South West - Labour Party - Glyn Ford
+incumbent: false
 ---

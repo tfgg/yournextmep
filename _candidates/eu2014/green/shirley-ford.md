@@ -9,4 +9,5 @@ person: shirley-ford
 region: north-east
 party: green
 title: North East - Green Party - Shirley Ford
+incumbent: false
 ---

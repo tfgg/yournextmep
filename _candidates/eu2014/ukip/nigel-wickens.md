@@ -9,4 +9,5 @@ person: nigel-wickens
 region: east-midlands
 party: ukip
 title: East Midlands - UKIP - Nigel Wickens
+incumbent: false
 ---

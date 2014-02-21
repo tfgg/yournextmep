@@ -9,4 +9,5 @@ person: tom-harris
 region: west-midlands
 party: green
 title: West Midlands - Green Party - Tom Harris
+incumbent: false
 ---

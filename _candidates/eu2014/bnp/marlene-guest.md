@@ -9,4 +9,5 @@ person: marlene-guest
 region: yorkshire-and-the-humber
 party: bnp
 title: Yorkshire and the Humber - British National Party - Marlene Guest
+incumbent: false
 ---

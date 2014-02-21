@@ -9,4 +9,5 @@ person: andy-adris
 region: west-midlands
 party: wdar
 title: West Midlands - We Demand a Referendum - Andy Adris
+incumbent: false
 ---

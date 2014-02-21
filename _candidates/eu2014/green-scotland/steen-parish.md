@@ -9,4 +9,5 @@ person: steen-parish
 region: scotland
 party: green-scotland
 title: Scotland - Scottish Green Party - Steen Parish
+incumbent: false
 ---

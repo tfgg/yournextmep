@@ -9,4 +9,5 @@ person: chris-ostrowski
 region: eastern
 party: labour
 title: Eastern - Labour Party - Chris Ostrowski
+incumbent: false
 ---

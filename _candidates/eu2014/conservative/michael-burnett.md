@@ -9,4 +9,5 @@ person: michael-burnett
 region: west-midlands
 party: conservative
 title: West Midlands - Conservative Party - Michael Burnett
+incumbent: false
 ---

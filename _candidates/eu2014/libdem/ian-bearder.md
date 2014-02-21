@@ -9,4 +9,5 @@ person: ian-bearder
 region: south-east
 party: libdem
 title: South East - Liberal Democrats - Ian Bearder
+incumbent: false
 ---

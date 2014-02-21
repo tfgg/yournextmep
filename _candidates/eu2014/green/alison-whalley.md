@@ -9,4 +9,5 @@ person: alison-whalley
 region: north-east
 party: green
 title: North East - Green Party - Alison Whalley
+incumbent: false
 ---

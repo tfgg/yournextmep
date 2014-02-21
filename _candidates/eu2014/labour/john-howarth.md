@@ -8,4 +8,6 @@ list-rank-ordinal: 2nd
 person: john-howarth
 region: south-east
 party: labour
+title: South East - Labour Party - John Howarth
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: deborah-dunleavy
 region: north-west
 party: conservative
 title: North West - Conservative Party - Deborah Dunleavy
+incumbent: false
 ---

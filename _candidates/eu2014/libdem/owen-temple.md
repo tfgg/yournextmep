@@ -9,4 +9,5 @@ person: owen-temple
 region: north-east
 party: libdem
 title: North East - Liberal Democrats - Owen Temple
+incumbent: false
 ---

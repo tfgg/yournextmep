@@ -9,4 +9,5 @@ person: emily-mcivor
 region: south-west
 party: green
 title: South West - Green Party - Emily McIvor
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: sheila-lawlor
 region: london
 party: conservative
 title: London - Conservative Party - Sheila Lawlor
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: jonathan-arnott
 region: north-east
 party: ukip
 title: North East - UKIP - Jonathan Arnott
+incumbent: false
 ---

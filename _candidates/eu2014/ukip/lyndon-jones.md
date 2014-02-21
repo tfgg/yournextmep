@@ -9,4 +9,5 @@ person: lyndon-jones
 region: west-midlands
 party: ukip
 title: West Midlands - UKIP - Lyndon Jones
+incumbent: false
 ---

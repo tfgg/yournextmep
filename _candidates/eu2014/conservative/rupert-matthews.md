@@ -9,4 +9,5 @@ person: rupert-matthews
 region: east-midlands
 party: conservative
 title: East Midlands - Conservative Party - Rupert Matthews
+incumbent: false
 ---

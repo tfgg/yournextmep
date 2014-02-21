@@ -9,4 +9,5 @@ person: brendan-clarke-smith
 region: east-midlands
 party: conservative
 title: East Midlands - Conservative Party - Brendan Clarke-Smith
+incumbent: false
 ---

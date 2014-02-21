@@ -9,4 +9,5 @@ person: lawrence-webb
 region: london
 party: ukip
 title: London - UKIP - Lawrence Webb
+incumbent: false
 ---

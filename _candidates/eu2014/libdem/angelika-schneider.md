@@ -9,4 +9,5 @@ person: angelika-schneider
 region: north-east
 party: libdem
 title: North East - Liberal Democrats - Angelika Schneider
+incumbent: false
 ---

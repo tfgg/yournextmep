@@ -9,4 +9,5 @@ person: jay-risbridger
 region: south-west
 party: libdem
 title: South West - Liberal Democrats - Jay Risbridger
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: peter-harper
 region: north-west
 party: ukip
 title: North West - UKIP - Peter Harper
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: simon-strutt
 region: south-east
 party: ukip
 title: South East - UKIP - Simon Strutt
+incumbent: false
 ---

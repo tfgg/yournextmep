@@ -9,4 +9,5 @@ person: phil-knowles
 region: east-midlands
 party: libdem
 title: East Midlands - Liberal Democrats - Phil Knowles
+incumbent: false
 ---

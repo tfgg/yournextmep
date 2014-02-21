@@ -9,4 +9,5 @@ person: raymond-carr
 region: south-west
 party: engdem
 title: South West - English Democrats - Raymond Carr
+incumbent: false
 ---

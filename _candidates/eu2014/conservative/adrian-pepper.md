@@ -9,4 +9,5 @@ person: adrian-pepper
 region: south-east
 party: conservative
 title: South East - Conservative Party - Adrian Pepper
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: vicky-ford
 region: eastern
 party: conservative
 title: Eastern - Conservative Party - Vicky Ford
+incumbent: true
 ---

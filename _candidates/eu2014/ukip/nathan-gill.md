@@ -9,4 +9,5 @@ person: nathan-gill
 region: wales
 party: ukip
 title: Wales - UKIP - Nathan Gill
+incumbent: false
 ---

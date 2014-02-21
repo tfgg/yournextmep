@@ -9,4 +9,5 @@ person: stephen-robinson
 region: eastern
 party: libdem
 title: Eastern - Liberal Democrats - Stephen Robinson
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: sophie-swire
 region: south-west
 party: conservative
 title: South West - Conservative Party - Sophie Swire
+incumbent: false
 ---

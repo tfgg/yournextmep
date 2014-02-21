@@ -9,4 +9,5 @@ person: steven-woolfe
 region: north-west
 party: ukip
 title: North West - UKIP - Steven Woolfe
+incumbent: false
 ---

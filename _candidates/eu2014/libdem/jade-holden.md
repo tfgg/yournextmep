@@ -9,4 +9,5 @@ person: jade-holden
 region: scotland
 party: libdem
 title: Scotland - Liberal Democrats - Jade Holden
+incumbent: false
 ---

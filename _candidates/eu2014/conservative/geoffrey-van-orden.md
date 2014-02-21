@@ -9,4 +9,5 @@ person: geoffrey-van-orden
 region: eastern
 party: conservative
 title: Eastern - Conservative Party - Geoffrey van Orden
+incumbent: true
 ---

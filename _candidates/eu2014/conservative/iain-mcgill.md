@@ -9,4 +9,5 @@ person: iain-mcgill
 region: scotland
 party: conservative
 title: Scotland - Conservative Party - Iain McGill
+incumbent: false
 ---

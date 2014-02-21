@@ -9,4 +9,5 @@ person: chris-were
 region: wales
 party: green
 title: Wales - Green Party - Chris Were
+incumbent: false
 ---

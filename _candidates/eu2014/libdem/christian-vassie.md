@@ -9,4 +9,5 @@ person: christian-vassie
 region: north-east
 party: libdem
 title: North East - Liberal Democrats - Christian Vassie
+incumbent: false
 ---

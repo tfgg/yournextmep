@@ -9,4 +9,5 @@ person: charles-tannock
 region: london
 party: conservative
 title: London - Conservative Party - Charles Tannock
+incumbent: true
 ---

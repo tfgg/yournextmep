@@ -9,4 +9,5 @@ person: theresa-griffin
 region: north-west
 party: labour
 title: North West - Labour Party - Theresa Griffin
+incumbent: false
 ---

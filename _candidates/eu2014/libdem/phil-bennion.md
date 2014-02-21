@@ -9,4 +9,5 @@ person: phil-bennion
 region: west-midlands
 party: libdem
 title: West Midlands - Liberal Democrats - Phil Bennion
+incumbent: true
 ---

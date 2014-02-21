@@ -8,4 +8,6 @@ list-rank-ordinal: 6th
 person: tony-ethapemi
 region: west-midlands
 party: labour
+title: West Midlands - Labour Party - Tony Ethapemi
+incumbent: false
 ---

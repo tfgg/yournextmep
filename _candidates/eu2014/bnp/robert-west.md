@@ -9,4 +9,5 @@ person: robert-west
 region: east-midlands
 party: bnp
 title: East Midlands - British National Party - Robert West
+incumbent: false
 ---

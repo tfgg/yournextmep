@@ -9,4 +9,5 @@ person: marc-jones
 region: wales
 party: plaid-cymru
 title: Wales - Plaid Cymru - Marc Jones
+incumbent: false
 ---

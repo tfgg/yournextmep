@@ -8,4 +8,6 @@ list-rank-ordinal: 4th
 person: hadleigh-roberts
 region: south-west
 party: labour
+title: South West - Labour Party - Hadleigh Roberts
+incumbent: false
 ---

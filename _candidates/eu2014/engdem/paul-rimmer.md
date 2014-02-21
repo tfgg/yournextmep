@@ -9,4 +9,5 @@ person: paul-rimmer
 region: north-west
 party: engdem
 title: North West - English Democrats - Paul Rimmer
+incumbent: false
 ---

@@ -8,4 +8,6 @@ list-rank-ordinal: 4th
 person: katrina-murray
 region: scotland
 party: labour
+title: Scotland - Labour Party - Katrina Murray
+incumbent: false
 ---

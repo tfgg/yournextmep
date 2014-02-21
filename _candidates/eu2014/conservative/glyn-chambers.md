@@ -9,4 +9,5 @@ person: glyn-chambers
 region: london
 party: conservative
 title: London - Conservative Party - Glyn Chambers
+incumbent: false
 ---

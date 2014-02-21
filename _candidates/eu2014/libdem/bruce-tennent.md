@@ -9,4 +9,5 @@ person: bruce-tennent
 region: south-east
 party: libdem
 title: South East - Liberal Democrats - Bruce Tennent
+incumbent: false
 ---

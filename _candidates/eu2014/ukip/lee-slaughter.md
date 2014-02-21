@@ -9,4 +9,5 @@ person: lee-slaughter
 region: north-west
 party: ukip
 title: North West - UKIP - Lee Slaughter
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: andrew-mcneilis
 region: london
 party: ukip
 title: London - UKIP - Andrew McNeilis
+incumbent: false
 ---

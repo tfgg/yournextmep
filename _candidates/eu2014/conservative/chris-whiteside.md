@@ -9,4 +9,5 @@ person: chris-whiteside
 region: north-west
 party: conservative
 title: North West - Conservative Party - Chris Whiteside
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: roz-cutler
 region: wales
 party: green
 title: Wales - Green Party - Roz Cutler
+incumbent: false
 ---

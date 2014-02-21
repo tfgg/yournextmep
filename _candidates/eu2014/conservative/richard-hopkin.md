@@ -9,4 +9,5 @@ person: richard-hopkin
 region: wales
 party: conservative
 title: Wales - Conservative Party - Richard Hopkin
+incumbent: false
 ---

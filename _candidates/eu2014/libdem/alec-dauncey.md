@@ -9,4 +9,5 @@ person: alec-dauncey
 region: wales
 party: libdem
 title: Wales - Liberal Democrats - Alec Dauncey
+incumbent: false
 ---

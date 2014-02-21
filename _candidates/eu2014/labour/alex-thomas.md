@@ -8,4 +8,6 @@ list-rank-ordinal: 3rd
 person: alex-thomas
 region: wales
 party: labour
+title: Wales - Labour Party - Alex Thomas
+incumbent: false
 ---

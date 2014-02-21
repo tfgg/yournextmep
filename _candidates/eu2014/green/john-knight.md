@@ -9,4 +9,5 @@ person: john-knight
 region: north-west
 party: green
 title: North West - Green Party - John Knight
+incumbent: false
 ---

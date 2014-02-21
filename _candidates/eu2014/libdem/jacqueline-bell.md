@@ -9,4 +9,5 @@ person: jacqueline-bell
 region: yorkshire-and-the-humber
 party: libdem
 title: Yorkshire and the Humber - Liberal Democrats - Jacqueline Bell
+incumbent: false
 ---

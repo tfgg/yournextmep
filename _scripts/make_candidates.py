@@ -20,7 +20,11 @@ for region_id in candidates:
     rank = i+1
     rank_ordinal = ordinal(rank)
 
-    s = """---
+    incumbent = "false"
+    if 'incumbent' in candidate and candidate['incumbent']:
+      incumbent = "true"
+
+    s = u"""---
 layout: candidate
 permalink: candidates/eu2014/{}/{}/
 categories: candidate {}
@@ -31,7 +35,8 @@ person: {}
 region: {}
 party: {}
 title: {} - {} - {}
----""".format(party_id, person_id, party_id, rank, rank_ordinal, person_id, region_id, party_id, region['name'], party['name'], candidate['name'])
+incumbent: {}
+---""".format(party_id, person_id, party_id, rank, rank_ordinal, person_id, region_id, party_id, region['name'], party['name'], candidate['name'], incumbent)
 
     dir_path = os.path.join("_candidates", "eu2014", party_id)
     if not os.path.isdir(dir_path):
@@ -42,4 +47,5 @@ title: {} - {} - {}
     #print path
     #print s
 
-    print >>open(path, "w+"), s
+    print >>open(path, "w+"), s.encode('utf-8')
+

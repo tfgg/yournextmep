@@ -9,4 +9,5 @@ person: anthea-mcintyre
 region: west-midlands
 party: conservative
 title: West Midlands - Conservative Party - Anthea McIntyre
+incumbent: true
 ---

@@ -9,4 +9,5 @@ person: brian-matthew
 region: south-west
 party: libdem
 title: South West - Liberal Democrats - Brian Matthew
+incumbent: false
 ---

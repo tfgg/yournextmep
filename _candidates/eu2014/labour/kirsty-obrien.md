@@ -8,4 +8,6 @@ list-rank-ordinal: 6th
 person: kirsty-obrien
 region: scotland
 party: labour
+title: Scotland - Labour Party - Kirsty O'Brien
+incumbent: false
 ---

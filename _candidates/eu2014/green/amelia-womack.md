@@ -9,4 +9,5 @@ person: amelia-womack
 region: london
 party: green
 title: London - Green Party - Amelia Womack
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: andrew-lewer
 region: east-midlands
 party: conservative
 title: East Midlands - Conservative Party - Andrew Lewer
+incumbent: false
 ---

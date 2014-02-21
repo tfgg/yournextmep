@@ -8,4 +8,6 @@ list-rank-ordinal: 2nd
 person: sion-simon
 region: west-midlands
 party: labour
+title: West Midlands - Labour Party - Siôn Simon
+incumbent: false
 ---

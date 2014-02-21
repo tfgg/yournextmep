@@ -9,4 +9,5 @@ person: kenneth-griffiths
 region: west-midlands
 party: bnp
 title: West Midlands - British National Party - Kenneth Griffiths
+incumbent: false
 ---

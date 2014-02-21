@@ -9,4 +9,5 @@ person: steve-clegg
 region: south-east
 party: engdem
 title: South East - English Democrats - Steve Clegg
+incumbent: false
 ---

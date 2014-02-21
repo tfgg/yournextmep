@@ -9,4 +9,5 @@ person: helen-mirfin-boukouris
 region: yorkshire-and-the-humber
 party: labour
 title: Yorkshire and the Humber - Labour Party - Helen Mirfin-Boukouris
+incumbent: false
 ---

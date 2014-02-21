@@ -9,4 +9,5 @@ person: alexandra-phillips
 region: south-east
 party: green
 title: South East - Green Party - Alexandra Phillips
+incumbent: false
 ---

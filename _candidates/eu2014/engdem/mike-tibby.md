@@ -9,4 +9,5 @@ person: mike-tibby
 region: south-east
 party: engdem
 title: South East - English Democrats - Mike Tibby
+incumbent: false
 ---

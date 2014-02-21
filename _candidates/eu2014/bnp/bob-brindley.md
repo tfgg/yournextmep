@@ -9,4 +9,5 @@ person: bob-brindley
 region: east-midlands
 party: bnp
 title: East Midlands - British National Party - Bob Brindley
+incumbent: false
 ---

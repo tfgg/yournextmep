@@ -9,4 +9,5 @@ person: anuja-prashar
 region: london
 party: libdem
 title: London - Liberal Democrats - Anuja Prashar
+incumbent: false
 ---

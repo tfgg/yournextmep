@@ -9,4 +9,5 @@ person: charles-vickers
 region: eastern
 party: engdem
 title: Eastern - English Democrats - Charles Vickers
+incumbent: false
 ---

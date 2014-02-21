@@ -9,4 +9,5 @@ person: richard-brodie
 region: scotland
 party: libdem
 title: Scotland - Liberal Democrats - Richard Brodie
+incumbent: false
 ---

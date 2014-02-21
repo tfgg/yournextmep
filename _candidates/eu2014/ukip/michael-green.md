@@ -9,4 +9,5 @@ person: michael-green
 region: west-midlands
 party: ukip
 title: West Midlands - UKIP - Michael Green
+incumbent: false
 ---

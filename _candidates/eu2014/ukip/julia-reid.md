@@ -9,4 +9,5 @@ person: julia-reid
 region: south-west
 party: ukip
 title: South West - UKIP - Julia Reid
+incumbent: false
 ---

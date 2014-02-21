@@ -9,4 +9,5 @@ person: michael-coleman
 region: west-midlands
 party: bnp
 title: West Midlands - British National Party - Michael Coleman
+incumbent: false
 ---

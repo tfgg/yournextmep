@@ -9,4 +9,5 @@ person: anthony-brown
 region: london
 party: ukip
 title: London - UKIP - Anthony Brown
+incumbent: false
 ---

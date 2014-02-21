@@ -9,4 +9,5 @@ person: ayoub-khan
 region: west-midlands
 party: libdem
 title: West Midlands - Liberal Democrats - Ayoub Khan
+incumbent: false
 ---

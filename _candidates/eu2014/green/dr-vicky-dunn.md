@@ -9,4 +9,5 @@ person: dr-vicky-dunn
 region: yorkshire-and-the-humber
 party: green
 title: Yorkshire and the Humber - Green Party - Dr Vicky Dunn
+incumbent: false
 ---

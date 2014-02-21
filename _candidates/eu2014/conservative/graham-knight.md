@@ -9,4 +9,5 @@ person: graham-knight
 region: south-east
 party: conservative
 title: South East - Conservative Party - Graham Knight
+incumbent: false
 ---

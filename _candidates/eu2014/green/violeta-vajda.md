@@ -9,4 +9,5 @@ person: violeta-vajda
 region: london
 party: green
 title: London - Green Party - Violeta Vajda
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: andrew-cooper
 region: yorkshire-and-the-humber
 party: green
 title: Yorkshire and the Humber - Green Party - Andrew Cooper
+incumbent: false
 ---

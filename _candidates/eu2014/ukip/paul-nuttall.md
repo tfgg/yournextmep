@@ -9,4 +9,5 @@ person: paul-nuttall
 region: north-west
 party: ukip
 title: North West - UKIP - Paul Nuttall
+incumbent: true
 ---

@@ -9,4 +9,5 @@ person: dan-boucher
 region: wales
 party: conservative
 title: Wales - Conservative Party - Dan Boucher
+incumbent: false
 ---

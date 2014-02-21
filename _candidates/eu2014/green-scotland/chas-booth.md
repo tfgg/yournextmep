@@ -9,4 +9,5 @@ person: chas-booth
 region: scotland
 party: green-scotland
 title: Scotland - Scottish Green Party - Chas Booth
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: anthony-hook
 region: south-east
 party: libdem
 title: South East - Liberal Democrats - Anthony Hook
+incumbent: false
 ---

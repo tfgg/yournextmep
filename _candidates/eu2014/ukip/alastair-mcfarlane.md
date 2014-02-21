@@ -9,4 +9,5 @@ person: alastair-mcfarlane
 region: london
 party: ukip
 title: London - UKIP - Alastair McFarlane
+incumbent: false
 ---

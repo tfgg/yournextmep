@@ -9,4 +9,5 @@ person: nirj-deva
 region: south-east
 party: conservative
 title: South East - Conservative Party - Nirj Deva
+incumbent: true
 ---

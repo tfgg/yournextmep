@@ -9,4 +9,5 @@ person: sandy-martin
 region: eastern
 party: labour
 title: Eastern - Labour Party - Sandy Martin
+incumbent: false
 ---

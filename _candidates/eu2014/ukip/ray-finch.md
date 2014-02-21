@@ -9,4 +9,5 @@ person: ray-finch
 region: south-east
 party: ukip
 title: South East - UKIP - Ray Finch
+incumbent: false
 ---

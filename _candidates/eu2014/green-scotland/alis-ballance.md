@@ -9,4 +9,5 @@ person: alis-ballance
 region: scotland
 party: green-scotland
 title: Scotland - Scottish Green Party - Alis Ballance
+incumbent: false
 ---

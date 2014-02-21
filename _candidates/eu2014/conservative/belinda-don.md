@@ -9,4 +9,5 @@ person: belinda-don
 region: scotland
 party: conservative
 title: Scotland - Conservative Party - Belinda Don
+incumbent: false
 ---

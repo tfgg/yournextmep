@@ -9,4 +9,5 @@ person: caroline-allen
 region: london
 party: green
 title: London - Green Party - Caroline Allen
+incumbent: false
 ---

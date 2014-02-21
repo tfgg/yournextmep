@@ -9,4 +9,5 @@ person: joe-otten
 region: yorkshire-and-the-humber
 party: libdem
 title: Yorkshire and the Humber - Liberal Democrats - Joe Otten
+incumbent: false
 ---

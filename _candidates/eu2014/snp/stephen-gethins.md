@@ -9,4 +9,5 @@ person: stephen-gethins
 region: scotland
 party: snp
 title: Scotland - Scottish National Party - Stephen Gethins
+incumbent: false
 ---

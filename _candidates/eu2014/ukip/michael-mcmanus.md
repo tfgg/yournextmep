@@ -9,4 +9,5 @@ person: michael-mcmanus
 region: north-west
 party: ukip
 title: North West - UKIP - Michael McManus
+incumbent: false
 ---

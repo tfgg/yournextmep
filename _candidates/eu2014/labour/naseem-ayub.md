@@ -9,4 +9,5 @@ person: naseem-ayub
 region: eastern
 party: labour
 title: Eastern - Labour Party - Naseem Ayub
+incumbent: false
 ---

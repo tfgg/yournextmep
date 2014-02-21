@@ -8,4 +8,6 @@ list-rank-ordinal: 7th
 person: claire-edwards
 region: west-midlands
 party: labour
+title: West Midlands - Labour Party - Claire Edwards
+incumbent: false
 ---

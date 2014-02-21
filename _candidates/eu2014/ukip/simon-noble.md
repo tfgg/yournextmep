@@ -9,4 +9,5 @@ person: simon-noble
 region: north-west
 party: ukip
 title: North West - UKIP - Simon Noble
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: grace-murray
 region: scotland
 party: green-scotland
 title: Scotland - Scottish Green Party - Grace Murray
+incumbent: false
 ---

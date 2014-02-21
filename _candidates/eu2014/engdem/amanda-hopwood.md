@@ -9,4 +9,5 @@ person: amanda-hopwood
 region: south-east
 party: engdem
 title: South East - English Democrats - Amanda Hopwood
+incumbent: false
 ---

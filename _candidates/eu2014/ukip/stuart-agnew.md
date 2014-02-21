@@ -9,4 +9,5 @@ person: stuart-agnew
 region: eastern
 party: ukip
 title: Eastern - UKIP - Stuart Agnew
+incumbent: true
 ---

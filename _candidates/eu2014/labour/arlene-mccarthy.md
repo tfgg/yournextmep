@@ -9,4 +9,5 @@ person: arlene-mccarthy
 region: north-west
 party: labour
 title: North West - Labour Party - Arlene McCarthy
+incumbent: true
 ---

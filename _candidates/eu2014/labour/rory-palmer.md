@@ -8,4 +8,6 @@ list-rank-ordinal: 2nd
 person: rory-palmer
 region: east-midlands
 party: labour
+title: East Midlands - Labour Party - Rory Palmer
+incumbent: false
 ---

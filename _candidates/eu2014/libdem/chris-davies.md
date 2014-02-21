@@ -9,4 +9,5 @@ person: chris-davies
 region: north-west
 party: libdem
 title: North West - Liberal Democrats - Chris Davies
+incumbent: true
 ---

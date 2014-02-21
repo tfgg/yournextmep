@@ -9,4 +9,5 @@ person: richard-ashworth
 region: south-east
 party: conservative
 title: South East - Conservative Party - Richard Ashworth
+incumbent: true
 ---

@@ -9,4 +9,5 @@ person: jonathan-bullock
 region: east-midlands
 party: ukip
 title: East Midlands - UKIP - Jonathan Bullock
+incumbent: false
 ---

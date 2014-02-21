@@ -9,4 +9,5 @@ person: issan-ghazni
 region: east-midlands
 party: libdem
 title: East Midlands - Liberal Democrats - Issan Ghazni
+incumbent: false
 ---

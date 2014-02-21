@@ -9,4 +9,5 @@ person: bruce-roberts
 region: wales
 party: libdem
 title: Wales - Liberal Democrats - Bruce Roberts
+incumbent: false
 ---

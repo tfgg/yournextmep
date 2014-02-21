@@ -9,4 +9,5 @@ person: alan-stevens
 region: south-east
 party: ukip
 title: South East - UKIP - Alan Stevens
+incumbent: false
 ---

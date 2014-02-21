@@ -9,4 +9,5 @@ person: mark-brotherston
 region: northern-ireland
 party: conservative
 title: Northern Ireland - Conservative Party - Mark Brotherston
+incumbent: false
 ---

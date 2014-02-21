@@ -9,4 +9,5 @@ person: lady-dorothy-brooke
 region: north-east
 party: bnp
 title: North East - British National Party - Lady Dorothy Brooke
+incumbent: false
 ---

@@ -8,4 +8,6 @@ list-rank-ordinal: 1st
 person: claude-moraes
 region: london
 party: labour
+title: London - Labour Party - Claude Moraes
+incumbent: true
 ---

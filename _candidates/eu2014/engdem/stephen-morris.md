@@ -9,4 +9,5 @@ person: stephen-morris
 region: north-west
 party: engdem
 title: North West - English Democrats - Stephen Morris
+incumbent: false
 ---

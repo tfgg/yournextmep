@@ -9,4 +9,5 @@ person: hugh-annand
 region: eastern
 party: libdem
 title: Eastern - Liberal Democrats - Hugh Annand
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: josephine-hayes
 region: eastern
 party: libdem
 title: Eastern - Liberal Democrats - Josephine Hayes
+incumbent: false
 ---

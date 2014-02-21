@@ -9,4 +9,5 @@ person: margaret-simons
 region: eastern
 party: conservative
 title: Eastern - Conservative Party - Margaret Simons
+incumbent: false
 ---

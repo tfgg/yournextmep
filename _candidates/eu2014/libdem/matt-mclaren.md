@@ -9,4 +9,5 @@ person: matt-mclaren
 region: london
 party: libdem
 title: London - Liberal Democrats - Matt McLaren
+incumbent: false
 ---

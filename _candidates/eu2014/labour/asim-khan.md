@@ -8,4 +8,6 @@ list-rank-ordinal: 5th
 person: asim-khan
 region: scotland
 party: labour
+title: Scotland - Labour Party - Asim Khan
+incumbent: false
 ---

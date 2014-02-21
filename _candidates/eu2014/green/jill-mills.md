@@ -9,4 +9,5 @@ person: jill-mills
 region: eastern
 party: green
 title: Eastern - Green Party - Jill Mills
+incumbent: false
 ---

@@ -9,4 +9,5 @@ person: gary-shores
 region: yorkshire-and-the-humber
 party: ukip
 title: Yorkshire and the Humber - UKIP - Gary Shores
+incumbent: false
 ---

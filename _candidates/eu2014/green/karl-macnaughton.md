@@ -9,4 +9,5 @@ person: karl-macnaughton
 region: west-midlands
 party: green
 title: West Midlands - Green Party - Karl Macnaughton
+incumbent: false
 ---

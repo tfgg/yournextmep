@@ -9,4 +9,5 @@ person: roger-helmer
 region: east-midlands
 party: ukip
 title: East Midlands - UKIP - Roger Helmer
+incumbent: true
 ---

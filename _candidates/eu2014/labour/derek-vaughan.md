@@ -8,4 +8,6 @@ list-rank-ordinal: 1st
 person: derek-vaughan
 region: wales
 party: labour
+title: Wales - Labour Party - Derek Vaughan
+incumbent: true
 ---

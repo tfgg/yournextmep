@@ -8,4 +8,6 @@ list-rank-ordinal: 3rd
 person: linda-woodings
 region: east-midlands
 party: labour
+title: East Midlands - Labour Party - Linda Woodings
+incumbent: false
 ---

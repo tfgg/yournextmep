@@ -9,4 +9,5 @@ person: tim-aker
 region: eastern
 party: ukip
 title: Eastern - UKIP - Tim Aker
+incumbent: false
 ---

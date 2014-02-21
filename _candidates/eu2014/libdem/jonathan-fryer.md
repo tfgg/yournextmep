@@ -9,4 +9,5 @@ person: jonathan-fryer
 region: london
 party: libdem
 title: London - Liberal Democrats - Jonathan Fryer
+incumbent: false
 ---

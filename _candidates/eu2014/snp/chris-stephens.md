@@ -9,4 +9,5 @@ person: chris-stephens
 region: scotland
 party: snp
 title: Scotland - Scottish National Party - Chris Stephens
+incumbent: false
 ---

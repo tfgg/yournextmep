@@ -9,4 +9,5 @@ person: paul-bishop
 region: eastern
 party: labour
 title: Eastern - Labour Party - Paul Bishop
+incumbent: false
 ---

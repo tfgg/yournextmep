@@ -9,4 +9,5 @@ person: simon-hales
 region: east-midlands
 party: green
 title: East Midlands - Green Party - Simon Hales
+incumbent: false
 ---

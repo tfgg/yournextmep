@@ -9,4 +9,5 @@ person: mick-mcgough
 region: eastern
 party: ukip
 title: Eastern - UKIP - Mick McGough
+incumbent: false
 ---

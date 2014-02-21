@@ -9,4 +9,5 @@ person: mark-badrick
 region: west-midlands
 party: bnp
 title: West Midlands - British National Party - Mark Badrick
+incumbent: false
 ---

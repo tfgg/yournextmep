@@ -9,4 +9,5 @@ person: stuart-mcintyre
 region: scotland
 party: conservative
 title: Scotland - Conservative Party - Stuart Mcintyre
+incumbent: false
 ---

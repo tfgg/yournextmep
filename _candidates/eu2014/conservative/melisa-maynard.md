@@ -9,4 +9,5 @@ person: melisa-maynard
 region: south-west
 party: conservative
 title: South West - Conservative Party - Melisa Maynard
+incumbent: false
 ---

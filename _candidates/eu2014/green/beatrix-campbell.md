@@ -9,4 +9,5 @@ person: beatrix-campbell
 region: south-east
 party: green
 title: South East - Green Party - Beatrix Campbell
+incumbent: false
 ---

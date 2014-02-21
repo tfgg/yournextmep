@@ -9,4 +9,5 @@ person: peter-whittle
 region: london
 party: ukip
 title: London - UKIP - Peter Whittle
+incumbent: false
 ---

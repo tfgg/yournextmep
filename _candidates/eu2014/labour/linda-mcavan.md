@@ -9,4 +9,5 @@ person: linda-mcavan
 region: yorkshire-and-the-humber
 party: labour
 title: Yorkshire and the Humber - Labour Party - Linda McAvan
+incumbent: true
 ---

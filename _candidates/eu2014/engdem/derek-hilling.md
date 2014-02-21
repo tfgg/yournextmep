@@ -9,4 +9,5 @@ person: derek-hilling
 region: west-midlands
 party: engdem
 title: West Midlands - English Democrats - Derek Hilling
+incumbent: false
 ---

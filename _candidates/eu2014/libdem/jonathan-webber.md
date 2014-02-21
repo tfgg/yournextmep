@@ -9,4 +9,5 @@ person: jonathan-webber
 region: west-midlands
 party: libdem
 title: West Midlands - Liberal Democrats - Jonathan Webber
+incumbent: false
 ---

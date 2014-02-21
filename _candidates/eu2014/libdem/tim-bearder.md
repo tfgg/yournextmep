@@ -9,4 +9,5 @@ person: tim-bearder
 region: west-midlands
 party: libdem
 title: West Midlands - Liberal Democrats - Tim Bearder
+incumbent: false
 ---

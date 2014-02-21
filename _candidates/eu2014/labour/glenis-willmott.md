@@ -8,4 +8,6 @@ list-rank-ordinal: 1st
 person: glenis-willmott
 region: east-midlands
 party: labour
+title: East Midlands - Labour Party - Glenis Willmott
+incumbent: true
 ---

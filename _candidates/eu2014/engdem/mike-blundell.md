@@ -9,4 +9,5 @@ person: mike-blundell
 region: south-west
 party: engdem
 title: South West - English Democrats - Mike Blundell
+incumbent: false
 ---

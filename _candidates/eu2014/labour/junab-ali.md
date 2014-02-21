@@ -8,4 +8,6 @@ list-rank-ordinal: 6th
 person: junab-ali
 region: south-west
 party: labour
+title: South West - Labour Party - Junab Ali
+incumbent: false
 ---

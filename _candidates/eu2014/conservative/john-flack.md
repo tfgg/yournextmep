@@ -9,4 +9,5 @@ person: john-flack
 region: eastern
 party: conservative
 title: Eastern - Conservative Party - John Flack
+incumbent: false
 ---
