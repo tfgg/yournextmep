@@ -31,6 +31,7 @@ eastern:
 london:
   - id: jean-lambert
     name: 'Jean Lambert'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/Jean_Lambert
   - id: caroline-allen
     name: 'Caroline Allen'
@@ -138,22 +139,23 @@ yorkshire-and-the-humber:
 
 south-east:
   - id: keith-taylor
-    name: Keith Taylor
+    name: 'Keith Taylor'
+    incumbent: true
   - id: alexandra-phillips
-    name: Alexandra Phillips
+    name: 'Alexandra Phillips'
   - id: derek-wall
-    name: Derek Wall
+    name: 'Derek Wall'
   - id: jason-kitcat
-    name: Jason Kitcat
+    name: 'Jason Kitcat'
   - id: miriam-kennet
-    name: Miriam Kennet
+    name: 'Miriam Kennet'
   - id: beatrix-campbell
-    name: Beatrix Campbell
+    name: 'Beatrix Campbell'
   - id: beverley-golden
-    name: Beverley Golden
+    name: 'Beverley Golden'
   - id: jonathan-essex
-    name: Jonathan Essex
+    name: 'Jonathan Essex'
   - id: jonathan-kent
-    name: Jonathan Kent
+    name: 'Jonathan Kent'
   - id: stuart-jeffrey
-    name: Stuart Jeffrey
+    name: 'Stuart Jeffrey'
