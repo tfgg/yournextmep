@@ -1,6 +1,7 @@
 wales:
   - id: jill-evans
     name: 'Jill Evans'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/Jill_Evans
   - id: marc-jones
     name: 'Marc Jones'
