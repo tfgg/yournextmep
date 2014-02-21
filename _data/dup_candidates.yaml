@@ -1,4 +1,5 @@
 northern-ireland:
   - id: diane-dodds
     name: 'Diane Dodds'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/Diane_Dodds
