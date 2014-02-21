@@ -1,4 +1,5 @@
 northern-ireland:
   - id: jim-nicholson
     name: 'Jim Nicholson'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/Jim_Nicholson_(UK_politician)
