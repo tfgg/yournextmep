@@ -1,6 +1,7 @@
 east-midlands:
   - id: glenis-willmott
     name: 'Glenis Willmott'
+    incumbent: true
   - id: rory-palmer
     name: 'Rory Palmer'
   - id: linda-woodings
@@ -14,6 +15,7 @@ east-midlands:
 eastern:
   - id: richard-howitt
     name: 'Richard Howitt'
+    incumbent: true
   - id: alex-mayer
     name: 'Alex Mayer'
   - id: sandy-martin
@@ -31,8 +33,10 @@ eastern:
 london:
   - id: claude-moraes
     name: 'Claude Moraes'
+    incumbent: true
   - id: mary-honeyball
     name: 'Mary Honeyball'
+    incumbent: true
   - id: lucy-anderson
     name: 'Lucy Anderson'
   - id: seb-dance
@@ -59,6 +63,7 @@ north-east:
 north-west:
   - id: arlene-mccarthy
     name: 'Arlene McCarthy'
+    incumbent: true
   - id: theresa-griffin
     name: 'Theresa Griffin'
   - id: afzal-khan
@@ -78,8 +83,10 @@ north-west:
 scotland:
   - id: david-martin
     name: 'David Martin'
+    incumbent: true
   - id: catherine-stihler
     name: 'Catherine Stihler'
+    incumbent: true
   - id: derek-munn
     name: 'Derek Munn'
   - id: katrina-murray
@@ -129,6 +136,7 @@ south-west:
 wales:
   - id: derek-vaughan
     name: 'Derek Vaughan'
+    incumbent: true
   - id: jayne-bryant
     name: 'Jayne Bryant'
   - id: alex-thomas
@@ -157,6 +165,7 @@ west-midlands:
 yorkshire-and-the-humber:
   - id: linda-mcavan
     name: 'Linda McAvan'
+    incumbent: true
   - id: richard-corbett
     name: 'Richard Corbett'
   - id: eleanor-tunnicliffe
