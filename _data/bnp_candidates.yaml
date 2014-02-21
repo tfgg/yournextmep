@@ -27,6 +27,7 @@ north-west:
   - id: nick-griffin
     name: 'Nick Griffin'
     wikipedia: https://en.wikipedia.org/wiki/Nick_Griffin
+    incumbent: true
 
 
 west-midlands:
