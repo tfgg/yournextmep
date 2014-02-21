@@ -1,4 +1,5 @@
 northern-ireland:
   - id: martina-anderson
     name: 'Martina Anderson'
+    incumbent: true
     wikipedia: https://en.wikipedia.org/wiki/Martina_Anderson
