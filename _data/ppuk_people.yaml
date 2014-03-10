@@ -1,0 +1,27 @@
+maria-aretoulaki:
+  id: maria-aretoulaki
+  name: Maria Aretoulaki
+  email: m.aretoulaki@pirateparty.org.uk
+  links:
+    - url: https://twitter.com/PiratePUKMaria
+      note: Twitter account
+
+    
+george-walkden:
+  id: george-walkden
+  name: George Walkden
+  links:
+    - url: https://twitter.com/gwalkden
+      note: Twitter account
+    - url: http://personalpages.manchester.ac.uk/staff/george.walkden/
+      note: Personal website
+
+
+jack-allnutt:
+  id: jack-allnutt
+  name: Jack Allnutt
+  links:
+    - url: http://allnutt.eu/
+      note: Website
+    - url: https://twitter.com/allnutt_eu
+      note: Twitter account
