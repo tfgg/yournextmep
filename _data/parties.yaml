@@ -6,8 +6,15 @@ alliance:
       url: https://en.wikipedia.org/wiki/Alliance_Party_of_Northern_Ireland
   name: 'Alliance Party of Northern Ireland'
   name_article: 'the Alliance Party of Northern Ireland'
+  wikipedia_biography: 'The Alliance Party of Northern Ireland is a political party
+    in Northern Ireland. It is Northern Ireland''s fifth-largest party overall, with
+    eight seats in the Northern Ireland Assembly and one in the House of Commons.
+    Founded in 1970 from the New Ulster Movement, the Alliance Party originally represented
+    moderate and non-sectarian Unionism. However, over time, particularly in the 1990s,
+    it moved towards neutrality on the Union, and has come to represent wider liberal
+    and non-sectarian concerns.'
 
-    
+
 bnp:
   classification: Party
   founding_date: 1982-1-1
@@ -159,23 +166,21 @@ liberty:
   other_names:
     - name: 'Liberty Great Britain'
 
+
 national-health-action:
   id: national-health-action
-  name: National Health Action Party
-  name_article: "the National Health Action Party"
   links:
-    - note: Wikipedia article
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/National_Health_Action_Party
+  name: 'National Health Action Party'
+  name_article: 'the National Health Action Party'
+  wikipedia_biography: 'The National Health Action Party (NHA) is a political party
+    in England. Founded by former MP Dr Richard Taylor and cancer specialist and chair
+    of the NHS Consultants Association Dr Clive Peedell in May 2012, the party seeks
+    to campaign against changes to the English National Health Service. The party
+    also intends to follow the recommendations of the Health Select Committee''s 2009/10
+    reports, and campaign on deprivation, housing, and public health.'
 
-ppuk:
-  id: ppuk
-  classification: Party
-  founding_date: 2009-07-30
-  name: "Pirate Party UK"
-  name_article: "the Pirate Party (UK)"
-  links:
-    - note: Wikipedia article
-      url: https://en.wikipedia.org/wiki/Pirate_Party_UK
 
 plaid-cymru:
   classification: Party
@@ -192,6 +197,22 @@ plaid-cymru:
     seat in 1966. Plaid Cymru by 2012 had 1 of 4 Welsh seats in the European Parliament,
     3 of 40 Welsh seats in the Parliament of the United Kingdom, 11 of 60 seats in
     the National Assembly for Wales, and 206 of 1,264 principal local authority councillors.'
+
+
+ppuk:
+  classification: Party
+  founding_date: 2009-07-30
+  id: ppuk
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Pirate_Party_UK
+  name: 'Pirate Party UK'
+  name_article: 'the Pirate Party (UK)'
+  wikipedia_biography: 'The Pirate Party UK (often abbreviated PPUK; in Welsh: Plaid
+    Môr-leidr DU) is a political party in the United Kingdom. The Pirate Party''s
+    core policies are to bring about reform to Copyright and Patent laws, support
+    privacy and reduce surveillance from government and businesses, and guarantee
+    genuine freedom of speech for everyone.'
 
 
 sdlp:
