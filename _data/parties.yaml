@@ -167,6 +167,16 @@ national-health-action:
     - note: Wikipedia article
       url: https://en.wikipedia.org/wiki/National_Health_Action_Party
 
+ppuk:
+  id: ppuk
+  classification: Party
+  founding_date: 2009-07-30
+  name: "Pirate Party UK"
+  name_article: "the Pirate Party (UK)"
+  links:
+    - note: Wikipedia article
+      url: https://en.wikipedia.org/wiki/Pirate_Party_UK
+
 plaid-cymru:
   classification: Party
   founding_date: 1925-8-5
