@@ -141,6 +141,14 @@ david-rowlands:
   name: 'David Rowlands'
 
 
+denise-baykal:
+  id: denise-baykal
+  name: Denise Baykal
+  links:
+    - url: https://twitter.com/UKIPCowdenbeath
+      note: Twitter account
+
+
 diane-james:
   id: diane-james
   image: /images/twitter/DianeUKIP.jpg
@@ -226,6 +234,17 @@ henry-reilly:
     it to be a free democratic Country for us all to live in you are my friend'
 
 
+hugh-hatrick:
+  id: hugh-hatrick
+  name: Hugh Hatrick
+  links:
+    - note: Twitter account
+      url: https://twitter.com/hughhatrick
+    - note: Personal Website
+      url: http://www.hughhatrick.com/
+
+
+
 james-carver:
   id: james-carver
   image: /images/twitter/JamesJimCarver.jpg
@@ -266,8 +285,10 @@ janice-atkinson:
     - note: Website
       url: http://votejaniceatkinsonukip.co.uk/
   name: 'Janice Atkinson'
-  summary: 'http://t.co/qeaee4nYfS - PR UKIP member, author of UKIP welfare polices
-    Atkinsonsmallblog@dailymail.co.uk/Daily Express comment pages Former Tory PPC'
+  summary: 'http://t.co/qeaee4nYfS - PR
+ UKIP member, author of UKIP welfare polices
+    Atkinsonsmallblog@dailymail.co.uk/Daily Express comment pages
+ Former Tory PPC'
 
 
 jason-smith:
@@ -407,6 +428,11 @@ malcolm-macaskill:
   name: 'Malcolm Macaskill'
   summary: 'Proud son of the Royal Burgh of Rutherglen - Family and friends, politics,
     law. motorbikes and the Isle of Skye. m@caskill.co.uk'
+
+
+malcolm-mackay:
+  id: malcolm-mackay
+  name: Malcolm Mackay
 
 
 margot-parker:
