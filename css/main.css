@@ -23,13 +23,26 @@ div.front-panel {
   background-position:center center;
   color:white;
   padding:1em;
+  padding-bottom:2em;
+}
+
+div.front-panel p#intro a {
+  color:white;
+  border-bottom: 1px dashed #999;
+}
+
+div.front-panel p#intro {
+  font-size:1.2em;
+  margin-bottom:0.5em;
+  background-color:rgba(0,0,0,0.5);
+  padding:0.25em;
 }
 
 div.front-panel h1 {
   color:white;
   margin:0;
   padding:0;
-  margin-bottom:0.5em;
+  margin-bottom:0.25em;
 }
 
 div.front-panel div.regions a {
