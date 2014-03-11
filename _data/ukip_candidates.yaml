@@ -87,6 +87,16 @@ northern-ireland:
 scotland:
   - id: david-coburn
     name: 'David Coburn'
+  - id: kevin-newton
+    name: 'Kevin Newton'
+  - id: otto-inglis
+    name: 'Otto Inglis'
+  - id: denise-baykal
+    name: 'Denise Baykal'
+  - id: hugh-hatrick
+    name: 'Hugh Hatrick'
+  - id: malcolm-mackay
+    name: 'Malcolm Mackay'
 
 
 south-east:
