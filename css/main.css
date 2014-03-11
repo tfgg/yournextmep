@@ -17,6 +17,27 @@ div.footer {
   padding-top:1em;
 }
 
+/* Front page */
+div.front-panel {
+  background:url("/images/frontpage_bg.jpg");
+  background-position:center center;
+  color:white;
+  padding:1em;
+}
+
+div.front-panel h1 {
+  color:white;
+  margin:0;
+  padding:0;
+  margin-bottom:0.5em;
+}
+
+div.front-panel div.regions a {
+  display:block;
+  float:left;
+  margin:0.25em;
+}
+
 /* Candidate pages */
 img.profile-image {
   width:100%;

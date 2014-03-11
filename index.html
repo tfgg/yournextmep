@@ -18,8 +18,9 @@ $(document).ready(function(){
 });
 </script>
 
-<div class="row">
-  <div class="col-md-12">
+<div class="row front-panel">
+  <div class="col-md-5 postcode">
+    <h1>Find your MEP candidates</h1>
     <form action='/api/postcode' method='POST' role="form" class='form-inline' id='postcode-form'>
       <div class="form-group">
         <label class="sr-only" for="postcode">Postcode</label>
@@ -28,13 +29,11 @@ $(document).ready(function(){
       <button type="submit" class="btn btn-default">Find region</button>
     </form>
   </div>
-  <div class="col-md-12">
+  <div class="col-md-7 regions">
     <h1>UK EU election regions</h1>
-    <ul class="regions">
       {% for region in site.pages %}{% if region.layout == 'region' %}
-          <li><a href="{{ region.url }}">{{ region.title }}</a></li>
+      <a class='btn btn-default' href="{{ region.url }}">{{ region.title }}</a>
       {% endif %}{% endfor %}
-    </ul>
   </div>
 </div>
 
