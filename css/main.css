@@ -17,6 +17,10 @@ div.footer {
   padding-top:1em;
 }
 
+div.reminder {
+  text-align:right;
+}
+
 /* Front page */
 div.front-panel {
   background:url("/images/frontpage_bg.jpg");

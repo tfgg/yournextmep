@@ -1,0 +1,15 @@
+{% extends "page.html" %}
+
+{% block title %}Subscription confirmation error{% endblock %}
+
+{% block content %}
+  <div class='container'>
+      <div class='row'>
+          <div class='col-xs-8'>
+              <h1>Uh oh</h1>
+              <p>We couldn't confirm your subscription. Did you enter the link correctly? If it's still not working, please contact us at <a href='mailto:{{ CONTACT_EMAIL }}'>{{ CONTACT_EMAIL }}</a>.</p>
+          </div>
+      </div>
+  </div>
+{% endblock %}
+

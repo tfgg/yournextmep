@@ -1,0 +1,30 @@
+{% extends "page.html" %}
+
+{% block title %}Subscribe to future updates{% endblock %}
+
+{% block content %}
+  <div class='container'>
+      <div class='row'>
+          <div class='col-xs-8'>
+              <h1>Unsubscribe {{ doc.email_address }}</h1>
+              <p>Thanks for letting us know that you want to unsubscribe. Please click below to unsubscribe. In addition, if you want to, we'd also love to hear any feedback you might have.</p>
+              
+              <form action="{{ url_for('unsubscribe_by_token', unsubscribe_token=doc.unsubscribe_token) }}" method="post" role="form">
+                <input type='hidden' name='confirm' value='yes'/>
+                <div class="form-group"> 
+                  <button type="submit" name="submit" class="btn btn-danger">just unsubscribe me</button>
+                </div>
+
+                <div class="form-group {% if email_error %}has-error{% endif %}">
+                  <label for="feedback">Feedback</label>
+                  <textarea type="text" class="form-control" placeholder="Write feedback here (optional)" name="feedback" rows="3"></textarea>
+                </div>
+                <div class="form-group"> 
+                  <button type="submit" name="submit" class="btn btn-default">unsubscribe and send feedback</button>
+                </div>
+              </form>
+          </div>
+      </div>
+  </div>
+{% endblock %}
+

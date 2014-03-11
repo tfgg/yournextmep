@@ -1,0 +1,12 @@
+{% if doc.name %}Hi {{ doc.name }}!{% else %}Hi!{% endif %}
+
+One last thing to do, click the link below or copy it into your browser to confirm that this is your email address:
+
+{{ BASE_URL }}{{ url_for('confirm', confirmation_token=doc.confirmation_token) }}
+
+Thanks,
+
+Tim
+
+If you didn't sign up or have changed your mind just click here to unsubscribe: {{ BASE_URL }}{{ url_for('unsubscribe_by_token', unsubscribe_token=doc.unsubscribe_token) }}
+

@@ -1,0 +1,29 @@
+{% extends "page.html" %}
+
+{% block title %}Subscribe to future updates{% endblock %}
+
+{% block content %}
+  <div class='container'>
+      <div class='row'>
+          <div class='col-xs-8'>
+              <h1>Subscribe to future updates from us</h1>
+              <p>Stick your email address in below if you want to occasionally hear about more things like this in the future. You can unsubscribe at any time and we won't give anyone else your information.</p>
+              <p>If you want, you can provide a bit more information about yourself so we know who's interested!</p>
+              
+              {% if message %}
+                <p class="text-danger">{{ message }}</p>
+              {% endif %}
+
+              <form action="{{ url_for('subscribe') }}" method="post" role="form">
+                <div class="form-group {% if email_error %}has-error{% endif %}">
+                  <label for="email">Email address</label> <input type="text" class="form-control" placeholder="Enter email address" {% if email_address %}value="{{ email_address }}"{% endif %} name="email"/>
+                </div>
+                <div class="form-group"> 
+                  <button type="submit" name="submit" class="btn btn-success">subscribe</button>
+                </div>
+              </form>
+          </div>
+      </div>
+  </div>
+{% endblock %}
+
