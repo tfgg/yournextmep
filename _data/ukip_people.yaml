@@ -143,10 +143,12 @@ david-rowlands:
 
 denise-baykal:
   id: denise-baykal
-  name: Denise Baykal
+  image: /images/twitter/UKIPCowdenbeath.jpg
   links:
-    - url: https://twitter.com/UKIPCowdenbeath
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/UKIPCowdenbeath
+  name: 'Denise Baykal'
+  summary: 'The UKIP Candidate for the Cowdenbeath By-Election 2014.'
 
 
 diane-james:
@@ -161,15 +163,15 @@ diane-james:
 
 donna-edmunds:
   id: donna-edmunds
-  image: /images/twitter/DonnaInSussex.jpg
+  image: /images/twitter/DonnaInSussex.png
   links:
     - note: Website
       url: http://www.donnaedmunds.com/
     - note: 'Twitter account'
       url: https://twitter.com/DonnaInSussex
   name: 'Donna Edmunds'
-  summary: 'UKIP shortlisted MEP candidate for the SE region. Founder and Editor of
-    @UKIPDaily'
+  summary: 'UKIP shortlisted MEP candidate for the SE region. UKIP PPC for Lewes constituency.
+    Founder and Editor of @UKIPDaily'
 
 
 elizabeth-jones:
@@ -236,13 +238,14 @@ henry-reilly:
 
 hugh-hatrick:
   id: hugh-hatrick
-  name: Hugh Hatrick
+  image: /images/twitter/hughhatrick.jpg
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/hughhatrick
-    - note: Personal Website
+    - note: 'Personal Website'
       url: http://www.hughhatrick.com/
-
+  name: 'Hugh Hatrick'
+  summary: 'Just moved to the Scottish Borders with my wife and family'
 
 
 james-carver:
@@ -285,10 +288,8 @@ janice-atkinson:
     - note: Website
       url: http://votejaniceatkinsonukip.co.uk/
   name: 'Janice Atkinson'
-  summary: 'http://t.co/qeaee4nYfS - PR
- UKIP member, author of UKIP welfare polices
-    Atkinsonsmallblog@dailymail.co.uk/Daily Express comment pages
- Former Tory PPC'
+  summary: 'http://t.co/qeaee4nYfS - PR UKIP member, author of UKIP welfare polices
+    Atkinsonsmallblog@dailymail.co.uk/Daily Express comment pages Former Tory PPC'
 
 
 jason-smith:
@@ -426,13 +427,14 @@ malcolm-macaskill:
     - note: 'Twitter account'
       url: https://twitter.com/m_macaskill
   name: 'Malcolm Macaskill'
-  summary: 'Proud son of the Royal Burgh of Rutherglen - Family and friends, politics,
-    law. motorbikes and the Isle of Skye. m@caskill.co.uk'
+  summary: 'Political Nomad - Proud son of The Royal Burgh of Rutherglen - Family
+    & Friends - Business - Law - Motorbikes - Skye - Whisky & Ginger Ale with far
+    too much Ice'
 
 
 malcolm-mackay:
   id: malcolm-mackay
-  name: Malcolm Mackay
+  name: 'Malcolm Mackay'
 
 
 margot-parker:
@@ -550,7 +552,7 @@ nathan-gill:
 
 nigel-farage:
   id: nigel-farage
-  image: /images/twitter/Nigel_Farage.jpg
+  image: /images/twitter/Nigel_Farage.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Nigel_Farage

@@ -28,10 +28,12 @@ jack-allnutt:
 maria-aretoulaki:
   email: m.aretoulaki@pirateparty.org.uk
   id: maria-aretoulaki
-  image: /images/twitter/PiratePUKMaria.png
+  image: /images/other/maria-aretoulaki.jpg
   links:
     - note: 'Twitter account'
       url: https://twitter.com/PiratePUKMaria
+    - note: PPUK profile
+      url: http://www.pirateparty.org.uk/blog/2014/mar/1/prospective-eu-candidate-maria-aretoulaki/
   name: 'Maria Aretoulaki'
   summary: '@PiratePartyUK 2014 European Candidate (Northwest), 2012 Manchester Council
     Candidate: digital rights+inclusion, participatory democracy. Tweets in EN/DE/EL/FR'
