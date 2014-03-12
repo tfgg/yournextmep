@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: george-walkden
 region: north-west
 party: ppuk
-title: North West - Pirate Party UK - George Walkden
+title: George Walkden is running for MEP in North West for the Pirate Party (UK)
 incumbent: false
 ---

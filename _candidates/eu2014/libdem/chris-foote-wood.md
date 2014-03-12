@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: chris-foote-wood
 region: yorkshire-and-the-humber
 party: libdem
-title: Yorkshire and the Humber - Liberal Democrats - Chris Foote-Wood
+title: Chris Foote-Wood is running for MEP in Yorkshire and the Humber for the Liberal Democrats
 incumbent: false
 ---

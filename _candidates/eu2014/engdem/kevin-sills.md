@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: kevin-sills
 region: east-midlands
 party: engdem
-title: East Midlands - English Democrats - Kevin Sills
+title: Kevin Sills is running for MEP in East Midlands for the English Democrats
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 8th
 person: matt-mclaren
 region: london
 party: libdem
-title: London - Liberal Democrats - Matt McLaren
+title: Matt McLaren is running for MEP in London for the Liberal Democrats
 incumbent: false
 ---

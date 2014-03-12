@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: angeliki-stogia
 region: north-west
 party: labour
-title: North West - Labour Party - Angeliki Stogia
+title: Angeliki Stogia is running for MEP in North West for the Labour Party
 incumbent: false
 ---

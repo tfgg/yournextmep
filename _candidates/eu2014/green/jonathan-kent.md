@@ -8,6 +8,6 @@ list-rank-ordinal: 9th
 person: jonathan-kent
 region: south-east
 party: green
-title: South East - Green Party - Jonathan Kent
+title: Jonathan Kent is running for MEP in South East for the Green Party
 incumbent: false
 ---

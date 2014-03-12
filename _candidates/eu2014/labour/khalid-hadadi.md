@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: khalid-hadadi
 region: east-midlands
 party: labour
-title: East Midlands - Labour Party - Khalid Hadadi
+title: Khalid Hadadi is running for MEP in East Midlands for the Labour Party
 incumbent: false
 ---

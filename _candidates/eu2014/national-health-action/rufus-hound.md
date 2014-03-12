@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: rufus-hound
 region: london
 party: national-health-action
-title: London - National Health Action Party - Rufus Hound
+title: Rufus Hound is running for MEP in London for the National Health Action Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 8th
 person: pascale-lamb
 region: north-west
 party: labour
-title: North West - Labour Party - Pascale Lamb
+title: Pascale Lamb is running for MEP in North West for the Labour Party
 incumbent: false
 ---

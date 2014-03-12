@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: mike-russell
 region: south-east
 party: engdem
-title: South East - English Democrats - Mike Russell
+title: Mike Russell is running for MEP in South East for the English Democrats
 incumbent: false
 ---

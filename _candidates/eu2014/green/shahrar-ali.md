@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: shahrar-ali
 region: london
 party: green
-title: London - Green Party - Shahrar Ali
+title: Shahrar Ali is running for MEP in London for the Green Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: peter-cranie
 region: north-west
 party: green
-title: North West - Green Party - Peter Cranie
+title: Peter Cranie is running for MEP in North West for the Green Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 8th
 person: jake-welsh
 region: north-west
 party: green
-title: North West - Green Party - Jake Welsh
+title: Jake Welsh is running for MEP in North West for the Green Party
 incumbent: false
 ---

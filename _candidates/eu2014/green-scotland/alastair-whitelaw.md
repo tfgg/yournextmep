@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: alastair-whitelaw
 region: scotland
 party: green-scotland
-title: Scotland - Scottish Green Party - Alastair Whitelaw
+title: Alastair Whitelaw is running for MEP in Scotland for the Scottish Green Party
 incumbent: false
 ---

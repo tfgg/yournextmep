@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: gary-shores
 region: yorkshire-and-the-humber
 party: ukip
-title: Yorkshire and the Humber - UKIP - Gary Shores
+title: Gary Shores is running for MEP in Yorkshire and the Humber for UKIP
 incumbent: false
 ---

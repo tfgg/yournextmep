@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: denise-craghill
 region: yorkshire-and-the-humber
 party: green
-title: Yorkshire and the Humber - Green Party - Denise Craghill
+title: Denise Craghill is running for MEP in Yorkshire and the Humber for the Green Party
 incumbent: false
 ---

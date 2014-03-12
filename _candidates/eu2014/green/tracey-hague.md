@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: tracey-hague
 region: london
 party: green
-title: London - Green Party - Tracey Hague
+title: Tracey Hague is running for MEP in London for the Green Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: tony-ethapemi
 region: west-midlands
 party: labour
-title: West Midlands - Labour Party - Tony Ethapemi
+title: Tony Ethapemi is running for MEP in West Midlands for the Labour Party
 incumbent: false
 ---

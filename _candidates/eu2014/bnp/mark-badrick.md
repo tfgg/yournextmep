@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: mark-badrick
 region: west-midlands
 party: bnp
-title: West Midlands - British National Party - Mark Badrick
+title: Mark Badrick is running for MEP in West Midlands for the British National Party
 incumbent: false
 ---

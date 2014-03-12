@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: angelika-schneider
 region: north-east
 party: libdem
-title: North East - Liberal Democrats - Angelika Schneider
+title: Angelika Schneider is running for MEP in North East for the Liberal Democrats
 incumbent: false
 ---

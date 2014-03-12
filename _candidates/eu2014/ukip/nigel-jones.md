@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: nigel-jones
 region: south-east
 party: ukip
-title: South East - UKIP - Nigel Jones
+title: Nigel Jones is running for MEP in South East for UKIP
 incumbent: false
 ---

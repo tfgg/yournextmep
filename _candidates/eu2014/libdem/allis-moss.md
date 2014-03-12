@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: allis-moss
 region: south-east
 party: libdem
-title: South East - Liberal Democrats - Allis Moss
+title: Allis Moss is running for MEP in South East for the Liberal Democrats
 incumbent: false
 ---

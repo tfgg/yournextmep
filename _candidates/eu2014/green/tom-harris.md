@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: tom-harris
 region: west-midlands
 party: green
-title: West Midlands - Green Party - Tom Harris
+title: Tom Harris is running for MEP in West Midlands for the Green Party
 incumbent: false
 ---

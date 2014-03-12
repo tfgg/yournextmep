@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: glyn-chambers
 region: london
 party: conservative
-title: London - Conservative Party - Glyn Chambers
+title: Glyn Chambers is running for MEP in London for the Conservative Party
 incumbent: false
 ---

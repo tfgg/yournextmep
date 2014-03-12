@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: david-coburn
 region: scotland
 party: ukip
-title: Scotland - UKIP - David Coburn
+title: David Coburn is running for MEP in Scotland for UKIP
 incumbent: false
 ---

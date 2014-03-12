@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: alexandra-phillips
 region: south-east
 party: green
-title: South East - Green Party - Alexandra Phillips
+title: Alexandra Phillips is running for MEP in South East for the Green Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: jonathan-arnott
 region: north-east
 party: ukip
-title: North East - UKIP - Jonathan Arnott
+title: Jonathan Arnott is running for MEP in North East for UKIP
 incumbent: false
 ---

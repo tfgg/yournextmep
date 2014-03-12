@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: seb-dance
 region: london
 party: labour
-title: London - Labour Party - Seb Dance
+title: Seb Dance is running for MEP in London for the Labour Party
 incumbent: false
 ---

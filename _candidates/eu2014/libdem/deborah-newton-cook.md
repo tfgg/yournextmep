@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: deborah-newton-cook
 region: east-midlands
 party: libdem
-title: East Midlands - Liberal Democrats - Deborah Newton-Cook
+title: Deborah Newton-Cook is running for MEP in East Midlands for the Liberal Democrats
 incumbent: false
 ---

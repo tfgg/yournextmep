@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: shan-oakes
 region: yorkshire-and-the-humber
 party: green
-title: Yorkshire and the Humber - Green Party - Shan Oakes
+title: Shan Oakes is running for MEP in Yorkshire and the Humber for the Green Party
 incumbent: false
 ---

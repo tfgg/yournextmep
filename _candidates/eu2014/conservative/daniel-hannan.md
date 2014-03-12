@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: daniel-hannan
 region: south-east
 party: conservative
-title: South East - Conservative Party - Daniel Hannan
+title: Daniel Hannan is running for MEP in South East for the Conservative Party
 incumbent: true
 ---

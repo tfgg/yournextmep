@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: brian-matthew
 region: south-west
 party: libdem
-title: South West - Liberal Democrats - Brian Matthew
+title: Brian Matthew is running for MEP in South West for the Liberal Democrats
 incumbent: false
 ---

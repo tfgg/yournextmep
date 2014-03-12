@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: simon-noble
 region: north-west
 party: ukip
-title: North West - UKIP - Simon Noble
+title: Simon Noble is running for MEP in North West for UKIP
 incumbent: false
 ---

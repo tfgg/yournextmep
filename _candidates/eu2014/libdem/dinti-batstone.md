@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: dinti-batstone
 region: south-east
 party: libdem
-title: South East - Liberal Democrats - Dinti Batstone
+title: Dinti Batstone is running for MEP in South East for the Liberal Democrats
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: henry-gent
 region: south-west
 party: green
-title: South West - Green Party - Henry Gent
+title: Henry Gent is running for MEP in South West for the Green Party
 incumbent: false
 ---

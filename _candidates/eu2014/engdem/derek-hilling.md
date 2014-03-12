@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: derek-hilling
 region: west-midlands
 party: engdem
-title: West Midlands - English Democrats - Derek Hilling
+title: Derek Hilling is running for MEP in West Midlands for the English Democrats
 incumbent: false
 ---

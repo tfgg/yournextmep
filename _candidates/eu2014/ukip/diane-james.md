@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: diane-james
 region: south-east
 party: ukip
-title: South East - UKIP - Diane James
+title: Diane James is running for MEP in South East for UKIP
 incumbent: false
 ---

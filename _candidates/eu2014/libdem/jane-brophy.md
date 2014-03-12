@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: jane-brophy
 region: north-west
 party: libdem
-title: North West - Liberal Democrats - Jane Brophy
+title: Jane Brophy is running for MEP in North West for the Liberal Democrats
 incumbent: false
 ---

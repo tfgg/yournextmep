@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: mike-hookem
 region: yorkshire-and-the-humber
 party: ukip
-title: Yorkshire and the Humber - UKIP - Mike Hookem
+title: Mike Hookem is running for MEP in Yorkshire and the Humber for UKIP
 incumbent: false
 ---

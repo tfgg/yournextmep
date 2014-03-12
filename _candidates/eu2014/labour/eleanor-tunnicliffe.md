@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: eleanor-tunnicliffe
 region: yorkshire-and-the-humber
 party: labour
-title: Yorkshire and the Humber - Labour Party - Eleanor Tunnicliffe
+title: Eleanor Tunnicliffe is running for MEP in Yorkshire and the Humber for the Labour Party
 incumbent: false
 ---

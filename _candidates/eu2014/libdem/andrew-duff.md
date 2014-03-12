@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: andrew-duff
 region: eastern
 party: libdem
-title: Eastern - Liberal Democrats - Andrew Duff
+title: Andrew Duff is running for MEP in Eastern for the Liberal Democrats
 incumbent: true
 ---

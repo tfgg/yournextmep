@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: chris-were
 region: wales
 party: green
-title: Wales - Green Party - Chris Were
+title: Chris Were is running for MEP in Wales for the Green Party
 incumbent: false
 ---

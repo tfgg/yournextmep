@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: keith-crawford
 region: south-west
 party: ukip
-title: South West - UKIP - Keith Crawford
+title: Keith Crawford is running for MEP in South West for UKIP
 incumbent: false
 ---

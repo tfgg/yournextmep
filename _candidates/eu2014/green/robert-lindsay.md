@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: robert-lindsay
 region: eastern
 party: green
-title: Eastern - Green Party - Robert Lindsay
+title: Robert Lindsay is running for MEP in Eastern for the Green Party
 incumbent: false
 ---

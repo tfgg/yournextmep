@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: jayne-bryant
 region: wales
 party: labour
-title: Wales - Labour Party - Jayne Bryant
+title: Jayne Bryant is running for MEP in Wales for the Labour Party
 incumbent: false
 ---

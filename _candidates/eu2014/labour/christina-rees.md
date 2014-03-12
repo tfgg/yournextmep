@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: christina-rees
 region: wales
 party: labour
-title: Wales - Labour Party - Christina Rees
+title: Christina Rees is running for MEP in Wales for the Labour Party
 incumbent: false
 ---

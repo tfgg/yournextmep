@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: richard-davis
 region: london
 party: libdem
-title: London - Liberal Democrats - Richard Davis
+title: Richard Davis is running for MEP in London for the Liberal Democrats
 incumbent: false
 ---

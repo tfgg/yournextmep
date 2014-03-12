@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: duncan-kerr
 region: west-midlands
 party: green
-title: West Midlands - Green Party - Duncan Kerr
+title: Duncan Kerr is running for MEP in West Midlands for the Green Party
 incumbent: false
 ---

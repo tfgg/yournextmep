@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: gawain-towler
 region: south-west
 party: ukip
-title: South West - UKIP - Gawain Towler
+title: Gawain Towler is running for MEP in South West for UKIP
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: bill-newton-dunn
 region: east-midlands
 party: libdem
-title: East Midlands - Liberal Democrats - Bill Newton Dunn
+title: Bill Newton Dunn is running for MEP in East Midlands for the Liberal Democrats
 incumbent: true
 ---

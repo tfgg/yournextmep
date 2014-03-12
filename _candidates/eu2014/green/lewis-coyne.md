@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: lewis-coyne
 region: north-west
 party: green
-title: North West - Green Party - Lewis Coyne
+title: Lewis Coyne is running for MEP in North West for the Green Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: anna-white
 region: wales
 party: libdem
-title: Wales - Liberal Democrats - Anna White
+title: Anna White is running for MEP in Wales for the Liberal Democrats
 incumbent: false
 ---

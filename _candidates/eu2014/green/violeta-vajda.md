@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: violeta-vajda
 region: london
 party: green
-title: London - Green Party - Violeta Vajda
+title: Violeta Vajda is running for MEP in London for the Green Party
 incumbent: false
 ---

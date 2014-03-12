@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: hugh-hatrick
 region: scotland
 party: ukip
-title: Scotland - UKIP - Hugh Hatrick
+title: Hugh Hatrick is running for MEP in Scotland for UKIP
 incumbent: false
 ---

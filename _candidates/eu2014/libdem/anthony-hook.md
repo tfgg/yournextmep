@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: anthony-hook
 region: south-east
 party: libdem
-title: South East - Liberal Democrats - Anthony Hook
+title: Anthony Hook is running for MEP in South East for the Liberal Democrats
 incumbent: false
 ---

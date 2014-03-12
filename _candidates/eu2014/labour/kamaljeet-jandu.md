@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: kamaljeet-jandu
 region: london
 party: labour
-title: London - Labour Party - Kamaljeet Jandu
+title: Kamaljeet Jandu is running for MEP in London for the Labour Party
 incumbent: false
 ---

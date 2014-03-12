@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: danny-bates
 region: london
 party: green
-title: London - Green Party - Danny Bates
+title: Danny Bates is running for MEP in London for the Green Party
 incumbent: false
 ---

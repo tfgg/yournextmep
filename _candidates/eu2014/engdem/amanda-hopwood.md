@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: amanda-hopwood
 region: south-east
 party: engdem
-title: South East - English Democrats - Amanda Hopwood
+title: Amanda Hopwood is running for MEP in South East for the English Democrats
 incumbent: false
 ---

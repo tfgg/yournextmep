@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: michael-green
 region: eastern
 party: libdem
-title: Eastern - Liberal Democrats - Michael Green
+title: Michael Green is running for MEP in Eastern for the Liberal Democrats
 incumbent: false
 ---

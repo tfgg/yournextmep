@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: james-cracknell
 region: south-west
 party: conservative
-title: South West - Conservative Party - James Cracknell
+title: James Cracknell is running for MEP in South West for the Conservative Party
 incumbent: false
 ---

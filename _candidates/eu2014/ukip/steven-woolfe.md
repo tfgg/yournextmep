@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: steven-woolfe
 region: north-west
 party: ukip
-title: North West - UKIP - Steven Woolfe
+title: Steven Woolfe is running for MEP in North West for UKIP
 incumbent: false
 ---

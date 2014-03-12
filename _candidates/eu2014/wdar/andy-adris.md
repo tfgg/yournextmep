@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: andy-adris
 region: west-midlands
 party: wdar
-title: West Midlands - We Demand a Referendum - Andy Adris
+title: Andy Adris is running for MEP in West Midlands for We Demand a Referendum
 incumbent: false
 ---

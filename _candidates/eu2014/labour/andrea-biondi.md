@@ -8,6 +8,6 @@ list-rank-ordinal: 8th
 person: andrea-biondi
 region: london
 party: labour
-title: London - Labour Party - Andrea Biondi
+title: Andrea Biondi is running for MEP in London for the Labour Party
 incumbent: false
 ---

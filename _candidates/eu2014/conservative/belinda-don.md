@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: belinda-don
 region: scotland
 party: conservative
-title: Scotland - Conservative Party - Belinda Don
+title: Belinda Don is running for MEP in Scotland for the Conservative Party
 incumbent: false
 ---

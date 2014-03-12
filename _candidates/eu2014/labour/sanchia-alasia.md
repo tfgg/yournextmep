@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: sanchia-alasia
 region: london
 party: labour
-title: London - Labour Party - Sanchia Alasia
+title: Sanchia Alasia is running for MEP in London for the Labour Party
 incumbent: false
 ---

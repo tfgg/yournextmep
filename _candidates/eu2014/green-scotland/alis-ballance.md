@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: alis-ballance
 region: scotland
 party: green-scotland
-title: Scotland - Scottish Green Party - Alis Ballance
+title: Alis Ballance is running for MEP in Scotland for the Scottish Green Party
 incumbent: false
 ---

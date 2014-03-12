@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: jonathan-webber
 region: west-midlands
 party: libdem
-title: West Midlands - Liberal Democrats - Jonathan Webber
+title: Jonathan Webber is running for MEP in West Midlands for the Liberal Democrats
 incumbent: false
 ---

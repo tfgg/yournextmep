@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: miriam-kennet
 region: south-east
 party: green
-title: South East - Green Party - Miriam Kennet
+title: Miriam Kennet is running for MEP in South East for the Green Party
 incumbent: false
 ---

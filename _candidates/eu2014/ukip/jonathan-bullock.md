@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: jonathan-bullock
 region: east-midlands
 party: ukip
-title: East Midlands - UKIP - Jonathan Bullock
+title: Jonathan Bullock is running for MEP in East Midlands for UKIP
 incumbent: false
 ---

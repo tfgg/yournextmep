@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: andy-monk
 region: eastern
 party: ukip
-title: Eastern - UKIP - Andy Monk
+title: Andy Monk is running for MEP in Eastern for UKIP
 incumbent: false
 ---

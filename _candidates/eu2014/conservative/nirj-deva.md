@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: nirj-deva
 region: south-east
 party: conservative
-title: South East - Conservative Party - Nirj Deva
+title: Nirj Deva is running for MEP in South East for the Conservative Party
 incumbent: true
 ---

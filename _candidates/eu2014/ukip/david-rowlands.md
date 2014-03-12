@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: david-rowlands
 region: wales
 party: ukip
-title: Wales - UKIP - David Rowlands
+title: David Rowlands is running for MEP in Wales for UKIP
 incumbent: false
 ---

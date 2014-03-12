@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: alex-mayer
 region: eastern
 party: labour
-title: Eastern - Labour Party - Alex Mayer
+title: Alex Mayer is running for MEP in Eastern for the Labour Party
 incumbent: false
 ---

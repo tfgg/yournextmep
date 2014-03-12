@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: nigel-wickens
 region: east-midlands
 party: ukip
-title: East Midlands - UKIP - Nigel Wickens
+title: Nigel Wickens is running for MEP in East Midlands for UKIP
 incumbent: false
 ---

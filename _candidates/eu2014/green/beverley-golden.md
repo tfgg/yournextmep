@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: beverley-golden
 region: south-east
 party: green
-title: South East - Green Party - Beverley Golden
+title: Beverley Golden is running for MEP in South East for the Green Party
 incumbent: false
 ---

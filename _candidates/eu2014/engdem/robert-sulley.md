@@ -8,6 +8,6 @@ list-rank-ordinal: 9th
 person: robert-sulley
 region: south-east
 party: engdem
-title: South East - English Democrats - Robert Sulley
+title: Robert Sulley is running for MEP in South East for the English Democrats
 incumbent: false
 ---

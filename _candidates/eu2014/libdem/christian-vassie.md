@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: christian-vassie
 region: north-east
 party: libdem
-title: North East - Liberal Democrats - Christian Vassie
+title: Christian Vassie is running for MEP in North East for the Liberal Democrats
 incumbent: false
 ---

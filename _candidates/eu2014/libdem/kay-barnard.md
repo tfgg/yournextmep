@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: kay-barnard
 region: south-west
 party: libdem
-title: South West - Liberal Democrats - Kay Barnard
+title: Kay Barnard is running for MEP in South West for the Liberal Democrats
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: helen-mirfin-boukouris
 region: yorkshire-and-the-humber
 party: labour
-title: Yorkshire and the Humber - Labour Party - Helen Mirfin-Boukouris
+title: Helen Mirfin-Boukouris is running for MEP in Yorkshire and the Humber for the Labour Party
 incumbent: false
 ---

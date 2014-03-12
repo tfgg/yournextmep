@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: jason-smith
 region: yorkshire-and-the-humber
 party: ukip
-title: Yorkshire and the Humber - UKIP - Jason Smith
+title: Jason Smith is running for MEP in Yorkshire and the Humber for UKIP
 incumbent: false
 ---

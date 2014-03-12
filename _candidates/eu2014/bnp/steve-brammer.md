@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: steve-brammer
 region: east-midlands
 party: bnp
-title: East Midlands - British National Party - Steve Brammer
+title: Steve Brammer is running for MEP in East Midlands for the British National Party
 incumbent: false
 ---

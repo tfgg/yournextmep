@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: laura-bannister
 region: north-west
 party: green
-title: North West - Green Party - Laura Bannister
+title: Laura Bannister is running for MEP in North West for the Green Party
 incumbent: false
 ---

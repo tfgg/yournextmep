@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: kenneth-griffiths
 region: west-midlands
 party: bnp
-title: West Midlands - British National Party - Kenneth Griffiths
+title: Kenneth Griffiths is running for MEP in West Midlands for the British National Party
 incumbent: false
 ---

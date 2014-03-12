@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: nikki-sinclaire
 region: west-midlands
 party: wdar
-title: West Midlands - We Demand a Referendum - Nikki Sinclaire
+title: Nikki Sinclaire is running for MEP in West Midlands for We Demand a Referendum
 incumbent: true
 ---

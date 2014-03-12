@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: melisa-maynard
 region: south-west
 party: conservative
-title: South West - Conservative Party - Melisa Maynard
+title: Melisa Maynard is running for MEP in South West for the Conservative Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: derek-wall
 region: south-east
 party: green
-title: South East - Green Party - Derek Wall
+title: Derek Wall is running for MEP in South East for the Green Party
 incumbent: false
 ---

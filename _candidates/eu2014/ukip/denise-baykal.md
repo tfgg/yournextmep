@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: denise-baykal
 region: scotland
 party: ukip
-title: Scotland - UKIP - Denise Baykal
+title: Denise Baykal is running for MEP in Scotland for UKIP
 incumbent: false
 ---

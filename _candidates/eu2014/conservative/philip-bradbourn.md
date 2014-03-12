@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: philip-bradbourn
 region: west-midlands
 party: conservative
-title: West Midlands - Conservative Party - Philip Bradbourn
+title: Philip Bradbourn is running for MEP in West Midlands for the Conservative Party
 incumbent: true
 ---

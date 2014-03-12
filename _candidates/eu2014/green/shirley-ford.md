@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: shirley-ford
 region: north-east
 party: green
-title: North East - Green Party - Shirley Ford
+title: Shirley Ford is running for MEP in North East for the Green Party
 incumbent: false
 ---

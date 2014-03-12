@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: lisa-strachan
 region: scotland
 party: libdem
-title: Scotland - Liberal Democrats - Lisa Strachan
+title: Lisa Strachan is running for MEP in Scotland for the Liberal Democrats
 incumbent: false
 ---

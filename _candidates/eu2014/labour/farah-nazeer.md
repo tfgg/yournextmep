@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: farah-nazeer
 region: south-east
 party: labour
-title: South East - Labour Party - Farah Nazeer
+title: Farah Nazeer is running for MEP in South East for the Labour Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 8th
 person: mike-tibby
 region: south-east
 party: engdem
-title: South East - English Democrats - Mike Tibby
+title: Mike Tibby is running for MEP in South East for the English Democrats
 incumbent: false
 ---

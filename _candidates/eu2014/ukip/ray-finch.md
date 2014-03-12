@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: ray-finch
 region: south-east
 party: ukip
-title: South East - UKIP - Ray Finch
+title: Ray Finch is running for MEP in South East for UKIP
 incumbent: false
 ---

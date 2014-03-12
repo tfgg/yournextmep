@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: andrew-mcneilis
 region: london
 party: ukip
-title: London - UKIP - Andrew McNeilis
+title: Andrew McNeilis is running for MEP in London for UKIP
 incumbent: false
 ---

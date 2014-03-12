@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: michael-naughton
 region: yorkshire-and-the-humber
 party: conservative
-title: Yorkshire and the Humber - Conservative Party - Michael Naughton
+title: Michael Naughton is running for MEP in Yorkshire and the Humber for the Conservative Party
 incumbent: false
 ---

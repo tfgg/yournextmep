@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: stephen-cornelius
 region: wales
 party: plaid-cymru
-title: Wales - Plaid Cymru - Stephen Cornelius
+title: Stephen Cornelius is running for MEP in Wales for Plaid Cymru
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: patrick-oflynn
 region: eastern
 party: ukip
-title: Eastern - UKIP - Patrick O'Flynn
+title: Patrick O'Flynn is running for MEP in Eastern for UKIP
 incumbent: false
 ---

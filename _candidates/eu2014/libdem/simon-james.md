@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: simon-james
 region: london
 party: libdem
-title: London - Liberal Democrats - Simon James
+title: Simon James is running for MEP in London for the Liberal Democrats
 incumbent: false
 ---

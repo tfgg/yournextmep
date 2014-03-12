@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: dan-boucher
 region: wales
 party: conservative
-title: Wales - Conservative Party - Dan Boucher
+title: Dan Boucher is running for MEP in Wales for the Conservative Party
 incumbent: false
 ---

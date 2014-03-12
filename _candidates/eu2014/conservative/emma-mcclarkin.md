@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: emma-mcclarkin
 region: east-midlands
 party: conservative
-title: East Midlands - Conservative Party - Emma McClarkin
+title: Emma McClarkin is running for MEP in East Midlands for the Conservative Party
 incumbent: true
 ---

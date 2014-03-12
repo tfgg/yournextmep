@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: georgina-butler
 region: south-west
 party: conservative
-title: South West - Conservative Party - Georgina Butler
+title: Georgina Butler is running for MEP in South West for the Conservative Party
 incumbent: false
 ---

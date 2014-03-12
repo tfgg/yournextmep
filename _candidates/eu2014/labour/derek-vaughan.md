@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: derek-vaughan
 region: wales
 party: labour
-title: Wales - Labour Party - Derek Vaughan
+title: Derek Vaughan is running for MEP in Wales for the Labour Party
 incumbent: true
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: ross-brown
 region: northern-ireland
 party: green-ni
-title: Northern Ireland - Green Party of Northern Ireland - Ross Brown
+title: Ross Brown is running for MEP in Northern Ireland for the Green Party of Northern Ireland
 incumbent: false
 ---

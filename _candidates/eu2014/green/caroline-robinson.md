@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: caroline-robinson
 region: north-east
 party: green
-title: North East - Green Party - Caroline Robinson
+title: Caroline Robinson is running for MEP in North East for the Green Party
 incumbent: false
 ---

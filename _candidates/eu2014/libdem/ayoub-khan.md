@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: ayoub-khan
 region: west-midlands
 party: libdem
-title: West Midlands - Liberal Democrats - Ayoub Khan
+title: Ayoub Khan is running for MEP in West Midlands for the Liberal Democrats
 incumbent: false
 ---

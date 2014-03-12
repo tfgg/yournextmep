@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: daniel-dalton
 region: west-midlands
 party: conservative
-title: West Midlands - Conservative Party - Daniel Dalton
+title: Daniel Dalton is running for MEP in West Midlands for the Conservative Party
 incumbent: false
 ---

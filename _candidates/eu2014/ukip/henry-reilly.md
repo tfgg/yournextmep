@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: henry-reilly
 region: northern-ireland
 party: ukip
-title: Northern Ireland - UKIP - Henry Reilly
+title: Henry Reilly is running for MEP in Northern Ireland for UKIP
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: julia-reid
 region: south-west
 party: ukip
-title: South West - UKIP - Julia Reid
+title: Julia Reid is running for MEP in South West for UKIP
 incumbent: false
 ---

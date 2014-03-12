@@ -8,6 +8,6 @@ list-rank-ordinal: 10th
 person: alan-bullion
 region: south-east
 party: libdem
-title: South East - Liberal Democrats - Alan Bullion
+title: Alan Bullion is running for MEP in South East for the Liberal Democrats
 incumbent: false
 ---

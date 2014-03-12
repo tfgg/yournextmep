@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: michael-burnett
 region: west-midlands
 party: conservative
-title: West Midlands - Conservative Party - Michael Burnett
+title: Michael Burnett is running for MEP in West Midlands for the Conservative Party
 incumbent: false
 ---

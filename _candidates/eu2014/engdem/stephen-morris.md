@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: stephen-morris
 region: north-west
 party: engdem
-title: North West - English Democrats - Stephen Morris
+title: Stephen Morris is running for MEP in North West for the English Democrats
 incumbent: false
 ---

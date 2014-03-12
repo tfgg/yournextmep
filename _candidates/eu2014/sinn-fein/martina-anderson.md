@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: martina-anderson
 region: northern-ireland
 party: sinn-fein
-title: Northern Ireland - Sinn Féin - Martina Anderson
+title: Martina Anderson is running for MEP in Northern Ireland for Sinn Féin
 incumbent: true
 ---

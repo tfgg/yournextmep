@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: jill-mills
 region: eastern
 party: green
-title: Eastern - Green Party - Jill Mills
+title: Jill Mills is running for MEP in Eastern for the Green Party
 incumbent: false
 ---

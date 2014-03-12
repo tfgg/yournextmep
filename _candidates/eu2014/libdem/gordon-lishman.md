@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: gordon-lishman
 region: north-west
 party: libdem
-title: North West - Liberal Democrats - Gordon Lishman
+title: Gordon Lishman is running for MEP in North West for the Liberal Democrats
 incumbent: false
 ---

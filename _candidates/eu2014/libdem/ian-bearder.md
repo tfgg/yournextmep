@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: ian-bearder
 region: south-east
 party: libdem
-title: South East - Liberal Democrats - Ian Bearder
+title: Ian Bearder is running for MEP in South East for the Liberal Democrats
 incumbent: false
 ---

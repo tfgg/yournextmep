@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: jayne-shotton
 region: north-east
 party: labour
-title: North East - Labour Party - Jayne Shotton
+title: Jayne Shotton is running for MEP in North East for the Labour Party
 incumbent: false
 ---

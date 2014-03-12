@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: richard-robinson
 region: south-east
 party: conservative
-title: South East - Conservative Party - Richard Robinson
+title: Richard Robinson is running for MEP in South East for the Conservative Party
 incumbent: false
 ---

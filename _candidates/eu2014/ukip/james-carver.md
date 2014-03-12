@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: james-carver
 region: west-midlands
 party: ukip
-title: West Midlands - UKIP - James Carver
+title: James Carver is running for MEP in West Midlands for UKIP
 incumbent: false
 ---

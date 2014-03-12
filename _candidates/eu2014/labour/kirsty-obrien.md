@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: kirsty-obrien
 region: scotland
 party: labour
-title: Scotland - Labour Party - Kirsty O'Brien
+title: Kirsty O'Brien is running for MEP in Scotland for the Labour Party
 incumbent: false
 ---

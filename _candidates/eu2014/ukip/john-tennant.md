@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: john-tennant
 region: north-east
 party: ukip
-title: North East - UKIP - John Tennant
+title: John Tennant is running for MEP in North East for UKIP
 incumbent: false
 ---

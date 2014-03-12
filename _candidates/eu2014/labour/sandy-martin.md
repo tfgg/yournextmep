@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: sandy-martin
 region: eastern
 party: labour
-title: Eastern - Labour Party - Sandy Martin
+title: Sandy Martin is running for MEP in Eastern for the Labour Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: bruce-roberts
 region: wales
 party: libdem
-title: Wales - Liberal Democrats - Bruce Roberts
+title: Bruce Roberts is running for MEP in Wales for the Liberal Democrats
 incumbent: false
 ---

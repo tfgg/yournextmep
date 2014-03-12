@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: ulrike-zeshan
 region: north-west
 party: green
-title: North West - Green Party - Ulrike Zeshan
+title: Ulrike Zeshan is running for MEP in North West for the Green Party
 incumbent: false
 ---

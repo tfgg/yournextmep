@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: linda-jack
 region: eastern
 party: libdem
-title: Eastern - Liberal Democrats - Linda Jack
+title: Linda Jack is running for MEP in Eastern for the Liberal Democrats
 incumbent: false
 ---

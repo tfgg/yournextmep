@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: jim-nicholson
 region: northern-ireland
 party: uup
-title: Northern Ireland - Ulster Unionist Party - Jim Nicholson
+title: Jim Nicholson is running for MEP in Northern Ireland for the Ulster Unionist Party
 incumbent: true
 ---

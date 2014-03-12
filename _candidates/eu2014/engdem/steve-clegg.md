@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: steve-clegg
 region: south-east
 party: engdem
-title: South East - English Democrats - Steve Clegg
+title: Steve Clegg is running for MEP in South East for the English Democrats
 incumbent: false
 ---

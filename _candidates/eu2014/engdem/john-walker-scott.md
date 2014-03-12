@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: john-walker-scott
 region: south-west
 party: engdem
-title: South West - English Democrats - John Walker-Scott
+title: John Walker-Scott is running for MEP in South West for the English Democrats
 incumbent: false
 ---

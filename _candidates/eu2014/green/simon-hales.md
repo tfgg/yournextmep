@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: simon-hales
 region: east-midlands
 party: green
-title: East Midlands - Green Party - Simon Hales
+title: Simon Hales is running for MEP in East Midlands for the Green Party
 incumbent: false
 ---

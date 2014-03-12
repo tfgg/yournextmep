@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: charles-tannock
 region: london
 party: conservative
-title: London - Conservative Party - Charles Tannock
+title: Charles Tannock is running for MEP in London for the Conservative Party
 incumbent: true
 ---

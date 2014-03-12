@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: toni-giugliano
 region: scotland
 party: snp
-title: Scotland - Scottish National Party - Toni Giugliano
+title: Toni Giugliano is running for MEP in Scotland for the Scottish National Party
 incumbent: false
 ---

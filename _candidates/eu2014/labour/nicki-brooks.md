@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: nicki-brooks
 region: east-midlands
 party: labour
-title: East Midlands - Labour Party - Nicki Brooks
+title: Nicki Brooks is running for MEP in East Midlands for the Labour Party
 incumbent: false
 ---

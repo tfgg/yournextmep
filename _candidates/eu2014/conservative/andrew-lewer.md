@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: andrew-lewer
 region: east-midlands
 party: conservative
-title: East Midlands - Conservative Party - Andrew Lewer
+title: Andrew Lewer is running for MEP in East Midlands for the Conservative Party
 incumbent: false
 ---

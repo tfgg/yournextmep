@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: keith-taylor
 region: south-east
 party: green
-title: South East - Green Party - Keith Taylor
+title: Keith Taylor is running for MEP in South East for the Green Party
 incumbent: true
 ---

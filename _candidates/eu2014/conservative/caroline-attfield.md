@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: caroline-attfield
 region: london
 party: conservative
-title: London - Conservative Party - Caroline Attfield
+title: Caroline Attfield is running for MEP in London for the Conservative Party
 incumbent: false
 ---

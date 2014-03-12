@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: david-campbell-bannerman
 region: eastern
 party: conservative
-title: Eastern - Conservative Party - David Campbell Bannerman
+title: David Campbell Bannerman is running for MEP in Eastern for the Conservative Party
 incumbent: true
 ---

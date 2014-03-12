@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: andrew-lee
 region: north-east
 party: conservative
-title: North East - Conservative Party - Andrew Lee
+title: Andrew Lee is running for MEP in North East for the Conservative Party
 incumbent: false
 ---

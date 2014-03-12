@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: sajjad-karim
 region: north-west
 party: conservative
-title: North West - Conservative Party - Sajjad Karim
+title: Sajjad Karim is running for MEP in North West for the Conservative Party
 incumbent: true
 ---

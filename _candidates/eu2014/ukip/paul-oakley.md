@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: paul-oakley
 region: london
 party: ukip
-title: London - UKIP - Paul Oakley
+title: Paul Oakley is running for MEP in London for UKIP
 incumbent: false
 ---

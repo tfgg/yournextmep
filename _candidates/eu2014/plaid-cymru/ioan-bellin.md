@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: ioan-bellin
 region: wales
 party: plaid-cymru
-title: Wales - Plaid Cymru - Ioan Bellin
+title: Ioan Bellin is running for MEP in Wales for Plaid Cymru
 incumbent: false
 ---

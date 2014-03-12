@@ -8,6 +8,6 @@ list-rank-ordinal: 10th
 person: adrian-pepper
 region: south-east
 party: conservative
-title: South East - Conservative Party - Adrian Pepper
+title: Adrian Pepper is running for MEP in South East for the Conservative Party
 incumbent: false
 ---

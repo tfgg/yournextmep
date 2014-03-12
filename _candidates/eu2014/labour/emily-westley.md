@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: emily-westley
 region: south-east
 party: labour
-title: South East - Labour Party - Emily Westley
+title: Emily Westley is running for MEP in South East for the Labour Party
 incumbent: false
 ---

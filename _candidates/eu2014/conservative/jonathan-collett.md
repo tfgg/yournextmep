@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: jonathan-collett
 region: eastern
 party: conservative
-title: Eastern - Conservative Party - Jonathan Collett
+title: Jonathan Collett is running for MEP in Eastern for the Conservative Party
 incumbent: false
 ---

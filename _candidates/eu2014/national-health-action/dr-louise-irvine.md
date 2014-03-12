@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: dr-louise-irvine
 region: london
 party: national-health-action
-title: London - National Health Action Party - Dr Louise Irvine
+title: Dr Louise Irvine is running for MEP in London for the National Health Action Party
 incumbent: false
 ---

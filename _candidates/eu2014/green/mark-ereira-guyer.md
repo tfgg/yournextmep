@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: mark-ereira-guyer
 region: eastern
 party: green
-title: Eastern - Green Party - Mark Ereira-Guyer
+title: Mark Ereira-Guyer is running for MEP in Eastern for the Green Party
 incumbent: false
 ---

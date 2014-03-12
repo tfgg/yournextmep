@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: steen-parish
 region: scotland
 party: green-scotland
-title: Scotland - Scottish Green Party - Steen Parish
+title: Steen Parish is running for MEP in Scotland for the Scottish Green Party
 incumbent: false
 ---

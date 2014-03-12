@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: marc-jones
 region: wales
 party: plaid-cymru
-title: Wales - Plaid Cymru - Marc Jones
+title: Marc Jones is running for MEP in Wales for Plaid Cymru
 incumbent: false
 ---

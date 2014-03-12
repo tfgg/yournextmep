@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: sion-simon
 region: west-midlands
 party: labour
-title: West Midlands - Labour Party - Siôn Simon
+title: Siôn Simon is running for MEP in West Midlands for the Labour Party
 incumbent: false
 ---

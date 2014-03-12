@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: rupert-matthews
 region: east-midlands
 party: conservative
-title: East Midlands - Conservative Party - Rupert Matthews
+title: Rupert Matthews is running for MEP in East Midlands for the Conservative Party
 incumbent: false
 ---

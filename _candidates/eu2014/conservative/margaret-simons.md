@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: margaret-simons
 region: eastern
 party: conservative
-title: Eastern - Conservative Party - Margaret Simons
+title: Margaret Simons is running for MEP in Eastern for the Conservative Party
 incumbent: false
 ---

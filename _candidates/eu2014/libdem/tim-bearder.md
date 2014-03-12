@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: tim-bearder
 region: west-midlands
 party: libdem
-title: West Midlands - Liberal Democrats - Tim Bearder
+title: Tim Bearder is running for MEP in West Midlands for the Liberal Democrats
 incumbent: false
 ---

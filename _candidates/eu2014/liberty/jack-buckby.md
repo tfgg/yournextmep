@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: jack-buckby
 region: south-east
 party: liberty
-title: South East - Liberty GB - Jack Buckby
+title: Jack Buckby is running for MEP in South East for Liberty GB
 incumbent: false
 ---

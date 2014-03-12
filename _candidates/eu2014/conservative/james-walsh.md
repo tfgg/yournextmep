@@ -8,6 +8,6 @@ list-rank-ordinal: 8th
 person: james-walsh
 region: north-west
 party: conservative
-title: North West - Conservative Party - James Walsh
+title: James Walsh is running for MEP in North West for the Conservative Party
 incumbent: false
 ---

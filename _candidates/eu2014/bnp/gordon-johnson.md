@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: gordon-johnson
 region: yorkshire-and-the-humber
 party: bnp
-title: Yorkshire and the Humber - British National Party - Gordon Johnson
+title: Gordon Johnson is running for MEP in Yorkshire and the Humber for the British National Party
 incumbent: false
 ---

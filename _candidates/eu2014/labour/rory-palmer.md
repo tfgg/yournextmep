@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: rory-palmer
 region: east-midlands
 party: labour
-title: East Midlands - Labour Party - Rory Palmer
+title: Rory Palmer is running for MEP in East Midlands for the Labour Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: marc-scheimann
 region: eastern
 party: green
-title: Eastern - Green Party - Marc Scheimann
+title: Marc Scheimann is running for MEP in Eastern for the Green Party
 incumbent: false
 ---

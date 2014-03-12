@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: olwen-hamer
 region: west-midlands
 party: labour
-title: West Midlands - Labour Party - Olwen Hamer
+title: Olwen Hamer is running for MEP in West Midlands for the Labour Party
 incumbent: false
 ---

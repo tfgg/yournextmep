@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: syed-kamall
 region: london
 party: conservative
-title: London - Conservative Party - Syed Kamall
+title: Syed Kamall is running for MEP in London for the Conservative Party
 incumbent: true
 ---

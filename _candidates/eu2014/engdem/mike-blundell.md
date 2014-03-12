@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: mike-blundell
 region: south-west
 party: engdem
-title: South West - English Democrats - Mike Blundell
+title: Mike Blundell is running for MEP in South West for the English Democrats
 incumbent: false
 ---

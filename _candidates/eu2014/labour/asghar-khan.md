@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: asghar-khan
 region: yorkshire-and-the-humber
 party: labour
-title: Yorkshire and the Humber - Labour Party - Asghar Khan
+title: Asghar Khan is running for MEP in Yorkshire and the Humber for the Labour Party
 incumbent: false
 ---

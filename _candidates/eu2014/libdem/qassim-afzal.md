@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: qassim-afzal
 region: north-west
 party: libdem
-title: North West - Liberal Democrats - Qassim Afzal
+title: Qassim Afzal is running for MEP in North West for the Liberal Democrats
 incumbent: false
 ---

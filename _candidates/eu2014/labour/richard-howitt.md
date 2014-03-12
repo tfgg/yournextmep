@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: richard-howitt
 region: eastern
 party: labour
-title: Eastern - Labour Party - Richard Howitt
+title: Richard Howitt is running for MEP in Eastern for the Labour Party
 incumbent: true
 ---

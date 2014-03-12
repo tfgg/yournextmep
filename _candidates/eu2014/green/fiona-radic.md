@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: fiona-radic
 region: eastern
 party: green
-title: Eastern - Green Party - Fiona Radic
+title: Fiona Radic is running for MEP in Eastern for the Green Party
 incumbent: false
 ---

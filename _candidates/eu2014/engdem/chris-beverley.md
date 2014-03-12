@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: chris-beverley
 region: yorkshire-and-the-humber
 party: engdem
-title: Yorkshire and the Humber - English Democrats - Chris Beverley
+title: Chris Beverley is running for MEP in Yorkshire and the Humber for the English Democrats
 incumbent: false
 ---

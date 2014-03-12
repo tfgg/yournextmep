@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: sue-mcguire
 region: north-west
 party: libdem
-title: North West - Liberal Democrats - Sue McGuire
+title: Sue McGuire is running for MEP in North West for the Liberal Democrats
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: josephine-hayes
 region: eastern
 party: libdem
-title: Eastern - Liberal Democrats - Josephine Hayes
+title: Josephine Hayes is running for MEP in Eastern for the Liberal Democrats
 incumbent: false
 ---

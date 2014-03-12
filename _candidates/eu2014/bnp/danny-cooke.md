@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: danny-cooke
 region: yorkshire-and-the-humber
 party: bnp
-title: Yorkshire and the Humber - British National Party - Danny Cooke
+title: Danny Cooke is running for MEP in Yorkshire and the Humber for the British National Party
 incumbent: false
 ---

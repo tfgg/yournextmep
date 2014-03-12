@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: jack-allnutt
 region: north-west
 party: ppuk
-title: North West - Pirate Party UK - Jack Allnutt
+title: Jack Allnutt is running for MEP in North West for the Pirate Party (UK)
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: tom-hunt
 region: eastern
 party: conservative
-title: Eastern - Conservative Party - Tom Hunt
+title: Tom Hunt is running for MEP in Eastern for the Conservative Party
 incumbent: false
 ---

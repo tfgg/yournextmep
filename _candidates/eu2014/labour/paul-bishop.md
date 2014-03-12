@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: paul-bishop
 region: eastern
 party: labour
-title: Eastern - Labour Party - Paul Bishop
+title: Paul Bishop is running for MEP in Eastern for the Labour Party
 incumbent: false
 ---

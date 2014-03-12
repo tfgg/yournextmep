@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: neville-farmer
 region: west-midlands
 party: libdem
-title: West Midlands - Liberal Democrats - Neville Farmer
+title: Neville Farmer is running for MEP in West Midlands for the Liberal Democrats
 incumbent: false
 ---

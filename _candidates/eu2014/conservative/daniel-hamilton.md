@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: daniel-hamilton
 region: north-west
 party: conservative
-title: North West - Conservative Party - Daniel Hamilton
+title: Daniel Hamilton is running for MEP in North West for the Conservative Party
 incumbent: false
 ---

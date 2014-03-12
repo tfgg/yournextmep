@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: clare-moody
 region: south-west
 party: labour
-title: South West - Labour Party - Clare Moody
+title: Clare Moody is running for MEP in South West for the Labour Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 8th
 person: annesley-abercorn
 region: london
 party: conservative
-title: London - Conservative Party - Annesley Abercorn
+title: Annesley Abercorn is running for MEP in London for the Conservative Party
 incumbent: false
 ---

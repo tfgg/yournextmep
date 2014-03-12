@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: stephen-wright
 region: south-west
 party: engdem
-title: South West - English Democrats - Stephen Wright
+title: Stephen Wright is running for MEP in South West for the English Democrats
 incumbent: false
 ---

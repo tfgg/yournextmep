@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: linda-mcavan
 region: yorkshire-and-the-humber
 party: labour
-title: Yorkshire and the Humber - Labour Party - Linda McAvan
+title: Linda McAvan is running for MEP in Yorkshire and the Humber for the Labour Party
 incumbent: true
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: richard-hopkin
 region: wales
 party: conservative
-title: Wales - Conservative Party - Richard Hopkin
+title: Richard Hopkin is running for MEP in Wales for the Conservative Party
 incumbent: false
 ---

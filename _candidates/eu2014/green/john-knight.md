@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: john-knight
 region: north-west
 party: green
-title: North West - Green Party - John Knight
+title: John Knight is running for MEP in North West for the Green Party
 incumbent: false
 ---

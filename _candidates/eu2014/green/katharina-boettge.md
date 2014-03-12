@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: katharina-boettge
 region: east-midlands
 party: green
-title: East Midlands - Green Party - Katharina Boettge
+title: Katharina Boettge is running for MEP in East Midlands for the Green Party
 incumbent: false
 ---

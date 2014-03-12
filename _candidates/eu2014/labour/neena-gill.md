@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: neena-gill
 region: west-midlands
 party: labour
-title: West Midlands - Labour Party - Neena Gill
+title: Neena Gill is running for MEP in West Midlands for the Labour Party
 incumbent: false
 ---

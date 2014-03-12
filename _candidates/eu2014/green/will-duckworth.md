@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: will-duckworth
 region: west-midlands
 party: green
-title: West Midlands - Green Party - Will Duckworth
+title: Will Duckworth is running for MEP in West Midlands for the Green Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 8th
 person: peter-whittle
 region: london
 party: ukip
-title: London - UKIP - Peter Whittle
+title: Peter Whittle is running for MEP in London for UKIP
 incumbent: false
 ---

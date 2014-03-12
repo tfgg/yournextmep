@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: david-price
 region: west-midlands
 party: conservative
-title: West Midlands - Conservative Party - David Price
+title: David Price is running for MEP in West Midlands for the Conservative Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: paul-brannen
 region: north-east
 party: labour
-title: North East - Labour Party - Paul Brannen
+title: Paul Brannen is running for MEP in North East for the Labour Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: john-flack
 region: eastern
 party: conservative
-title: Eastern - Conservative Party - John Flack
+title: John Flack is running for MEP in Eastern for the Conservative Party
 incumbent: false
 ---

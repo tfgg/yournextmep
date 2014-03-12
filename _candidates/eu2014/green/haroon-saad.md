@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: haroon-saad
 region: london
 party: green
-title: London - Green Party - Haroon Saad
+title: Haroon Saad is running for MEP in London for the Green Party
 incumbent: false
 ---

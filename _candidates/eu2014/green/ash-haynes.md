@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: ash-haynes
 region: eastern
 party: green
-title: Eastern - Green Party - Ash Haynes
+title: Ash Haynes is running for MEP in Eastern for the Green Party
 incumbent: false
 ---

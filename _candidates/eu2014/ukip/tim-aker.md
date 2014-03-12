@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: tim-aker
 region: eastern
 party: ukip
-title: Eastern - UKIP - Tim Aker
+title: Tim Aker is running for MEP in Eastern for UKIP
 incumbent: false
 ---

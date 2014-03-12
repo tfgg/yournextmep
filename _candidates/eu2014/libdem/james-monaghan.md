@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: james-monaghan
 region: yorkshire-and-the-humber
 party: libdem
-title: Yorkshire and the Humber - Liberal Democrats - James Monaghan
+title: James Monaghan is running for MEP in Yorkshire and the Humber for the Liberal Democrats
 incumbent: false
 ---

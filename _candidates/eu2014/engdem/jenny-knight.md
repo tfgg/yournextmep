@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: jenny-knight
 region: london
 party: engdem
-title: London - English Democrats - Jenny Knight
+title: Jenny Knight is running for MEP in London for the English Democrats
 incumbent: false
 ---

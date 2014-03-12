@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: ansar-ali-khan
 region: west-midlands
 party: labour
-title: West Midlands - Labour Party - Ansar Ali Khan
+title: Ansar Ali Khan is running for MEP in West Midlands for the Labour Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 10th
 person: david-knight
 region: south-east
 party: engdem
-title: South East - English Democrats - David Knight
+title: David Knight is running for MEP in South East for the English Democrats
 incumbent: false
 ---

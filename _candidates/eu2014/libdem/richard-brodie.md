@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: richard-brodie
 region: scotland
 party: libdem
-title: Scotland - Liberal Democrats - Richard Brodie
+title: Richard Brodie is running for MEP in Scotland for the Liberal Democrats
 incumbent: false
 ---

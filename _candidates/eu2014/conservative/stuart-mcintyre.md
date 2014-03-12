@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: stuart-mcintyre
 region: scotland
 party: conservative
-title: Scotland - Conservative Party - Stuart Mcintyre
+title: Stuart Mcintyre is running for MEP in Scotland for the Conservative Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: julia-gasper
 region: south-east
 party: engdem
-title: South East - English Democrats - Julia Gasper
+title: Julia Gasper is running for MEP in South East for the English Democrats
 incumbent: false
 ---

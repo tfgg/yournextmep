@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: gina-dowding
 region: north-west
 party: green
-title: North West - Green Party - Gina Dowding
+title: Gina Dowding is running for MEP in North West for the Green Party
 incumbent: false
 ---

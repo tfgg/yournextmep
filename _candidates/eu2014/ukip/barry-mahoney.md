@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: barry-mahoney
 region: east-midlands
 party: ukip
-title: East Midlands - UKIP - Barry Mahoney
+title: Barry Mahoney is running for MEP in East Midlands for UKIP
 incumbent: false
 ---

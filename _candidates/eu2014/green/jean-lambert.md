@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: jean-lambert
 region: london
 party: green
-title: London - Green Party - Jean Lambert
+title: Jean Lambert is running for MEP in London for the Green Party
 incumbent: true
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: john-procter
 region: yorkshire-and-the-humber
 party: conservative
-title: Yorkshire and the Humber - Conservative Party - John Procter
+title: John Procter is running for MEP in Yorkshire and the Humber for the Conservative Party
 incumbent: false
 ---

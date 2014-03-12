@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: charles-vickers
 region: eastern
 party: engdem
-title: Eastern - English Democrats - Charles Vickers
+title: Charles Vickers is running for MEP in Eastern for the English Democrats
 incumbent: false
 ---

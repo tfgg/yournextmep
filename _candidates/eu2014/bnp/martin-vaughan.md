@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: martin-vaughan
 region: north-east
 party: bnp
-title: North East - British National Party - Martin Vaughan
+title: Martin Vaughan is running for MEP in North East for the British National Party
 incumbent: false
 ---

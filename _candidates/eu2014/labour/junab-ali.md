@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: junab-ali
 region: south-west
 party: labour
-title: South West - Labour Party - Junab Ali
+title: Junab Ali is running for MEP in South West for the Labour Party
 incumbent: false
 ---

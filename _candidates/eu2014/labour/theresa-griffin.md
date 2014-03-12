@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: theresa-griffin
 region: north-west
 party: labour
-title: North West - Labour Party - Theresa Griffin
+title: Theresa Griffin is running for MEP in North West for the Labour Party
 incumbent: false
 ---

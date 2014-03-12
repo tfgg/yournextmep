@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: edward-mcmillan-scott
 region: yorkshire-and-the-humber
 party: libdem
-title: Yorkshire and the Humber - Liberal Democrats - Edward McMillan-Scott
+title: Edward McMillan-Scott is running for MEP in Yorkshire and the Humber for the Liberal Democrats
 incumbent: true
 ---

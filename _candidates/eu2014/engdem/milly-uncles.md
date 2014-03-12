@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: milly-uncles
 region: south-east
 party: engdem
-title: South East - English Democrats - Milly Uncles
+title: Milly Uncles is running for MEP in South East for the English Democrats
 incumbent: false
 ---

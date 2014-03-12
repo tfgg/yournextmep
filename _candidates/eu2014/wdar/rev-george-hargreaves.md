@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: rev-george-hargreaves
 region: north-west
 party: wdar
-title: North West - We Demand a Referendum - Rev. George Hargreaves
+title: Rev. George Hargreaves is running for MEP in North West for We Demand a Referendum
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: darren-hughes
 region: yorkshire-and-the-humber
 party: labour
-title: Yorkshire and the Humber - Labour Party - Darren Hughes
+title: Darren Hughes is running for MEP in Yorkshire and the Humber for the Labour Party
 incumbent: false
 ---

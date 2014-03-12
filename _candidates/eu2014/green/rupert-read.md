@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: rupert-read
 region: eastern
 party: green
-title: Eastern - Green Party - Rupert Read
+title: Rupert Read is running for MEP in Eastern for the Green Party
 incumbent: false
 ---

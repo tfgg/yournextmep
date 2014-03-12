@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: lawrence-webb
 region: london
 party: ukip
-title: London - UKIP - Lawrence Webb
+title: Lawrence Webb is running for MEP in London for UKIP
 incumbent: false
 ---

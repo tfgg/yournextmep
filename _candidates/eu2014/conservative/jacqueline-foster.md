@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: jacqueline-foster
 region: north-west
 party: conservative
-title: North West - Conservative Party - Jacqueline Foster
+title: Jacqueline Foster is running for MEP in North West for the Conservative Party
 incumbent: true
 ---

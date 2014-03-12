@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: chris-davies
 region: north-west
 party: libdem
-title: North West - Liberal Democrats - Chris Davies
+title: Chris Davies is running for MEP in North West for the Liberal Democrats
 incumbent: true
 ---

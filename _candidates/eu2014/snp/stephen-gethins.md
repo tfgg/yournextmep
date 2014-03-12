@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: stephen-gethins
 region: scotland
 party: snp
-title: Scotland - Scottish National Party - Stephen Gethins
+title: Stephen Gethins is running for MEP in Scotland for the Scottish National Party
 incumbent: false
 ---

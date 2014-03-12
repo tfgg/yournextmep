@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: phil-knowles
 region: east-midlands
 party: libdem
-title: East Midlands - Liberal Democrats - Phil Knowles
+title: Phil Knowles is running for MEP in East Midlands for the Liberal Democrats
 incumbent: false
 ---

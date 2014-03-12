@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: brendan-clarke-smith
 region: east-midlands
 party: conservative
-title: East Midlands - Conservative Party - Brendan Clarke-Smith
+title: Brendan Clarke-Smith is running for MEP in East Midlands for the Conservative Party
 incumbent: false
 ---

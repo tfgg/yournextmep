@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: aled-davies
 region: wales
 party: conservative
-title: Wales - Conservative Party - Aled Davies
+title: Aled Davies is running for MEP in Wales for the Conservative Party
 incumbent: false
 ---

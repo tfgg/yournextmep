@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: arlene-mccarthy
 region: north-west
 party: labour
-title: North West - Labour Party - Arlene McCarthy
+title: Arlene McCarthy is running for MEP in North West for the Labour Party
 incumbent: true
 ---

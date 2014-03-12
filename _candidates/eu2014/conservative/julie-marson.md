@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: julie-marson
 region: south-east
 party: conservative
-title: South East - Conservative Party - Julie Marson
+title: Julie Marson is running for MEP in South East for the Conservative Party
 incumbent: false
 ---

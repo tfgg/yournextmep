@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: ann-reeder
 region: south-west
 party: labour
-title: South West - Labour Party - Ann Reeder
+title: Ann Reeder is running for MEP in South West for the Labour Party
 incumbent: false
 ---

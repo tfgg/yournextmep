@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: marina-yannakoudakis
 region: london
 party: conservative
-title: London - Conservative Party - Marina Yannakoudakis
+title: Marina Yannakoudakis is running for MEP in London for the Conservative Party
 incumbent: true
 ---

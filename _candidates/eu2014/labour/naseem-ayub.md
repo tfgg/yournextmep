@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: naseem-ayub
 region: eastern
 party: labour
-title: Eastern - Labour Party - Naseem Ayub
+title: Naseem Ayub is running for MEP in Eastern for the Labour Party
 incumbent: false
 ---

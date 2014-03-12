@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: asim-khan
 region: scotland
 party: labour
-title: Scotland - Labour Party - Asim Khan
+title: Asim Khan is running for MEP in Scotland for the Labour Party
 incumbent: false
 ---

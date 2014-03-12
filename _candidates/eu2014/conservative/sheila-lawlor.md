@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: sheila-lawlor
 region: london
 party: conservative
-title: London - Conservative Party - Sheila Lawlor
+title: Sheila Lawlor is running for MEP in London for the Conservative Party
 incumbent: false
 ---

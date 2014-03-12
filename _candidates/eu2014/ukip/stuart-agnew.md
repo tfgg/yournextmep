@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: stuart-agnew
 region: eastern
 party: ukip
-title: Eastern - UKIP - Stuart Agnew
+title: Stuart Agnew is running for MEP in Eastern for UKIP
 incumbent: true
 ---

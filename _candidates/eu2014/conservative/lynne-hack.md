@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: lynne-hack
 region: london
 party: conservative
-title: London - Conservative Party - Lynne Hack
+title: Lynne Hack is running for MEP in London for the Conservative Party
 incumbent: false
 ---

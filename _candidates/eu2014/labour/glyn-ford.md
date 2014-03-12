@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: glyn-ford
 region: south-west
 party: labour
-title: South West - Labour Party - Glyn Ford
+title: Glyn Ford is running for MEP in South West for the Labour Party
 incumbent: false
 ---

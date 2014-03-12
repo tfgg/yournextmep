@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: alec-dauncey
 region: wales
 party: libdem
-title: Wales - Liberal Democrats - Alec Dauncey
+title: Alec Dauncey is running for MEP in Wales for the Liberal Democrats
 incumbent: false
 ---

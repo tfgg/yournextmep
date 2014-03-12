@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: chris-ostrowski
 region: eastern
 party: labour
-title: Eastern - Labour Party - Chris Ostrowski
+title: Chris Ostrowski is running for MEP in Eastern for the Labour Party
 incumbent: false
 ---

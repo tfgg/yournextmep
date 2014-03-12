@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: jacqueline-bell
 region: yorkshire-and-the-humber
 party: libdem
-title: Yorkshire and the Humber - Liberal Democrats - Jacqueline Bell
+title: Jacqueline Bell is running for MEP in Yorkshire and the Humber for the Liberal Democrats
 incumbent: false
 ---

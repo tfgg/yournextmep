@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: nathan-gill
 region: wales
 party: ukip
-title: Wales - UKIP - Nathan Gill
+title: Nathan Gill is running for MEP in Wales for UKIP
 incumbent: false
 ---

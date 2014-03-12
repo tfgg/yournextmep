@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: vicky-duckworth
 region: west-midlands
 party: green
-title: West Midlands - Green Party - Vicky Duckworth
+title: Vicky Duckworth is running for MEP in West Midlands for the Green Party
 incumbent: false
 ---

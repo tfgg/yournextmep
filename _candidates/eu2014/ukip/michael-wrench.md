@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: michael-wrench
 region: west-midlands
 party: ukip
-title: West Midlands - UKIP - Michael Wrench
+title: Michael Wrench is running for MEP in West Midlands for UKIP
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: peter-allen
 region: east-midlands
 party: green
-title: East Midlands - Green Party - Peter Allen
+title: Peter Allen is running for MEP in East Midlands for the Green Party
 incumbent: false
 ---

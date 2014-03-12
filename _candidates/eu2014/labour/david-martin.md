@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: david-martin
 region: scotland
 party: labour
-title: Scotland - Labour Party - David Martin
+title: David Martin is running for MEP in Scotland for the Labour Party
 incumbent: true
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: kevin-riddiough
 region: north-east
 party: engdem
-title: North East - English Democrats - Kevin Riddiough
+title: Kevin Riddiough is running for MEP in North East for the English Democrats
 incumbent: false
 ---

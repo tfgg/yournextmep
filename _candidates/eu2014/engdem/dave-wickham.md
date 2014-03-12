@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: dave-wickham
 region: east-midlands
 party: engdem
-title: East Midlands - English Democrats - Dave Wickham
+title: Dave Wickham is running for MEP in East Midlands for the English Democrats
 incumbent: false
 ---

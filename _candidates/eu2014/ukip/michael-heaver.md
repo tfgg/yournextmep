@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: michael-heaver
 region: eastern
 party: ukip
-title: Eastern - UKIP - Michael Heaver
+title: Michael Heaver is running for MEP in Eastern for UKIP
 incumbent: false
 ---

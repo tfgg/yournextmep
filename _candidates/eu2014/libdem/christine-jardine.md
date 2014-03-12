@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: christine-jardine
 region: scotland
 party: libdem
-title: Scotland - Liberal Democrats - Christine Jardine
+title: Christine Jardine is running for MEP in Scotland for the Liberal Democrats
 incumbent: false
 ---

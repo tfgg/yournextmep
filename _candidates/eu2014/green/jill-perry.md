@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: jill-perry
 region: north-west
 party: green
-title: North West - Green Party - Jill Perry
+title: Jill Perry is running for MEP in North West for the Green Party
 incumbent: false
 ---

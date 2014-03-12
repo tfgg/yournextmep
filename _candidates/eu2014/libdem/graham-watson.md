@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: graham-watson
 region: south-west
 party: libdem
-title: South West - Liberal Democrats - Graham Watson
+title: Graham Watson is running for MEP in South West for the Liberal Democrats
 incumbent: true
 ---

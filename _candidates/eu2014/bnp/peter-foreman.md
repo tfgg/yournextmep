@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: peter-foreman
 region: north-east
 party: bnp
-title: North East - British National Party - Peter Foreman
+title: Peter Foreman is running for MEP in North East for the British National Party
 incumbent: false
 ---

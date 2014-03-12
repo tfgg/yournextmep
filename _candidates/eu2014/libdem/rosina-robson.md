@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: rosina-robson
 region: london
 party: libdem
-title: London - Liberal Democrats - Rosina Robson
+title: Rosina Robson is running for MEP in London for the Liberal Democrats
 incumbent: false
 ---

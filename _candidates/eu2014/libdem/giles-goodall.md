@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: giles-goodall
 region: south-east
 party: libdem
-title: South East - Liberal Democrats - Giles Goodall
+title: Giles Goodall is running for MEP in South East for the Liberal Democrats
 incumbent: false
 ---

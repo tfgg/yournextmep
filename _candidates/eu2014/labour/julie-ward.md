@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: julie-ward
 region: north-west
 party: labour
-title: North West - Labour Party - Julie Ward
+title: Julie Ward is running for MEP in North West for the Labour Party
 incumbent: false
 ---

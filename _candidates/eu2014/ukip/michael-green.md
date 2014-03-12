@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: michael-green
 region: west-midlands
 party: ukip
-title: West Midlands - UKIP - Michael Green
+title: Michael Green is running for MEP in West Midlands for UKIP
 incumbent: false
 ---

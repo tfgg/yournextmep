@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: catherine-stihler
 region: scotland
 party: labour
-title: Scotland - Labour Party - Catherine Stihler
+title: Catherine Stihler is running for MEP in Scotland for the Labour Party
 incumbent: true
 ---

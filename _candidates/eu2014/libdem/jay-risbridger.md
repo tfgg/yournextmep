@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: jay-risbridger
 region: south-west
 party: libdem
-title: South West - Liberal Democrats - Jay Risbridger
+title: Jay Risbridger is running for MEP in South West for the Liberal Democrats
 incumbent: false
 ---

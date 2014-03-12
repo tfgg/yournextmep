@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: paul-nuttall
 region: north-west
 party: ukip
-title: North West - UKIP - Paul Nuttall
+title: Paul Nuttall is running for MEP in North West for UKIP
 incumbent: true
 ---

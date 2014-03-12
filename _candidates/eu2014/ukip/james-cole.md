@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: james-cole
 region: wales
 party: ukip
-title: Wales - UKIP - James Cole
+title: James Cole is running for MEP in Wales for UKIP
 incumbent: false
 ---

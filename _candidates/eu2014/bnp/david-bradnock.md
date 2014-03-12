@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: david-bradnock
 region: west-midlands
 party: bnp
-title: West Midlands - British National Party - David Bradnock
+title: David Bradnock is running for MEP in West Midlands for the British National Party
 incumbent: false
 ---

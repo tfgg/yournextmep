@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: chris-stephens
 region: scotland
 party: snp
-title: Scotland - Scottish National Party - Chris Stephens
+title: Chris Stephens is running for MEP in Scotland for the Scottish National Party
 incumbent: false
 ---

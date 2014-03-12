@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: otto-inglis
 region: scotland
 party: ukip
-title: Scotland - UKIP - Otto Inglis
+title: Otto Inglis is running for MEP in Scotland for UKIP
 incumbent: false
 ---

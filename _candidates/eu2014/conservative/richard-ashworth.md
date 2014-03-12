@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: richard-ashworth
 region: south-east
 party: conservative
-title: South East - Conservative Party - Richard Ashworth
+title: Richard Ashworth is running for MEP in South East for the Conservative Party
 incumbent: true
 ---

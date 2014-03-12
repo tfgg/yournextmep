@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: alyn-smith
 region: scotland
 party: snp
-title: Scotland - Scottish National Party - Alyn Smith
+title: Alyn Smith is running for MEP in Scotland for the Scottish National Party
 incumbent: true
 ---

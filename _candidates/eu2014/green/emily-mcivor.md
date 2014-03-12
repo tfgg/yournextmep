@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: emily-mcivor
 region: south-west
 party: green
-title: South West - Green Party - Emily McIvor
+title: Emily McIvor is running for MEP in South West for the Green Party
 incumbent: false
 ---

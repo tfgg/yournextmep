@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: linda-woodings
 region: east-midlands
 party: labour
-title: East Midlands - Labour Party - Linda Woodings
+title: Linda Woodings is running for MEP in East Midlands for the Labour Party
 incumbent: false
 ---

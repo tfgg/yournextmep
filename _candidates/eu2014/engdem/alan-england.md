@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: alan-england
 region: south-west
 party: engdem
-title: South West - English Democrats - Alan England
+title: Alan England is running for MEP in South West for the English Democrats
 incumbent: false
 ---

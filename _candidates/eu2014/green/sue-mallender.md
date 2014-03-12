@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: sue-mallender
 region: east-midlands
 party: green
-title: East Midlands - Green Party - Sue Mallender
+title: Sue Mallender is running for MEP in East Midlands for the Green Party
 incumbent: false
 ---

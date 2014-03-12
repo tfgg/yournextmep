@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: turhan-ozen
 region: london
 party: libdem
-title: London - Liberal Democrats - Turhan Ozen
+title: Turhan Ozen is running for MEP in London for the Liberal Democrats
 incumbent: false
 ---

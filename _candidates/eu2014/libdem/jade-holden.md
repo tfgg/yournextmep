@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: jade-holden
 region: scotland
 party: libdem
-title: Scotland - Liberal Democrats - Jade Holden
+title: Jade Holden is running for MEP in Scotland for the Liberal Democrats
 incumbent: false
 ---

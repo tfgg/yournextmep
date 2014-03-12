@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: rob-speht
 region: wales
 party: libdem
-title: Wales - Liberal Democrats - Rob Speht
+title: Rob Speht is running for MEP in Wales for the Liberal Democrats
 incumbent: false
 ---

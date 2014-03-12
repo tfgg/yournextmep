@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: gerard-batten
 region: london
 party: ukip
-title: London - UKIP - Gerard Batten
+title: Gerard Batten is running for MEP in London for UKIP
 incumbent: true
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: adam-walker
 region: yorkshire-and-the-humber
 party: bnp
-title: Yorkshire and the Humber - British National Party - Adam Walker
+title: Adam Walker is running for MEP in Yorkshire and the Humber for the British National Party
 incumbent: false
 ---

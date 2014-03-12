@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: michael-mcmanus
 region: north-west
 party: ukip
-title: North West - UKIP - Michael McManus
+title: Michael McManus is running for MEP in North West for UKIP
 incumbent: false
 ---

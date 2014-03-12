@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: paul-rimmer
 region: north-west
 party: engdem
-title: North West - English Democrats - Paul Rimmer
+title: Paul Rimmer is running for MEP in North West for the English Democrats
 incumbent: false
 ---

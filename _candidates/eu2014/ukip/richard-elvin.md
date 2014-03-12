@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: richard-elvin
 region: north-east
 party: ukip
-title: North East - UKIP - Richard Elvin
+title: Richard Elvin is running for MEP in North East for UKIP
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: bob-brindley
 region: east-midlands
 party: bnp
-title: East Midlands - British National Party - Bob Brindley
+title: Bob Brindley is running for MEP in East Midlands for the British National Party
 incumbent: false
 ---

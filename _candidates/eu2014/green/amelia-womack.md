@@ -8,6 +8,6 @@ list-rank-ordinal: 8th
 person: amelia-womack
 region: london
 party: green
-title: London - Green Party - Amelia Womack
+title: Amelia Womack is running for MEP in London for the Green Party
 incumbent: false
 ---

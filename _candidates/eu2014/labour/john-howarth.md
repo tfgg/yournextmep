@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: john-howarth
 region: south-east
 party: labour
-title: South East - Labour Party - John Howarth
+title: John Howarth is running for MEP in South East for the Labour Party
 incumbent: false
 ---

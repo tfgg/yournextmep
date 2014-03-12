@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: hugh-annand
 region: eastern
 party: libdem
-title: Eastern - Liberal Democrats - Hugh Annand
+title: Hugh Annand is running for MEP in Eastern for the Liberal Democrats
 incumbent: false
 ---

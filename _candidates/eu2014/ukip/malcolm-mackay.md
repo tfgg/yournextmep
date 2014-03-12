@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: malcolm-mackay
 region: scotland
 party: ukip
-title: Scotland - UKIP - Malcolm Mackay
+title: Malcolm Mackay is running for MEP in Scotland for UKIP
 incumbent: false
 ---

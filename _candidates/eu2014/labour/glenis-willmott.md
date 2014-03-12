@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: glenis-willmott
 region: east-midlands
 party: labour
-title: East Midlands - Labour Party - Glenis Willmott
+title: Glenis Willmott is running for MEP in East Midlands for the Labour Party
 incumbent: true
 ---

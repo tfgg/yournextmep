@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: geoffrey-van-orden
 region: eastern
 party: conservative
-title: Eastern - Conservative Party - Geoffrey van Orden
+title: Geoffrey van Orden is running for MEP in Eastern for the Conservative Party
 incumbent: true
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: william-dartmouth
 region: south-west
 party: ukip
-title: South West - UKIP - William Dartmouth
+title: William Dartmouth is running for MEP in South West for UKIP
 incumbent: true
 ---

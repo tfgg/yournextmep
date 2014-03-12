@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: beatrix-campbell
 region: south-east
 party: green
-title: South East - Green Party - Beatrix Campbell
+title: Beatrix Campbell is running for MEP in South East for the Green Party
 incumbent: false
 ---

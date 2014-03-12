@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: anuja-prashar
 region: london
 party: libdem
-title: London - Liberal Democrats - Anuja Prashar
+title: Anuja Prashar is running for MEP in London for the Liberal Democrats
 incumbent: false
 ---

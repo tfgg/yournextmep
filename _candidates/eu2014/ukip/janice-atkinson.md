@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: janice-atkinson
 region: south-east
 party: ukip
-title: South East - UKIP - Janice Atkinson
+title: Janice Atkinson is running for MEP in South East for UKIP
 incumbent: false
 ---

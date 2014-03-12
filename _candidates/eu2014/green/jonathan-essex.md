@@ -8,6 +8,6 @@ list-rank-ordinal: 8th
 person: jonathan-essex
 region: south-east
 party: green
-title: South East - Green Party - Jonathan Essex
+title: Jonathan Essex is running for MEP in South East for the Green Party
 incumbent: false
 ---

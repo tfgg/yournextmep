@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: katrina-murray
 region: scotland
 party: labour
-title: Scotland - Labour Party - Katrina Murray
+title: Katrina Murray is running for MEP in Scotland for the Labour Party
 incumbent: false
 ---

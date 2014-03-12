@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: sibby-buckle
 region: west-midlands
 party: conservative
-title: West Midlands - Conservative Party - Sibby Buckle
+title: Sibby Buckle is running for MEP in West Midlands for the Conservative Party
 incumbent: false
 ---

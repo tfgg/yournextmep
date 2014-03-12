@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: helen-foster-grime
 region: north-west
 party: libdem
-title: North West - Liberal Democrats - Helen Foster-Grime
+title: Helen Foster-Grime is running for MEP in North West for the Liberal Democrats
 incumbent: false
 ---

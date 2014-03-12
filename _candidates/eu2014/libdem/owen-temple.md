@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: owen-temple
 region: north-east
 party: libdem
-title: North East - Liberal Democrats - Owen Temple
+title: Owen Temple is running for MEP in North East for the Liberal Democrats
 incumbent: false
 ---

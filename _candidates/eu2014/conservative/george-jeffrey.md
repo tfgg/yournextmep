@@ -8,6 +8,6 @@ list-rank-ordinal: 8th
 person: george-jeffrey
 region: south-east
 party: conservative
-title: South East - Conservative Party - George Jeffrey
+title: George Jeffrey is running for MEP in South East for the Conservative Party
 incumbent: false
 ---

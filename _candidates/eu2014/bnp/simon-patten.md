@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: simon-patten
 region: west-midlands
 party: bnp
-title: West Midlands - British National Party - Simon Patten
+title: Simon Patten is running for MEP in West Midlands for the British National Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: lady-dorothy-brooke
 region: north-east
 party: bnp
-title: North East - British National Party - Lady Dorothy Brooke
+title: Lady Dorothy Brooke is running for MEP in North East for the British National Party
 incumbent: false
 ---

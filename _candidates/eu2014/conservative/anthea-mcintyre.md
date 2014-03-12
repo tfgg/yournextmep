@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: anthea-mcintyre
 region: west-midlands
 party: conservative
-title: West Midlands - Conservative Party - Anthea McIntyre
+title: Anthea McIntyre is running for MEP in West Midlands for the Conservative Party
 incumbent: true
 ---

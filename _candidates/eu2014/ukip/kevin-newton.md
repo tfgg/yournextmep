@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: kevin-newton
 region: scotland
 party: ukip
-title: Scotland - UKIP - Kevin Newton
+title: Kevin Newton is running for MEP in Scotland for UKIP
 incumbent: false
 ---

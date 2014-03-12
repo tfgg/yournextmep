@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: chris-whiteside
 region: north-west
 party: conservative
-title: North West - Conservative Party - Chris Whiteside
+title: Chris Whiteside is running for MEP in North West for the Conservative Party
 incumbent: false
 ---

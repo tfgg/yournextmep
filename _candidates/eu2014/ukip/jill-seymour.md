@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: jill-seymour
 region: west-midlands
 party: ukip
-title: West Midlands - UKIP - Jill Seymour
+title: Jill Seymour is running for MEP in West Midlands for UKIP
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 8th
 person: karen-landles
 region: south-east
 party: labour
-title: South East - Labour Party - Karen Landles
+title: Karen Landles is running for MEP in South East for the Labour Party
 incumbent: false
 ---

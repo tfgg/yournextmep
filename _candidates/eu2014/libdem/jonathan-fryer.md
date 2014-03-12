@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: jonathan-fryer
 region: london
 party: libdem
-title: London - Liberal Democrats - Jonathan Fryer
+title: Jonathan Fryer is running for MEP in London for the Liberal Democrats
 incumbent: false
 ---

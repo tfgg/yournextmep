@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: robert-west
 region: east-midlands
 party: bnp
-title: East Midlands - British National Party - Robert West
+title: Robert West is running for MEP in East Midlands for the British National Party
 incumbent: false
 ---

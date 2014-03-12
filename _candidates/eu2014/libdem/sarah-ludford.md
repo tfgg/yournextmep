@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: sarah-ludford
 region: london
 party: libdem
-title: London - Liberal Democrats - Sarah Ludford
+title: Sarah Ludford is running for MEP in London for the Liberal Democrats
 incumbent: true
 ---

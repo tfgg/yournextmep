@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: anna-lo
 region: northern-ireland
 party: alliance
-title: Northern Ireland - Alliance Party of Northern Ireland - Anna Lo
+title: Anna Lo is running for MEP in Northern Ireland for the Alliance Party of Northern Ireland
 incumbent: false
 ---

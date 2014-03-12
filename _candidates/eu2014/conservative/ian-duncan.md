@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: ian-duncan
 region: scotland
 party: conservative
-title: Scotland - Conservative Party - Ian Duncan
+title: Ian Duncan is running for MEP in Scotland for the Conservative Party
 incumbent: false
 ---

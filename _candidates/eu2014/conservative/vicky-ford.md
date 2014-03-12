@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: vicky-ford
 region: eastern
 party: conservative
-title: Eastern - Conservative Party - Vicky Ford
+title: Vicky Ford is running for MEP in Eastern for the Conservative Party
 incumbent: true
 ---

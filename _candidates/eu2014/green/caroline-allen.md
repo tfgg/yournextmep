@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: caroline-allen
 region: london
 party: green
-title: London - Green Party - Caroline Allen
+title: Caroline Allen is running for MEP in London for the Green Party
 incumbent: false
 ---

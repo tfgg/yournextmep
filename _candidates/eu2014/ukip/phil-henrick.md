@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: phil-henrick
 region: west-midlands
 party: ukip
-title: West Midlands - UKIP - Phil Henrick
+title: Phil Henrick is running for MEP in West Midlands for UKIP
 incumbent: false
 ---

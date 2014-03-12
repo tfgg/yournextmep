@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: marlene-guest
 region: yorkshire-and-the-humber
 party: bnp
-title: Yorkshire and the Humber - British National Party - Marlene Guest
+title: Marlene Guest is running for MEP in Yorkshire and the Humber for the British National Party
 incumbent: false
 ---

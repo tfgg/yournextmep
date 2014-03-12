@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: simone-clarke
 region: south-east
 party: engdem
-title: South East - English Democrats - Simone Clarke
+title: Simone Clarke is running for MEP in South East for the English Democrats
 incumbent: false
 ---

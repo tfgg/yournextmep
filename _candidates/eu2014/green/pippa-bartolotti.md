@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: pippa-bartolotti
 region: wales
 party: green
-title: Wales - Green Party - Pippa Bartolotti
+title: Pippa Bartolotti is running for MEP in Wales for the Green Party
 incumbent: false
 ---

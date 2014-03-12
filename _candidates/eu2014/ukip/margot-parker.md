@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: margot-parker
 region: east-midlands
 party: ukip
-title: East Midlands - UKIP - Margot Parker
+title: Margot Parker is running for MEP in East Midlands for UKIP
 incumbent: false
 ---

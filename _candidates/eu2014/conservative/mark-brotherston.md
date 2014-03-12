@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: mark-brotherston
 region: northern-ireland
 party: conservative
-title: Northern Ireland - Conservative Party - Mark Brotherston
+title: Mark Brotherston is running for MEP in Northern Ireland for the Conservative Party
 incumbent: false
 ---

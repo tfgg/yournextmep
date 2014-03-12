@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: derek-munn
 region: scotland
 party: labour
-title: Scotland - Labour Party - Derek Munn
+title: Derek Munn is running for MEP in Scotland for the Labour Party
 incumbent: false
 ---

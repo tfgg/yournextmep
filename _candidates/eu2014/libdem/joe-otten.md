@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: joe-otten
 region: yorkshire-and-the-humber
 party: libdem
-title: Yorkshire and the Humber - Liberal Democrats - Joe Otten
+title: Joe Otten is running for MEP in Yorkshire and the Humber for the Liberal Democrats
 incumbent: false
 ---

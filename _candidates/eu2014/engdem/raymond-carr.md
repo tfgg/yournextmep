@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: raymond-carr
 region: south-west
 party: engdem
-title: South West - English Democrats - Raymond Carr
+title: Raymond Carr is running for MEP in South West for the English Democrats
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 9th
 person: michael-hassell
 region: south-east
 party: labour
-title: South East - Labour Party - Michael Hassell
+title: Michael Hassell is running for MEP in South East for the Labour Party
 incumbent: false
 ---

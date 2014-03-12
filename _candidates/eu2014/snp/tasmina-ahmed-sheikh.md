@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: tasmina-ahmed-sheikh
 region: scotland
 party: snp
-title: Scotland - Scottish National Party - Tasmina Ahmed-Sheikh
+title: Tasmina Ahmed-Sheikh is running for MEP in Scotland for the Scottish National Party
 incumbent: false
 ---

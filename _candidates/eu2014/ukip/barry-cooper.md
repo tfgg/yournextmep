@@ -8,6 +8,6 @@ list-rank-ordinal: 10th
 person: barry-cooper
 region: south-east
 party: ukip
-title: South East - UKIP - Barry Cooper
+title: Barry Cooper is running for MEP in South East for UKIP
 incumbent: false
 ---

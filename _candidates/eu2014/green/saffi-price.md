@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: saffi-price
 region: west-midlands
 party: green
-title: West Midlands - Green Party - Saffi Price
+title: Saffi Price is running for MEP in West Midlands for the Green Party
 incumbent: false
 ---

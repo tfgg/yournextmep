@@ -8,6 +8,6 @@ list-rank-ordinal: 6th
 person: lee-slaughter
 region: north-west
 party: ukip
-title: North West - UKIP - Lee Slaughter
+title: Lee Slaughter is running for MEP in North West for UKIP
 incumbent: false
 ---

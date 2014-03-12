@@ -8,6 +8,6 @@ list-rank-ordinal: 7th
 person: lyndon-jones
 region: west-midlands
 party: ukip
-title: West Midlands - UKIP - Lyndon Jones
+title: Lyndon Jones is running for MEP in West Midlands for UKIP
 incumbent: false
 ---

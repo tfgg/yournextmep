@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: sam-kelly
 region: north-east
 party: engdem
-title: North East - English Democrats - Sam Kelly
+title: Sam Kelly is running for MEP in North East for the English Democrats
 incumbent: false
 ---

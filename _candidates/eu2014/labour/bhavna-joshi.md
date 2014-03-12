@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: bhavna-joshi
 region: eastern
 party: labour
-title: Eastern - Labour Party - Bhavna Joshi
+title: Bhavna Joshi is running for MEP in Eastern for the Labour Party
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: richard-mallender
 region: east-midlands
 party: green
-title: East Midlands - Green Party - Richard Mallender
+title: Richard Mallender is running for MEP in East Midlands for the Green Party
 incumbent: false
 ---

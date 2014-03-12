@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: robert-smith
 region: south-west
 party: ukip
-title: South West - UKIP - Robert Smith
+title: Robert Smith is running for MEP in South West for UKIP
 incumbent: false
 ---

@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: clive-lavelle
 region: south-west
 party: engdem
-title: South West - English Democrats - Clive Lavelle
+title: Clive Lavelle is running for MEP in South West for the English Democrats
 incumbent: false
 ---

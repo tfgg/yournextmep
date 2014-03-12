@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: phil-bennion
 region: west-midlands
 party: libdem
-title: West Midlands - Liberal Democrats - Phil Bennion
+title: Phil Bennion is running for MEP in West Midlands for the Liberal Democrats
 incumbent: true
 ---

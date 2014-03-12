@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: david-wildgoose
 region: yorkshire-and-the-humber
 party: engdem
-title: Yorkshire and the Humber - English Democrats - David Wildgoose
+title: David Wildgoose is running for MEP in Yorkshire and the Humber for the English Democrats
 incumbent: false
 ---

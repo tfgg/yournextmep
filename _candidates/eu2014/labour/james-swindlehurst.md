@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: james-swindlehurst
 region: south-east
 party: labour
-title: South East - Labour Party - James Swindlehurst
+title: James Swindlehurst is running for MEP in South East for the Labour Party
 incumbent: false
 ---

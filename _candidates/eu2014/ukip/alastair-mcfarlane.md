@@ -8,6 +8,6 @@ list-rank-ordinal: 5th
 person: alastair-mcfarlane
 region: london
 party: ukip
-title: London - UKIP - Alastair McFarlane
+title: Alastair McFarlane is running for MEP in London for UKIP
 incumbent: false
 ---

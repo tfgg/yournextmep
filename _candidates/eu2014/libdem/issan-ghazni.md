@@ -8,6 +8,6 @@ list-rank-ordinal: 2nd
 person: issan-ghazni
 region: east-midlands
 party: libdem
-title: East Midlands - Liberal Democrats - Issan Ghazni
+title: Issan Ghazni is running for MEP in East Midlands for the Liberal Democrats
 incumbent: false
 ---

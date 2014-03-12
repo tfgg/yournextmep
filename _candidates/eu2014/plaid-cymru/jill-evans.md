@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: jill-evans
 region: wales
 party: plaid-cymru
-title: Wales - Plaid Cymru - Jill Evans
+title: Jill Evans is running for MEP in Wales for Plaid Cymru
 incumbent: true
 ---

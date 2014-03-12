@@ -8,6 +8,6 @@ list-rank-ordinal: 3rd
 person: bill-etheridge
 region: west-midlands
 party: ukip
-title: West Midlands - UKIP - Bill Etheridge
+title: Bill Etheridge is running for MEP in West Midlands for UKIP
 incumbent: false
 ---

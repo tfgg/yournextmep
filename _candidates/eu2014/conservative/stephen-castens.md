@@ -8,6 +8,6 @@ list-rank-ordinal: 4th
 person: stephen-castens
 region: east-midlands
 party: conservative
-title: East Midlands - Conservative Party - Stephen Castens
+title: Stephen Castens is running for MEP in East Midlands for the Conservative Party
 incumbent: false
 ---
