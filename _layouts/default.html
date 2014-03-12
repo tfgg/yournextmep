@@ -51,7 +51,7 @@
           </div>
           <div class='col-md-4 reminder'>
             <button class='btn btn-primary' data-toggle="modal" data-target="#reminder-modal">Email me before election day!</button><br/>
-            <p><small>Have an email sent to you the day before election day to remind you about this site, so you can check out the candidates again. Your email will not be shared with anyone else or used for any other purpose.</small></p>
+            <p><small>Want to check out the candidates again the day before the election? Subscribe to a reminder with the button above.</small></p>
           </div>
         </div>
       </div>
@@ -81,10 +81,29 @@
                 </div>
             </div>
             <div class="modal-footer">
+              <small class="text-warning" id="reminder-subscribing"></small>
               <button type="button" class="btn btn-default" data-dismiss="modal">close</button>
               <input type="submit" name="submit" class="btn btn-success" value="subscribe"/>
             </div>
             </form>
+          </div>
+        </div>
+      </div>
+
+      <!-- Reminder subscribe success modal -->
+      <div class="modal fade" id="success-modal" tabindex="-1" role="dialog" aria-labelledby="success-modal-label" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+              <h4 class="modal-title" id="success-modal-label">Subscribed</h4>
+            </div>
+            <div class="modal-body">
+              <p class="text-success" id="reminder-email-success"></p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">ok</button>
+            </div>
           </div>
         </div>
       </div>
@@ -101,16 +120,22 @@
           form.submit(function(event) {
             console.log("form submitted," + form.serialize());
 
+            $("#reminder-subscribing").text("Subscribing...");
+
             $.post(api_url + "/subscribe", form.serialize(), function(data) {
               if('error_text' in data) {
                 console.log("error: ", data.error_text);
                 $("#reminder-email-group").addClass("has-error");
                 $("#reminder-email-group-error").text(data.error_text);
+                $("#reminder-subscribing").text("");
               } else if('success_text' in data) {
                 $("#reminder-email-group").removeClass("has-error");
                 $("#reminder-email-group-error").text("");
-                
+               
+                $("#reminder-modal").modal("hide");
                 $("#reminder-email-success").text(data.success_text);
+                $("#success-modal").modal() 
+                $("#reminder-subscribing").text("");
               } else {
                 console.log("Neither success_text nor error_text in response");
                 console.log(data);

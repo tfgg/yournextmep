@@ -22,7 +22,7 @@ app.config.update(
 
 mail = Mail(app)
 
-db_subscriptions = db_client.ochlo.newsletter_subscriptions
+db_subscriptions = db_client.yournextmep.reminder_subscriptions
 
 def get_context():
   return {'CONTACT_EMAIL': settings.CONTACT_EMAIL,
@@ -71,7 +71,7 @@ def subscribe():
                        }
                      }
 
-    msg = Message('Confirm your subscription',
+    msg = Message('YourNextMEP: Confirm your reminder subscription',
                   sender='timothy.green@gmail.com',
                   recipients=[email_address])
 

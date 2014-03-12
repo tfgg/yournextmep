@@ -7,7 +7,7 @@
       <div class='row'>
           <div class='col-xs-8'>
               <h1>Unsubscribe {{ doc.email_address }}</h1>
-              <p>Thanks for letting us know that you want to unsubscribe. Please click below to unsubscribe. In addition, if you want to, we'd also love to hear any feedback you might have.</p>
+              <p>Please click below to unsubscribe. In addition, you can optionally leave some feedback.</p>
               
               <form action="{{ url_for('unsubscribe_by_token', unsubscribe_token=doc.unsubscribe_token) }}" method="post" role="form">
                 <input type='hidden' name='confirm' value='yes'/>
