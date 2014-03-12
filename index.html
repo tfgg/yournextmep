@@ -37,7 +37,7 @@ $(document).ready(function(){
   <div class="col-md-7 regions">
     <h1>UK EU election regions</h1>
       {% for region in site.pages %}{% if region.layout == 'region' %}
-      <a class='btn btn-default' href="{{ region.url }}">{{ region.title }}</a>
+      <a class='btn btn-default' href="{{ region.url }}">{{ region.name }}</a>
       {% endif %}{% endfor %}
   </div>
 </div>

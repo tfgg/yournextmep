@@ -26,17 +26,25 @@ for region_id in candidates:
 
     s = u"""---
 layout: candidate
-permalink: candidates/eu2014/{}/{}/
-categories: candidate {}
+permalink: candidates/eu2014/{party_id}/{person_id}/
+categories: candidate {party_id}
 election: eu2014
-list-rank: {}
-list-rank-ordinal: {}
-person: {}
-region: {}
-party: {}
-title: {} - {} - {}
-incumbent: {}
----""".format(party_id, person_id, party_id, rank, rank_ordinal, person_id, region_id, party_id, region['name'], party['name'], candidate['name'], incumbent)
+list-rank: {rank}
+list-rank-ordinal: {rank_ordinal}
+person: {person_id}
+region: {region_id}
+party: {party_id}
+title: {person_name} is running for MEP in {region_name} for {party_name}
+incumbent: {incumbent}
+---""".format(party_id=party_id,
+              person_id=person_id,
+              rank=rank,
+              rank_ordinal=rank_ordinal,
+              region_id=region_id,
+              region_name=region['name'],
+              party_name=party['name'],
+              candidate_name=candidate['name'],
+              incumbent=incumbent)
 
     dir_path = os.path.join("_candidates", "eu2014", party_id)
     if not os.path.isdir(dir_path):

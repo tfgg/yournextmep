@@ -5,7 +5,7 @@ east-midlands:
       url: https://en.wikipedia.org/wiki/East_Midlands_(European_Parliament_constituency)
   name: 'East Midlands'
   wikipedia_biography: 'East Midlands is a constituency of the European Parliament.
-    For 2009 it elects 5 MEPs using the d''Hondt method of party-list proportional
+    It currently elects five MEPs using the d''Hondt method of party-list proportional
     representation.'
   identifiers:
     - identifier: 11805
@@ -18,7 +18,7 @@ eastern:
       url: https://en.wikipedia.org/wiki/East_of_England_(European_Parliament_constituency)
   name: Eastern
   wikipedia_biography: 'East of England is a constituency of the European Parliament.
-    It currently elects 7 MEPs using the d''Hondt method of party-list proportional
+    It currently elects seven MEPs using the d''Hondt method of party-list proportional
     representation.'
   identifiers:
     - identifier: 11804
@@ -32,7 +32,7 @@ london:
       url: https://en.wikipedia.org/wiki/London_(European_Parliament_constituency)
   name: London
   wikipedia_biography: 'London is a constituency of the European Parliament. It currently
-    elects 8 MEPs using the d''Hondt method of party-list proportional representation.'
+    elects eight MEPs using the d''Hondt method of party-list proportional representation.'
   identifiers:
     - identifier: 11806
       scheme: mapit
@@ -45,7 +45,7 @@ north-east:
       url: https://en.wikipedia.org/wiki/North_East_England_(European_Parliament_constituency)
   name: 'North East'
   wikipedia_biography: 'North East England is a constituency of the European Parliament.
-    It currently elects 3 MEPs using the d''Hondt method of party-list proportional
+    It currently elects three MEPs using the d''Hondt method of party-list proportional
     representation.'
   identifiers:
     - identifier: 11812
@@ -59,7 +59,7 @@ north-west:
       url: https://en.wikipedia.org/wiki/North_West_England_(European_Parliament_constituency)
   name: 'North West'
   wikipedia_biography: 'North West England is a constituency of the European Parliament.
-    For the 2009 elections it elects 8 MEPs using the d''Hondt method of party-list
+    It currently elects eight MEPs using the d''Hondt method of party-list
     proportional representation.'
   identifiers:
     - identifier: 11807
@@ -87,7 +87,7 @@ scotland:
       url: https://en.wikipedia.org/wiki/Scotland_(European_Parliament_constituency)
   name: Scotland
   wikipedia_biography: 'Scotland constitutes a single constituency of the European
-    Parliament. For 2009 it elects 6 MEPs using the d''Hondt method of party-list
+    Parliament. It currently elects six MEPs using the d''Hondt method of party-list
     proportional representation.'
   identifiers:
     - identifier: 11808
@@ -101,7 +101,7 @@ south-east:
       url: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
   name: 'South East'
   wikipedia_biography: 'South East England is a constituency of the European Parliament.
-    It currently elects 10 Members of the European Parliament (MEPs) using the D''Hondt
+    It currently elects ten Members of the European Parliament (MEPs) using the D''Hondt
     method of party-list proportional representation.'
   identifiers:
     - identifier: 11811
@@ -115,7 +115,7 @@ south-west:
       url: https://en.wikipedia.org/wiki/South_West_England_(European_Parliament_constituency)
   name: 'South West'
   wikipedia_biography: 'South West England (Cornish: Dychow-houlsedhas Pou an Zouzn)
-    is a constituency of the European Parliament. For 2009 it elects 6 MEPs using
+    is a constituency of the European Parliament. It currently elects six MEPs using
     the d''Hondt method of party-list proportional representation, reduced from 7
     in 2004.'
   identifiers:
@@ -130,7 +130,7 @@ wales:
       url: https://en.wikipedia.org/wiki/Wales_(European_Parliament_constituency)
   name: Wales
   wikipedia_biography: 'Wales is a constituency of the European Parliament. It currently
-    elects 4 MEPs using the d''Hondt method of party-list proportional representation.'
+    elects four MEPs using the d''Hondt method of party-list proportional representation.'
   identifiers:
     - identifier: 11813
       scheme: mapit
@@ -143,10 +143,8 @@ west-midlands:
       url: https://en.wikipedia.org/wiki/West_Midlands_(European_Parliament_constituency)
   name: 'West Midlands'
   wikipedia_biography: 'West Midlands is a constituency of the European Parliament.
-    For 2009 it elected 6 MEPs using the d''Hondt method of party-list proportional
-    representation. The constituency also elected a "virtual MEP" who took her seat
-    in the Parliament when the Treaty of Lisbon came into effect. The constituency
-    was also previously represented by 7 MEPs prior to the 2009 election.'
+    It currently elects seven MEPs using the d''Hondt method of party-list proportional
+    representation.'
   identifiers:
     - identifier: 11809
       scheme: mapit
@@ -159,7 +157,7 @@ yorkshire-and-the-humber:
       url: https://en.wikipedia.org/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)
   name: 'Yorkshire and the Humber'
   wikipedia_biography: 'Yorkshire and the Humber is a constituency of the European
-    Parliament. It currently elects 6 MEPs using the d''Hondt method of party-list
+    Parliament. It currently elects six MEPs using the d''Hondt method of party-list
     proportional representation.'
   identifiers:
     - identifier: 11810
