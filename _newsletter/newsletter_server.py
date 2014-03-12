@@ -29,12 +29,29 @@ def get_context():
           'BASE_URL': settings.BASE_URL,
           'REDIRECT_LINK': settings.REDIRECT_LINK,}
 
+def fix_origin(f):
+  def _(*args, **kwargs):
+    resp = f(*args, **kwargs)
+    resp.headers['Access-Control-Allow-Origin'] = "*"
+    return resp
+
+  return _
+
 @app.route('/subscribe', methods=['POST'])
+@fix_origin
 def subscribe():
+  print request.form
   email_address = request.form.get('email', '').strip()
 
   if "@" not in email_address:
-    return jsonify({'error_text': "That doesn't look like an email address."})
+    return jsonify({'error_text': "That doesn't look like an email address.",
+                    'email': email_address})
+
+  other_projects = request.form.get('other', False)
+  if 'other_projects' == 'on':
+    other_projects = True
+  else:
+    other_projects = False
 
   num_found = db_subscriptions.find({'email_address_lower': email_address.lower()}).count()
 
@@ -49,6 +66,9 @@ def subscribe():
                      'confirmation_token': confirmation_token,
                      'active': False,
                      'unsubscribe_token': unsubscribe_token,
+                     'extra': {
+                         'other_projects': other_projects,
+                       }
                      }
 
     msg = Message('Confirm your subscription',
@@ -65,7 +85,7 @@ def subscribe():
     
     db_subscriptions.insert(subscribe_doc)
 
-    return jsonify({'success_text': 'Successfully subscribed. Thank you!'})
+    return jsonify({'success_text': 'Subscribed, please check your email to confirm.'})
   else:
     return jsonify({'error_text': "The email address {} is already subscribed!".format(email_address)})
 
