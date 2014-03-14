@@ -29,18 +29,17 @@ def get_context():
           'BASE_URL': settings.BASE_URL,
           'REDIRECT_LINK': settings.REDIRECT_LINK,}
 
-def fix_origin(f):
-  def _(*args, **kwargs):
-    resp = f(*args, **kwargs)
-    resp.headers['Access-Control-Allow-Origin'] = "*"
-    return resp
+#def fix_origin(f):
+#  def _(*args, **kwargs):
+#    resp = f(*args, **kwargs)
+#    resp.headers['Access-Control-Allow-Origin'] = "*"
+#    return resp
 
-  return _
+#  return _
 
 root_url = '/reminder'
 
 @app.route(root_url + '/subscribe', methods=['POST'])
-@fix_origin
 def subscribe():
   print request.form
   email_address = request.form.get('email', '').strip()
