@@ -3,3 +3,5 @@ images/twitter
 _scripts/local_settings.py
 _api/server-yournextmep-api.log
 *.pyc
+local_settings.py
+

@@ -50,7 +50,7 @@ def subscribe():
                     'email': email_address})
 
   other_projects = request.form.get('other', False)
-  if 'other_projects' == 'on':
+  if other_projects == 'on':
     other_projects = True
   else:
     other_projects = False
