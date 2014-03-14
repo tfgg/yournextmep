@@ -37,7 +37,9 @@ def fix_origin(f):
 
   return _
 
-@app.route('/subscribe', methods=['POST'])
+root_url = '/reminder'
+
+@app.route(root_url + '/subscribe', methods=['POST'])
 @fix_origin
 def subscribe():
   print request.form
@@ -72,7 +74,7 @@ def subscribe():
                      }
 
     msg = Message('YourNextMEP: Confirm your reminder subscription',
-                  sender='timothy.green@gmail.com',
+                  sender=settings.MAIL_SENDER,
                   recipients=[email_address])
 
     msg.body = render_template('subscribe_email.txt',
@@ -90,7 +92,7 @@ def subscribe():
     return jsonify({'error_text': "The email address {} is already subscribed!".format(email_address)})
 
 
-@app.route('/confirm/<confirmation_token>')
+@app.route(root_url + '/confirm/<confirmation_token>')
 def confirm(confirmation_token):
   doc = db_subscriptions.find_one({'confirmation_token': confirmation_token})
 
@@ -106,7 +108,7 @@ def confirm(confirmation_token):
     return render_template('confirm_failure.html',
                            **get_context())
 
-@app.route('/unsubscribe/<unsubscribe_token>', methods=['POST','GET'])
+@app.route(root_url + '/unsubscribe/<unsubscribe_token>', methods=['POST','GET'])
 def unsubscribe_by_token(unsubscribe_token):
   doc = db_subscriptions.find_one({'unsubscribe_token': unsubscribe_token})
 

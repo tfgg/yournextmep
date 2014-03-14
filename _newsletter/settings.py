@@ -1,6 +1,6 @@
-CONTACT_EMAIL = 'timothy.green@gmail.com'
-REDIRECT_LINK = 'http://127.0.0.1:5000'
-BASE_URL = 'http://127.0.0.1:5000'
+CONTACT_EMAIL = 'info@yournextmep.com'
+REDIRECT_LINK = 'http://yournextmep.com/'
+BASE_URL = 'http://yournextmep.com'
 
 try:
   from local_settings import *
