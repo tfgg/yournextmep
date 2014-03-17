@@ -59,6 +59,9 @@ david-knight:
 david-wildgoose:
   id: david-wildgoose
   name: 'David Wildgoose'
+  links:
+    - url: https://twitter.com/EnglishGoose
+      note: Twitter account
 
 
 derek-hilling:
