@@ -22,6 +22,9 @@ alexandra-phillips:
 alison-whalley:
   id: alison-whalley
   name: 'Alison Whalley'
+  links:
+    - note: Twitter account
+      url: https://twitter.com/alisonjwhalley
 
 
 amelia-womack:
