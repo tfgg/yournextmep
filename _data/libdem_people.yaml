@@ -119,7 +119,13 @@ anuja-prashar:
 ayoub-khan:
   email: Ayoub_khan64@hotmail.com
   id: ayoub-khan
+  image: /images/twitter/AyoubKhanPCC.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/AyoubKhanPCC
   name: 'Ayoub Khan'
+  summary: 'A formidable Barrister specialising in the area of Crime, Immigration,
+    Election & Family Law.'
 
 
 belinda-brooks-gordon:
@@ -260,10 +266,15 @@ christine-jardine:
 christine-tinker:
   email: libdem@christinetinker.wanadoo.co.uk
   id: christine-tinker
+  image: /images/twitter/ctinker2.jpg
   links:
     - note: 'Lib Dem candidate profile'
       url: http://www.libdems.org.uk/parliamentary_candidates_detail.aspx?name=Christine_Tinker&pPK=91158b0c-f520-4c83-918a-5ceb9d759900
+    - note: 'Twitter account'
+      url: https://twitter.com/ctinker2
   name: 'Christine Tinker'
+  summary: 'LibDem Parliamentary Candidate for Shrewsbury & Atcham. Keen tennis player
+    at Shrewsbury LTC. Retired Army officer & proud member of The Royal British Legion.'
 
 
 deborah-newton-cook:
@@ -570,10 +581,17 @@ jonathan-fryer:
 jonathan-webber:
   email: Chair@wmlibdems.org
   id: jonathan-webber
+  image: /images/twitter/JPMWebber.jpg
   links:
     - note: 'West Midlands Lib Dems profile'
       url: http://westmidslibdems.org.uk/en/contact/jonathan-webber
+    - note: 'Twitter account'
+      url: https://twitter.com/JPMWebber
   name: 'Jonathan Webber'
+  summary: 'International Trade and Development Expert
+
+
+    All and any observations herein are my own!'
 
 
 josephine-hayes:

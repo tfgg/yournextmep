@@ -1,5 +1,6 @@
 anna-lo:
   id: anna-lo
+  image: /images/twitter/Anna4Europe.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Anna_Lo
@@ -7,8 +8,11 @@ anna-lo:
       url: http://www.annalo.org/
     - note: 'Alliance Party profile'
       url: http://allianceparty.org/contact/belfast-south-anna-lo-mla
+    - note: 'Twitter account'
+      url: https://twitter.com/Anna4Europe
   name: 'Anna Lo'
-  wikipedia_biography: 'Anna Manwah Lo MBE (Chinese: 盧曼華 is an Alliance Party politician
+  summary: 'Alliance Party candidate for Europe & MLA for South Belfast'
+  wikipedia_biography: 'Anna Manwah Lo MBE (Chinese: 盧曼華) is an Alliance Party politician
     in Northern Ireland. Born in Hong Kong, of Cantonese-Chinese ethnicity, Lo was
     elected to the Northern Ireland Assembly for South Belfast in the 2007 assembly
     election. She was the first ethnic minority politician elected at a national level

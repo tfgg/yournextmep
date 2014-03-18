@@ -417,6 +417,8 @@ lyndon-jones:
   links:
     - note: 'UKIP Teflord & Wrekin page'
       url: http://www.ukiptelfordandwrekin.org.uk/west-midlands-mep-candidates/mep-2014-lyndon-jones/
+    - note: 'Youtube channel'
+      url: https://www.youtube.com/channel/UCq3rJY9AZ1bVpJdYFmKl9Tg
   name: 'Lyndon Jones'
 
 
@@ -487,7 +489,7 @@ michael-heaver:
     - note: Website
       url: http://michaelheaversblog.blogspot.co.uk/
   name: 'Michael Heaver'
-  summary: 'Bring on the Meritocracy. UKIPer. CFC & Ibiza. My views only.'
+  summary: 'Bring on the Meritocracy! UKIPer & CFC. My views only.'
 
 
 michael-mcmanus:
@@ -666,10 +668,16 @@ peter-whittle:
 phil-henrick:
   email: info@ukipsolihull.org
   id: phil-henrick
+  image: /images/twitter/philhenrick.jpg
   links:
     - note: 'Facebook page'
       url: https://www.facebook.com/philhenrick4UKIPMEP?ref=hl
+    - note: 'Twitter account'
+      url: https://twitter.com/philhenrick
   name: 'Phil Henrick'
+  summary: 'UKIP West Midlands MEP candidate Chairman of UKIP Solihull and Meriden.
+    Loves Europe, speaks Spanish & Catalan, is passionate about democracy & hence
+    is anti-EU'
 
 
 ray-finch:

@@ -1,6 +1,14 @@
 jim-nicholson:
   id: jim-nicholson
+  image: /images/twitter/JNicholsonMEP.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Jim_Nicholson_(UK_politician)
+    - note: Website
+      url: http://www.jim-nicholson.eu/
+    - note: 'Twitter account'
+      url: https://twitter.com/JNicholsonMEP
   name: 'Jim Nicholson'
+  summary: 'UUP MEP proudly representing Northern Ireland in the European Parliament.
+
+    Address: Strandtown Hall, 2-4 Belmont Road, Belfast, BT4 2AN.  Tel:02890474634'

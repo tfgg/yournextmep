@@ -21,10 +21,12 @@ alexandra-phillips:
 
 alison-whalley:
   id: alison-whalley
-  name: 'Alison Whalley'
+  image: /images/twitter/alisonjwhalley.jpg
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/alisonjwhalley
+  name: 'Alison Whalley'
+  summary: 'North East region Green Party  Euro Candidate - May 2014 elections'
 
 
 amelia-womack:

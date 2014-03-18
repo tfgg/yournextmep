@@ -1,9 +1,15 @@
 martina-anderson:
   id: martina-anderson
+  image: /images/twitter/MEPStandingUp4U.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Martina_Anderson
+    - note: 'Twitter account'
+      url: https://twitter.com/MEPStandingUp4U
+    - note: Website
+      url: http://martinamep.eu/
   name: 'Martina Anderson'
+  summary: 'Sinn Féin MEP StandingUp4U'
   wikipedia_biography: 'Martina Anderson (born 1962) is an Irish republican politician
     in Northern Ireland who is Member of the European Parliament (MEP) representing
     Northern Ireland for Sinn Féin. She is a former volunteer of the Provisional Irish

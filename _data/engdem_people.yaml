@@ -114,12 +114,18 @@ julia-gasper:
 
 kevin-riddiough:
   id: kevin-riddiough
+  image: /images/twitter/kev927riddy.jpg
   links:
     - note: Website
       url: http://opinionsofthemasses.blogspot.co.uk/
     - note: 'Facebook page'
       url: https://www.facebook.com/Kevin.Riddiough.English.Democrats
+    - note: 'Twitter account'
+      url: https://twitter.com/kev927riddy
   name: 'Kevin Riddiough'
+  summary: 'English Democrat. Prospective North East candidate. 
+
+    RT''s are not an endorsement.'
 
 
 kevin-sills:

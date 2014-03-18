@@ -1,9 +1,13 @@
 alex-attwood:
   id: alex-attwood
+  image: /images/twitter/AlexForEurope.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Alex_Attwood
+    - note: 'Twitter account'
+      url: https://twitter.com/AlexForEurope
   name: 'Alex Attwood'
+  summary: 'SDLP candidate for European elections and MLA for west Belfast'
   wikipedia_biography: 'Alex Attwood, MLA (Born 26 April 1959) is a Irish politician,
     currently serving in the Northern Ireland Executive, and is the Social Democratic
     and Labour Party MLA for Belfast West. Attwood was born in Belfast. Educated at
