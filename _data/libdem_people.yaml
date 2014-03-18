@@ -112,8 +112,8 @@ anuja-prashar:
     - note: 'Twitter account'
       url: https://twitter.com/AnujaPrashar
   name: 'Anuja Prashar'
-  summary: 'Lecturer for emerging economies, globalisation, cross culture communication
-    & compartive business cultures, Transnational Business future. #CSR,#Emergingmarkets'
+  summary: 'Lib Dem Euro candidate (London). Lecturer - emerging economies, globalisation,
+    cross culture communication & Transnational Business future. #CSR'
 
 
 ayoub-khan:
@@ -130,8 +130,8 @@ belinda-brooks-gordon:
     - note: 'Twitter account'
       url: https://twitter.com/BelindaBG
   name: 'Belinda Brooks-Gordon'
-  summary: 'Academic & Author in Psychology & Policy. Lupus survivor, Euro Candidate
-    2014. #Equality #Psychology #Justice #Politics #Sexuality.'
+  summary: 'Academic, Author, Lupus survivor, MEP Candidate 2014. #Equality #Psychology
+    #Justice #Politics #Sexuality.'
 
 
 bill-newton-dunn:
@@ -296,14 +296,17 @@ dinti-batstone:
 
 edward-mcmillan-scott:
   id: edward-mcmillan-scott
+  image: /images/twitter/emcmillanscott.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Edward_McMillan-Scott
     - note: Website
       url: http://emcmillanscott.com/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/emcmillanscott
   name: 'Edward McMillan-Scott'
+  summary: 'European Parliament Vice-President for democracy & human rights and transatlantic
+    relations, Yorkshire & Humber UK Liberal Democrat.'
   wikipedia_biography: 'Edward Hugh Christian McMillan-Scott (born 15 August 1949)
     is a British Member of the European Parliament (MEP) for Yorkshire and the Humber
     constituency. He has been elected four times as European Parliament Vice-President
@@ -324,8 +327,8 @@ george-lyon:
     - note: 'Twitter account'
       url: https://twitter.com/georgelyonmep
   name: 'George Lyon'
-  summary: 'Liberal Democrat MEP for Scotland.Vice President Budget Committee. Liberal
-    Spokesperson on Agri Committee.'
+  summary: 'Liberal Democrat MEP for Scotland. Vice-chair of the Budget Committee.
+    Liberal Spokesperson on the Agriculture Committee.'
   wikipedia_biography: 'George Lyon (born 16 July 1956 in Rothesay) is a Scottish
     Liberal Democrat politician, and a Member of the European Parliament for Scotland,
     elected on 4 June 2009 when he took over from Elspeth Attwooll who retired after
@@ -487,8 +490,9 @@ jane-brophy:
     - note: 'Lib Dem candidate page'
       url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Jane_Brophy&pPK=ea1a9529-3452-470c-8d29-bb043cfe845a
   name: 'Jane Brophy'
-  summary: 'Altrincham & Sale Lib Dems. Timperley Cllr, Trafford. Green & Vegetarian.
-    Mum to Teens. Nutrition Tweets @JaneBrophyRD Here on Health, Environment & Politics.'
+  summary: 'Altrincham and Sale @ASWLibDems Timperley Cllr, Trafford. @GreenLibDems
+    Vegetarian @JaneBrophyRD Health, Environment, Politics, Local Gov. NW European
+    candidate'
 
 
 jay-risbridger:
@@ -603,9 +607,9 @@ kay-barnard:
 
 
 linda-jack:
+  email: linda_a_jack@yahoo.co.uk
   id: linda-jack
   image: /images/twitter/Lindylooz.png
-  email: linda_a_jack@yahoo.co.uk
   links:
     - note: 'Twitter account'
       url: https://twitter.com/Lindylooz
@@ -784,8 +788,7 @@ sarah-ludford:
       url: https://twitter.com/SarahLudfordMEP
   name: 'Sarah Ludford'
   summary: 'Liberal Democrat MEP for London and LibDem European justice & human rights
-    spokeswoman. 
- Account run by Sarah and by her press officer (signed dl)'
+    spokeswoman.  Account run by Sarah and by her press officer (signed dl)'
   wikipedia_biography: 'Sarah Ann Ludford, Baroness Ludford (born 14 March 1951) is
     a Liberal Democrat Member of the European Parliament (MEP) and a nonvoting member
     of the House of Lords (where her voting membership is suspended during her MEP
@@ -842,9 +845,8 @@ sue-mcguire:
     - note: 'Twitter account'
       url: https://twitter.com/sue_mcguire
   name: 'Sue McGuire'
-  summary: 'Mum of 2 teenagers, business woman, LibDem councillor in Southport, chair
-    of Southport LibDems, charity trustee (SPAC) & school governor.  All views are
-    my own.'
+  summary: 'Mum of 2 teenagers, LibDem councillor for Cambridge ward Southport, business
+    women, charity trustee (SPAC) & school governor. All views are my own.'
 
 
 tim-bearder:
@@ -872,4 +874,4 @@ turhan-ozen:
     - note: Website
       url: http://www.drozen.org
   name: 'Turhan Ozen'
-  summary: 'LibDem EUP Candidate for London'
+  summary: 'LibDem PPC for Tottenham and LibDem EU PPC for London.'

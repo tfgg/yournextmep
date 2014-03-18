@@ -1,13 +1,33 @@
 enza-ferreri:
   id: enza-ferreri
+  image: /images/twitter/EnzaFerreri.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/EnzaFerreri
   name: 'Enza Ferreri'
+  summary: 'Italian web author living in London.Vegetarian,for animal equality,defender
+    of Western values. Will animal welfare & many more achievements survive in Eurabia?'
 
 
 jack-buckby:
   id: jack-buckby
+  image: /images/twitter/jackbuckby.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/jackbuckby
   name: 'Jack Buckby'
+  summary: 'Candidate for 2014 Euro elections, EC member of @Liberty_GB, business
+    owner, critic of the BNP, culturist, proponent of culture and lover of beer.'
 
 
 paul-weston:
   id: paul-weston
+  image: /images/twitter/paulwestonlibgb.png
+  links:
+    - note: Website
+      url: http://votepaulweston.com/
+    - note: 'Twitter account'
+      url: https://twitter.com/paulwestonlibgb
   name: 'Paul Weston'
+  summary: 'Paul Weston, Chairman of @Liberty_GB. Fighting for Britain''s heritage,
+    culture and people.'

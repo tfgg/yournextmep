@@ -58,10 +58,12 @@ david-knight:
 
 david-wildgoose:
   id: david-wildgoose
-  name: 'David Wildgoose'
+  image: /images/twitter/EnglishGoose.png
   links:
-    - url: https://twitter.com/EnglishGoose
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/EnglishGoose
+  name: 'David Wildgoose'
+  summary: 'Campaigning for an English Parliament'
 
 
 derek-hilling:
@@ -207,7 +209,8 @@ stephen-morris:
     - note: 'Twitter account'
       url: https://twitter.com/SteMorris
   name: 'Stephen Morris'
-  summary: 'English Democrats North West Chairman, Lead Candidate 2014 EU Elections'
+  summary: 'English Democrats North West Chairman, Lead Candidate 2014 EU Elections
+    & North West Workers of England Union Representative'
 
 
 stephen-wright:

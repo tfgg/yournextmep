@@ -13,8 +13,6 @@ alexandra-phillips:
   id: alexandra-phillips
   image: /images/twitter/alexforgoldsmid.jpg
   links:
-    - note: 'Twitter account'
-      url: https://twitter.com/alexforgoldsmid
     - note: Website
       url: http://alexfordeputy.org.uk/
   name: 'Alexandra Phillips'
@@ -28,7 +26,7 @@ alison-whalley:
 
 amelia-womack:
   id: amelia-womack
-  image: /images/twitter/green_ballerina.jpg
+  image: /images/twitter/green_ballerina.png
   links:
     - note: 'Facebook page'
       url: https://www.facebook.com/AmeliaWomackforEurope
@@ -37,8 +35,8 @@ amelia-womack:
     - note: 'Twitter account'
       url: https://twitter.com/green_ballerina
   name: 'Amelia Womack'
-  summary: '@TheGreenParty MEP candidate, Socialist, Environmentalist, Environmental
-    Technology Student, @EndecocideEU Campaigner and Dancer'
+  summary: '@TheGreenParty MEP candidate #eu14, #Socialist, #Environmentalist, @EndecocideEU
+    Campaigner @imperialcollege alumni and Dancer'
 
 
 andrew-cooper:
@@ -79,8 +77,8 @@ audaye-elesedy:
     - note: 'Twitter account'
       url: https://twitter.com/audaye
   name: 'Audaye Elesedy'
-  summary: 'Current affairs  - Broadcasting @SWCnR + director @phonic_fm  - Ecology
-    - Climate - IT - Green Politics - Euro candidacy - Tweets my own or borrowed.'
+  summary: 'Culture  - Broadcasting @SWCnR + director @phonic_fm  - Ecology - Climate
+    - IT - Green Politics - Euro candidacy - Father- Tweets my own or borrowed.'
 
 
 beatrix-campbell:
@@ -141,7 +139,8 @@ chris-were:
     - note: Website
       url: http://christopherwere.com/
   name: 'Chris Were'
-  summary: 'You can find out more on http://t.co/iY0l7VlX8Z'
+  summary: 'My personal Twitter. If you''re approved to follow this account, it means
+    you''re awesome.'
 
 
 danny-bates:
@@ -171,14 +170,17 @@ denise-craghill:
 
 derek-wall:
   id: derek-wall
+  image: /images/twitter/Anothergreen.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Derek_Wall
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/Anothergreen
     - note: Website
       url: http://another-green-world.blogspot.co.uk/
   name: 'Derek Wall'
+  summary: 'Derek Wall, Green Party International Coordinator. Author ''The Sustainable
+    Economics of Elinor Ostrom'''
   wikipedia_biography: 'Derek Wall is an English politician and member of the Green
     Party of England and Wales. He is currently International Coordinator of the Green
     Party. Formerly the party''s Principal Speaker, he is known as a prominent ecosocialist,
@@ -220,15 +222,15 @@ emily-mcivor:
 
 fiona-radic:
   id: fiona-radic
-  image: /images/twitter/FionaRadic.jpg
+  image: /images/twitter/FionaRadic.png
   links:
     - note: 'Twitter account'
       url: https://twitter.com/FionaRadic
     - note: Website
       url: http://fionaradic.wordpress.com/
   name: 'Fiona Radic'
-  summary: 'Green Party candidate for the Eastern Region              in the 2014
-    European election'
+  summary: 'European Parliamentary candidate.  Working with @GreenRupertRead to elect
+    a  @TheGreenParty MEP in Eastern Region on 22nd May 2014'
 
 
 gina-dowding:
@@ -272,8 +274,8 @@ jake-welsh:
     - note: Website
       url: http://jakewelsh.blogspot.co.uk/
   name: 'Jake Welsh'
-  summary: 'vegan. cyclist. punk. feminist. @TheGreenParty candidate for European
-    elections in North West, and for Chorlton, Manchester. eco-socialist.'
+  summary: 'vegan. cyclist. punk. feminist. eco-socialist. @TheGreenParty candidate
+    for European elections in North West, and for Chorlton, Manchester. Views my own.'
 
 
 jason-kitcat:
@@ -381,7 +383,7 @@ judy-maciejowska:
 
 karl-macnaughton:
   id: karl-macnaughton
-  image: /images/twitter/CllrKarl.jpg
+  image: /images/twitter/CllrKarl.png
   links:
     - note: 'Twitter account'
       url: https://twitter.com/CllrKarl
@@ -447,7 +449,8 @@ lewis-coyne:
     - note: 'Twitter account'
       url: https://twitter.com/LewisCoyne
   name: 'Lewis Coyne'
-  summary: 'Who only by moving can balance,/Only by balancing move.'
+  summary: 'Writer, activist, North West Green Party candidate for the European elections,
+    angry young man.'
 
 
 marc-scheimann:
@@ -470,8 +473,8 @@ mark-ereira-guyer:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Mark_Ereira-Guyer
   name: 'Mark Ereira-Guyer'
-  summary: 'Green campaigner, Suffolk County Councillor & Voluntary/Community sector
-    consultant, general all-round Fiery Spirit'
+  summary: 'Green campaigner, Ipswich Green Parliamentary Candidate, Suffolk County
+    Councillor & Voluntary/Community sector consultant, general all-round Fiery Spirit'
   wikipedia_biography: 'Mark Ereira-Guyer (sometimes known as Mark Ereira - his wife''s
     surname is Guyer) is the Green party''s Suffolk county councillor for Tower division
     in Bury St Edmunds.'
@@ -489,7 +492,7 @@ martin-hemingway:
     - note: Website
       url: http://martinhemingwayforeurope.wordpress.com/
   name: 'Martin Hemingway'
-  summary: 'Leeds Green Party, GPRC rep Yorkshire and the Humber'
+  summary: 'Leeds Green Party,'
 
 
 miriam-kennet:
@@ -539,7 +542,7 @@ peter-allen:
 
 peter-cranie:
   id: peter-cranie
-  image: /images/twitter/PeterCranie.jpg
+  image: /images/twitter/PeterCranie.png
   links:
     - note: 'Twitter account'
       url: https://twitter.com/PeterCranie
@@ -621,8 +624,9 @@ rupert-read:
     - note: 'Twitter account'
       url: https://twitter.com/GreenRupertRead
   name: 'Rupert Read'
-  summary: 'Fed up with politics? Follow me for a fresh take on the issues that matter
-    to you. Vote for me on 22nd May to be your @TheGreenParty MEP in the Eastern Region.'
+  summary: 'Fed up with politics as usual? Follow me for a fresh take on the issues
+    that matter to you. Vote for me on 22nd May to be your @TheGreenParty MEP in the
+    East.'
   wikipedia_biography: 'Rupert Read is an academic and a Green Party politician in
     England. He is Chair of the Green House thinktank, East of England Green Party
     Co-ordinator and a Reader in Philosophy at the University of East Anglia. Read
@@ -639,8 +643,7 @@ saffi-price:
       url: https://twitter.com/SaffiPrice
   name: 'Saffi Price'
   summary: 'If you can''t be in the place you love  then love the place you''re in.
-    All views are my own and in no way reflect the opinions of the organisation I
-    work for.'
+    All views my own or so I like to believe.'
 
 
 shahrar-ali:
@@ -692,7 +695,7 @@ shirley-ford:
 
 simon-hales:
   id: simon-hales
-  image: /images/twitter/shales73.gif
+  image: /images/twitter/shales73.png
   links:
     - note: 'Twitter account'
       url: https://twitter.com/shales73
