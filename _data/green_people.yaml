@@ -519,6 +519,7 @@ miriam-kennet:
 molly-scott-cato:
   email: molly.scott.cato@greenparty.org.uk
   id: molly-scott-cato
+  image: /images/twitter/Molly4Europe.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Molly_Scott_Cato
@@ -526,11 +527,13 @@ molly-scott-cato:
       url: http://www.greenparty.org.uk/people/molly-scott-cato.html
     - note: Website
       url: http://gaianeconomics.blogspot.co.uk/
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/MollyScottCato
-    - note: Campaign Twitter account
+    - note: 'Campaign Twitter account'
       url: https://twitter.com/Molly4Europe
   name: 'Molly Scott Cato'
+  summary: 'News from Molly and the team helping her on her way to being the South
+    West''s first Green MEP'
   wikipedia_biography: 'Molly Scott Cato Ph.D. (born in 1963 in Wales) is a green
     economist and prominent member of the Green Party of England and Wales. She is
     Professor of Strategy and Sustainability at the University of Roehampton and Convenor
