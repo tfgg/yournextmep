@@ -136,8 +136,8 @@ belinda-brooks-gordon:
     - note: 'Twitter account'
       url: https://twitter.com/BelindaBG
   name: 'Belinda Brooks-Gordon'
-  summary: 'Academic, Author, Lupus survivor, MEP Candidate 2014. #Equality #Psychology
-    #Justice #Politics #Sexuality.'
+  summary: 'Academic, Author. #Equality #Psychology #Justice #Politics #Sexuality.
+    Lupus survivor, MEP Candidate 2014.'
 
 
 bill-newton-dunn:
@@ -669,12 +669,17 @@ matt-mclaren:
 
 michael-green:
   id: michael-green
+  image: /images/twitter/michaelgreen01.jpg
   links:
     - note: 'Lib Dem candidate profile page'
       url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Michael_Green&pPK=56dd2bda-dd71-4d11-b78e-9be3739485a8
     - note: 'Facebook page'
       url: https://www.facebook.com/MichaelGreen4EastEnglandMEP
+    - note: 'Twitter account'
+      url: https://twitter.com/michaelgreen01
   name: 'Michael Green'
+  summary: 'Liberal Democrat councillor for St Peter''s ward, St Albans and East of
+    England Euro candidate.  Tweeting on politics, music and football!'
 
 
 neil-christian:
