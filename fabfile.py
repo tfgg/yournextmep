@@ -8,12 +8,20 @@ def deploy():
   pull()
   build()
 
-def twitter_images():
+def party_ids():
   with cd('~/site/'):
     for f in os.listdir('_data'): 
       if f.endswith('_people.yaml'):
-        party_id = f[:-len("_people.yaml")]
-        print party_id
+        yield f[:-len("_people.yaml")]
+
+def twitter_images(party=None):
+  if party is None:
+    print "Doing all"
+  else:
+    print "Doing", party
+
+def wikipedia_biogs(party=None):
+  pass
 
 def push():
   local('git push origin master')
