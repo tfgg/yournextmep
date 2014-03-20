@@ -28,6 +28,12 @@ Then for each party (nb: automate this) run
     python _scripts/wikipedia_biogs.py _data/PARTYID_people.yaml
     
 to get the Twitter images and wikipedia descriptions.
+
+If you want to rebuild the candidates pages (e.g. you've added or renamed a candidates), run
+
+    python _scripts/make_candidates.py PARTYID
+    
+and the appropriate files in _candidates will be made.
     
 Finally, build with Jekyll
 
