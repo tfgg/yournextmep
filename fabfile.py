@@ -24,7 +24,7 @@ def twitter_images(party=None):
     else:
       path = "_data/{}_people.yaml".format(party)
       
-      run('python _scripts/twitter_pics.py {}'format(path))
+      run('python _scripts/twitter_pics.py {}'.format(path))
 
 def wikipedia_biogs(party=None):
   pass
