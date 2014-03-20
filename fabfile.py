@@ -12,7 +12,8 @@ def twitter_images():
   with cd('~/site/'):
     for f in os.listdir('_data'): 
       if f.endswith('_people.yaml'):
-        print f
+        party_id = f[:-len("_people.yaml")]
+        print party_id
 
 def push():
   local('git push origin master')
