@@ -16,9 +16,14 @@ def party_ids():
 
 def twitter_images(party=None):
   if party is None:
-    print "Doing all"
+    for party_id in party_ids():
+      path = "_data/{}_people.yaml".format(party_id)
+
+      run('python _scripts/twitter_images.py', path)
   else:
-    print "Doing", party
+    path = "_data/{}_people.yaml".format(party)
+    
+    run('python _scripts/twitter_images.py', path)
 
 def wikipedia_biogs(party=None):
   pass
