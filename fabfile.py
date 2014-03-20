@@ -20,11 +20,11 @@ def twitter_images(party=None):
       for party_id in party_ids():
         path = "_data/{}_people.yaml".format(party_id)
 
-        run('python _scripts/twitter_pics.py', path)
+        run('python _scripts/twitter_pics.py {}'.format(path))
     else:
       path = "_data/{}_people.yaml".format(party)
       
-      run('python _scripts/twitter_pics.py', path)
+      run('python _scripts/twitter_pics.py {}'format(path))
 
 def wikipedia_biogs(party=None):
   pass
