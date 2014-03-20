@@ -15,15 +15,16 @@ def party_ids():
         yield f[:-len("_people.yaml")]
 
 def twitter_images(party=None):
-  if party is None:
-    for party_id in party_ids():
-      path = "_data/{}_people.yaml".format(party_id)
+  with cd('~/site'):
+    if party is None:
+      for party_id in party_ids():
+        path = "_data/{}_people.yaml".format(party_id)
 
-      run('python _scripts/twitter_images.py', path)
-  else:
-    path = "_data/{}_people.yaml".format(party)
-    
-    run('python _scripts/twitter_images.py', path)
+        run('python _scripts/twitter_pics.py', path)
+    else:
+      path = "_data/{}_people.yaml".format(party)
+      
+      run('python _scripts/twitter_pics.py', path)
 
 def wikipedia_biogs(party=None):
   pass
