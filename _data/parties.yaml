@@ -263,6 +263,23 @@ snp:
     Hamilton by-election.'
 
 
+spgb:
+  classification: Party
+  founding_date: 1904
+  id: spgb
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Socialist_Party_of_Great_Britain
+  name: 'Socialist Party of Great Britain'
+  name_article: 'the Socialist Party of Great Britain'
+  wikipedia_biography: 'The Socialist Party of Great Britain (SPGB) is the second-oldest
+    extant political party in the UK and is regarded as within the impossibilist tradition.
+    It is best known for its advocacy of using the ballot box for revolutionary purposes;
+    opposition to reformism; and its early adoption of the theory of state capitalism
+    to describe the Soviet Union. Detractors have been known to mockingly refer to
+    it as Simon Pure''s Genuine Brand or the Small Party of Good Boys.'
+
+
 ukip:
   classification: Party
   founding_date: 1993-9-3
