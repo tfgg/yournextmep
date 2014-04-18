@@ -1,54 +1,73 @@
 dave-chesham:
   name: Dave Chesham
   id: dave-chesham
+  links:
+    - url: https://twitter.com/whichfinder
+      note: Twitter account
+      
 
 les-courtney:
   name: Les Courtney
   id: les-courtney
+  
 
 rob-cox:
   name: Rob Cox
   id: rob-cox
 
+
 sean-deegan:
   name: Sean Deegan
   id: sean-deegan
+  links:
+    - url: https://twitter.com/thewealthatom
+      note: Twitter account
+
 
 max-hess:
   name: Max Hess
   id: max-hess
+  
 
 claudia-hogg-blake:
   name: Claudia Hogg-Blake
   id: claudia-hogg-blake
 
+
 danny-lambert:
   name: Danny Lambert
   id: danny-lambert
+
 
 andy-matthews:
   name: Andy Matthews
   id: andy-matthews
 
+
 howard-pilott:
   name: Howard Pilott
   id: howard-pilott
+
 
 mike-young:
   name: Mike Young
   id: mike-young
   
+  
 ed-blewitt:
   name: Ed Blewitt
   id: ed-blewitt
+  
   
 richard-cheney:
   name: Richard Cheney
   id: richard-cheney
   
+  
 brian-johnson:
   name: Brian Johnson
   id: brian-johnson
+  
   
 howard-moss:
   name: Howard Moss
