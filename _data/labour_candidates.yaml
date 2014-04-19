@@ -61,9 +61,6 @@ north-east:
 
 
 north-west:
-  - id: arlene-mccarthy
-    name: 'Arlene McCarthy'
-    incumbent: true
   - id: theresa-griffin
     name: 'Theresa Griffin'
   - id: afzal-khan
