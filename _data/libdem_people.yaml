@@ -452,12 +452,16 @@ hugh-annand:
 
 ian-bearder:
   id: ian-bearder
+  image: /images/twitter/IanBearder.jpg
   links:
     - note: 'Lib Dem candidate page'
       url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Ian_Bearder&pPK=65b668dc-4c83-4969-9fcc-43add756ffb6
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/IanBearder
   name: 'Ian Bearder'
+  summary: 'A European, British, Englishman from a village called Wendlebury. I''m
+    also a Lib Dem candidate for the 2015 European elections, so don''t forget to
+    vote ;-)'
 
 
 issan-ghazni:
@@ -667,6 +671,11 @@ lisa-strachan:
   name: 'Lisa Strachan'
 
 
+lyana-armstrong-emery:
+  id: lyana-armstrong-emery
+  name: 'Lyana Armstrong-Emery'
+
+
 matt-mclaren:
   id: matt-mclaren
   image: /images/twitter/mattjmclaren.jpg
@@ -824,8 +833,7 @@ sarah-ludford:
       url: https://twitter.com/SarahLudfordMEP
   name: 'Sarah Ludford'
   summary: 'Liberal Democrat MEP for London and LibDem European justice & human rights
-    spokeswoman. 
- Account run by Sarah and by her press officer (signed dl)'
+    spokeswoman.  Account run by Sarah and by her press officer (signed dl)'
   wikipedia_biography: 'Sarah Ann Ludford, Baroness Ludford (born 14 March 1951) is
     a Liberal Democrat Member of the European Parliament (MEP) and a nonvoting member
     of the House of Lords (where her voting membership is suspended during her MEP
@@ -913,8 +921,3 @@ turhan-ozen:
       url: http://www.drozen.org
   name: 'Turhan Ozen'
   summary: 'LibDem PPC for Tottenham and LibDem EU PPC for London.'
-
-lyana-armstrong-emery:
-  id: lyana-armstrong-emery
-  name: Lyana Armstrong-Emery
-

@@ -38,6 +38,8 @@ charles-vickers:
   links:
     - note: 'Facebook page'
       url: https://www.facebook.com/Charles.Vickers.English.Democrats
+    - note: Twitter account
+      url: https://twitter.com/charlesvickers
   name: 'Charles Vickers'
 
 
@@ -84,6 +86,9 @@ david-allen:
 david-haslett:
   id: david-haslett
   name: 'David Haslett'
+  possible_links:
+    - url: https://twitter.com/djh1697
+      note: Twitter account
 
 
 david-knight:
@@ -303,6 +308,9 @@ nick-capp:
 oliver-healey:
   id: oliver-healey
   name: 'Oliver Healey'
+  links:
+    - url: https://www.facebook.com/oliver.healey.3
+      note: Facebook page
 
 
 paul-rimmer:
@@ -415,6 +423,9 @@ tom-redmond:
 valerie-morris:
   id: valerie-morris
   name: 'Valerie Morris'
+  links:
+    - url: https://twitter.com/ValMorris
+      note: Twitter account
 
 
 william-james:
