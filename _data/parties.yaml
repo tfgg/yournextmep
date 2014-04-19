@@ -188,12 +188,25 @@ ni21:
   founding_date: 2013-06-06
   id: ni21
   links:
-    - name: https://en.wikipedia.org/wiki/NI21
-      url: 'Wikipedia article'
-    - name: http://ni21.com/
-      url: Website
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/NI21
+    - note: Website
+      url: http://ni21.com/
   name: NI21
   name_article: 'the NI21 party'
+
+
+no2eu:
+  classification: Party
+  founding_date: 2009-03-19
+  id: no2eu
+  links:
+    - note: Wikipedia
+      url: https://en.wikipedia.org/wiki/No_to_the_EU_%E2%80%93_Yes_to_Democracy
+    - note: Website
+      url: http://www.no2eu.com/
+  name: No2EU
+  name_article: 'the No2EU party'
 
 
 plaid-cymru:

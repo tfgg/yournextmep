@@ -9,4 +9,14 @@ west-midlands:
     incumbent: true
   - id: andy-adris
     name: 'Andy Adris'
+  - id: linda-brown
+    name: Linda Brown
+  - id: david-bennett
+    name: David Bennett
+  - id: judith-smart
+    name: Judith Smart
+  - id: thomas-reid
+    name: Thomas Reid
+  - id: amanda-wilson
+    name: Amanda Wilson
 

@@ -1,6 +1,26 @@
+amanda-wilson:
+  id: amanda-wilson
+  name: 'Amanda Wilson'
+
+
 andy-adris:
   id: andy-adris
   name: 'Andy Adris'
+
+
+david-bennett:
+  id: david-bennett
+  name: 'David Bennett'
+
+
+judith-smart:
+  id: judith-smart
+  name: 'Judith Smart'
+
+
+linda-brown:
+  id: linda-brown
+  name: 'Linda Brown'
 
 
 nikki-sinclaire:
@@ -34,3 +54,8 @@ rev-george-hargreaves:
   wikipedia_biography: 'James George Hargreaves (born 1958), known as George Hargreaves
     or J. G. Hargreaves, is a religious minister, political campaigner, leader of
     the Christian Party (UK), and former music producer and songwriter.'
+
+
+thomas-reid:
+  id: thomas-reid
+  name: 'Thomas Reid'
