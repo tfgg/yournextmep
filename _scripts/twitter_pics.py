@@ -18,7 +18,8 @@ for person_id, person in people.items():
         if twitter_id == "":
           print >>sys.stderr, link, person_id
 
-        ids.append((person, twitter_id))
+        if 'image' not in person:
+          ids.append((person, twitter_id))
 
 from local_settings import TWITTER
 import twitter

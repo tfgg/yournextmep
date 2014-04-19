@@ -300,7 +300,7 @@ dinti-batstone:
     - note: 'Facebook page'
       url: https://www.facebook.com/pages/Dinti-Batstone/105351986195513
   name: 'Dinti Batstone'
-  summary: 'Redhead, mother-of-two, Liberal Democrat. 
+  summary: 'Redhead, mother-of-two, Liberal Democrat.
 
     Recovering lawyer & MBA.'
 
@@ -651,17 +651,17 @@ linda-jack:
     - note: Website
       url: http://lindyloosmuze.blogspot.co.uk/
   name: 'Linda Jack'
-  summary: 'Liberal Democrat activist, political commentator. 
+  summary: 'Liberal Democrat activist, political commentator.
 
-    
+
 
     Chair of Liberal Left.
 
-    
+
 
     Financial Capability consultant
 
-    
+
 
     email: linda_a_jack@yahoo.co.uk'
 
@@ -773,10 +773,15 @@ phil-knowles:
 
 qassim-afzal:
   id: qassim-afzal
+  image: /images/twitter/QassimAfzal.jpg
   links:
     - note: Website
       url: http://qassim-afzal.com/
+    - note: 'Twitter account'
+      url: https://twitter.com/QassimAfzal
   name: 'Qassim Afzal'
+  summary: 'parliamentary spokesman|policy committees|foreign affairs|culture media
+    sports|DCMS|broadcast journalist|consultants| fdi economic development|'
 
 
 richard-brodie:
@@ -833,7 +838,7 @@ sarah-ludford:
       url: https://twitter.com/SarahLudfordMEP
   name: 'Sarah Ludford'
   summary: 'Liberal Democrat MEP for London and LibDem European justice & human rights
-    spokeswoman.  Account run by Sarah and by her press officer (signed dl)'
+    spokeswoman. Account run by Sarah and by her press officer (signed dl)'
   wikipedia_biography: 'Sarah Ann Ludford, Baroness Ludford (born 14 March 1951) is
     a Liberal Democrat Member of the European Parliament (MEP) and a nonvoting member
     of the House of Lords (where her voting membership is suspended during her MEP

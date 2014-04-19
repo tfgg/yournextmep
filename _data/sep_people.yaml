@@ -10,7 +10,12 @@ chris-marsden:
 
 danny-dickinson:
   id: danny-dickinson
+  image: /images/twitter/dannyd219.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/dannyd219
   name: 'Danny Dickinson'
+  summary: 'Inequality is the source of all repression,hunger and wars.'
 
 
 joe-heffer:
