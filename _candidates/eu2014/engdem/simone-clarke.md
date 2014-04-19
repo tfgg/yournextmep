@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/engdem/simone-clarke/
 categories: candidate engdem
 election: eu2014
-list-rank: 5
-list-rank-ordinal: 5th
+list-rank: 4
+list-rank-ordinal: 4th
 person: simone-clarke
 region: south-east
 party: engdem

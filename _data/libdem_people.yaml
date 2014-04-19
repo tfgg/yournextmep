@@ -113,7 +113,7 @@ anuja-prashar:
       url: https://twitter.com/AnujaPrashar
   name: 'Anuja Prashar'
   summary: 'Lib Dem Euro candidate (London). Lecturer - emerging economies, globalisation,
-    cross culture communication & Transnational Business future. #CSR'
+    cross culture communication & Transnationalism. #CSR #equality #DomesticViolence'
 
 
 ayoub-khan:
@@ -329,11 +329,14 @@ edward-mcmillan-scott:
 
 euan-davidson:
   id: euan-davidson
-  name: Euan Davidson
+  image: /images/twitter/euandavidson.jpg
   links:
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/euandavidson
-      
+  name: 'Euan Davidson'
+  summary: 'Liberal, European Election Candidate, AULD president, ACYC Campaign Coordinator,
+    Sexual Health Volunteer, Advertiser Columnist, lgbt, feminism,  youth rights,'
+
 
 george-lyon:
   id: george-lyon
@@ -672,7 +675,7 @@ matt-mclaren:
       url: https://twitter.com/mattjmclaren
   name: 'Matt McLaren'
   summary: '@LondonLibDems European Parliamentary Candidate, @liberalyouth Honorary
-    Vice-President, @TPPNotforProfit Social Care Consultant, @HeythropCollege Alumnus'
+    Vice-President, @TPPNotforProfit Recruitment Consultant, @HeythropCollege Alumnus'
 
 
 michael-green:
@@ -819,8 +822,7 @@ sarah-ludford:
       url: https://twitter.com/SarahLudfordMEP
   name: 'Sarah Ludford'
   summary: 'Liberal Democrat MEP for London and LibDem European justice & human rights
-    spokeswoman. 
- Account run by Sarah and by her press officer (signed dl)'
+    spokeswoman.  Account run by Sarah and by her press officer (signed dl)'
   wikipedia_biography: 'Sarah Ann Ludford, Baroness Ludford (born 14 March 1951) is
     a Liberal Democrat Member of the European Parliament (MEP) and a nonvoting member
     of the House of Lords (where her voting membership is suspended during her MEP
@@ -877,8 +879,9 @@ sue-mcguire:
     - note: 'Twitter account'
       url: https://twitter.com/sue_mcguire
   name: 'Sue McGuire'
-  summary: 'Mum of 2 teenagers, LibDem councillor for Cambridge ward Southport, business
-    women, charity trustee (SPAC) & school governor. All views are my own.'
+  summary: 'Lib Dem - Promoted & published by S McGuire 35 Shakespeare St, Southport
+    PR8 5AB. Printed (hosted) by Twitter, 1355 Market St, San Francisco, CA 94103,
+    USA'
 
 
 tim-bearder:

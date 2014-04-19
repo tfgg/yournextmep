@@ -5,16 +5,17 @@ from slugify import slugify
 
 candidates = yaml.load(open(sys.argv[1]))
 
-people = {}
+people = yaml.load(open(sys.argv[2]))
 
 for region in candidates:
   for candidate in candidates[region]:
-    person = {'name': candidate['name'],
-              'id': slugify(candidate['name']),}
+    name = unicode(candidate['name'])
+    id = slugify(name)
 
-    if 'wikipedia' in candidate:
-      person['links'] = [{'note': 'Wikipedia article',
-                          'url': candidate['wikipedia'],}]
+    person = people.get(id, {})
+
+    person['name'] = name
+    person['id'] = id
 
     people[person['id']] = person
 

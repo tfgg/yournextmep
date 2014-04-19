@@ -13,6 +13,26 @@ amanda-hopwood:
   name: 'Amanda Hopwood'
 
 
+anthony-backhouse:
+  id: anthony-backhouse
+  name: 'Anthony Backhouse'
+
+
+barbara-wright:
+  id: barbara-wright
+  name: 'Barbara Wright'
+
+
+bridget-cowan:
+  id: bridget-cowan
+  name: 'Bridget Cowan'
+
+
+charles-hayward:
+  id: charles-hayward
+  name: 'Charles Hayward'
+
+
 charles-vickers:
   id: charles-vickers
   links:
@@ -36,14 +56,34 @@ chris-beverley:
     the 2014 European Elections'
 
 
+chris-newey:
+  id: chris-newey
+  name: 'Chris Newey'
+
+
 clive-lavelle:
   id: clive-lavelle
   name: 'Clive Lavelle'
 
 
+colin-porter:
+  id: colin-porter
+  name: 'Colin Porter'
+
+
 dave-wickham:
   id: dave-wickham
   name: 'Dave Wickham'
+
+
+david-allen:
+  id: david-allen
+  name: 'David Allen'
+
+
+david-haslett:
+  id: david-haslett
+  name: 'David Haslett'
 
 
 david-knight:
@@ -56,6 +96,11 @@ david-knight:
   name: 'David Knight'
 
 
+david-lane:
+  id: david-lane
+  name: 'David Lane'
+
+
 david-wildgoose:
   id: david-wildgoose
   image: /images/twitter/EnglishGoose.png
@@ -64,6 +109,11 @@ david-wildgoose:
       url: https://twitter.com/EnglishGoose
   name: 'David Wildgoose'
   summary: 'Campaigning for an English Parliament'
+
+
+derek-bullock:
+  id: derek-bullock
+  name: 'Derek Bullock'
 
 
 derek-hilling:
@@ -82,6 +132,36 @@ derek-hilling:
     2014'
 
 
+don-whitbread:
+  id: don-whitbread
+  name: 'Don Whitbread'
+
+
+doreen-dye:
+  id: doreen-dye
+  name: 'Doreen Dye'
+
+
+fred-bishop:
+  id: fred-bishop
+  name: 'Fred Bishop'
+
+
+gary-butler:
+  id: gary-butler
+  name: 'Gary Butler'
+
+
+graham-clipperton:
+  id: graham-clipperton
+  name: 'Graham Clipperton'
+
+
+ian-sutton:
+  id: ian-sutton
+  name: 'Ian Sutton'
+
+
 jenny-knight:
   id: jenny-knight
   image: /images/twitter/jennyknight2014.jpg
@@ -95,6 +175,21 @@ jenny-knight:
   name: 'Jenny Knight'
   summary: 'Jenny Knight is the English Democrats Prospective Lead Candidate for London
     in 2014 EU Elecitons.  https://t.co/5P4EcS3NZr'
+
+
+jeremy-moreton-moss:
+  id: jeremy-moreton-moss
+  name: 'Jeremy Moreton-Moss'
+
+
+john-dowell:
+  id: john-dowell
+  name: 'John Dowell'
+
+
+john-lewis:
+  id: john-lewis
+  name: 'John Lewis'
 
 
 john-walker-scott:
@@ -123,7 +218,7 @@ kevin-riddiough:
     - note: 'Twitter account'
       url: https://twitter.com/kev927riddy
   name: 'Kevin Riddiough'
-  summary: 'English Democrat. Prospective North East candidate. 
+  summary: 'English Democrat. Prospective North East candidate.
 
     RT''s are not an endorsement.'
 
@@ -143,6 +238,36 @@ kevin-sills:
   summary: 'English Democrat East Midlands MEP candidate EU election 2014. To Protect
     & preserve England. English Independence with a quick & easy EU exit no referendum
     req'
+
+
+laurence-depares:
+  id: laurence-depares
+  name: 'Laurence Depares'
+
+
+louise-dutton:
+  id: louise-dutton
+  name: 'Louise Dutton'
+
+
+maggi-young:
+  id: maggi-young
+  name: 'Maggi Young'
+
+
+margaret-stoll:
+  id: margaret-stoll
+  name: 'Margaret Stoll'
+
+
+maria-situmbeko:
+  id: maria-situmbeko
+  name: 'Maria Situmbeko'
+
+
+matthew-roberts:
+  id: matthew-roberts
+  name: 'Matthew Roberts'
 
 
 mike-blundell:
@@ -165,9 +290,29 @@ milly-uncles:
   name: 'Milly Uncles'
 
 
+natalie-smith:
+  id: natalie-smith
+  name: 'Natalie Smith'
+
+
+nick-capp:
+  id: nick-capp
+  name: 'Nick Capp'
+
+
+oliver-healey:
+  id: oliver-healey
+  name: 'Oliver Healey'
+
+
 paul-rimmer:
   id: paul-rimmer
   name: 'Paul Rimmer'
+
+
+paul-whitelegg:
+  id: paul-whitelegg
+  name: 'Paul Whitelegg'
 
 
 raymond-carr:
@@ -206,6 +351,11 @@ simone-clarke:
   name: 'Simone Clarke'
 
 
+stephen-goldspink:
+  id: stephen-goldspink
+  name: 'Stephen Goldspink'
+
+
 stephen-morris:
   id: stephen-morris
   image: /images/twitter/SteMorris.jpg
@@ -232,6 +382,16 @@ steve-clegg:
   name: 'Steve Clegg'
 
 
+steve-mcellenborough:
+  id: steve-mcellenborough
+  name: 'Steve McEllenborough'
+
+
+steve-paxton:
+  id: steve-paxton
+  name: 'Steve Paxton'
+
+
 steve-uncles:
   id: steve-uncles
   image: /images/twitter/SteveUncles.jpg
@@ -245,3 +405,18 @@ steve-uncles:
   name: 'Steve Uncles'
   summary: 'South East England Region.....  English Democrats Prospective Lead Candidate
     for the 2014 Elections.................. (from Dartford, KENT)'
+
+
+tom-redmond:
+  id: tom-redmond
+  name: 'Tom Redmond'
+
+
+valerie-morris:
+  id: valerie-morris
+  name: 'Valerie Morris'
+
+
+william-james:
+  id: william-james
+  name: 'William James'
