@@ -35,12 +35,14 @@ charles-hayward:
 
 charles-vickers:
   id: charles-vickers
+  image: /images/twitter/charlesvickers.png
   links:
     - note: 'Facebook page'
       url: https://www.facebook.com/Charles.Vickers.English.Democrats
-    - note: Twitter account
+    - note: 'Twitter account'
       url: https://twitter.com/charlesvickers
   name: 'Charles Vickers'
+  summary: 'English Democrats candidate in the Parliamentary, EU & local elections'
 
 
 chris-beverley:
@@ -87,8 +89,8 @@ david-haslett:
   id: david-haslett
   name: 'David Haslett'
   possible_links:
-    - url: https://twitter.com/djh1697
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/djh1697
 
 
 david-knight:
@@ -223,7 +225,7 @@ kevin-riddiough:
     - note: 'Twitter account'
       url: https://twitter.com/kev927riddy
   name: 'Kevin Riddiough'
-  summary: 'English Democrat. Prospective North East candidate.
+  summary: 'English Democrat. Prospective North East candidate. 
 
     RT''s are not an endorsement.'
 
@@ -307,10 +309,10 @@ nick-capp:
 
 oliver-healey:
   id: oliver-healey
-  name: 'Oliver Healey'
   links:
-    - url: https://www.facebook.com/oliver.healey.3
-      note: Facebook page
+    - note: 'Facebook page'
+      url: https://www.facebook.com/oliver.healey.3
+  name: 'Oliver Healey'
 
 
 paul-rimmer:
@@ -422,10 +424,12 @@ tom-redmond:
 
 valerie-morris:
   id: valerie-morris
-  name: 'Valerie Morris'
+  image: /images/twitter/ValMorris.jpg
   links:
-    - url: https://twitter.com/ValMorris
-      note: Twitter account
+    - note: 'Twitter account'
+      url: https://twitter.com/ValMorris
+  name: 'Valerie Morris'
+  summary: 'English Democrats North West Secretary'
 
 
 william-james:
