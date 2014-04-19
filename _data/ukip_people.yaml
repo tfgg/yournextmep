@@ -554,7 +554,10 @@ nathan-gill:
 
 nigel-farage:
   id: nigel-farage
-  image: /images/twitter/Nigel_Farage.png
+  image: /images/other/nigel-farage.jpg
+  image_source: https://en.wikipedia.org/wiki/File:Nigel_Farage_MEP_1,_Strasbourg_-_Diliff.jpg
+  image_license: CC-BY-SA 3.0
+  image_attribution: Photo by DAVID ILIFF
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Nigel_Farage

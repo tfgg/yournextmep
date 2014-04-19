@@ -1,24 +1,49 @@
+andrew-sharp:
+  id: andrew-sharp
+  image: /images/twitter/Andrewsharp1.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/Andrewsharp1
+  name: 'Andrew Sharp'
+  summary: 'Digitise and license kids books for a living. Runner. Triathlete. NHS
+    advocate. Prospective @NHAParty MEP for London.'
+
+
+dr-chidi-ejimofo:
+  id: dr-chidi-ejimofo
+  image: /images/twitter/Nytspider.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/Nytspider
+  name: 'Dr Chidi Ejimofo'
+  summary: 'NHS fan, hardened by ED and aware of its faults; Gadget nut; Lewisham
+    H/care Trust choir tenor & @NHAparty MEP candidate.
+
+    All views are my own!'
+
+
 dr-louise-irvine:
   id: dr-louise-irvine
+  image: /images/twitter/drmarielouise.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/drmarielouise
   name: 'Dr Louise Irvine'
+  summary: 'Inner-city London GP. London MEP candidate for National Health Action
+    Party. Chair of Save Lewisham Hospital Campaign. Member of Keep Our NHS Public.'
 
 
 rufus-hound:
   id: rufus-hound
+  image: /images/twitter/RufusHound.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Rufus_Hound
+    - note: 'Twitter account'
+      url: https://twitter.com/RufusHound
+    - note: Website
+      url: http://rufushound.wordpress.com/
   name: 'Rufus Hound'
+  summary: Scoundrel.
   wikipedia_biography: 'Rufus Hound (born Robert James Blair Simpson on 6 March 1979)
     is an English comedian, actor and presenter.'
-
-
-dr-chidi-ejimofo:
-  name: Dr Chidi Ejimofo
-  id: dr-chidi-ejimofo
-
-
-andrew-sharp:
-  name: Andrew Sharp
-  id: andrew-sharp
-
