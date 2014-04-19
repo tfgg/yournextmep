@@ -290,6 +290,18 @@ snp:
     Hamilton by-election.'
 
 
+sep:
+  id: sep
+  name: Socialist Equality Party (UK)
+  name_article: "the Socialist Equality Party (UK)"
+  links:
+    - url: https://en.wikipedia.org/wiki/Socialist_Equality_Party_(UK)
+      note: Wikipedia article
+    - url: http://www.socialequality.org.uk/
+      note: Website
+  founding_date: 1986
+
+
 spgb:
   classification: Party
   founding_date: 1904
