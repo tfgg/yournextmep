@@ -3,6 +3,12 @@ east-midlands:
     name: 'Kevin Sills'
   - id: dave-wickham
     name: 'Dave Wickham'
+  - id: oliver-healey
+    name: Oliver Healey
+  - id: john-dowell
+    name: John Dowell
+  - id: david-haslett
+    name: David Haslett
 
 
 eastern:
@@ -11,11 +17,35 @@ eastern:
     wikipedia: https://en.wikipedia.org/wiki/English_Democrats_Party#Robin_Tilbrook
   - id: charles-vickers
     name: 'Charles Vickers'
+  - id: stephen-goldspink
+    name: Stephen Goldspink
+  - id: maria-situmbeko
+    name: Maria Situmbeko
+  - id: bridget-cowan
+    name: Bridget Cowan
+  - id: don-whitbread
+    name: Don Whitbread
+  - id: jeremy-moreton-Moss
+    name: Jeremy Moreton-Moss
 
 
 london:
   - id: jenny-knight
     name: 'Jenny Knight'
+  - name: Matthew Roberts
+    id: matthew-roberts	
+  - name: Maggi Young
+    id: maggi-young	
+  - name: Graham Clipperton
+    id: graham-clipperton
+  - name: Gary Butler
+    id: gary-butler
+  - name: Nick Capp
+    id: nick-capp
+  - name: Louise Dutton
+    id: louise-dutton
+  - name: Natalie Smith
+    id: natalie-smith
 
 
 north-east:
@@ -23,6 +53,8 @@ north-east:
     name: 'Kevin Riddiough'
   - id: sam-kelly
     name: 'Sam Kelly'
+  - id: john-lewis
+    name: John Lewis
 
 
 north-west:
@@ -30,6 +62,18 @@ north-west:
     name: 'Stephen Morris'
   - id: paul-rimmer
     name: 'Paul Rimmer'
+  - id: derek-bullock
+    name: Derek Bullock
+  - id: paul-whitelegg
+    name: Paul Whitelegg
+  - id: steve-mcellenborough
+    name: Steve McEllenborough
+  - id: laurence-depares
+    name: Laurence Depares
+  - id: valerie-morris
+    name: Valerie Morris
+  - id: anthony-backhouse
+    name: Anthony Backhouse
 
 
 south-east:
@@ -39,20 +83,20 @@ south-east:
     name: 'Julia Gasper'
   - id: amanda-hopwood
     name: 'Amanda Hopwood'
-  - id: steve-clegg
-    name: 'Steve Clegg'
   - id: simone-clarke
     name: 'Simone Clarke'
+  - id: steve-clegg
+    name: 'Steve Clegg'
   - id: milly-uncles
     name: 'Milly Uncles'
   - id: mike-russell
     name: 'Mike Russell'
   - id: mike-tibby
     name: 'Mike Tibby'
-  - id: robert-sulley
-    name: 'Robert Sulley'
-  - id: david-knight
-    name: 'David Knight'
+  - id: doreen-dye
+    name: 'Doreen Dye'
+  - id: william-james
+    name: 'William James'
 
 
 south-west:
@@ -62,8 +106,8 @@ south-west:
     name: 'Mike Blundell'
   - id: clive-lavelle
     name: 'Clive Lavelle'
-  - id: john-walker-scott
-    name: 'John Walker-Scott'
+  - id: barbara-wright
+    name: 'Barbara Wright'
   - id: stephen-wright
     name: 'Stephen Wright'
   - id: raymond-carr
@@ -73,6 +117,18 @@ south-west:
 west-midlands:
   - id: derek-hilling
     name: 'Derek Hilling'
+  - id: david-lane
+    name: David Lane
+  - id: fred-bishop
+    name: Fred Bishop
+  - id: steve-paxton
+    name: Steve Paxton
+  - id: chris-newey
+    name: Chris Newey
+  - id: charles-hayward
+    name: Charles Hayward
+  - id: margaret-stoll
+    name: Margaret Stoll
 
 
 yorkshire-and-the-humber:
@@ -80,3 +136,12 @@ yorkshire-and-the-humber:
     name: 'Chris Beverley'
   - id: david-wildgoose
     name: 'David Wildgoose'
+  - id: ian-sutton
+    name: Ian Sutton
+  - id: colin-porter
+    name: Colin Porter
+  - id: tom-redmond
+    name: Tom Redmond
+  - id: david-allen
+    name: David Allen
+    
