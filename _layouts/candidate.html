@@ -10,7 +10,7 @@ layout: default
 <div class='row'>
   <div class='col-md-2'><div class='profile-3d'>
     {% if person.image %}
-    <img src='{{ person.image }}' class='profile-image'/>
+    <img src='/cropped{{ person.image }}' class='profile-image'/>
     {% else %}
     <img src='/images/unknown_man.jpg' class='profile-image'/>
     {% endif %}
