@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+{% assign people_party = page.party | append: '_people' %}
+{% assign party=site.data.parties[page.party] %}
+
+<div class='row'>
+  <div class='col-md-2'>
+    LOGO
+  </div>
+  <div class='col-md-8'>
+    <h2>{{ party.name }}</h2>
+
+    <div class='row'>
+      <div class='col-md-12'>
+        <ul class='links'>
+        {% for link in party.links %}
+          <li><a href='{{ link.url }}' target="_blank">{{ link.note }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    {% if party.wikipedia_biography %}
+    <div class='row'>
+      <div class='col-md-12'>
+        <h3>Wikipedia</h3>
+        <p class='quote'>{{ party.wikipedia_biography }}</p>
+        <p class='attrib'>This content was extracted from <a href="http://en.wikipedia.org/wiki/Lynda_Waltho" target="_blank">Wikipedia</a> by <a href='http://dbpedia.org/page/Lynda_Waltho' target="_blank">DBpedia</a> and is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">Creative Commons Attribution-ShareAlike 3.0 Unported License</a></p>
+      </div>
+    </div>
+    {% endif %}
+
+  </div>
+</div>
+

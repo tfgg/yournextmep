@@ -454,6 +454,18 @@ james-watkins:
   summary: 'Labour European Parliamentary Candidate for the South East'
 
 
+jane-basham:
+  id: jane-basham
+  image: /images/twitter/Jane_Basham.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/Jane_Basham
+  name: 'Jane Basham'
+  summary: 'Labour''s Parliamentary Candidate, working day in, day out, for South
+    Suffolk. I believe in a just and equitable society & that we are the change we
+    want to see.'
+
+
 jayne-bryant:
   id: jayne-bryant
   image: /images/twitter/JBryantWales.jpg
