@@ -1,3 +1,8 @@
+aife:
+  id: aife
+  name: 'An Independence From Europe'
+  name_article: 'An Independence From Europe'
+
 alliance:
   classification: Party
   id: alliance
@@ -258,6 +263,24 @@ sdlp:
     to the Socialist International and Party of European Socialists.'
 
 
+sep:
+  classification: Party
+  founding_date: 1986
+  id: sep
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Socialist_Equality_Party_(UK)
+    - note: Website
+      url: http://www.socialequality.org.uk/
+  name: 'Socialist Equality Party (UK)'
+  name_article: 'the Socialist Equality Party (UK)'
+  wikipedia_biography: 'The Socialist Equality Party is a Trotskyist group in Britain.
+    It is part of the International Committee of the Fourth International, which publishes
+    the World Socialist Web Site. The party''s origins lie in the Workers Revolutionary
+    Party (WRP) until the majority of that party split from the ICFI in 1986. A group
+    in the WRP supported the ICFI and left the WRP.'
+
+
 sinn-fein:
   classification: Party
   id: sinn-fein
@@ -290,16 +313,23 @@ snp:
     Hamilton by-election.'
 
 
-sep:
-  id: sep
-  name: Socialist Equality Party (UK)
-  name_article: "the Socialist Equality Party (UK)"
+socialist-labour:
+  classification: Party
+  founding_date: 1996
+  id: socialist-labour
   links:
-    - url: https://en.wikipedia.org/wiki/Socialist_Equality_Party_(UK)
-      note: Wikipedia article
-    - url: http://www.socialequality.org.uk/
-      note: Website
-  founding_date: 1986
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Socialist_Labour_Party_(UK)
+    - note: Website
+      url: http://www.socialist-labour-party.org.uk/
+  name: 'Socialist Labour'
+  name_article: 'the Socialist Labour Party'
+  wikipedia_biography: 'The Socialist Labour Party (SLP) is a socialist political
+    party in the United Kingdom. The party is led by former trade union leader Arthur
+    Scargill, who helped establish it in 1996 as a breakaway from the Labour Party,
+    following the changes to the Labour Party''s Clause IV. The name ''Socialist Labour
+    Party'' symbolises the fact that the Labour Party moved away from any commitment
+    to progressive Socialism when it removed Clause IV from its constitution.'
 
 
 spgb:
