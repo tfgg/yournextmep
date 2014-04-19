@@ -168,6 +168,7 @@ liberty:
 
 
 national-health-action:
+  classification: Party
   id: national-health-action
   links:
     - note: 'Wikipedia article'
@@ -180,6 +181,19 @@ national-health-action:
     to campaign against changes to the English National Health Service. The party
     also intends to follow the recommendations of the Health Select Committee''s 2009/10
     reports, and campaign on deprivation, housing, and public health.'
+
+
+ni21:
+  classification: Party
+  founding_date: 2013-06-06
+  id: ni21
+  links:
+    - name: https://en.wikipedia.org/wiki/NI21
+      url: 'Wikipedia article'
+    - name: http://ni21.com/
+      url: Website
+  name: NI21
+  name_article: 'the NI21 party'
 
 
 plaid-cymru:
@@ -278,6 +292,23 @@ spgb:
     opposition to reformism; and its early adoption of the theory of state capitalism
     to describe the Soviet Union. Detractors have been known to mockingly refer to
     it as Simon Pure''s Genuine Brand or the Small Party of Good Boys.'
+
+
+tuv:
+  classification: Party
+  founding_date: 2007-12-7
+  id: tuv
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Traditional_Unionist_Voice
+  name: 'Traditional Unionist Voice'
+  name_article: 'the Traditional Unionist Voice party'
+  wikipedia_biography: 'Traditional Unionist Voice (TUV) is a unionist political party
+    in Northern Ireland founded on 7 December 2007, as an anti-St Andrews Agreement
+    splinter group from the Democratic Unionist Party (DUP). Its first and current
+    leader is Jim Allister who, until 2009, sat as an independent Member of the European
+    Parliament, having been elected for the DUP in 2004. In the 2009 European elections
+    Allister lost his seat when he stood as a TUV candidate.'
 
 
 ukip:
