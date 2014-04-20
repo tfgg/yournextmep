@@ -1,14 +1,26 @@
 ioan-bellin:
   id: ioan-bellin
+  image: /images/twitter/Ioanbellin.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/Ioanbellin
   name: 'Ioan Bellin'
+  summary: 'Ymgeisydd Ewropeaidd - Plaid Cymru - European candidate 2014 #EP2014'
 
 
 jill-evans:
   id: jill-evans
+  image: /images/twitter/JillEvansMEP.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Jill_Evans
+    - note: Website
+      url: http://www.jillevans.net/
+    - note: 'Twitter account'
+      url: https://twitter.com/JillEvansMEP
   name: 'Jill Evans'
+  summary: 'Aelod | Member, Senedd Ewropeaidd | European Parliament,  Plaid Cymru
+    | The Party of Wales'
   wikipedia_biography: 'Jill Evans (born 8 May 1959) is Plaid Cymru Member of the
     European Parliament for Wales and First Vice President of The Greens–European
     Free Alliance group - the fourth largest in the European Parliament. She is also
@@ -19,7 +31,13 @@ jill-evans:
 
 marc-jones:
   id: marc-jones
+  image: /images/twitter/marcvjones.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/marcvjones
   name: 'Marc Jones'
+  summary: 'Newyddiadurwr a chyd-berchennog Saith Seren a CP Wrecsam. Journalist turned
+    gamekeeper. co-owner of Saith Seren and Wrexham FC. Plaid Cymru.'
 
 
 stephen-cornelius:

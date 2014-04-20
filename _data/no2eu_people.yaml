@@ -1,9 +1,14 @@
 dave-nellist:
   id: dave-nellist
+  image: /images/twitter/davenellist.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Dave_Nellist
+    - note: 'Twitter account'
+      url: https://twitter.com/davenellist
   name: 'Dave Nellist'
+  summary: 'Dave Nellist is a member of the Socialist Party. He was a Labour MP (1983-1992),
+    SP city councillor in Coventry (1998-2012), and is now national Chair of TUSC.'
   wikipedia_biography: 'David John Nellist (born 16 July 1952) is a British Trotskyist
     activist and former Labour Member of Parliament (MP) for the now abolished constituency
     of Coventry South East. He is a member of the Socialist Party and a former councillor

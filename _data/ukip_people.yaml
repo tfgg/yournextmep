@@ -182,7 +182,7 @@ elizabeth-jones:
       url: https://twitter.com/UKIPbrixtonHill
   name: 'Elizabeth Jones'
   summary: 'Ward in centre of LB Lambeth, part of Streatham Constituency. ........
-    
+
 
     VOTE UKIP VOTE JONES in Lambeth Council Byelection on Thu 17-1-13, #BrixtonHill'
 
@@ -288,8 +288,8 @@ janice-atkinson:
     - note: Website
       url: http://votejaniceatkinsonukip.co.uk/
   name: 'Janice Atkinson'
-  summary: 'http://t.co/qeaee4nYfS - PR UKIP member, author of UKIP welfare polices
-    Atkinsonsmallblog@dailymail.co.uk/Daily Express comment pages Former Tory PPC'
+  summary: 'http://t.co/qeaee4nYfS - PR UKIP member, author of UKIP welfare polices
+    Atkinsonsmallblog@dailymail.co.uk/Daily Express comment pages Former Tory PPC'
 
 
 jason-smith:
@@ -449,9 +449,9 @@ margot-parker:
   summary: 'UKIP candidate (PPC) for Corby and East Northamptonshire.UKIP East Midlands
     No 2 candidate euro elections 2014.
 
-     Love Europe, not the EU.
+    Love Europe, not the EU.
 
-      Views are mine.'
+    Views are mine.'
 
 
 mark-hughes:
@@ -510,11 +510,25 @@ michael-mcmanus:
 michael-wrench:
   id: michael-wrench
   name: 'Michael Wrench'
+  links:
+    - url: "http://www.kidderminstershuttle.co.uk/news/elections/general_election_2010/constituencies/112.wyre_forest/candidates/1799._michael_wrench/"
+      note: Kidderminster Shuttle profile (2010)
+    - url: https://www.facebook.com/Michael.Wrench.UKIP
+      note: Facebook page
 
 
 mick-mcgough:
   id: mick-mcgough
+  image: /images/twitter/mickmcgough.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/mickmcgough
   name: 'Mick McGough'
+  summary: 'Hon Treasurer,The Freedom Association
+
+    UKIP NEC Member
+
+    Acting Regional Organiser,UKIP London'
 
 
 mike-hookem:
@@ -555,9 +569,9 @@ nathan-gill:
 nigel-farage:
   id: nigel-farage
   image: /images/other/nigel-farage.jpg
+  image_attribution: 'Photo by DAVID ILIFF'
+  image_license: 'CC-BY-SA 3.0'
   image_source: https://en.wikipedia.org/wiki/File:Nigel_Farage_MEP_1,_Strasbourg_-_Diliff.jpg
-  image_license: CC-BY-SA 3.0
-  image_attribution: Photo by DAVID ILIFF
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Nigel_Farage
@@ -765,11 +779,11 @@ simon-noble:
     - note: 'Twitter account'
       url: https://twitter.com/NibsNoble
   name: 'Simon Noble'
-  summary: 'Solicitor. 
+  summary: 'Solicitor.
 
 
 
-     
+
 
 
 

@@ -1,6 +1,12 @@
 andrew-jordan:
   id: andrew-jordan
+  image: /images/twitter/AndrewJordanSLP.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/AndrewJordanSLP
   name: 'Andrew Jordan'
+  summary: '25-yr-old President of @slp_gb Socialist Labour Party / Plaid Lafur Sosialaidd.
+    Lead SLP Wales candidate for the 2014 European Parliamentary Elections.'
 
 
 david-lloyd-jones:
@@ -15,5 +21,7 @@ katherine-jones:
 
 liz-screen:
   id: liz-screen
+  links:
+    - note: 'South Wales Argus profile (2010)'
+      url: http://www.southwalesargus.co.uk/news/elections_2010/general_election_2010/constituencies/535.newport_east/candidates/6648._liz_screen/
   name: 'Liz Screen'
-

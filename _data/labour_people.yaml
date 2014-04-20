@@ -180,12 +180,20 @@ bhavna-joshi:
 
 catherine-stihler:
   id: catherine-stihler
+  image: /images/other/catherine-stihler.jpg
+  image_license: CC-BY-SA 3.0
+  image_attribution: Photo by DAVID ILIFF
+  image_source: https://en.wikipedia.org/wiki/File:Catherine_Stihler_MEP,_Strasbourg_-_Diliff.jpg
   links:
     - note: Website
       url: http://www.cstihlermep.com/
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Catherine_Stihler
+    - note: 'Twitter account'
+      url: https://twitter.com/C_Stihler_MEP
   name: 'Catherine Stihler'
+  summary: 'Scottish Labour MEP;EPLP Consumer Rights'' Spokesperson; join our @OpenKnowledge13
+    campaign for fairer and improved access of e:bks in libraries.'
   wikipedia_biography: 'Catherine Stihler (born 30 July 1973) is a British Labour
     Party politician. She has been a Member of the European Parliament for Scotland
     since 1999, being re-elected in 2004 and 2009. She is currently the only female
@@ -307,12 +315,16 @@ derek-munn:
 derek-vaughan:
   email: contact@derekvaughanmep.org.uk
   id: derek-vaughan
+  image: /images/twitter/derekvaughan.jpg
   links:
     - note: Website
       url: http://www.derekvaughanmep.org.uk/
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Derek_Vaughan
+    - note: 'Twitter account'
+      url: https://twitter.com/derekvaughan
   name: 'Derek Vaughan'
+  summary: 'Labour Member of the European Parliament for Wales'
   wikipedia_biography: 'Derek Vaughan (* 2 May 1961 in Neath) was elected as Labour
     Party Member of the European Parliament for Wales in the 2009 European Parliament
     election.'
@@ -397,7 +409,7 @@ hadleigh-roberts:
       url: http://hadleighroberts.com/
     - note: 'Facebook page'
       url: https://www.facebook.com/HadleighEU
-    - note: 'Twitter acount'
+    - note: 'Twitter account'
       url: https://twitter.com/HadleighRoberts
   name: 'Hadleigh Roberts'
   summary: 'French/Spanish translator, inc François Hollande''s manifesto and EU docs.

@@ -1,3 +1,16 @@
 jim-allister:
-  name: Jim Allister
   id: jim-allister
+  image: /images/twitter/JimAllister.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/JimAllister
+    - note: Website
+      url: http://www.jimallister.org/
+  name: 'Jim Allister'
+  summary: 'MLA for North Antrim;
+
+    Leader of Traditional Unionist Voice (TUV);
+
+    MEP 2004-09;
+
+    QC'

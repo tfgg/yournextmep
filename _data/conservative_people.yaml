@@ -126,7 +126,12 @@ caroline-attfield:
 
 carolyn-abbott:
   id: carolyn-abbott
+  image: /images/twitter/CarolynAbbottRe.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/CarolynAbbottRe
   name: 'Carolyn Abbott'
+  summary:
 
 
 charles-tannock:

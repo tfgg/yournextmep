@@ -257,10 +257,15 @@ christian-vassie:
 christine-jardine:
   email: comms@scotlibdems.org.uk
   id: christine-jardine
+  image: /images/twitter/Cajardine.png
   links:
     - note: 'Scot Lib Dems profile'
       url: http://www.scotlibdems.org.uk/people/christine-jardine
+    - note: 'Twitter account'
+      url: https://twitter.com/Cajardine
   name: 'Christine Jardine'
+  summary: '@LibDems PPC for Gordon. Scottish political commentator and former LibDem
+    Westminster adviser. The views expressed are all my own.'
 
 
 christine-tinker:
@@ -478,7 +483,11 @@ issan-ghazni:
 
 
 jacqueline-bell:
+  email: jacquie.bell50@googlemail.com
   id: jacqueline-bell
+  links:
+    - note: 'Scottish Lib Dems profile'
+      url: http://www.scotlibdems.org.uk/people/jacquie-bell
   name: 'Jacqueline Bell'
 
 
@@ -720,7 +729,13 @@ neil-christian:
 
 neville-farmer:
   id: neville-farmer
+  image: /images/twitter/nevillefarmer.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/nevillefarmer
   name: 'Neville Farmer'
+  summary: 'A muso-politico-journo into slow food, fast living and warm friendships.
+    At war with bigotry and stupidity, I''m an angry old man who refuses to grow up.'
 
 
 owen-temple:
