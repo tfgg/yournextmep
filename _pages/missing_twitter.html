@@ -1,0 +1,47 @@
+---
+layout: default
+title:  "Candidates without known Twitter accounts"
+permalink: missing/twitter/
+---
+
+<div class="row">
+  <div class="col-md-12">
+    <h1>Candidates without known Twitter accounts</h1>
+
+    <ul>
+    {% for party_pair in site.data.parties %}
+      {% assign party = party_pair[1] %}
+      {% assign candidates_party = party.id | append: '_candidates' %}
+      {% assign people_party = party.id | append: '_people' %}
+
+      {% for region_pair in site.data[candidates_party] %}
+        {% assign candidates = region_pair[1] %}
+        {% assign people = site.data[people_party] %}
+        {% if candidates %}
+          {% for candidate in candidates %}
+            {% assign has_twitter='no' %}
+
+            {% assign person = people[candidate.id] %}
+            
+            {% for link in person.links %}
+              {% if link.note == 'Twitter account' %}
+                {% assign has_twitter='yes' %}
+              {% endif %}
+            {% endfor %}
+
+            {% if has_twitter == 'no' %}
+            <li>
+              <a href='/candidates/eu2014/{{ party.id }}/{{ person.id}}/'>{{ party.name }} - {{ person.name }} - {{ has_twitter }}</a>
+              <a href='http://www.google.com/#q={{ person.name }} {{ party.name }} twitter' target="_blank">google</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </ul>
+
+  </div>
+</div>
+
+

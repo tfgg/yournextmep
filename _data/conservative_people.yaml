@@ -122,6 +122,10 @@ brendan-clarke-smith:
 caroline-attfield:
   id: caroline-attfield
   name: 'Caroline Attfield'
+  image: /images/other/caroline-attfield.jpg
+  files:
+    - url: http://yournextmep.com/files/caroline-attfield.pdf
+      note: "Caroline Attfield's election address"
 
 
 carolyn-abbott:
