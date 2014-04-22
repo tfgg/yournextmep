@@ -2,3 +2,17 @@ yorkshire-and-the-humber:
   - id: christopher-booth
     name: Christopher Booth
 
+south-west:
+  - name: David Smith
+    id: david-smith
+  - name: Helen Webster
+    id: helen-webster
+  - name: Mike Camp
+    id: mike-camp
+  - name: Andrew Edwards
+    id: andrew-edwards
+  - name: Phil Dunn
+    id: phil-dunn
+  - name: John Taverner
+    id: john-taverner
+

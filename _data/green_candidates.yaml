@@ -87,10 +87,10 @@ south-west:
     name: 'Ricky Knight'
   - id: audaye-elesedy
     name: 'Audaye Elesedy'
-  - id: henry-gent
-    name: 'Henry Gent'
   - id: judy-maciejowska
     name: 'Judy Maciejowska'
+  - id: mark-chivers
+    name: Mark Chivers
 
 
 wales:

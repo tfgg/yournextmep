@@ -416,3 +416,17 @@ wdar:
     Parliament election in order to force a referendum on British membership of the
     European Union (EU). According to a YouGov poll, roughly a third of British adults
     said they would vote for this party.'
+
+yourvoice:
+  classification: Party
+  id: yourvoice
+  links:
+    - url: https://en.wikipedia.org/wiki/YOURvoice
+      note: Wikipedia article
+    - url: https://www.facebook.com/yourvoiceparty
+      note: Facebook page
+    - url: http://yourvoiceparty.org.uk/
+      note: Website
+  name: "YOURvoice Party"
+  name_article: "the YOURvoice Party"
+ 
