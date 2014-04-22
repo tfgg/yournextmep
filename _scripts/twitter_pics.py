@@ -4,64 +4,72 @@ import os
 import yaml
 import pyaml
 
-people = yaml.load(open(sys.argv[1]))
 
 def get_twitter_id(twitter_url):
   return twitter_url.split('/')[-1]
 
-ids = []
-for person_id, person in people.items():
-  if 'links' in person:
-    for link in person['links']:
-      if 'twitter' in link['url']:
-        twitter_id = get_twitter_id(link['url'])
-        if twitter_id == "":
-          print >>sys.stderr, link, person_id
+def get_twitter_missing(people):
+  ids = []
+  for person_id, person in people.items():
+    if 'links' in person:
+      for link in person['links']:
+        if 'twitter' in link['url']:
+          twitter_id = get_twitter_id(link['url'])
 
-        if 'image' not in person:
-          ids.append((person, twitter_id))
+          if twitter_id == "":
+            print >>sys.stderr, link, person_id
 
-from local_settings import TWITTER
-import twitter
+          if 'image' not in person or not os.path.isfile(os.path.join('.', person['image'])):
+            ids.append((person, twitter_id))
 
-api = twitter.Api(consumer_key=TWITTER['consumer_key'],
-                  consumer_secret=TWITTER['consumer_secret'],
-                  access_token_key=TWITTER['access_token_key'],
-                  access_token_secret=TWITTER['access_token_secret'])
+  return ids
 
-content_types = {'image/jpeg': 'jpg',
-                 'image/png': 'png',
-                 'image/gif': 'gif',}
+def get_twitter_images(api, ids, target_dir="images/twitter"):
+  for person, twitter_id in ids:
+    print >>sys.stderr, twitter_id
 
-#existing = set()
-#for f in os.listdir('images/twitter'):
-#  existing.add(f.split('.')[0])
+    user = api.GetUser(screen_name=twitter_id)
+    profile_image_url = user.profile_image_url
+    description = user.description
 
-for person, twitter_id in ids:
-  print >>sys.stderr, twitter_id
+    profile_image_url = profile_image_url.replace("_normal", "")
 
-  #if twitter_id not in existing:
-  user = api.GetUser(screen_name=twitter_id)
-  profile_image_url = user.profile_image_url
-  description = user.description
+    resp = requests.get(profile_image_url, stream=True)
 
-  profile_image_url = profile_image_url.replace("_normal", "")
+    if resp.status_code == 200:
+      ext = content_types[resp.headers['content-type']]
 
-  resp = requests.get(profile_image_url, stream=True)
+      path = os.path.join(target_dir, "{}.{}".format(twitter_id, ext))
 
-  if resp.status_code == 200:
-    ext = content_types[resp.headers['content-type']]
+      with open(path, 'wb') as f:
+        for chunk in resp.iter_content():
+          f.write(chunk)
 
-    path = "images/twitter/{}.{}".format(twitter_id, ext)
+      person['image'] = "/" + path
+      person['summary'] = description
 
-    with open(path, 'wb') as f:
-      for chunk in resp.iter_content():
-        f.write(chunk)
+def write_people(people, target):
+  f = open(sys.argv[1], 'w+')
+  pyaml.dump(people, f, vspacing=[2, 0])
+  f.close()
 
-    person['image'] = "/" + path
-    person['summary'] = description
+if __name__ == "__main__":
+  from local_settings import TWITTER
+  import twitter
 
-f = open(sys.argv[1], 'w+')
-pyaml.dump(people, f, vspacing=[2, 0])
-f.close()
+  api = twitter.Api(consumer_key=TWITTER['consumer_key'],
+                    consumer_secret=TWITTER['consumer_secret'],
+                    access_token_key=TWITTER['access_token_key'],
+                    access_token_secret=TWITTER['access_token_secret'])
+
+  content_types = {'image/jpeg': 'jpg',
+                   'image/png': 'png',
+                   'image/gif': 'gif',}
+
+  for people_path in sys.argv[1:]:
+    print ">", people_path
+    people = yaml.load(open(people_path))
+    ids = get_twitter_missing(people)
+    get_twitter_images(api, ids)
+    write_people(people, people_path)
 
