@@ -30,6 +30,21 @@ north-west:
     incumbent: true
 
 
+south-west:
+  - name: Adrian Romilly 
+    id: adrian-romilly 
+  - name: Cliff Jones 
+    id: cliff-jones 
+  - name: Arnold Brindle 
+    id: arnold-brindle 
+  - name: Wayne Peter Tomlinson 
+    id: wayne-peter-tomlinson 
+  - name: Andrew Webster 
+    id: andrew-webster 
+  - name: Giuseppe De Santis 
+    id: giuseppe-de-santis 
+
+
 west-midlands:
   - id: michael-coleman
     name: 'Michael Coleman'

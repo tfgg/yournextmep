@@ -1,7 +1,7 @@
 east-midlands:
   id: east-midlands
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/East_Midlands_(European_Parliament_constituency)
   name: 'East Midlands'
   wikipedia_biography: 'East Midlands is a constituency of the European Parliament.
@@ -14,7 +14,7 @@ east-midlands:
 eastern:
   id: eastern
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/East_of_England_(European_Parliament_constituency)
   name: Eastern
   wikipedia_biography: 'East of England is a constituency of the European Parliament.
@@ -28,7 +28,7 @@ eastern:
 london:
   id: london
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/London_(European_Parliament_constituency)
   name: London
   wikipedia_biography: 'London is a constituency of the European Parliament. It currently
@@ -41,7 +41,7 @@ london:
 north-east:
   id: north-east
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/North_East_England_(European_Parliament_constituency)
   name: 'North East'
   wikipedia_biography: 'North East England is a constituency of the European Parliament.
@@ -55,7 +55,7 @@ north-east:
 north-west:
   id: north-west
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/North_West_England_(European_Parliament_constituency)
   name: 'North West'
   wikipedia_biography: 'North West England is a constituency of the European Parliament.
@@ -69,7 +69,7 @@ north-west:
 northern-ireland:
   id: northern-ireland
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Northern_Ireland_(European_Parliament_constituency)
   name: 'Northern Ireland'
   wikipedia_biography: 'Northern Ireland is a constituency of the European Parliament.
@@ -83,7 +83,7 @@ northern-ireland:
 scotland:
   id: scotland
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Scotland_(European_Parliament_constituency)
   name: Scotland
   wikipedia_biography: 'Scotland constitutes a single constituency of the European
@@ -97,7 +97,7 @@ scotland:
 south-east:
   id: south-east
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
   name: 'South East'
   wikipedia_biography: 'South East England is a constituency of the European Parliament.
@@ -111,8 +111,10 @@ south-east:
 south-west:
   id: south-west
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/South_West_England_(European_Parliament_constituency)
+    - note: Statement of Parties and Individual Candidates Nominated
+      url: http://yournextmep.com/files/nominations/south-west.pdf
   name: 'South West'
   wikipedia_biography: 'South West England (Cornish: Dychow-houlsedhas Pou an Zouzn)
     is a constituency of the European Parliament. It currently elects six MEPs using
@@ -126,7 +128,7 @@ south-west:
 wales:
   id: wales
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Wales_(European_Parliament_constituency)
   name: Wales
   wikipedia_biography: 'Wales is a constituency of the European Parliament. It currently
@@ -139,7 +141,7 @@ wales:
 west-midlands:
   id: west-midlands
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/West_Midlands_(European_Parliament_constituency)
   name: 'West Midlands'
   wikipedia_biography: 'West Midlands is a constituency of the European Parliament.
@@ -153,7 +155,7 @@ west-midlands:
 yorkshire-and-the-humber:
   id: yorkshire-and-the-humber
   links:
-    - notes: 'Wikipedia article'
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)
   name: 'Yorkshire and the Humber'
   wikipedia_biography: 'Yorkshire and the Humber is a constituency of the European

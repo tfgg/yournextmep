@@ -10,10 +10,25 @@ layout: default
 </div>
 <div class='row'>
   <div class='col-md-12'> -->
-    <p class='quote'>
-      {{ region.wikipedia_biography }}
-    </p>
-    <p class='attrib'>Source: Wikipedia</p>
+
+    {% if region.links %}
+    <div class='row'>
+      <div class='col-md-8'>
+        <p class='quote'>
+          {{ region.wikipedia_biography }}
+        </p>
+        <p class='attrib'>Source: Wikipedia</p>
+      </div>
+      <div class='col-md-4'>
+        <h3>Links</h3>
+        <ul class='links'>
+        {% for link in region.links %}
+          <li><a href='{{ link.url }}' target="_blank">{{ link.note }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+    {% endif %}
   </div>
 </div>
 <div class='row'>

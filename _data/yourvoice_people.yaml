@@ -1,0 +1,14 @@
+julian-james:
+  id: julian-james
+  name: 'Julian James'
+
+
+rachel-ling:
+  id: rachel-ling
+  image: /images/twitter/LocalRachel.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/LocalRachel
+  name: 'Rachel Ling'
+  summary: 'Entrepreneur. MD. Parent Governor. Various Board member roles.  BA (Hons)
+    Business & Management. Loves honesty & freedom.'

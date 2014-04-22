@@ -6,6 +6,21 @@ adam-walker:
   name: 'Adam Walker'
 
 
+adrian-romilly:
+  id: adrian-romilly
+  name: 'Adrian Romilly'
+
+
+andrew-webster:
+  id: andrew-webster
+  name: 'Andrew Webster'
+
+
+arnold-brindle:
+  id: arnold-brindle
+  name: 'Arnold Brindle'
+
+
 bob-brindley:
   id: bob-brindley
   name: 'Bob Brindley'
@@ -20,6 +35,11 @@ cathy-duffy:
   name: 'Cathy Duffy'
 
 
+cliff-jones:
+  id: cliff-jones
+  name: 'Cliff Jones'
+
+
 danny-cooke:
   id: danny-cooke
   name: 'Danny Cooke'
@@ -28,6 +48,11 @@ danny-cooke:
 david-bradnock:
   id: david-bradnock
   name: 'David Bradnock'
+
+
+giuseppe-de-santis:
+  id: giuseppe-de-santis
+  name: 'Giuseppe De Santis'
 
 
 gordon-johnson:
@@ -133,3 +158,8 @@ simon-patten:
 steve-brammer:
   id: steve-brammer
   name: 'Steve Brammer'
+
+
+wayne-peter-tomlinson:
+  id: wayne-peter-tomlinson
+  name: 'Wayne Peter Tomlinson'
