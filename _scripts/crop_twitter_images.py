@@ -66,7 +66,7 @@ def box(rects, img):
 for f in os.listdir('images/twitter'):
   print f
 
-  if not os.path.isfile('cropped/images/twitter/' + f):
+  if True: #not os.path.isfile('cropped/images/twitter/' + f):
     try:
       rects, img = detect("images/twitter/" + f)
     except cv2.error:

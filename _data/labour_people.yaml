@@ -181,8 +181,8 @@ bhavna-joshi:
 catherine-stihler:
   id: catherine-stihler
   image: /images/other/catherine-stihler.jpg
-  image_license: CC-BY-SA 3.0
-  image_attribution: Photo by DAVID ILIFF
+  image_attribution: 'Photo by DAVID ILIFF'
+  image_license: 'CC-BY-SA 3.0'
   image_source: https://en.wikipedia.org/wiki/File:Catherine_Stihler_MEP,_Strasbourg_-_Diliff.jpg
   links:
     - note: Website
@@ -653,7 +653,8 @@ linda-mcavan:
     - note: 'Twitter account'
       url: https://twitter.com/LindaMcAvanMEP
   name: 'Linda McAvan'
-  summary: 'Labour MEP for Yorkshire and The Humber'
+  summary: 'Labour MEP for Yorkshire and The Humber. Please email my office lindamcavan@lindamcavanmep.org.uk
+    if you have casework or policy enquiries.'
   wikipedia_biography: 'Linda McAvan (born 2 December 1962) is a British Labour Party
     politician, who is a Member of the European Parliament for the Labour Party for
     Yorkshire and the Humber. She has been a Member of the European Parliament since
@@ -869,8 +870,8 @@ paul-brannen:
     - note: 'Twitter account'
       url: https://twitter.com/PaulBrannenNE
   name: 'Paul Brannen'
-  summary: 'One of the team of three Labour Candidates in the North East for the European
-    Elections in 2014. Jobs, tax justice, wokers'' rights.'
+  summary: '1 of the team of 3 Labour candidates in the North East for the European
+    Elections 22 May 2014. Jobs, tax justice, climate, workers'' rights.'
 
 
 phil-bloomer:

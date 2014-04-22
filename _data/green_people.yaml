@@ -40,8 +40,9 @@ amelia-womack:
     - note: 'Twitter account'
       url: https://twitter.com/green_ballerina
   name: 'Amelia Womack'
-  summary: '@TheGreenParty MEP candidate #eu14, #Socialist, #Environmentalist, @EndecocideEU
-    Campaigner @imperialcollege alumni and Dancer'
+  summary: '.@TheGreenParty MEP candidate #youth #eu14, @Lambethgp #HerneHill Local
+    Elections Candidate #Socialist, #Environmentalist, @EndecocideEU Campaigner and
+    Dancer'
 
 
 andrew-cooper:
@@ -144,8 +145,7 @@ chris-were:
     - note: Website
       url: http://christopherwere.com/
   name: 'Chris Were'
-  summary: 'My personal Twitter. If you''re approved to follow this account, it means
-    you''re awesome.'
+  summary: 'Better known on YouTube'
 
 
 danny-bates:
@@ -235,7 +235,7 @@ fiona-radic:
       url: http://fionaradic.wordpress.com/
   name: 'Fiona Radic'
   summary: 'European Parliamentary candidate.  Working with @GreenRupertRead to elect
-    a  @TheGreenParty MEP in Eastern Region on 22nd May 2014'
+    a @TheGreenParty MEP in Eastern Region on 22nd May 2014'
 
 
 gina-dowding:
@@ -454,8 +454,9 @@ lewis-coyne:
     - note: 'Twitter account'
       url: https://twitter.com/LewisCoyne
   name: 'Lewis Coyne'
-  summary: 'Writer, activist, North West Green Party candidate for the European elections,
-    angry young man.'
+  summary: 'Writer, activist, Green candidate for the EU elections. Promoted by David
+    Jones on behalf of North West Green Party, both at 12 Kenneth Square, Salford,
+    M7 4UP.'
 
 
 marc-scheimann:
@@ -467,6 +468,11 @@ marc-scheimann:
     - note: 'Facebook page'
       url: https://www.facebook.com/marc.scheimann
   name: 'Marc Scheimann'
+
+
+mark-chivers:
+  id: mark-chivers
+  name: 'Mark Chivers'
 
 
 mark-ereira-guyer:
@@ -483,11 +489,6 @@ mark-ereira-guyer:
   wikipedia_biography: 'Mark Ereira-Guyer (sometimes known as Mark Ereira - his wife''s
     surname is Guyer) is the Green party''s Suffolk county councillor for Tower division
     in Bury St Edmunds.'
-
-
-mark-chivers:
-  id: mark-chivers
-  name: Mark Chivers
 
 
 martin-hemingway:
@@ -566,12 +567,14 @@ peter-cranie:
     - note: Website
       url: http://petercranie.blogspot.co.uk/
   name: 'Peter Cranie'
-  summary: 'Dad, UCU Green Rep, Lecturer, Green Party NW Euro MP candidate'
+  summary: 'Dad, UCU Green Rep, Lecturer, Green Party NW Euro MP candidate. Promoted
+    by D Jones on behalf of Northwest Green Party both at 12 Kenneth Square Salford
+    M7 4UP'
 
 
 pippa-bartolotti:
   id: pippa-bartolotti
-  image: /images/twitter/pippabartolotti.jpg
+  image: /images/twitter/pippabartolotti.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Pippa_Bartolotti
@@ -698,7 +701,7 @@ shan-oakes:
 shirley-ford:
   email: shirley.ford@greenparty.org.uk
   id: shirley-ford
-  image: /images/twitter/ShirleyFord15.jpg
+  image: /images/twitter/ShirleyFord15.png
   links:
     - note: 'Green Party profile'
       url: http://greenparty.org.uk/people/shirley-ford.html
@@ -791,8 +794,8 @@ violeta-vajda:
     - note: 'Twitter account'
       url: https://twitter.com/violetavajda
   name: 'Violeta Vajda'
-  summary: 'Green activist and researcher committed to ending racism against Roma
-    people'
+  summary: 'Green MEP candidate for London and researcher committed to ending racism
+    against Roma people'
 
 
 will-duckworth:

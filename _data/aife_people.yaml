@@ -1,34 +1,33 @@
+andrew-edwards:
+  id: andrew-edwards
+  name: 'Andrew Edwards'
+
+
 christopher-booth:
   id: christopher-booth
-  name: Christopher Booth
+  name: 'Christopher Booth'
 
 
 david-smith:
-  name: David Smith
   id: david-smith
+  name: 'David Smith'
 
 
 helen-webster:
-  name: Helen Webster
   id: helen-webster
-
-
-mike-camp:
-  name: Mike Camp
-  id: mike-camp
-
-
-andrew-edwards:
-  name: Andrew Edwards
-  id: andrew-edwards
-
-
-phil-dunn:
-  name: Phil Dunn
-  id: phil-dunn
+  name: 'Helen Webster'
 
 
 john-taverner:
-  name: John Taverner
   id: john-taverner
+  name: 'John Taverner'
 
+
+mike-camp:
+  id: mike-camp
+  name: 'Mike Camp'
+
+
+phil-dunn:
+  id: phil-dunn
+  name: 'Phil Dunn'

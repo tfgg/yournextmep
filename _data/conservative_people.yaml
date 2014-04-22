@@ -18,8 +18,8 @@ aled-davies:
     - note: 'Twitter account'
       url: https://twitter.com/Aled_Glanogeu
   name: 'Aled Davies'
-  summary: 'Father X 4, Welsh Hill Farmer, Leader of Welsh Conservative group on Powys
-    County Council, Councillor for LlanrhaeadrYM/Llansilin'
+  summary: 'Conservative European Candidate, Wales; Welsh Conservative County Councillor
+    LlanrhaeadrYM/Llansilin Powys and Hill Farmer'
 
 
 alex-story:
@@ -120,12 +120,12 @@ brendan-clarke-smith:
 
 
 caroline-attfield:
-  id: caroline-attfield
-  name: 'Caroline Attfield'
-  image: /images/other/caroline-attfield.jpg
   files:
-    - url: http://yournextmep.com/files/caroline-attfield.pdf
-      note: "Caroline Attfield's election address"
+    - note: 'Caroline Attfield''s election address'
+      url: http://yournextmep.com/files/caroline-attfield.pdf
+  id: caroline-attfield
+  image: /images/other/caroline-attfield.jpg
+  name: 'Caroline Attfield'
 
 
 carolyn-abbott:
@@ -222,8 +222,8 @@ daniel-hamilton:
     - note: 'Twitter account'
       url: https://twitter.com/danielrhamilton
   name: 'Daniel Hamilton'
-  summary: 'Bell Pottinger Partner & Conservative NW England European Parliament candidate.
-    British/Brazilian. EU, Brazil, Kosovo, Ukraine, South Caucasus, polling & food.'
+  summary: 'Bell Pottinger Partner & Conservative EuroParl candidate. British/Brazilian.
+    EU, Brazil, Balkans, Caucasus, Ukraine, polling & food. +44 7990 682119.'
 
 
 daniel-hannan:
@@ -373,7 +373,7 @@ ian-duncan:
     - note: 'Twitter account'
       url: https://twitter.com/IanDuncan2014
   name: 'Ian Duncan'
-  summary: '@ScotTories candidate for the European elections in 2014. All views expressed
+  summary: 'No. 1 @ScotTories candidate for the European elections. All views expressed
     are my own'
 
 
@@ -482,7 +482,7 @@ julie-girling:
   name: 'Julie Girling'
   summary: 'MEP for South West England and Gibraltar. More info on my website: http://t.co/HsEqEeHq0o
 
-
+    
 
     (From time to time tweets may be updated by my staff)'
   wikipedia_biography: 'Julie Girling MEP is a British Conservative politician, currently
@@ -552,7 +552,7 @@ margaret-simons:
 
 marina-yannakoudakis:
   id: marina-yannakoudakis
-  image: /images/twitter/MarinaMEP.jpg
+  image: /images/twitter/MarinaMEP.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Marina_Yannakoudakis
@@ -762,9 +762,9 @@ sajjad-karim:
     - note: 'Twitter account'
       url: https://twitter.com/SHKMEP
   name: 'Sajjad Karim'
-  summary: 'Conservative MEP for North West England.
+  summary: 'Conservative MEP for North West England. 
 
-    A dynamic and diverse region, vital to Great Britain and the EU.
+    A dynamic and diverse region, vital to Great Britain and the EU. 
 
     Legal Affairs Spokesman.'
   wikipedia_biography: 'Sajjad Haider Karim also known as Saj (born 11 July 1970)
@@ -842,7 +842,8 @@ syed-kamall:
     - note: 'Twitter account'
       url: https://twitter.com/SyedKamall
   name: 'Syed Kamall'
-  summary: 'Conservative MEP for London'
+  summary: 'Conservative MEP for London. Passionate about community-led non-state
+    solutions to tackling poverty.'
   wikipedia_biography: 'Dr Syed Salah Kamall (born 15 February 1967) is a British
     Conservative Party politician, Member of the European Parliament for London.'
 
