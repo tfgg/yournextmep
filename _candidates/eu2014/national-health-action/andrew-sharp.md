@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/national-health-action/andrew-sharp/
 categories: candidate national-health-action
 election: eu2014
-list-rank: 4
-list-rank-ordinal: 4th
+list-rank: 7
+list-rank-ordinal: 7th
 person: andrew-sharp
 region: london
 party: national-health-action

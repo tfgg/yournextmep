@@ -49,6 +49,29 @@ north-west:
     incumbent: true
 
 
+south-east:
+  - name: John Robinson
+    id: john-robinson
+  - name: Gavin Miller
+    id: gavin-miller
+  - name: Eric Elliott
+    id: eric-elliott
+  - name: John Moore
+    id: john-moore
+  - name: Alwyn Deacon
+    id: alwyn-deacon
+  - name: Anthony Bamber
+    id: anthony-bamber
+  - name: Brenda Waterhouse
+    id: brenda-waterhouse
+  - name: Mark Jones
+    id: mark-jones
+  - name: Jack Renshaw
+    id: jack-renshaw
+  - name: Yvonne Deacon
+    id: yvonne-deacon
+
+
 south-west:
   - name: Adrian Romilly 
     id: adrian-romilly 

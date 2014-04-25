@@ -1,3 +1,8 @@
+alan-sheath:
+  id: alan-sheath
+  name: 'Alan Sheath'
+
+
 andrew-edwards:
   id: andrew-edwards
   name: 'Andrew Edwards'
@@ -11,6 +16,11 @@ christopher-booth:
 david-smith:
   id: david-smith
   name: 'David Smith'
+
+
+dorothy-sheath:
+  id: dorothy-sheath
+  name: 'Dorothy Sheath'
 
 
 eddie-yeoman:
@@ -43,9 +53,39 @@ john-taverner:
   name: 'John Taverner'
 
 
+joyce-nattrass:
+  id: joyce-nattrass
+  name: 'Joyce Nattrass'
+
+
+keith-vernon:
+  id: keith-vernon
+  name: 'Keith Vernon'
+
+
+ken-holtom:
+  id: ken-holtom
+  name: 'Ken Holtom'
+
+
+laurence-stassen:
+  id: laurence-stassen
+  name: 'Laurence Stassen'
+
+
+mark-henry:
+  id: mark-henry
+  name: 'Mark Henry'
+
+
 marlene-daniel:
   id: marlene-daniel
   name: 'Marlene Daniel'
+
+
+michaelina-argy:
+  id: michaelina-argy
+  name: 'Michaelina Argy'
 
 
 mike-camp:
@@ -63,9 +103,19 @@ patrick-burns:
   name: 'Patrick Burns'
 
 
+paul-godfrey:
+  id: paul-godfrey
+  name: 'Paul Godfrey'
+
+
 phil-dunn:
   id: phil-dunn
   name: 'Phil Dunn'
+
+
+seana-connolly:
+  id: seana-connolly
+  name: 'Seana Connolly'
 
 
 sharon-greenfield:

@@ -11,9 +11,19 @@ adrian-romilly:
   name: 'Adrian Romilly'
 
 
+alwyn-deacon:
+  id: alwyn-deacon
+  name: 'Alwyn Deacon'
+
+
 andrew-webster:
   id: andrew-webster
   name: 'Andrew Webster'
+
+
+anthony-bamber:
+  id: anthony-bamber
+  name: 'Anthony Bamber'
 
 
 arnold-brindle:
@@ -24,6 +34,11 @@ arnold-brindle:
 bob-brindley:
   id: bob-brindley
   name: 'Bob Brindley'
+
+
+brenda-waterhouse:
+  id: brenda-waterhouse
+  name: 'Brenda Waterhouse'
 
 
 cathy-duffy:
@@ -65,6 +80,16 @@ donna-treanor:
   name: 'Donna Treanor'
 
 
+eric-elliott:
+  id: eric-elliott
+  name: 'Eric Elliott'
+
+
+gavin-miller:
+  id: gavin-miller
+  name: 'Gavin Miller'
+
+
 giuseppe-de-santis:
   id: giuseppe-de-santis
   name: 'Giuseppe De Santis'
@@ -75,6 +100,11 @@ gordon-johnson:
   name: 'Gordon Johnson'
 
 
+jack-renshaw:
+  id: jack-renshaw
+  name: 'Jack Renshaw'
+
+
 jennifer-matthys:
   id: jennifer-matthys
   name: 'Jennifer Matthys'
@@ -83,6 +113,16 @@ jennifer-matthys:
 john-clarke:
   id: john-clarke
   name: 'John Clarke'
+
+
+john-moore:
+  id: john-moore
+  name: 'John Moore'
+
+
+john-robinson:
+  id: john-robinson
+  name: 'John Robinson'
 
 
 kenneth-griffiths:
@@ -106,6 +146,11 @@ lady-dorothy-brooke:
 mark-badrick:
   id: mark-badrick
   name: 'Mark Badrick'
+
+
+mark-jones:
+  id: mark-jones
+  name: 'Mark Jones'
 
 
 marlene-guest:
@@ -203,3 +248,8 @@ steve-brammer:
 wayne-peter-tomlinson:
   id: wayne-peter-tomlinson
   name: 'Wayne Peter Tomlinson'
+
+
+yvonne-deacon:
+  id: yvonne-deacon
+  name: 'Yvonne Deacon'

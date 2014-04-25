@@ -69,8 +69,8 @@ conservative:
     the largest British party in the European Parliament with 25 MEPs.'
 
 
-cpe:
-  id: cpe
+cpa:
+  id: cpa
   name: 'Christian Peoples Alliance'
   name_article: 'the Christian Peoples Alliance'
 

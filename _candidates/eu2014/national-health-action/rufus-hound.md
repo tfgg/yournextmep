@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/national-health-action/rufus-hound/
 categories: candidate national-health-action
 election: eu2014
-list-rank: 1
-list-rank-ordinal: 1st
+list-rank: 5
+list-rank-ordinal: 5th
 person: rufus-hound
 region: london
 party: national-health-action

@@ -34,3 +34,25 @@ london:
   - name: Jean Atkins
     id: jean-atkins
 
+south-east:
+  - name: Laurence Stassen
+    id: laurence-stassen
+  - name: Joyce Nattrass
+    id: joyce-nattrass
+  - name: Paul Godfrey
+    id: paul-godfrey
+  - name: Alan Sheath
+    id: alan-sheath
+  - name: Ken Holtom 
+    id: ken-holtom
+  - name: Mark Henry
+    id: mark-henry
+  - name: Keith Vernon
+    id: keith-vernon
+  - name: Michaelina Argy
+    id: michaelina-argy
+  - name: Seana Connolly
+    id: seana-connolly
+  - name: Dorothy Sheath
+    id: dorothy-sheath
+
