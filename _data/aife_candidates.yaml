@@ -16,3 +16,21 @@ south-west:
   - name: John Taverner
     id: john-taverner
 
+london:
+  - name: Patrick Burns 
+    id: patrick-burns
+  - name: Marlene Daniel
+    id: marlene-daniel
+  - name: Gareth Griffiths
+    id: gareth-griffiths
+  - name: Munpreet Bhathal
+    id: munpreet-bhathal
+  - name: Sharon Greenfield
+    id: sharon-greenfield
+  - name: Eddie Yeoman
+    id: eddie-yeoman
+  - name: Fred Atkins
+    id: fred-atkins
+  - name: Jean Atkins
+    id: jean-atkins
+

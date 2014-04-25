@@ -1,7 +1,44 @@
+nlp:
+  id: nlp
+  name: "National Liberal Party – True Liberalism"
+  name_article: "the National Liberal Party"
+  
+
+harmony:
+  id: harmony
+  name: "Harmony Party"
+  name_article: "the Harmony Party"
+
+europeans:
+  id: europeans
+  name: "Europeans Party"
+  name_article: "the Europeans Party"
+
+cup:
+  id: cup
+  name: "Communities United Party"
+  name_article: "the Communities United Party"
+
+cpe:
+  id: cpe
+  name: "Christian Peoples Alliance"
+  name_article: "the Christian Peoples Alliance"
+  
+
+4freedoms:
+  id: 4freedoms
+  name: "4 Freedoms Party"
+  name_article: "the 4 Freedoms Party"
+
 aife:
   id: aife
   name: 'An Independence From Europe'
   name_article: 'An Independence From Europe'
+
+animal-welfare:
+  id: animal-welfare
+  name: 'Animal Welfare Party'
+  name_article: 'the Animal Welfare Party'
 
 alliance:
   classification: Party

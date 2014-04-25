@@ -1,10 +1,18 @@
 london:
-  - name: Rufus Hound
-    id: rufus-hound
   - name: Dr Louise Irvine
     id: dr-louise-irvine
   - name: Dr Chidi Ejimofo
     id: dr-chidi-ejimofo
+  - name: Marcus Chown
+    id: marcus-chown
+  - name: Kathryn Anderson
+    id: kathryn-anderson
+  - name: Rufus Hound
+    id: rufus-hound
+  - name: Jessica Ormerod
+    id: jessica-ormerod
   - name: Andrew Sharp
     id: andrew-sharp
+  - name: Alex Ashman
+    id: alex-ashman
 

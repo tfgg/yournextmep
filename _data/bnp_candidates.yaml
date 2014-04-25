@@ -1,3 +1,22 @@
+london:
+  - name: Stephen Squire
+    id: stephen-squire
+  - name: Donna Treanor
+    id: donna-treanor
+  - name: Paul Sturdy
+    id: paul-sturdy
+  - name: John Clarke
+    id: john-clarke
+  - name: David Furness
+    id: david-furness
+  - name: Cliff Le May
+    id: cliff-le-may
+  - name: Ray Underwood
+    id: ray-underwood
+  - name: Kevin Lazell
+    id: kevin-lazell
+
+
 east-midlands:
   - id: cathy-duffy
     name: 'Cathy Duffy'

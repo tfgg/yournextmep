@@ -2,3 +2,21 @@ west-midlands:
   - id: dave-nellist
     name: Dave Nellist
 
+london:
+  - name: Edward Dempsey
+    id: edward-dempsey
+  - name: Alexander Gordon
+    id: alexander-gordon
+  - name: April Ashley
+    id: april-ashley
+  - name: Annie Ngemi
+    id: annie-ngemi
+  - name: Mary Davis
+    id: mary-davis
+  - name: Paula Mitchell
+    id: paula-mitchell
+  - name: Natasha Hoarau
+    id: natasha-hoarau
+  - name: Michael Carty
+    id: michael-carty
+

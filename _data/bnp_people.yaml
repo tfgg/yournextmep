@@ -40,6 +40,11 @@ cliff-jones:
   name: 'Cliff Jones'
 
 
+cliff-le-may:
+  id: cliff-le-may
+  name: 'Cliff Le May'
+
+
 danny-cooke:
   id: danny-cooke
   name: 'Danny Cooke'
@@ -48,6 +53,16 @@ danny-cooke:
 david-bradnock:
   id: david-bradnock
   name: 'David Bradnock'
+
+
+david-furness:
+  id: david-furness
+  name: 'David Furness'
+
+
+donna-treanor:
+  id: donna-treanor
+  name: 'Donna Treanor'
 
 
 giuseppe-de-santis:
@@ -65,9 +80,19 @@ jennifer-matthys:
   name: 'Jennifer Matthys'
 
 
+john-clarke:
+  id: john-clarke
+  name: 'John Clarke'
+
+
 kenneth-griffiths:
   id: kenneth-griffiths
   name: 'Kenneth Griffiths'
+
+
+kevin-lazell:
+  id: kevin-lazell
+  name: 'Kevin Lazell'
 
 
 lady-dorothy-brooke:
@@ -122,6 +147,11 @@ nick-griffin:
     University of Cambridge.'
 
 
+paul-sturdy:
+  id: paul-sturdy
+  name: 'Paul Sturdy'
+
+
 peter-foreman:
   id: peter-foreman
   name: 'Peter Foreman'
@@ -130,6 +160,11 @@ peter-foreman:
 phil-kimberley:
   id: phil-kimberley
   name: 'Phil Kimberley'
+
+
+ray-underwood:
+  id: ray-underwood
+  name: 'Ray Underwood'
 
 
 richard-perry:
@@ -153,6 +188,11 @@ simon-patten:
     - note: 'Facebook page'
       url: https://www.facebook.com/simon.patten.58
   name: 'Simon Patten'
+
+
+stephen-squire:
+  id: stephen-squire
+  name: 'Stephen Squire'
 
 
 steve-brammer:

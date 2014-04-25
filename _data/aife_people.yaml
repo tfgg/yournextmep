@@ -13,9 +13,29 @@ david-smith:
   name: 'David Smith'
 
 
+eddie-yeoman:
+  id: eddie-yeoman
+  name: 'Eddie Yeoman'
+
+
+fred-atkins:
+  id: fred-atkins
+  name: 'Fred Atkins'
+
+
+gareth-griffiths:
+  id: gareth-griffiths
+  name: 'Gareth Griffiths'
+
+
 helen-webster:
   id: helen-webster
   name: 'Helen Webster'
+
+
+jean-atkins:
+  id: jean-atkins
+  name: 'Jean Atkins'
 
 
 john-taverner:
@@ -23,11 +43,31 @@ john-taverner:
   name: 'John Taverner'
 
 
+marlene-daniel:
+  id: marlene-daniel
+  name: 'Marlene Daniel'
+
+
 mike-camp:
   id: mike-camp
   name: 'Mike Camp'
 
 
+munpreet-bhathal:
+  id: munpreet-bhathal
+  name: 'Munpreet Bhathal'
+
+
+patrick-burns:
+  id: patrick-burns
+  name: 'Patrick Burns'
+
+
 phil-dunn:
   id: phil-dunn
   name: 'Phil Dunn'
+
+
+sharon-greenfield:
+  id: sharon-greenfield
+  name: 'Sharon Greenfield'

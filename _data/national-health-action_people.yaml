@@ -1,3 +1,8 @@
+alex-ashman:
+  id: alex-ashman
+  name: 'Alex Ashman'
+
+
 andrew-sharp:
   id: andrew-sharp
   image: /images/twitter/Andrewsharp1.jpg
@@ -31,6 +36,21 @@ dr-louise-irvine:
   name: 'Dr Louise Irvine'
   summary: 'Inner-city London GP. London MEP candidate for National Health Action
     Party. Chair of Save Lewisham Hospital Campaign. Member of Keep Our NHS Public.'
+
+
+jessica-ormerod:
+  id: jessica-ormerod
+  name: 'Jessica Ormerod'
+
+
+kathryn-anderson:
+  id: kathryn-anderson
+  name: 'Kathryn Anderson'
+
+
+marcus-chown:
+  id: marcus-chown
+  name: 'Marcus Chown'
 
 
 rufus-hound:

@@ -42,10 +42,10 @@ london:
     name: 'Lawrence Webb'
   - id: alastair-mcfarlane
     name: 'Alastair McFarlane'
-  - id: andrew-mcneilis
-    name: 'Andrew McNeilis'
   - id: anthony-brown
     name: 'Anthony Brown'
+  - id: andrew-mcneilis
+    name: 'Andrew McNeilis'
   - id: peter-whittle
     name: 'Peter Whittle'
 

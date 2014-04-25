@@ -5,12 +5,15 @@ from slugify import slugify
 
 candidates = yaml.load(open(sys.argv[1]))
 
-people = yaml.load(open(sys.argv[2]))
+try:
+  people = yaml.load(open(sys.argv[2]))
+except:
+  people = {}
 
 for region in candidates:
   for candidate in candidates[region]:
     name = unicode(candidate['name'])
-    id = slugify(name)
+    id = candidate['id']
 
     person = people.get(id, {})
 
@@ -19,5 +22,5 @@ for region in candidates:
 
     people[person['id']] = person
 
-pyaml.dump(people, sys.stdout, vspacing=[2, 0])
+pyaml.dump(people, open(sys.argv[2],'w+'), vspacing=[2, 0])
 

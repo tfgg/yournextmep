@@ -1,3 +1,18 @@
+alexander-gordon:
+  id: alexander-gordon
+  name: 'Alexander Gordon'
+
+
+annie-ngemi:
+  id: annie-ngemi
+  name: 'Annie Ngemi'
+
+
+april-ashley:
+  id: april-ashley
+  name: 'April Ashley'
+
+
 dave-nellist:
   id: dave-nellist
   image: /images/twitter/davenellist.jpg
@@ -13,3 +28,28 @@ dave-nellist:
     activist and former Labour Member of Parliament (MP) for the now abolished constituency
     of Coventry South East. He is a member of the Socialist Party and a former councillor
     in Coventry.'
+
+
+edward-dempsey:
+  id: edward-dempsey
+  name: 'Edward Dempsey'
+
+
+mary-davis:
+  id: mary-davis
+  name: 'Mary Davis'
+
+
+michael-carty:
+  id: michael-carty
+  name: 'Michael Carty'
+
+
+natasha-hoarau:
+  id: natasha-hoarau
+  name: 'Natasha Hoarau'
+
+
+paula-mitchell:
+  id: paula-mitchell
+  name: 'Paula Mitchell'
