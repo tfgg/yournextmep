@@ -1,44 +1,14 @@
-nlp:
-  id: nlp
-  name: "National Liberal Party – True Liberalism"
-  name_article: "the National Liberal Party"
-  
-
-harmony:
-  id: harmony
-  name: "Harmony Party"
-  name_article: "the Harmony Party"
-
-europeans:
-  id: europeans
-  name: "Europeans Party"
-  name_article: "the Europeans Party"
-
-cup:
-  id: cup
-  name: "Communities United Party"
-  name_article: "the Communities United Party"
-
-cpe:
-  id: cpe
-  name: "Christian Peoples Alliance"
-  name_article: "the Christian Peoples Alliance"
-  
-
 4freedoms:
   id: 4freedoms
-  name: "4 Freedoms Party"
-  name_article: "the 4 Freedoms Party"
+  name: '4 Freedoms Party'
+  name_article: 'the 4 Freedoms Party'
+
 
 aife:
   id: aife
   name: 'An Independence From Europe'
   name_article: 'An Independence From Europe'
 
-animal-welfare:
-  id: animal-welfare
-  name: 'Animal Welfare Party'
-  name_article: 'the Animal Welfare Party'
 
 alliance:
   classification: Party
@@ -55,6 +25,12 @@ alliance:
     moderate and non-sectarian Unionism. However, over time, particularly in the 1990s,
     it moved towards neutrality on the Union, and has come to represent wider liberal
     and non-sectarian concerns.'
+
+
+animal-welfare:
+  id: animal-welfare
+  name: 'Animal Welfare Party'
+  name_article: 'the Animal Welfare Party'
 
 
 bnp:
@@ -93,6 +69,18 @@ conservative:
     the largest British party in the European Parliament with 25 MEPs.'
 
 
+cpe:
+  id: cpe
+  name: 'Christian Peoples Alliance'
+  name_article: 'the Christian Peoples Alliance'
+
+
+cup:
+  id: cup
+  name: 'Communities United Party'
+  name_article: 'the Communities United Party'
+
+
 dup:
   classification: Party
   founding_date: 1971-9-30
@@ -120,6 +108,12 @@ engdem:
       url: https://en.wikipedia.org/wiki/English_Democrats_Party
   name: 'English Democrats'
   name_article: 'the English Democrats'
+
+
+europeans:
+  id: europeans
+  name: 'Europeans Party'
+  name_article: 'the Europeans Party'
 
 
 green:
@@ -166,6 +160,12 @@ green-scotland:
     and Patrick Harvie, representing Glasgow. It is the only party other than the
     Scottish National Party to both support Scottish independence and have representation
     in Scottish Parliament.'
+
+
+harmony:
+  id: harmony
+  name: 'Harmony Party'
+  name_article: 'the Harmony Party'
 
 
 labour:
@@ -236,6 +236,12 @@ ni21:
       url: http://ni21.com/
   name: NI21
   name_article: 'the NI21 party'
+
+
+nlp:
+  id: nlp
+  name: 'National Liberal Party – True Liberalism'
+  name_article: 'the National Liberal Party'
 
 
 no2eu:
@@ -454,16 +460,16 @@ wdar:
     European Union (EU). According to a YouGov poll, roughly a third of British adults
     said they would vote for this party.'
 
+
 yourvoice:
   classification: Party
   id: yourvoice
   links:
-    - url: https://en.wikipedia.org/wiki/YOURvoice
-      note: Wikipedia article
-    - url: https://www.facebook.com/yourvoiceparty
-      note: Facebook page
-    - url: http://yourvoiceparty.org.uk/
-      note: Website
-  name: "YOURvoice Party"
-  name_article: "the YOURvoice Party"
- 
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/YOURvoice
+    - note: 'Facebook page'
+      url: https://www.facebook.com/yourvoiceparty
+    - note: Website
+      url: http://yourvoiceparty.org.uk/
+  name: 'YOURvoice Party'
+  name_article: 'the YOURvoice Party'
