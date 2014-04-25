@@ -149,8 +149,6 @@ south-east:
     name: 'Jason Kitcat'
   - id: miriam-kennet
     name: 'Miriam Kennet'
-  - id: beatrix-campbell
-    name: 'Beatrix Campbell'
   - id: beverley-golden
     name: 'Beverley Golden'
   - id: jonathan-essex
@@ -159,3 +157,6 @@ south-east:
     name: 'Jonathan Kent'
   - id: stuart-jeffrey
     name: 'Stuart Jeffrey'
+  - id: ray-cunningham
+    name: Ray Cunningham
+

@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/labour/karen-landles/
 categories: candidate labour
 election: eu2014
-list-rank: 8
-list-rank-ordinal: 8th
+list-rank: 9
+list-rank-ordinal: 9th
 person: karen-landles
 region: south-east
 party: labour

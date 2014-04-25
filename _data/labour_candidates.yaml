@@ -101,18 +101,20 @@ south-east:
     name: 'John Howarth'
   - id: emily-westley
     name: 'Emily Westley'
-  - id: farah-nazeer
-    name: 'Farah Nazeer'
   - id: james-swindlehurst
     name: 'James Swindlehurst'
-  - id: maggie-hughes
-    name: 'Maggie Hughes'
+  - id: farah-nazeer
+    name: 'Farah Nazeer'
   - id: james-watkins
     name: 'James Watkins'
+  - id: maggie-hughes
+    name: 'Maggie Hughes'
+  - id: christopher-clark
+    name: Christopher Clark
   - id: karen-landles
     name: 'Karen Landles'
-  - id: michael-hassell
-    name: 'Michael Hassell'
+  - id: tracey-hill
+    name: 'Tracey Hill'
 
 
 south-west:

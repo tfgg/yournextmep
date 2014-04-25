@@ -107,7 +107,7 @@ ansar-ali-khan:
   links:
     - note: 'Twitter account'
       url: https://twitter.com/ansar_ali_khan
-  name: 'Ansar Ali-Khan'
+  name: 'Ansar Ali Khan'
   summary: 'Councillor for Washwood Heath Ward, Birmingham.  Chair of Hodge Hill Constituency.'
 
 
@@ -207,7 +207,7 @@ chris-ostrowski:
     and works in financial publishing. source: http://www.easthertslabour.org/'
   email: chrisost@hotmail.com
   gender: male
-  id: christ-ostrowski
+  id: chris-ostrowski
   name: 'Chris Ostrowski'
 
 
@@ -225,6 +225,11 @@ christina-rees:
   name: 'Christina Rees'
   summary: 'Keen campaigner for Labour, councillor in   Bridgend, eager to take our
     values into the EU and help win the General Election'
+
+
+christopher-clark:
+  id: christopher-clark
+  name: 'Christopher Clark'
 
 
 claire-edwards:
@@ -637,7 +642,7 @@ kirsty-obrien:
       url: https://twitter.com/Coisty_OB
     - note: 'Campaign Facebook page'
       url: https://www.facebook.com/Kirsty4Europe
-  name: 'Kirsty O’Brien'
+  name: 'Kirsty O''Brien'
   summary: 'Scottish Labour candidate for Europe 2014. Mostly lurking, occasional
     tweets all my own views.'
 
@@ -665,7 +670,7 @@ linda-mcavan:
 
 linda-woodings:
   gender: female
-  id: linda_woodings
+  id: linda-woodings
   image: /images/twitter/LindaWoodings.jpg
   links:
     - note: 'Twitter account'
@@ -1008,7 +1013,7 @@ sion-simon:
       url: http://www.sion-simon.org.uk/
     - note: 'Twitter account'
       url: https://twitter.com/sionsimon
-  name: 'Sion Simon'
+  name: 'Siôn Simon'
   summary: 'writer and politician'
   wikipedia_biography: 'Siôn Llewelyn Simon (born 23 December 1968) is a British Labour
     politician, who served as the Member of Parliament for Birmingham Erdington from
@@ -1050,6 +1055,11 @@ tony-ethapemi:
     - note: Website
       url: http://tonyethapemi.com/
   name: 'Tony Ethapemi'
+
+
+tracey-hill:
+  id: tracey-hill
+  name: 'Tracey Hill'
 
 
 tracey-simpson-lang:

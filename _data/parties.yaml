@@ -257,6 +257,12 @@ no2eu:
   name_article: 'the No2EU party'
 
 
+peace:
+  id: peace
+  name: The Peace Party - Non-violence, Justice, Environment
+  name_article: The Peace Party
+
+
 plaid-cymru:
   classification: Party
   founding_date: 1925-8-5
@@ -288,6 +294,12 @@ ppuk:
     core policies are to bring about reform to Copyright and Patent laws, support
     privacy and reduce surveillance from government and businesses, and guarantee
     genuine freedom of speech for everyone.'
+
+
+roman:
+  id: roman
+  name: "The Roman Party.AVE"
+  name_article: "The Roman Party.AVE"
 
 
 sdlp:
