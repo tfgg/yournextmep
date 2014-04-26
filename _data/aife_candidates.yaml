@@ -92,3 +92,21 @@ east-midlands:
   - name: Carl Mason
     id: carl-mason
 
+north-west:
+  - name: Helen Bashford
+    id: helen-bashford
+  - name: Gill Kearney
+    id: gill-kearney
+  - name: Pauline Penny
+    id: pauline-penny
+  - name: Kay Bashford
+    id: kay-bashford
+  - name: Faye Raw
+    id: faye-raw
+  - name: Lorna Markovitch
+    id: lorna-markovitch
+  - name: Jennie Ransome
+    id: jennie-ransome
+  - name: Jill Stockdale
+    id: jill-stockdale
+

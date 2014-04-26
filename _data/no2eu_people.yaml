@@ -55,9 +55,44 @@ emily-thompson-golding:
   name: 'Emily Thompson-Golding'
 
 
+george-tapp:
+  id: george-tapp
+  name: 'George Tapp'
+
+
+george-waterhouse:
+  id: george-waterhouse
+  name: 'George Waterhouse'
+
+
+jacqueline-grunsell:
+  id: jacqueline-grunsell
+  name: 'Jacqueline Grunsell'
+
+
+james-healy:
+  id: james-healy
+  name: 'James Healy'
+
+
+john-metcalfe:
+  id: john-metcalfe
+  name: 'John Metcalfe'
+
+
+kevin-morrison:
+  id: kevin-morrison
+  name: 'Kevin Morrison'
+
+
 leonardo-impett:
   id: leonardo-impett
   name: 'Leonardo Impett'
+
+
+mark-rowe:
+  id: mark-rowe
+  name: 'Mark Rowe'
 
 
 mary-davis:
@@ -78,6 +113,11 @@ natasha-hoarau:
 paula-mitchell:
   id: paula-mitchell
   name: 'Paula Mitchell'
+
+
+roger-bannister:
+  id: roger-bannister
+  name: 'Roger Bannister'
 
 
 stephen-glennon:

@@ -36,3 +36,21 @@ eastern:
   - name: Emily Thompson-Golding
     id: emily-thompson-golding
 
+north-west:
+  - name: Roger Bannister
+    id: roger-bannister
+  - name: George Waterhouse
+    id: george-waterhouse
+  - name: Jacqueline Grunsell
+    id: jacqueline-grunsell
+  - name: John Metcalfe
+    id: john-metcalfe
+  - name: George Tapp
+    id: george-tapp
+  - name: Mark Rowe
+    id: mark-rowe
+  - name: James Healy
+    id: james-healy
+  - name: Kevin Morrison
+    id: kevin-morrison
+

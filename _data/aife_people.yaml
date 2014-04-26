@@ -58,6 +58,11 @@ edmond-rosenthal:
   name: 'Edmond Rosenthal'
 
 
+faye-raw:
+  id: faye-raw
+  name: 'Faye Raw'
+
+
 fred-atkins:
   id: fred-atkins
   name: 'Fred Atkins'
@@ -68,6 +73,16 @@ gareth-griffiths:
   name: 'Gareth Griffiths'
 
 
+gill-kearney:
+  id: gill-kearney
+  name: 'Gill Kearney'
+
+
+helen-bashford:
+  id: helen-bashford
+  name: 'Helen Bashford'
+
+
 helen-webster:
   id: helen-webster
   name: 'Helen Webster'
@@ -76,6 +91,16 @@ helen-webster:
 jean-atkins:
   id: jean-atkins
   name: 'Jean Atkins'
+
+
+jennie-ransome:
+  id: jennie-ransome
+  name: 'Jennie Ransome'
+
+
+jill-stockdale:
+  id: jill-stockdale
+  name: 'Jill Stockdale'
 
 
 john-beaver:
@@ -98,6 +123,11 @@ karl-davies:
   name: 'Karl Davies'
 
 
+kay-bashford:
+  id: kay-bashford
+  name: 'Kay Bashford'
+
+
 keith-vernon:
   id: keith-vernon
   name: 'Keith Vernon'
@@ -111,6 +141,11 @@ ken-holtom:
 laurence-stassen:
   id: laurence-stassen
   name: 'Laurence Stassen'
+
+
+lorna-markovitch:
+  id: lorna-markovitch
+  name: 'Lorna Markovitch'
 
 
 mark-henry:
@@ -161,6 +196,11 @@ paul-godfrey:
 paul-wiffen:
   id: paul-wiffen
   name: 'Paul Wiffen'
+
+
+pauline-penny:
+  id: pauline-penny
+  name: 'Pauline Penny'
 
 
 phil-dunn:

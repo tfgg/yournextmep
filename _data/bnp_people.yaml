@@ -65,6 +65,11 @@ cliff-le-may:
   name: 'Cliff Le May'
 
 
+clive-jefferson:
+  id: clive-jefferson
+  name: 'Clive Jefferson'
+
+
 danny-cooke:
   id: danny-cooke
   name: 'Danny Cooke'
@@ -80,9 +85,29 @@ david-furness:
   name: 'David Furness'
 
 
+david-oloughlin:
+  id: david-oloughlin
+  name: 'David O''Loughlin'
+
+
+dawn-charlton:
+  id: dawn-charlton
+  name: 'Dawn Charlton'
+
+
+derek-adams:
+  id: derek-adams
+  name: 'Derek Adams'
+
+
 donna-treanor:
   id: donna-treanor
   name: 'Donna Treanor'
+
+
+eddy-osullivan:
+  id: eddy-osullivan
+  name: 'Eddy O''Sullivan'
 
 
 eric-elliott:
@@ -133,6 +158,11 @@ john-moore:
 john-robinson:
   id: john-robinson
   name: 'John Robinson'
+
+
+kay-pollitt:
+  id: kay-pollitt
+  name: 'Kay Pollitt'
 
 
 kenneth-griffiths:
@@ -260,6 +290,11 @@ richard-perry:
 robert-west:
   id: robert-west
   name: 'Robert West'
+
+
+simon-darby:
+  id: simon-darby
+  name: 'Simon Darby'
 
 
 simon-patten:

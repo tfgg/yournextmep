@@ -322,6 +322,11 @@ jill-seymour:
     are my own, RT''s not an endorsement.'
 
 
+john-stanyer:
+  id: john-stanyer
+  name: 'John Stanyer'
+
+
 john-tennant:
   id: john-tennant
   image: /images/twitter/johnukip.jpg

@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/sep/joe-heffer/
 categories: candidate sep
 election: eu2014
-list-rank: 7
-list-rank-ordinal: 7th
+list-rank: 8
+list-rank-ordinal: 8th
 person: joe-heffer
 region: north-west
 party: sep

@@ -61,6 +61,20 @@ north-west:
     name: 'Nick Griffin'
     wikipedia: https://en.wikipedia.org/wiki/Nick_Griffin
     incumbent: true
+  - name: Dawn Charlton
+    id: dawn-charlton
+  - name: Clive Jefferson
+    id: clive-jefferson
+  - name: "Eddy O'Sullivan"
+    id: eddy-osullivan
+  - name: Simon Darby
+    id: simon-darby
+  - name: Kay Pollitt
+    id: kay-pollitt
+  - name: Derek Adams
+    id: derek-adams
+  - name: David O'Loughlin
+    id: david-oloughlin
 
 
 south-east:

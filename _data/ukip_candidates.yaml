@@ -69,14 +69,14 @@ north-west:
     name: 'Steven Woolfe'
   - id: shneur-odze
     name: 'Shneur Odze'
-  - id: michael-mcmanus
-    name: 'Michael McManus'
   - id: lee-slaughter
     name: 'Lee Slaughter'
   - id: simon-noble
     name: 'Simon Noble'
   - id: peter-harper
     name: 'Peter Harper'
+  - id: john-stanyer
+    name: John Stanyer
 
 
 northern-ireland:
