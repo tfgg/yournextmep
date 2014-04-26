@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/spgb/brian-johnson/
 categories: candidate spgb
 election: eu2014
-list-rank: 3
-list-rank-ordinal: 3rd
+list-rank: 1
+list-rank-ordinal: 1st
 person: brian-johnson
 region: wales
 party: spgb

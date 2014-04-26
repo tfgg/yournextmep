@@ -99,10 +99,10 @@ wales:
     wikipedia: https://en.wikipedia.org/wiki/Pippa_Bartolotti
   - id: john-matthews
     name: 'John Matthews'
-  - id: roz-cutler
-    name: 'Roz Cutler'
   - id: chris-were
     name: 'Chris Were'
+  - id: roz-cutler
+    name: 'Rozz Cutler'
 
 
 west-midlands:

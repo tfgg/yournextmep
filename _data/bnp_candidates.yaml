@@ -156,3 +156,13 @@ scotland:
   - name: Stacey Fleming
     id: stacey-fleming
 
+wales:
+  - name: Mike Whitby
+    id: mike-whitby
+  - name: Laurence Dalriada
+    id: laurence-dalriada
+  - name: Jean Griffin
+    id: jean-griffin
+  - name: Gary Tumulty
+    id: gary-tumulty
+

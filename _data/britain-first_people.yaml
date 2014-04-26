@@ -1,3 +1,18 @@
+anne-elstone:
+  id: anne-elstone
+  name: 'Anne Elstone'
+
+
+anthony-golding:
+  id: anthony-golding
+  name: 'Anthony Golding'
+
+
+christine-smith:
+  id: christine-smith
+  name: 'Christine Smith'
+
+
 geoffrey-clynch:
   id: geoffrey-clynch
   name: 'Geoffrey Clynch'
@@ -26,3 +41,8 @@ john-randall:
 margaret-clynch:
   id: margaret-clynch
   name: 'Margaret Clynch'
+
+
+paul-golding:
+  id: paul-golding
+  name: 'Paul Golding'

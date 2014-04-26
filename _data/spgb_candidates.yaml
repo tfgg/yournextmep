@@ -21,11 +21,11 @@ south-east:
     name: Mike Young
     
 wales:
-  - id: ed-blewitt
-    name: Ed Blewitt
-  - id: richard-cheney
-    name: Richard Cheney
   - id: brian-johnson
     name: Brian Johnson
+  - id: richard-cheney
+    name: Richard Cheney
+  - id: ed-blewitt
+    name: Ed Blewitt
   - id: howard-moss
     name: Howard Moss

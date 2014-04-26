@@ -68,4 +68,13 @@ scotland:
   - name: Richard Veitch
     id: richard-veitch
 
+wales:
+  - name: Robert Griffiths
+    id: robert-griffiths
+  - name: Claire Job
+    id: claire-job
+  - name: Steven Skelly
+    id: steven-skelly
+  - name: Laura Picand
+    id: laura-picand
 

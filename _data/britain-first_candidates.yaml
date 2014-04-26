@@ -12,3 +12,13 @@ scotland:
   - name: Jane Shepherd
     id: jane-shepherd
 
+wales:
+  - name: Paul Golding
+    id: paul-golding
+  - name: Anthony Golding
+    id: anthony-golding
+  - name: Christine Smith
+    id: christine-smith
+  - name: Anne Elstone
+    id: anne-elstone
+

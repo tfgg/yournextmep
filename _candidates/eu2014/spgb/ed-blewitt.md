@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/spgb/ed-blewitt/
 categories: candidate spgb
 election: eu2014
-list-rank: 1
-list-rank-ordinal: 1st
+list-rank: 3
+list-rank-ordinal: 3rd
 person: ed-blewitt
 region: wales
 party: spgb

@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/spgb/les-courtney/
 categories: candidate spgb
 election: eu2014
-list-rank: 2
-list-rank-ordinal: 2nd
+list-rank: 3
+list-rank-ordinal: 3rd
 person: les-courtney
 region: south-east
 party: spgb

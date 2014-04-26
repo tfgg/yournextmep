@@ -125,6 +125,11 @@ eric-elliott:
   name: 'Eric Elliott'
 
 
+gary-tumulty:
+  id: gary-tumulty
+  name: 'Gary Tumulty'
+
+
 gavin-miller:
   id: gavin-miller
   name: 'Gavin Miller'
@@ -148,6 +153,11 @@ gordon-johnson:
 jack-renshaw:
   id: jack-renshaw
   name: 'Jack Renshaw'
+
+
+jean-griffin:
+  id: jean-griffin
+  name: 'Jean Griffin'
 
 
 jennifer-matthys:
@@ -198,6 +208,11 @@ lady-dorothy-brooke:
   name: 'Lady Dorothy Brooke'
 
 
+laurence-dalriada:
+  id: laurence-dalriada
+  name: 'Laurence Dalriada'
+
+
 mark-badrick:
   id: mark-badrick
   name: 'Mark Badrick'
@@ -234,6 +249,11 @@ michael-coleman:
     - note: Website
       url: http://stokepatriot.blogspot.co.uk/
   name: 'Michael Coleman'
+
+
+mike-whitby:
+  id: mike-whitby
+  name: 'Mike Whitby'
 
 
 nick-griffin:

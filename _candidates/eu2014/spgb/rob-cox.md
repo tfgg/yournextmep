@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/spgb/rob-cox/
 categories: candidate spgb
 election: eu2014
-list-rank: 3
-list-rank-ordinal: 3rd
+list-rank: 2
+list-rank-ordinal: 2nd
 person: rob-cox
 region: south-east
 party: spgb

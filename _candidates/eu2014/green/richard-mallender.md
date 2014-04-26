@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/green/richard-mallender/
 categories: candidate green
 election: eu2014
-list-rank: 4
-list-rank-ordinal: 4th
+list-rank: 3
+list-rank-ordinal: 3rd
 person: richard-mallender
 region: east-midlands
 party: green

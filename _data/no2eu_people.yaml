@@ -28,6 +28,11 @@ brian-smith:
   name: 'Brian Smith'
 
 
+claire-job:
+  id: claire-job
+  name: 'Claire Job'
+
+
 dave-nellist:
   id: dave-nellist
   image: /images/twitter/davenellist.jpg
@@ -105,6 +110,11 @@ kevin-morrison:
   name: 'Kevin Morrison'
 
 
+laura-picand:
+  id: laura-picand
+  name: 'Laura Picand'
+
+
 leonardo-impett:
   id: leonardo-impett
   name: 'Leonardo Impett'
@@ -145,6 +155,11 @@ richard-veitch:
   name: 'Richard Veitch'
 
 
+robert-griffiths:
+  id: robert-griffiths
+  name: 'Robert Griffiths'
+
+
 roger-bannister:
   id: roger-bannister
   name: 'Roger Bannister'
@@ -153,6 +168,11 @@ roger-bannister:
 stephen-glennon:
   id: stephen-glennon
   name: 'Stephen Glennon'
+
+
+steven-skelly:
+  id: steven-skelly
+  name: 'Steven Skelly'
 
 
 teresa-mackay:
