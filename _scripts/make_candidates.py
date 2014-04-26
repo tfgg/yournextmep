@@ -14,7 +14,7 @@ party = parties[party_id]
 for region_id in candidates:
   region = regions[region_id]
   for i, candidate in enumerate(candidates[region_id]):
-    person_id = slugify(unicode(candidate['name']))
+    person_id = unicode(candidate['id'])
     person = people[person_id]
 
     rank = i+1

@@ -4,11 +4,11 @@ scotland:
     wikipedia: https://en.wikipedia.org/wiki/Maggie_Chapman
   - id: chas-booth
     name: 'Chas Booth'
-  - id: alis-ballance
-    name: 'Alis Ballance'
-  - id: alastair-whitelaw
-    name: 'Alastair Whitelaw'
   - id: grace-murray
     name: 'Grace Murray'
+  - id: alastair-whitelaw
+    name: 'Alastair Whitelaw'
+  - id: anne-thomas
+    name: 'Anne Thomas'
   - id: steen-parish
     name: 'Steen Parish'

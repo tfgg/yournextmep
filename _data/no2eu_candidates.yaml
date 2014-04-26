@@ -54,3 +54,18 @@ north-west:
   - name: Kevin Morrison
     id: kevin-morrison
 
+scotland:
+  - name: John Foster
+    id: john-foster
+  - name: Andrew Elliott
+    id: andrew-elliott
+  - name: Murdo Maclean
+    id: murdo-maclean
+  - name: Gail Morrow
+    id: gail-morrow
+  - name: Brian Smith
+    id: brian-smith
+  - name: Richard Veitch
+    id: richard-veitch
+
+

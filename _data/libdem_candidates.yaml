@@ -91,12 +91,12 @@ scotland:
     wikipedia: https://en.wikipedia.org/wiki/George_Lyon_(Scottish_politician)
   - id: christine-jardine
     name: 'Christine Jardine'
-  - id: lisa-strachan
-    name: 'Lisa Strachan'
   - id: richard-brodie
     name: 'Richard Brodie'
   - id: jade-holden
     name: 'Jade Holden'
+  - id: siobhan-mathers
+    name: 'Siobhan Mathers'
   - id: euan-davidson
     name: Euan Davidson
 

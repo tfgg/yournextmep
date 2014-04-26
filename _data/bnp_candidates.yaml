@@ -141,3 +141,18 @@ yorkshire-and-the-humber:
     name: 'Danny Cooke'
   - id: gordon-johnson
     name: 'Gordon Johnson'
+
+scotland:
+  - name: Kenneth McDonald
+    id: kenneth-mcdonald
+  - name: David Orr
+    id: david-orr
+  - name: Victoria McKenzie
+    id: victoria-mckenzie
+  - name: Angus Matthys
+    id: angus-matthys
+  - name: Paul Stafford
+    id: paul-stafford
+  - name: Stacey Fleming
+    id: stacey-fleming
+

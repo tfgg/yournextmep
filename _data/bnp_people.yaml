@@ -21,6 +21,11 @@ andrew-webster:
   name: 'Andrew Webster'
 
 
+angus-matthys:
+  id: angus-matthys
+  name: 'Angus Matthys'
+
+
 anthony-bamber:
   id: anthony-bamber
   name: 'Anthony Bamber'
@@ -88,6 +93,11 @@ david-furness:
 david-oloughlin:
   id: david-oloughlin
   name: 'David O''Loughlin'
+
+
+david-orr:
+  id: david-orr
+  name: 'David Orr'
 
 
 dawn-charlton:
@@ -168,6 +178,11 @@ kay-pollitt:
 kenneth-griffiths:
   id: kenneth-griffiths
   name: 'Kenneth Griffiths'
+
+
+kenneth-mcdonald:
+  id: kenneth-mcdonald
+  name: 'Kenneth McDonald'
 
 
 kevin-lazell:
@@ -252,6 +267,11 @@ paul-hooks:
   name: 'Paul Hooks'
 
 
+paul-stafford:
+  id: paul-stafford
+  name: 'Paul Stafford'
+
+
 paul-sturdy:
   id: paul-sturdy
   name: 'Paul Sturdy'
@@ -305,6 +325,11 @@ simon-patten:
   name: 'Simon Patten'
 
 
+stacey-fleming:
+  id: stacey-fleming
+  name: 'Stacey Fleming'
+
+
 stephen-smith:
   id: stephen-smith
   name: 'Stephen Smith'
@@ -318,6 +343,11 @@ stephen-squire:
 steve-brammer:
   id: steve-brammer
   name: 'Steve Brammer'
+
+
+victoria-mckenzie:
+  id: victoria-mckenzie
+  name: 'Victoria McKenzie'
 
 
 wayne-peter-tomlinson:

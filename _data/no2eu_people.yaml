@@ -3,6 +3,11 @@ alexander-gordon:
   name: 'Alexander Gordon'
 
 
+andrew-elliott:
+  id: andrew-elliott
+  name: 'Andrew Elliott'
+
+
 annie-ngemi:
   id: annie-ngemi
   name: 'Annie Ngemi'
@@ -16,6 +21,11 @@ april-ashley:
 brian-denny:
   id: brian-denny
   name: 'Brian Denny'
+
+
+brian-smith:
+  id: brian-smith
+  name: 'Brian Smith'
 
 
 dave-nellist:
@@ -55,6 +65,11 @@ emily-thompson-golding:
   name: 'Emily Thompson-Golding'
 
 
+gail-morrow:
+  id: gail-morrow
+  name: 'Gail Morrow'
+
+
 george-tapp:
   id: george-tapp
   name: 'George Tapp'
@@ -73,6 +88,11 @@ jacqueline-grunsell:
 james-healy:
   id: james-healy
   name: 'James Healy'
+
+
+john-foster:
+  id: john-foster
+  name: 'John Foster'
 
 
 john-metcalfe:
@@ -105,6 +125,11 @@ michael-carty:
   name: 'Michael Carty'
 
 
+murdo-maclean:
+  id: murdo-maclean
+  name: 'Murdo Maclean'
+
+
 natasha-hoarau:
   id: natasha-hoarau
   name: 'Natasha Hoarau'
@@ -113,6 +138,11 @@ natasha-hoarau:
 paula-mitchell:
   id: paula-mitchell
   name: 'Paula Mitchell'
+
+
+richard-veitch:
+  id: richard-veitch
+  name: 'Richard Veitch'
 
 
 roger-bannister:
