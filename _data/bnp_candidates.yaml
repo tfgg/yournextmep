@@ -139,8 +139,12 @@ yorkshire-and-the-humber:
     name: 'Adam Walker'
   - id: danny-cooke
     name: 'Danny Cooke'
-  - id: gordon-johnson
-    name: 'Gordon Johnson'
+  - name: Joanne Brown
+    id: joanne-brown
+  - name: Steven Harrison
+    id: steven-harrison
+  - name: Stuart Henshaw
+    id: stuart-henshaw
 
 scotland:
   - name: Kenneth McDonald

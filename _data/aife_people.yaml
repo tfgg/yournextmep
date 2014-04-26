@@ -103,6 +103,11 @@ helen-webster:
   name: 'Helen Webster'
 
 
+howard-blake:
+  id: howard-blake
+  name: 'Howard Blake'
+
+
 jean-atkins:
   id: jean-atkins
   name: 'Jean Atkins'
@@ -121,6 +126,11 @@ jill-stockdale:
 john-beaver:
   id: john-beaver
   name: 'John Beaver'
+
+
+john-martin:
+  id: john-martin
+  name: 'John Martin'
 
 
 john-taverner:
@@ -158,6 +168,11 @@ ken-holtom:
   name: 'Ken Holtom'
 
 
+kerrie-oxenham:
+  id: kerrie-oxenham
+  name: 'Kerrie Oxenham'
+
+
 laurence-stassen:
   id: laurence-stassen
   name: 'Laurence Stassen'
@@ -166,6 +181,11 @@ laurence-stassen:
 lorna-markovitch:
   id: lorna-markovitch
   name: 'Lorna Markovitch'
+
+
+malcolm-snelling:
+  id: malcolm-snelling
+  name: 'Malcolm Snelling'
 
 
 mark-henry:
@@ -226,6 +246,11 @@ paul-alders:
 paul-godfrey:
   id: paul-godfrey
   name: 'Paul Godfrey'
+
+
+paul-sootheran:
+  id: paul-sootheran
+  name: 'Paul Sootheran'
 
 
 paul-wiffen:

@@ -1,14 +1,3 @@
-britain-first:
-  id: britain-first
-  name: Britain First
-  name_article: "Britain First"
-
-aspire:
-  id: aspire
-  name: Aspire To Better
-  name_article: "Aspire To Better"
-
-
 4freedoms:
   id: 4freedoms
   name: '4 Freedoms Party'
@@ -44,6 +33,12 @@ animal-welfare:
   name_article: 'the Animal Welfare Party'
 
 
+aspire:
+  id: aspire
+  name: 'Aspire To Better'
+  name_article: 'Aspire To Better'
+
+
 bnp:
   classification: Party
   founding_date: 1982-1-1
@@ -59,6 +54,12 @@ bnp:
     to its constitution. The BNP advocates "firm but voluntary incentives for immigrants
     and their descendants to return home", as well as the repeal of anti-discrimination
     legislation.'
+
+
+britain-first:
+  id: britain-first
+  name: 'Britain First'
+  name_article: 'Britain First'
 
 
 conservative:
@@ -270,8 +271,8 @@ no2eu:
 
 peace:
   id: peace
-  name: The Peace Party - Non-violence, Justice, Environment
-  name_article: The Peace Party
+  name: 'The Peace Party - Non-violence, Justice, Environment'
+  name_article: 'The Peace Party'
 
 
 plaid-cymru:
@@ -309,8 +310,8 @@ ppuk:
 
 roman:
   id: roman
-  name: "The Roman Party.AVE"
-  name_article: "The Roman Party.AVE"
+  name: 'The Roman Party.AVE'
+  name_article: 'The Roman Party.AVE'
 
 
 sdlp:
@@ -482,6 +483,12 @@ wdar:
     Parliament election in order to force a referendum on British membership of the
     European Union (EU). According to a YouGov poll, roughly a third of British adults
     said they would vote for this party.'
+
+
+yorkshire-first:
+  id: yorkshire-first
+  name: 'Yorkshire First'
+  name_article: 'Yorkshire First'
 
 
 yourvoice:

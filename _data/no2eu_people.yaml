@@ -1,3 +1,8 @@
+adrian-omalley:
+  id: adrian-omalley
+  name: 'Adrian O''Malley'
+
+
 alexander-gordon:
   id: alexander-gordon
   name: 'Alexander Gordon'
@@ -36,6 +41,11 @@ brian-denny:
 brian-smith:
   id: brian-smith
   name: 'Brian Smith'
+
+
+carrie-hedderwick:
+  id: carrie-hedderwick
+  name: 'Carrie Hedderwick'
 
 
 claire-job:
@@ -95,6 +105,11 @@ george-waterhouse:
   name: 'George Waterhouse'
 
 
+iain-dalton:
+  id: iain-dalton
+  name: 'Iain Dalton'
+
+
 jacqueline-grunsell:
   id: jacqueline-grunsell
   name: 'Jacqueline Grunsell'
@@ -143,6 +158,11 @@ mark-rowe:
 mary-davis:
   id: mary-davis
   name: 'Mary Davis'
+
+
+mary-jackson:
+  id: mary-jackson
+  name: 'Mary Jackson'
 
 
 michael-carty:
@@ -200,6 +220,11 @@ stephen-glennon:
   name: 'Stephen Glennon'
 
 
+steven-andrew:
+  id: steven-andrew
+  name: 'Steven Andrew'
+
+
 steven-skelly:
   id: steven-skelly
   name: 'Steven Skelly'
@@ -208,3 +233,8 @@ steven-skelly:
 teresa-mackay:
   id: teresa-mackay
   name: 'Teresa Mackay'
+
+
+trevor-howard:
+  id: trevor-howard
+  name: 'Trevor Howard'

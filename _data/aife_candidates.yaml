@@ -9,6 +9,16 @@ north-east:
 yorkshire-and-the-humber:
   - id: christopher-booth
     name: Christopher Booth
+  - id: kerrie-oxenham
+    name: Kerrie Oxenham
+  - name: Malcolm Snelling
+    id: malcolm-snelling
+  - name: John Martin
+    id: john-martin
+  - name: Paul Sootheran
+    id: paul-sootheran
+  - name: Howard Blake
+    id: howard-blake
 
 south-west:
   - name: David Smith

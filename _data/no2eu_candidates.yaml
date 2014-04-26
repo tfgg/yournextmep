@@ -91,3 +91,17 @@ wales:
   - name: Laura Picand
     id: laura-picand
 
+yorkshire-and-the-humber:
+  - name: Trevor Howard
+    id: trevor-howard
+  - name: Mary Jackson
+    id: mary-jackson
+  - name: Carrie Hedderwick
+    id: carrie-hedderwick
+  - name: Adrian O'Malley
+    id: adrian-omalley
+  - name: Steven Andrew
+    id: steven-andrew
+  - name: Iain Dalton
+    id: iain-dalton
+

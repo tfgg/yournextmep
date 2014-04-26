@@ -165,6 +165,11 @@ jennifer-matthys:
   name: 'Jennifer Matthys'
 
 
+joanne-brown:
+  id: joanne-brown
+  name: 'Joanne Brown'
+
+
 john-clarke:
   id: john-clarke
   name: 'John Clarke'
@@ -363,6 +368,16 @@ stephen-squire:
 steve-brammer:
   id: steve-brammer
   name: 'Steve Brammer'
+
+
+steven-harrison:
+  id: steven-harrison
+  name: 'Steven Harrison'
+
+
+stuart-henshaw:
+  id: stuart-henshaw
+  name: 'Stuart Henshaw'
 
 
 victoria-mckenzie:
