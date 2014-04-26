@@ -404,7 +404,7 @@ katharina-boettge:
   links:
     - note: 'Twitter account'
       url: https://twitter.com/KatBoettge
-  name: 'Katharina Boettge'
+  name: 'Kat Boettge'
   summary: 'Lead candidate for the East Midlands Green Party Euro election 2014'
 
 
@@ -445,6 +445,11 @@ kevin-warnes:
 laura-bannister:
   id: laura-bannister
   name: 'Laura Bannister'
+
+
+laura-vesty:
+  id: laura-vesty
+  name: 'Laura Vesty'
 
 
 lewis-coyne:
@@ -633,7 +638,7 @@ robert-lindsay:
 
 roz-cutler:
   id: roz-cutler
-  name: 'Roz Cutler'
+  name: 'Rozz Cutler'
 
 
 rupert-read:

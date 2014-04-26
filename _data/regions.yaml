@@ -161,6 +161,8 @@ west-midlands:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/West_Midlands_(European_Parliament_constituency)
+    - note: Statement of Parties and Individual Candidates Nominated
+      url: http://yournextmep.com/files/nominations/west-midlands.pdf
   name: 'West Midlands'
   wikipedia_biography: 'West Midlands is a constituency of the European Parliament.
     It currently elects seven MEPs using the d''Hondt method of party-list proportional
@@ -175,6 +177,8 @@ yorkshire-and-the-humber:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)
+    - note: Statement of Parties and Individual Candidates Nominated
+      url: http://yournextmep.com/files/nominations/yorkshire-and-the-humber.pdf
   name: 'Yorkshire and the Humber'
   wikipedia_biography: 'Yorkshire and the Humber is a constituency of the European
     Parliament. It currently elects six MEPs using the d''Hondt method of party-list

@@ -117,18 +117,18 @@ south-west:
 west-midlands:
   - id: derek-hilling
     name: 'Derek Hilling'
-  - id: david-lane
-    name: David Lane
-  - id: fred-bishop
-    name: Fred Bishop
-  - id: steve-paxton
-    name: Steve Paxton
   - id: chris-newey
     name: Chris Newey
+  - id: steve-paxton
+    name: Steve Paxton
   - id: charles-hayward
     name: Charles Hayward
   - id: margaret-stoll
     name: Margaret Stoll
+  - id: david-lane
+    name: David Lane
+  - id: fred-bishop
+    name: Fred Bishop
 
 
 yorkshire-and-the-humber:

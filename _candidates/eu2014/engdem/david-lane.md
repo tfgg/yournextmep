@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/engdem/david-lane/
 categories: candidate engdem
 election: eu2014
-list-rank: 2
-list-rank-ordinal: 2nd
+list-rank: 6
+list-rank-ordinal: 6th
 person: david-lane
 region: west-midlands
 party: engdem

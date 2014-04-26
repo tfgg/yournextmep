@@ -18,6 +18,11 @@ betty-wiffen:
   name: 'Betty Wiffen'
 
 
+carl-humphries:
+  id: carl-humphries
+  name: 'Carl Humphries'
+
+
 carl-mason:
   id: carl-mason
   name: 'Carl Mason'
@@ -48,6 +53,11 @@ dorothy-sheath:
   name: 'Dorothy Sheath'
 
 
+douglas-ingram:
+  id: douglas-ingram
+  name: 'Douglas Ingram'
+
+
 eddie-yeoman:
   id: eddie-yeoman
   name: 'Eddie Yeoman'
@@ -71,6 +81,11 @@ fred-atkins:
 gareth-griffiths:
   id: gareth-griffiths
   name: 'Gareth Griffiths'
+
+
+george-forrest:
+  id: george-forrest
+  name: 'George Forrest'
 
 
 gill-kearney:
@@ -113,6 +128,11 @@ john-taverner:
   name: 'John Taverner'
 
 
+joshna-pattni:
+  id: joshna-pattni
+  name: 'Joshna Pattni'
+
+
 joyce-nattrass:
   id: joyce-nattrass
   name: 'Joyce Nattrass'
@@ -153,6 +173,11 @@ mark-henry:
   name: 'Mark Henry'
 
 
+mark-nattrass:
+  id: mark-nattrass
+  name: 'Mark nattrass'
+
+
 marlene-daniel:
   id: marlene-daniel
   name: 'Marlene Daniel'
@@ -173,6 +198,11 @@ mike-camp:
   name: 'Mike Camp'
 
 
+mike-nattrass:
+  id: mike-nattrass
+  name: 'Mike Nattrass'
+
+
 munpreet-bhathal:
   id: munpreet-bhathal
   name: 'Munpreet Bhathal'
@@ -186,6 +216,11 @@ nawal-hizan:
 patrick-burns:
   id: patrick-burns
   name: 'Patrick Burns'
+
+
+paul-alders:
+  id: paul-alders
+  name: 'Paul Alders'
 
 
 paul-godfrey:

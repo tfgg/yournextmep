@@ -94,6 +94,11 @@ ashley-fox:
     Reformists (ECR) political group.'
 
 
+avern-alex:
+  id: avern-alex
+  name: 'Avern Alex'
+
+
 belinda-don:
   id: belinda-don
   links:
@@ -435,7 +440,7 @@ joe-barker:
       url: http://www.jobarker.co.uk/
     - note: 'Twitter account'
       url: https://twitter.com/JMVBarker
-  name: 'Joe Barker'
+  name: 'Joe Barker-Willis'
   summary:
 
 
@@ -482,7 +487,7 @@ julie-girling:
   name: 'Julie Girling'
   summary: 'MEP for South West England and Gibraltar. More info on my website: http://t.co/HsEqEeHq0o
 
-    
+
 
     (From time to time tweets may be updated by my staff)'
   wikipedia_biography: 'Julie Girling MEP is a British Conservative politician, currently
@@ -762,9 +767,9 @@ sajjad-karim:
     - note: 'Twitter account'
       url: https://twitter.com/SHKMEP
   name: 'Sajjad Karim'
-  summary: 'Conservative MEP for North West England. 
+  summary: 'Conservative MEP for North West England.
 
-    A dynamic and diverse region, vital to Great Britain and the EU. 
+    A dynamic and diverse region, vital to Great Britain and the EU.
 
     Legal Affairs Spokesman.'
   wikipedia_biography: 'Sajjad Haider Karim also known as Saj (born 11 July 1970)
@@ -826,7 +831,7 @@ stuart-mcintyre:
       url: https://twitter.com/stuartgmcintyre
     - note: Website
       url: http://agtot.com/
-  name: 'Stuart Mcintyre'
+  name: 'Stuart McIntyre'
   summary: 'Views my own. Retweets (obviously) are not endorsements.'
 
 

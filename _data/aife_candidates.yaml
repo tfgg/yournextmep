@@ -110,3 +110,19 @@ north-west:
   - name: Jill Stockdale
     id: jill-stockdale
 
+west-midlands:
+  - name: Mike Nattrass
+    id: mike-nattrass
+  - name: Mark nattrass
+    id: mark-nattrass
+  - name: Joshna Pattni
+    id: joshna-pattni
+  - name: Carl Humphries
+    id: carl-humphries
+  - name: George Forrest
+    id: george-forrest
+  - name: Douglas Ingram
+    id: douglas-ingram
+  - name: Paul Alders
+    id: paul-alders
+

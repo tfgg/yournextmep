@@ -113,14 +113,14 @@ west-midlands:
     name: 'Aldo Mussi'
   - id: vicky-duckworth
     name: 'Vicky Duckworth'
-  - id: saffi-price
-    name: 'Saffi Price'
   - id: tom-harris
     name: 'Tom Harris'
-  - id: duncan-kerr
-    name: 'Duncan Kerr'
   - id: karl-macnaughton
     name: 'Karl Macnaughton'
+  - id: duncan-kerr
+    name: 'Duncan Kerr'
+  - id: laura-vesty
+    name: 'Laura Vesty'
 
 
 yorkshire-and-the-humber:

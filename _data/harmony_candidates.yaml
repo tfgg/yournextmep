@@ -12,3 +12,7 @@ east-midlands:
   - name: Steve Ward
     id: steve-ward
 
+west-midlands:
+  - name: Reg Mahrra
+    id: reg-mahrra
+

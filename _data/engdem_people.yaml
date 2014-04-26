@@ -191,7 +191,7 @@ jeremy-moreton-moss:
 
 john-dowell:
   id: john-dowell
-  name: 'John Dowell'
+  name: 'John Dowle'
 
 
 john-lewis:
@@ -225,7 +225,7 @@ kevin-riddiough:
     - note: 'Twitter account'
       url: https://twitter.com/kev927riddy
   name: 'Kevin Riddiough'
-  summary: 'English Democrat. Prospective North East candidate. 
+  summary: 'English Democrat. Prospective North East candidate.
 
     RT''s are not an endorsement.'
 
@@ -415,6 +415,11 @@ steve-uncles:
   name: 'Steve Uncles'
   summary: 'South East England Region.....  English Democrats Prospective Lead Candidate
     for the 2014 Elections.................. (from Dartford, KENT)'
+
+
+terry-spencer:
+  id: terry-spencer
+  name: 'Terry Spencer'
 
 
 tom-redmond:

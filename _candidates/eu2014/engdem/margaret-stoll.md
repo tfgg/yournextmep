@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/engdem/margaret-stoll/
 categories: candidate engdem
 election: eu2014
-list-rank: 7
-list-rank-ordinal: 7th
+list-rank: 5
+list-rank-ordinal: 5th
 person: margaret-stoll
 region: west-midlands
 party: engdem

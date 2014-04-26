@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/engdem/fred-bishop/
 categories: candidate engdem
 election: eu2014
-list-rank: 3
-list-rank-ordinal: 3rd
+list-rank: 7
+list-rank-ordinal: 7th
 person: fred-bishop
 region: west-midlands
 party: engdem

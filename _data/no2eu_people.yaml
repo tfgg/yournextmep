@@ -3,6 +3,16 @@ alexander-gordon:
   name: 'Alexander Gordon'
 
 
+amanda-marfleet:
+  id: amanda-marfleet
+  name: 'Amanda Marfleet'
+
+
+andrew-chaffer:
+  id: andrew-chaffer
+  name: 'Andrew Chaffer'
+
+
 andrew-elliott:
   id: andrew-elliott
   name: 'Andrew Elliott'
@@ -95,6 +105,11 @@ james-healy:
   name: 'James Healy'
 
 
+joanne-stevenson:
+  id: joanne-stevenson
+  name: 'Joanne Stevenson'
+
+
 john-foster:
   id: john-foster
   name: 'John Foster'
@@ -145,6 +160,16 @@ natasha-hoarau:
   name: 'Natasha Hoarau'
 
 
+pat-collins:
+  id: pat-collins
+  name: 'Pat Collins'
+
+
+paul-reilly:
+  id: paul-reilly
+  name: 'Paul Reilly'
+
+
 paula-mitchell:
   id: paula-mitchell
   name: 'Paula Mitchell'
@@ -163,6 +188,11 @@ robert-griffiths:
 roger-bannister:
   id: roger-bannister
   name: 'Roger Bannister'
+
+
+sophia-hussain:
+  id: sophia-hussain
+  name: 'Sophia Hussain'
 
 
 stephen-glennon:

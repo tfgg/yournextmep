@@ -194,10 +194,10 @@ west-midlands:
     name: 'Michael Burnett'
   - id: sibby-buckle
     name: 'Sibby Buckle'
-  - id: david-price
-    name: 'David Price'
   - id: dan-sames
     name: 'Dan Sames'
+  - id: avern-alex
+    name: 'Avern Alex'
 
 
 yorkshire-and-the-humber:

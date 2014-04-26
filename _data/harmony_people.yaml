@@ -8,6 +8,11 @@ raymond-crick:
   name: 'Raymond Crick'
 
 
+reg-mahrra:
+  id: reg-mahrra
+  name: 'Reg Mahrra'
+
+
 steve-ward:
   id: steve-ward
   name: 'Steve Ward'

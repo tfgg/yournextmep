@@ -1,6 +1,19 @@
 west-midlands:
   - id: dave-nellist
     name: Dave Nellist
+  - id: pat-collins
+    name: Pat Collins
+  - id: joanne-stevenson
+    name: Joanne Stevenson
+  - id: sophia-hussain
+    name: Sophia Hussain
+  - id: paul-reilly
+    name: Paul Reilly
+  - id: andrew-chaffer
+    name: Andrew Chaffer
+  - id: amanda-marfleet
+    name: Amanda Marfleet
+
 
 london:
   - name: Edward Dempsey
