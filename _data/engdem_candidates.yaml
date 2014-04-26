@@ -3,12 +3,12 @@ east-midlands:
     name: 'Kevin Sills'
   - id: dave-wickham
     name: 'Dave Wickham'
+  - id: john-dowell
+    name: John Dowle
   - id: oliver-healey
     name: Oliver Healey
-  - id: john-dowell
-    name: John Dowell
-  - id: david-haslett
-    name: David Haslett
+  - id: terry-spencer
+    name: Terry Spencer
 
 
 eastern:

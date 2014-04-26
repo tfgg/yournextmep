@@ -80,3 +80,15 @@ eastern:
   - name: Betty Wiffen
     id: betty-wiffen
 
+east-midlands:
+  - name: Chris Pain
+    id: chris-pain
+  - name: Val Pain
+    id: val-pain
+  - name: Alan Jesson
+    id: alan-jesson
+  - name: John Beaver
+    id: john-beaver
+  - name: Carl Mason
+    id: carl-mason
+

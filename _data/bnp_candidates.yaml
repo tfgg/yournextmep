@@ -24,8 +24,10 @@ east-midlands:
     name: 'Robert West'
   - id: bob-brindley
     name: 'Bob Brindley'
-  - id: steve-brammer
-    name: 'Steve Brammer'
+  - id: geoffrey-dickens
+    name: Geoffrey Dickens
+  - id: paul-hilliard
+    name: Paul Hilliard
 
 
 eastern:

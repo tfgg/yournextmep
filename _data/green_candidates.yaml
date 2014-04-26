@@ -1,12 +1,12 @@
 east-midlands:
   - id: katharina-boettge
-    name: 'Katharina Boettge'
+    name: 'Kat Boettge'
   - id: sue-mallender
     name: 'Sue Mallender'
-  - id: peter-allen
-    name: 'Peter Allen'
   - id: richard-mallender
     name: 'Richard Mallender'
+  - id: peter-allen
+    name: 'Peter Allen'
   - id: simon-hales
     name: 'Simon Hales'
 

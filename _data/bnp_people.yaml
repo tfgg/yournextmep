@@ -95,6 +95,11 @@ gavin-miller:
   name: 'Gavin Miller'
 
 
+geoffrey-dickens:
+  id: geoffrey-dickens
+  name: 'Geoffrey Dickens'
+
+
 giuseppe-de-santis:
   id: giuseppe-de-santis
   name: 'Giuseppe De Santis'
@@ -205,6 +210,11 @@ nick-griffin:
     at Woodbridge School in Suffolk. He joined the National Front at the age of fourteen
     and became a political worker for the party following his graduation from the
     University of Cambridge.'
+
+
+paul-hilliard:
+  id: paul-hilliard
+  name: 'Paul Hilliard'
 
 
 paul-hooks:

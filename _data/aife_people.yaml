@@ -1,3 +1,8 @@
+alan-jesson:
+  id: alan-jesson
+  name: 'Alan Jesson'
+
+
 alan-sheath:
   id: alan-sheath
   name: 'Alan Sheath'
@@ -11,6 +16,16 @@ andrew-edwards:
 betty-wiffen:
   id: betty-wiffen
   name: 'Betty Wiffen'
+
+
+carl-mason:
+  id: carl-mason
+  name: 'Carl Mason'
+
+
+chris-pain:
+  id: chris-pain
+  name: 'Chris Pain'
 
 
 christopher-booth:
@@ -61,6 +76,11 @@ helen-webster:
 jean-atkins:
   id: jean-atkins
   name: 'Jean Atkins'
+
+
+john-beaver:
+  id: john-beaver
+  name: 'John Beaver'
 
 
 john-taverner:
@@ -171,3 +191,8 @@ sharon-greenfield:
 sherri-forbes:
   id: sherri-forbes
   name: 'Sherri Forbes'
+
+
+val-pain:
+  id: val-pain
+  name: 'Val Pain'
