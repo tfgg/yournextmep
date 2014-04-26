@@ -8,9 +8,24 @@ bridget-oyekan:
   name: 'Bridget Oyekan'
 
 
+carl-clark:
+  id: carl-clark
+  name: 'Carl Clark'
+
+
 chikka-roja:
   id: chikka-roja
   name: 'Chikka Roja'
+
+
+chirs-olley:
+  id: chirs-olley
+  name: 'Chris Olley'
+
+
+chris-olley:
+  id: chris-olley
+  name: 'Chris Olley'
 
 
 dorothy-mugara:
@@ -28,9 +43,19 @@ flora-amar:
   name: 'Flora Amar'
 
 
+jane-clamp:
+  id: jane-clamp
+  name: 'Jane Clamp'
+
+
 kayode-shedowo:
   id: kayode-shedowo
   name: 'Kayode Shedowo'
+
+
+kevin-austin:
+  id: kevin-austin
+  name: 'Kevin Austin'
 
 
 kevin-nichols:
@@ -38,9 +63,19 @@ kevin-nichols:
   name: 'Kevin Nichols'
 
 
+kirsty-evans:
+  id: kirsty-evans
+  name: 'Kirsty Evans'
+
+
 laurence-williams:
   id: laurence-williams
   name: 'Laurence Williams'
+
+
+mark-clamp:
+  id: mark-clamp
+  name: 'Mark Clamp'
 
 
 nnenna-st-luce:
@@ -71,6 +106,11 @@ sid-cordle:
 stephen-hammond:
   id: stephen-hammond
   name: 'Stephen Hammond'
+
+
+stephen-todd:
+  id: stephen-todd
+  name: 'Stephen Todd'
 
 
 suzanne-fernandes:

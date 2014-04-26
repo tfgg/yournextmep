@@ -3,8 +3,8 @@ layout: candidate
 permalink: candidates/eu2014/bnp/lady-dorothy-brooke/
 categories: candidate bnp
 election: eu2014
-list-rank: 1
-list-rank-ordinal: 1st
+list-rank: 2
+list-rank-ordinal: 2nd
 person: lady-dorothy-brooke
 region: north-east
 party: bnp

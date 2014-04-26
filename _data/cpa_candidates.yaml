@@ -36,3 +36,19 @@ south-east:
   - name: Chikka Roja
     id: chikka-roja
 
+eastern:
+  - name: Carl Clark
+    id: carl-clark
+  - name: Mark Clamp
+    id: mark-clamp
+  - name: Chris Olley
+    id: chris-olley
+  - name: Stephen Todd
+    id: stephen-todd
+  - name: Jane Clamp
+    id: jane-clamp
+  - name: Kirsty Evans
+    id: kirsty-evans
+  - name: Kevin Austin
+    id: kevin-austin
+

@@ -50,6 +50,11 @@ cathy-duffy:
   name: 'Cathy Duffy'
 
 
+christopher-livingstone:
+  id: christopher-livingstone
+  name: 'Christopher Livingstone'
+
+
 cliff-jones:
   id: cliff-jones
   name: 'Cliff Jones'
@@ -148,6 +153,11 @@ mark-badrick:
   name: 'Mark Badrick'
 
 
+mark-burmby:
+  id: mark-burmby
+  name: 'Mark Burmby'
+
+
 mark-jones:
   id: mark-jones
   name: 'Mark Jones'
@@ -161,6 +171,11 @@ marlene-guest:
 martin-vaughan:
   id: martin-vaughan
   name: 'Martin Vaughan'
+
+
+michael-braun:
+  id: michael-braun
+  name: 'Michael Braun'
 
 
 michael-coleman:
@@ -192,6 +207,11 @@ nick-griffin:
     University of Cambridge.'
 
 
+paul-hooks:
+  id: paul-hooks
+  name: 'Paul Hooks'
+
+
 paul-sturdy:
   id: paul-sturdy
   name: 'Paul Sturdy'
@@ -205,6 +225,11 @@ peter-foreman:
 phil-kimberley:
   id: phil-kimberley
   name: 'Phil Kimberley'
+
+
+philip-howell:
+  id: philip-howell
+  name: 'Philip Howell'
 
 
 ray-underwood:
@@ -233,6 +258,11 @@ simon-patten:
     - note: 'Facebook page'
       url: https://www.facebook.com/simon.patten.58
   name: 'Simon Patten'
+
+
+stephen-smith:
+  id: stephen-smith
+  name: 'Stephen Smith'
 
 
 stephen-squire:

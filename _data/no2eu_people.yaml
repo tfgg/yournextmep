@@ -13,6 +13,11 @@ april-ashley:
   name: 'April Ashley'
 
 
+brian-denny:
+  id: brian-denny
+  name: 'Brian Denny'
+
+
 dave-nellist:
   id: dave-nellist
   image: /images/twitter/davenellist.jpg
@@ -30,9 +35,29 @@ dave-nellist:
     in Coventry.'
 
 
+david-goode:
+  id: david-goode
+  name: 'David Goode'
+
+
 edward-dempsey:
   id: edward-dempsey
   name: 'Edward Dempsey'
+
+
+eleanor-donne:
+  id: eleanor-donne
+  name: 'Eleanor Donne'
+
+
+emily-thompson-golding:
+  id: emily-thompson-golding
+  name: 'Emily Thompson-Golding'
+
+
+leonardo-impett:
+  id: leonardo-impett
+  name: 'Leonardo Impett'
 
 
 mary-davis:
@@ -53,3 +78,13 @@ natasha-hoarau:
 paula-mitchell:
   id: paula-mitchell
   name: 'Paula Mitchell'
+
+
+stephen-glennon:
+  id: stephen-glennon
+  name: 'Stephen Glennon'
+
+
+teresa-mackay:
+  id: teresa-mackay
+  name: 'Teresa Mackay'

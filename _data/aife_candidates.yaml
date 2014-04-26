@@ -64,3 +64,19 @@ south-east:
   - name: Dorothy Sheath
     id: dorothy-sheath
 
+eastern:
+  - name: Paul Wiffen
+    id: paul-wiffen
+  - name: Karl Davies
+    id: karl-davies
+  - name: Raymond Spalding
+    id: raymond-spalding
+  - name: Edmond Rosenthal
+    id: edmond-rosenthal
+  - name: Rupert Smith
+    id: rupert-smith
+  - name: Dennis Wiffen
+    id: dennis-wiffen
+  - name: Betty Wiffen
+    id: betty-wiffen
+

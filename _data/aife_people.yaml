@@ -8,6 +8,11 @@ andrew-edwards:
   name: 'Andrew Edwards'
 
 
+betty-wiffen:
+  id: betty-wiffen
+  name: 'Betty Wiffen'
+
+
 christopher-booth:
   id: christopher-booth
   name: 'Christopher Booth'
@@ -18,6 +23,11 @@ david-smith:
   name: 'David Smith'
 
 
+dennis-wiffen:
+  id: dennis-wiffen
+  name: 'Dennis Wiffen'
+
+
 dorothy-sheath:
   id: dorothy-sheath
   name: 'Dorothy Sheath'
@@ -26,6 +36,11 @@ dorothy-sheath:
 eddie-yeoman:
   id: eddie-yeoman
   name: 'Eddie Yeoman'
+
+
+edmond-rosenthal:
+  id: edmond-rosenthal
+  name: 'Edmond Rosenthal'
 
 
 fred-atkins:
@@ -56,6 +71,11 @@ john-taverner:
 joyce-nattrass:
   id: joyce-nattrass
   name: 'Joyce Nattrass'
+
+
+karl-davies:
+  id: karl-davies
+  name: 'Karl Davies'
 
 
 keith-vernon:
@@ -118,9 +138,24 @@ paul-godfrey:
   name: 'Paul Godfrey'
 
 
+paul-wiffen:
+  id: paul-wiffen
+  name: 'Paul Wiffen'
+
+
 phil-dunn:
   id: phil-dunn
   name: 'Phil Dunn'
+
+
+raymond-spalding:
+  id: raymond-spalding
+  name: 'Raymond Spalding'
+
+
+rupert-smith:
+  id: rupert-smith
+  name: 'Rupert Smith'
 
 
 seana-connolly:

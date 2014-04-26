@@ -31,6 +31,18 @@ east-midlands:
 eastern:
   - id: richard-perry
     name: 'Richard Perry'
+  - id: christopher-livingstone
+    name: Christopher Livingstone
+  - id: mark-burmby
+    name: Mark Burmby
+  - id: paul-hooks
+    name: Paul Hooks
+  - id: stephen-smith
+    name: Stephen Smith
+  - id: philip-howell
+    name: Philip Howell
+  - id: michael-braun
+    name: Michael Braun
 
 
 north-east:

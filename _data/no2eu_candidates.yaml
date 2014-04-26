@@ -20,3 +20,19 @@ london:
   - name: Michael Carty
     id: michael-carty
 
+eastern:
+  - name: Brian Denny
+    id: brian-denny
+  - name: Eleanor Donne
+    id: eleanor-donne
+  - name: Stephen Glennon
+    id: stephen-glennon
+  - name: David Goode
+    id: david-goode
+  - name: Leonardo Impett
+    id: leonardo-impett
+  - name: Teresa Mackay
+    id: teresa-mackay
+  - name: Emily Thompson-Golding
+    id: emily-thompson-golding
+
