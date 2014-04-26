@@ -34,12 +34,12 @@ eastern:
 
 
 north-east:
+  - id: martin-vaughan
+    name: 'Martin Vaughan'
   - id: lady-dorothy-brooke
     name: 'Lady Dorothy Brooke'
   - id: peter-foreman
     name: 'Peter Foreman'
-  - id: martin-vaughan
-    name: 'Martin Vaughan'
 
 
 north-west:

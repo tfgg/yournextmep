@@ -83,6 +83,11 @@ marlene-daniel:
   name: 'Marlene Daniel'
 
 
+mary-forbes:
+  id: mary-forbes
+  name: 'Mary Forbes'
+
+
 michaelina-argy:
   id: michaelina-argy
   name: 'Michaelina Argy'
@@ -96,6 +101,11 @@ mike-camp:
 munpreet-bhathal:
   id: munpreet-bhathal
   name: 'Munpreet Bhathal'
+
+
+nawal-hizan:
+  id: nawal-hizan
+  name: 'Nawal Hizan'
 
 
 patrick-burns:
@@ -121,3 +131,8 @@ seana-connolly:
 sharon-greenfield:
   id: sharon-greenfield
   name: 'Sharon Greenfield'
+
+
+sherri-forbes:
+  id: sherri-forbes
+  name: 'Sherri Forbes'

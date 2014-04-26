@@ -1,3 +1,11 @@
+north-east:
+  - id: sherri-forbes
+    name: Sherri Forbes
+  - id: nawal-hizan
+    name: Nawal Hizan
+  - id: mary-forbes
+    name: Mary Forbes
+
 yorkshire-and-the-humber:
   - id: christopher-booth
     name: Christopher Booth
