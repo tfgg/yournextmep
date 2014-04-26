@@ -65,6 +65,8 @@ north-west:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/North_West_England_(European_Parliament_constituency)
+    - note: "Statement of parties and individual candidates nominated"
+      url: http://yournextmep.com/files/nominations/north-west.pdf
   name: 'North West'
   wikipedia_biography: 'North West England is a constituency of the European Parliament.
     It currently elects eight MEPs using the d''Hondt method of party-list
@@ -79,6 +81,8 @@ northern-ireland:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Northern_Ireland_(European_Parliament_constituency)
+    - note: "Statement of parties and individual candidates nominated"
+      url: http://yournextmep.com/files/nominations/northern-ireland.pdf
   name: 'Northern Ireland'
   wikipedia_biography: 'Northern Ireland is a constituency of the European Parliament.
     It currently elects three MEPs using the Single Transferable Vote, the only United
