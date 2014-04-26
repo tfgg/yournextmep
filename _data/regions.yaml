@@ -101,6 +101,8 @@ south-east:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
+    - note: Statement of Parties and Individual Candidates Nominated
+      url: http://yournextmep.com/files/nominations/south-east.pdf
   name: 'South East'
   wikipedia_biography: 'South East England is a constituency of the European Parliament.
     It currently elects ten Members of the European Parliament (MEPs) using the D''Hondt
