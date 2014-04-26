@@ -3,6 +3,8 @@ east-midlands:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/East_Midlands_(European_Parliament_constituency)
+    - note: "Statement of parties and individual candidates nominated"
+      url: http://yournextmep.com/files/nominations/east-midlands.pdf
   name: 'East Midlands'
   wikipedia_biography: 'East Midlands is a constituency of the European Parliament.
     It currently elects five MEPs using the d''Hondt method of party-list proportional
