@@ -13,6 +13,8 @@ aife:
 alliance:
   classification: Party
   id: alliance
+  image: /images/wikipedia/alliance.png
+  image_source: http://en.wikipedia.org/wiki/File:Alliance_Party_of_Northern_Ireland_logo.svg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Alliance_Party_of_Northern_Ireland
@@ -29,15 +31,15 @@ alliance:
 
 animal-welfare:
   id: animal-welfare
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Animal_Welfare_Party
+    - note: Website
+      url: http://www.animalwelfareparty.org/
+    - note: 'Twitter account'
+      url: https://twitter.com/AnimalsCount
   name: 'Animal Welfare Party'
   name_article: 'the Animal Welfare Party'
-  links:
-    - url: https://en.wikipedia.org/wiki/Animal_Welfare_Party
-      note: Wikipedia article
-    - url: http://www.animalwelfareparty.org/
-      note: Website
-    - url: https://twitter.com/AnimalsCount
-      note: Twitter account
 
 
 aspire:
@@ -50,6 +52,8 @@ bnp:
   classification: Party
   founding_date: 1982-1-1
   id: bnp
+  image: /images/wikipedia/bnp.png
+  image_source: http://en.wikipedia.org/wiki/File:British_National_Party.svg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/British_National_Party
@@ -73,6 +77,8 @@ conservative:
   classification: Party
   founding_date: 1834-1-1
   id: conservative
+  image: /images/wikipedia/conservative.png
+  image_source: http://en.wikipedia.org/wiki/File:Conservative_logo_2006.svg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Conservative_Party_(UK)
@@ -104,6 +110,8 @@ dup:
   classification: Party
   founding_date: 1971-9-30
   id: dup
+  image: /images/wikipedia/dup.png
+  image_source: http://en.wikipedia.org/wiki/File:Duporguklogo(col).png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Democratic_Unionist_Party
@@ -122,6 +130,8 @@ engdem:
   classification: Party
   founding_date: 2002-1-1
   id: engdem
+  image: /images/wikipedia/engdem.png
+  image_source: http://en.wikipedia.org/wiki/File:English_Democrats_Logo.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/English_Democrats_Party
@@ -139,6 +149,8 @@ green:
   classification: Party
   founding_date: 1990-1-1
   id: green
+  image: /images/wikipedia/green.png
+  image_source: http://en.wikipedia.org/wiki/File:Green_Party_of_England_and_Wales_logo.svg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
@@ -157,6 +169,8 @@ green-ni:
   classification: Party
   founding_date: 1983-1-1
   id: green-ni
+  image: /images/wikipedia/green-ni.png
+  image_source: http://en.wikipedia.org/wiki/File:Green-party-northern-ireland.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Green_Party_of_Northern_Ireland
@@ -168,6 +182,8 @@ green-scotland:
   classification: Party
   founding_date: 1990-1-1
   id: green-scotland
+  image: /images/wikipedia/green-scotland.jpg
+  image_source: http://en.wikipedia.org/wiki/File:The_Scottish_Greens_Logo.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Scottish_Green_Party
@@ -191,6 +207,8 @@ labour:
   classification: Party
   founding_date: 1900-1-1
   id: labour
+  image: /images/wikipedia/labour.png
+  image_source: http://en.wikipedia.org/wiki/File:Logo_Labour_Party.svg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Labour_Party_(UK)
@@ -208,6 +226,8 @@ libdem:
   classification: Party
   founding_date: 1988-3-3
   id: libdem
+  image: /images/wikipedia/libdem.png
+  image_source: http://en.wikipedia.org/wiki/File:Liberal_Democrats_logo_2014.svg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Liberal_Democrats_(UK)
@@ -231,6 +251,8 @@ liberty:
 national-health-action:
   classification: Party
   id: national-health-action
+  image: /images/wikipedia/national-health-action.jpg
+  image_source: http://en.wikipedia.org/wiki/File:NHA_Party_logo.jpeg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/National_Health_Action_Party
@@ -248,6 +270,8 @@ ni21:
   classification: Party
   founding_date: 2013-06-06
   id: ni21
+  image: /images/wikipedia/ni21.png
+  image_source: http://en.wikipedia.org/wiki/File:NI21_Political_Party_Logo.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/NI21
@@ -267,6 +291,8 @@ no2eu:
   classification: Party
   founding_date: 2009-03-19
   id: no2eu
+  image: /images/wikipedia/no2eu.png
+  image_source: http://en.wikipedia.org/wiki/File:Logo_of_No2EU.png
   links:
     - note: Wikipedia
       url: https://en.wikipedia.org/wiki/No_to_the_EU_%E2%80%93_Yes_to_Democracy
@@ -286,6 +312,8 @@ plaid-cymru:
   classification: Party
   founding_date: 1925-8-5
   id: plaid-cymru
+  image: /images/wikipedia/plaid-cymru.png
+  image_source: http://en.wikipedia.org/wiki/File:Plaid_Cymru_Logo.New.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Plaid_Cymru
@@ -303,9 +331,13 @@ ppuk:
   classification: Party
   founding_date: 2009-07-30
   id: ppuk
+  image: /images/wikipedia/ppuk.png
+  image_source: http://en.wikipedia.org/wiki/File:Official_Logo_PPUK.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Pirate_Party_UK
+    - note: Website
+      url: http://www.pirateparty.org.uk/
   name: 'Pirate Party UK'
   name_article: 'the Pirate Party (UK)'
   wikipedia_biography: 'The Pirate Party UK (often abbreviated PPUK; in Welsh: Plaid
@@ -324,6 +356,8 @@ roman:
 sdlp:
   classification: Party
   id: sdlp
+  image: /images/wikipedia/sdlp.png
+  image_source: http://en.wikipedia.org/wiki/File:Social_Democratic_and_Labour_Party.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Social_Democratic_and_Labour_Party
@@ -341,6 +375,8 @@ sep:
   classification: Party
   founding_date: 1986
   id: sep
+  image: /images/wikipedia/sep.png
+  image_source: http://en.wikipedia.org/wiki/File:Sep_logo.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Socialist_Equality_Party_(UK)
@@ -358,6 +394,8 @@ sep:
 sinn-fein:
   classification: Party
   id: sinn-fein
+  image: /images/wikipedia/sinn-fein.png
+  image_source: http://en.wikipedia.org/wiki/File:Sinn_F%C3%A9in_logo.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
@@ -374,6 +412,8 @@ sinn-fein:
 snp:
   classification: Party
   id: snp
+  image: /images/wikipedia/snp.png
+  image_source: http://en.wikipedia.org/wiki/File:Scottish_National_Party_logo.svg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Scottish_National_Party
@@ -391,6 +431,8 @@ socialist-labour:
   classification: Party
   founding_date: 1996
   id: socialist-labour
+  image: /images/wikipedia/socialist-labour.png
+  image_source: http://en.wikipedia.org/wiki/File:Socialist_Labour_Party_3.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Socialist_Labour_Party_(UK)
@@ -410,6 +452,8 @@ spgb:
   classification: Party
   founding_date: 1904
   id: spgb
+  image: /images/wikipedia/spgb.png
+  image_source: http://en.wikipedia.org/wiki/File:Spgb-small-logo.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Socialist_Party_of_Great_Britain
@@ -427,6 +471,8 @@ tuv:
   classification: Party
   founding_date: 2007-12-7
   id: tuv
+  image: /images/wikipedia/tuv.png
+  image_source: http://en.wikipedia.org/wiki/File:Traditionalunionistvoicelogo.PNG
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Traditional_Unionist_Voice
@@ -444,6 +490,8 @@ ukip:
   classification: Party
   founding_date: 1993-9-3
   id: ukip
+  image: /images/wikipedia/ukip.png
+  image_source: http://en.wikipedia.org/wiki/File:UKIP_logo.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/UK_Independence_Party
@@ -462,6 +510,8 @@ uup:
   classification: Party
   founding_date: 1905-1-1
   id: uup
+  image: /images/wikipedia/uup.jpg
+  image_source: http://en.wikipedia.org/wiki/File:Uuplogo.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Ulster_Unionist_Party
@@ -479,6 +529,8 @@ wdar:
   classification: Party
   founding_date: 2012-1-1
   id: wdar
+  image: /images/wikipedia/wdar.jpg
+  image_source: http://en.wikipedia.org/wiki/File:We_Demand_A_Referendum_Logo.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/We_Demand_a_Referendum

@@ -54,6 +54,12 @@ div.front-panel div.regions a {
   margin:0.25em;
 }
 
+/* Party pages */
+img.party-profile-image {
+  width:100%;
+  margin:0.2em;
+}
+
 /* Candidate pages */
 img.profile-image {
   width:100%;

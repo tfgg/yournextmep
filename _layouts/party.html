@@ -7,7 +7,12 @@ layout: default
 
 <div class='row'>
   <div class='col-md-2'>
+    {% if party.image %}
+    <img src='{{ party.image }}' class='party-profile-image'/>
+    {% else %}
+    <!--<img src='/images/unknown_man.jpg' class='profile-image'/>-->
     LOGO
+    {% endif %}
   </div>
   <div class='col-md-8'>
     <h2>{{ party.name }}</h2>
