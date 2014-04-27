@@ -87,6 +87,41 @@ layout: default
       </div>
     </div>
     {% endif %}
+
+    <div class='row'>
+      <div class='col-md-12'>
+          {% assign candidates_party = party.id | append: '_candidates' %}
+          {% assign people_party = party.id | append: '_people' %}
+
+          {% assign candidates = site.data[candidates_party][region.id] %}
+          {% assign people = site.data[people_party] %}
+
+          {% if candidates %}
+          <div class='row'>
+            <div class='col-md-12'>
+            <h3>{{ party.name }} candidates in {{ region.name }}</h3> 
+
+            <ol class='candidates'>
+            {% for candidate in candidates %}
+              {% assign person=people[candidate.id] %}
+              <li class='{% if candidate.incumbent %}candidate-incumbent{% endif %}'>
+                <a href='/candidates/eu2014/{{ party.id }}/{{ person.id}}/' alt='{{ person.name }}'>
+                {% if person.image %}
+                <img src='/cropped{{ person.image }}' class='profile-image'/>
+                {% else %}
+                <img src='/images/unknown_man.jpg' class='profile-image'/>
+                {% endif %}</a><br/>
+                {% if candidate.incumbent %}<u>{% endif %}
+                <a href='/candidates/eu2014/{{ party.id }}/{{ person.id}}/'>{{ forloop.index }}. {{ person.name }}</a>
+                {% if candidate.incumbent %}</u>{% endif %}
+              </li>
+            {% endfor %}
+            </ol>
+            </div>
+          </div>
+          {% endif %}
+      </div>
+    </div>
   </div>
 </div>
 
