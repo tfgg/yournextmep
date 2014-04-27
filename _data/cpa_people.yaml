@@ -70,7 +70,13 @@ kirsty-evans:
 
 laurence-williams:
   id: laurence-williams
+  image: /images/twitter/Bluebirds002.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/Bluebirds002
   name: 'Laurence Williams'
+  summary: 'Ex GPO & BT Buildings Engineer [Power] of 30 years.Now working at St.Thomas''
+    Hospital, London as an Engineer. Gohebydd Llundain for Plaid http://t.co/dI7f0oa0EZ'
 
 
 mark-clamp:
@@ -105,7 +111,13 @@ sid-cordle:
 
 stephen-hammond:
   id: stephen-hammond
+  image: /images/twitter/christiansense.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/christiansense
   name: 'Stephen Hammond'
+  summary: 'Assistant Pastor in Redeemed Christian Church of God. President of Christian
+    Peoples Alliance (http://t.co/mbo58uKK). Nollywood Actor + I have a BA in Film.'
 
 
 stephen-todd:

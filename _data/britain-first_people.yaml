@@ -45,4 +45,9 @@ margaret-clynch:
 
 paul-golding:
   id: paul-golding
+  image: /images/twitter/PaulGoldingBF.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/PaulGoldingBF
   name: 'Paul Golding'
+  summary:

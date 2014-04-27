@@ -20,7 +20,12 @@ joanne-flanders:
 
 kamran-malik:
   id: kamran-malik
+  image: /images/twitter/KAMRANMALIK5.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/KAMRANMALIK5
   name: 'Kamran Malik'
+  summary:
 
 
 mary-coleman-daniels:
