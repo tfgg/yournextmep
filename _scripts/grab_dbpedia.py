@@ -2,8 +2,8 @@ import lxml.html
 import sys
 import requests
 
-url = "http://dbpedia.org/data/{}.json"
-index = "http://dbpedia.org/resource/{}"
+url = u"http://dbpedia.org/data/{}.json"
+index = u"http://dbpedia.org/resource/{}"
 
 wiki_url = "http://en.wikipedia.org/wiki/{}"
 
@@ -17,15 +17,19 @@ def get_wiki_page(wikipedia_page):
   return resp.text
 
 def get_comment(wikipedia_page, lang='en'):
+  wikipedia_page = wikipedia_page.decode('utf-8')
+
   idx = index.format(wikipedia_page)
 
-  p = get_page(wikipedia_page)[idx]
-  if 'http://www.w3.org/2000/01/rdf-schema#comment' in p:
-    a = p['http://www.w3.org/2000/01/rdf-schema#comment']
-    a = [x for x in a if x['lang'] == lang]
-    return a[0]
-  else:
-    return None
+  page = get_page(wikipedia_page)
+
+  for subpage, p in page.items():
+    if 'http://www.w3.org/2000/01/rdf-schema#comment' in p:
+      a = p['http://www.w3.org/2000/01/rdf-schema#comment']
+      a = [x for x in a if x['lang'] == lang]
+      return a[0]
+
+  return None
 
 def get_image(wikipedia_page, lang='en'):
   idx = index.format(wikipedia_page)
@@ -40,7 +44,7 @@ def get_image(wikipedia_page, lang='en'):
   return img_url, img_source
 
 if __name__ == "__main__":
-  #print get_comment(sys.argv[1]) 
-  print get_image(sys.argv[1])
+  print get_comment(sys.argv[1]) 
+  #print get_image(sys.argv[1])
   #print get_wiki_page(sys.argv[1])
 

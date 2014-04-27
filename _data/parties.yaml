@@ -176,11 +176,17 @@ engdem:
   image_source: http://en.wikipedia.org/wiki/File:English_Democrats_Logo.png
   links:
     - note: 'Wikipedia article'
-      url: https://en.wikipedia.org/wiki/English_Democrats_Party
+      url: https://en.wikipedia.org/wiki/English_Democrats
     - note: Website
       url: http://www.englishdemocrats.org.uk/
   name: 'English Democrats'
   name_article: 'the English Democrats'
+  wikipedia_biography: 'The English Democrats are an English federalist political
+    party, committed to the formation of a devolved English Parliament with at least
+    the same powers as those granted to the Scottish Parliament. Whilst not officially
+    supporting English Independence, the English Democrats consider themselves the
+    English equivalent of the Scottish National Party in Scotland and Plaid Cymru
+    in Wales. Their motto is "Not left, not right, just English".'
 
 
 europeans:
@@ -287,7 +293,7 @@ libdem:
   image_source: http://en.wikipedia.org/wiki/File:Liberal_Democrats_logo_2014.svg
   links:
     - note: 'Wikipedia article'
-      url: https://en.wikipedia.org/wiki/Liberal_Democrats_(UK)
+      url: https://en.wikipedia.org/wiki/Liberal_Democrats
     - note: Website
       url: http://www.libdems.org.uk
   name: 'Liberal Democrats'
