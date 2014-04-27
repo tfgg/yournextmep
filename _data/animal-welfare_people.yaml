@@ -1,6 +1,11 @@
 alexander-bourke:
   id: alexander-bourke
+  image: /images/twitter/VeggieGuides.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/VeggieGuides
   name: 'Alexander Bourke'
+  summary: 'International vegan activist and publisher of Vegetarian Guides'
 
 
 andrew-knight:
@@ -10,7 +15,13 @@ andrew-knight:
 
 dimple-patel:
   id: dimple-patel
+  image: /images/twitter/dimpleGF.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/dimpleGF
   name: 'Dimple Patel'
+  summary: 'Analyst by day, AWP Volunteer, Animal protection advocate 24/7, fascinated
+    with late Sir Patrick Moore, animals, people & politics and all that''s in-between.'
 
 
 guy-dessoy:
@@ -25,7 +36,13 @@ kirsteen-williamson-guinn:
 
 meg-mathews:
   id: meg-mathews
+  image: /images/twitter/MegMathews.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/MegMathews
   name: 'Meg Mathews'
+  summary: 'celebrity liaison @petauk anti animals in entertaiment ,battery farming,badger
+    cull,fur,bull fighting,VEGAN ,'
 
 
 ranjan-joshi:

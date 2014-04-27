@@ -95,7 +95,20 @@ gill-kearney:
 
 helen-bashford:
   id: helen-bashford
+  image: /images/twitter/Helen_Bashford.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/Helen_Bashford
+    - note: Website
+      url: http://www.bashford.eu/
   name: 'Helen Bashford'
+  summary: 'Helen Bashford
+
+    Your North West MEP Candidate for
+
+    European Elections
+
+    22nd May 2014'
 
 
 helen-webster:
@@ -175,7 +188,14 @@ kerrie-oxenham:
 
 laurence-stassen:
   id: laurence-stassen
+  image: /images/twitter/StassenMEP.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/StassenMEP
+    - note: Website
+      url: http://www.laurencestassen.eu/
   name: 'Laurence Stassen'
+  summary: 'Tweets in english and dutch. AN independence from Europe.'
 
 
 lorna-markovitch:
@@ -220,7 +240,20 @@ mike-camp:
 
 mike-nattrass:
   id: mike-nattrass
+  image: /images/other/mike-nattrass.jpg
+  image_attribution: Euro Realist Newsletter
+  image_license: CC BY 2.0
+  image_source: https://en.wikipedia.org/wiki/File:Mike_Nattrass.jpg
+  links:
+    - note: Website
+      url: http://www.aipmep.org/
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Mike_Nattrass
   name: 'Mike Nattrass'
+  wikipedia_biography: 'Mike Nattrass MEP FRICS (born 14 December 1945) is an English
+    politician and Member of the European Parliament, representing the West Midlands
+    constituency for the UK Independence Party (UKIP), elected for the first time
+    in June 2004 and re-elected in June 2009.'
 
 
 munpreet-bhathal:

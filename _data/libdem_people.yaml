@@ -118,7 +118,13 @@ anuja-prashar:
 
 aqila-choudhry:
   id: aqila-choudhry
+  image: /images/twitter/AqilaChoudhry.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/AqilaChoudhry
   name: 'Aqila Choudhry'
+  summary: 'Leeds Lover, CEO,Board experience, Enterpreneur, Social Care, Disability,
+    Liberal Democrats 2015 General election candidate for Leeds North East.'
 
 
 ayoub-khan:
@@ -225,8 +231,8 @@ chris-davies:
     - note: 'Twitter account'
       url: https://twitter.com/ChrisDaviesMEP
   name: 'Chris Davies'
-  summary: 'Published and promoted by and on behalf of the Liberal Democrats, 8-10
-    Great George Street, London, SW1P 3AE. Hosted by Twitter. Updates by Chris + team.'
+  summary: 'Promoted by R Marbrow on behalf of the Liberal Democrats, 87a Castle Street,
+    Stockport, SK3 9AR. Hosted by Twitter. Updates by Chris + team.'
   wikipedia_biography: 'Christopher Graham Davies (born 7 July 1954) is a Liberal
     Democrat politician in the United Kingdom. He is a former Member of Parliament,
     and since 1999 he has been a Member of the European Parliament.'
@@ -310,7 +316,7 @@ dinti-batstone:
     - note: 'Facebook page'
       url: https://www.facebook.com/pages/Dinti-Batstone/105351986195513
   name: 'Dinti Batstone'
-  summary: 'Redhead, mother-of-two, Liberal Democrat.
+  summary: 'Redhead, mother-of-two, Liberal Democrat. 
 
     Recovering lawyer & MBA.'
 
@@ -503,14 +509,14 @@ jacqueline-bell:
 
 jade-holden:
   id: jade-holden
-  image: /images/twitter/JadeEHolden.png
+  image: /images/twitter/JadeEHolden.jpg
   links:
     - note: 'Lib Dem candidate page'
       url: http://www.libdems.org.uk/other_candidates_detail.aspx?name=Jade_Holden&pPK=842f7dd8-daf7-4f32-9aec-4ff4b03e919e
     - note: 'Twitter account'
       url: https://twitter.com/JadeEHolden
   name: 'Jade Holden'
-  summary: 'Scottish Liberal Democrat candidate for the Cowdenbeath by-election'
+  summary: 'Scottish Liberal Democrat Euro list candidate'
 
 
 james-monaghan:
@@ -593,10 +599,15 @@ john-redfern:
 john-vincent:
   email: john.vincent@john-vincent.org.uk
   id: john-vincent
+  image: /images/twitter/VincentFor2014.jpg
   links:
     - note: Website
       url: http://john-vincent.org.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/VincentFor2014
   name: 'John Vincent'
+  summary: 'Liberal Democrat. There are those who look at things the way they are,
+    and ask why... I dream of things that never were, and ask why not? Robert Kennedy'
 
 
 jonathan-fryer:
@@ -675,17 +686,17 @@ linda-jack:
     - note: Website
       url: http://lindyloosmuze.blogspot.co.uk/
   name: 'Linda Jack'
-  summary: 'Liberal Democrat activist, political commentator.
+  summary: 'Liberal Democrat activist, political commentator. 
 
-
+    
 
     Chair of Liberal Left.
 
-
+    
 
     Financial Capability consultant
 
-
+    
 
     email: linda_a_jack@yahoo.co.uk'
 
@@ -709,7 +720,7 @@ matt-mclaren:
     - note: 'Twitter account'
       url: https://twitter.com/mattjmclaren
   name: 'Matt McLaren'
-  summary: '@LondonLibDems European Parliamentary Candidate, @liberalyouth Honorary
+  summary: '@LibDems European Parliamentary Candidate for London, @liberalyouth Honorary
     Vice-President, @TPPNotforProfit Recruitment Consultant, @HeythropCollege Alumnus'
 
 
@@ -749,7 +760,7 @@ neville-farmer:
     - note: 'Twitter account'
       url: https://twitter.com/nevillefarmer
   name: 'Neville Farmer'
-  summary: 'A muso-politico-journo into slow food, fast living and warm friendships.
+  summary: 'A muso-politico-journo-luvvie into slow food, fast living and warm friendships.
     At war with bigotry and stupidity, I''m an angry old man who refuses to grow up.'
 
 
@@ -868,7 +879,7 @@ sarah-ludford:
       url: https://twitter.com/SarahLudfordMEP
   name: 'Sarah Ludford'
   summary: 'Liberal Democrat MEP for London and LibDem European justice & human rights
-    spokeswoman. Account run by Sarah and by her press officer (signed dl)'
+    spokeswoman.  Account run by Sarah and by her press officer (signed dl)'
   wikipedia_biography: 'Sarah Ann Ludford, Baroness Ludford (born 14 March 1951) is
     a Liberal Democrat Member of the European Parliament (MEP) and a nonvoting member
     of the House of Lords (where her voting membership is suspended during her MEP
@@ -917,7 +928,7 @@ steve-sollitt:
       url: https://twitter.com/stevesollitt
   name: 'Steve Sollitt'
   summary: 'Interested in community, environment, campaigning, all things to do with
-    society and politics LD Cllr for Eastleigh South'
+    society and politics LD Cllr for Eastleigh South and Lib Dem Euro Candidate'
 
 
 sue-mcguire:

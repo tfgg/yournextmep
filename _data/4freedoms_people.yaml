@@ -20,7 +20,16 @@ deborah-phillips:
 
 dirk-hazell:
   id: dirk-hazell
+  image: /images/twitter/DirkHazell.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/DirkHazell
   name: 'Dirk Hazell'
+  summary: 'Leader, 4 Freedoms Party (UK EPP)
+
+    European Parliament Candidate, London
+
+    Chairman, British Committee, European People''s Party'
 
 
 geoff-gibas:

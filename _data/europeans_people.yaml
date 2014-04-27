@@ -1,6 +1,11 @@
 andrzej-rygielski:
   id: andrzej-rygielski
+  image: /images/twitter/AndrzejRygielsk.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/AndrzejRygielsk
   name: 'Andrzej Rygielski'
+  summary: 'Vice President of The @EuropeansParty'
 
 
 emil-rusanov:
@@ -20,7 +25,12 @@ robin-ashenden:
 
 tommy-tomescu:
   id: tommy-tomescu
+  image: /images/twitter/DrTommyTomescu.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/DrTommyTomescu
   name: 'Tommy Tomescu'
+  summary: 'President of the @EuropeansParty'
 
 
 vanessa-rodriguez:

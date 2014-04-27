@@ -77,5 +77,5 @@ for f in os.listdir('images/twitter'):
 
     #box(rects, img)
       
-    cv2.imwrite('cropped/images/twitter/' + f, img_cropped);
+    cv2.imwrite('cropped/images/twitter/' + f, img_cropped)
 

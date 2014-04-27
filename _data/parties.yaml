@@ -31,6 +31,13 @@ animal-welfare:
   id: animal-welfare
   name: 'Animal Welfare Party'
   name_article: 'the Animal Welfare Party'
+  links:
+    - url: https://en.wikipedia.org/wiki/Animal_Welfare_Party
+      note: Wikipedia article
+    - url: http://www.animalwelfareparty.org/
+      note: Website
+    - url: https://twitter.com/AnimalsCount
+      note: Twitter account
 
 
 aspire:
@@ -487,6 +494,9 @@ wdar:
 
 yorkshire-first:
   id: yorkshire-first
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Yorkshire_First
   name: 'Yorkshire First'
   name_article: 'Yorkshire First'
 
