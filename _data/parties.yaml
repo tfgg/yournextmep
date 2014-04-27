@@ -1,5 +1,8 @@
 4freedoms:
   id: 4freedoms
+  links:
+    - note: Website
+      url: http://www.4freedomsparty.eu/
   name: '4 Freedoms Party'
   name_article: 'the 4 Freedoms Party'
 
@@ -18,6 +21,8 @@ alliance:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Alliance_Party_of_Northern_Ireland
+    - note: Website
+      url: http://allianceparty.org/
   name: 'Alliance Party of Northern Ireland'
   name_article: 'the Alliance Party of Northern Ireland'
   wikipedia_biography: 'The Alliance Party of Northern Ireland is a political party
@@ -44,6 +49,13 @@ animal-welfare:
 
 aspire:
   id: aspire
+  image: /images/wikipedia/aspire.png
+  image_source: http://en.wikipedia.org/wiki/File:NI21_Political_Party_Logo.png
+  links:
+    - note: Website
+      url: http://www.ni21.com
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/NI21
   name: 'Aspire To Better'
   name_article: 'Aspire To Better'
 
@@ -57,6 +69,8 @@ bnp:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/British_National_Party
+    - note: Website
+      url: http://www.bnp.org.uk/
   name: 'British National Party'
   name_article: 'the British National Party'
   wikipedia_biography: 'The British National Party (BNP) is a far-right political
@@ -69,6 +83,13 @@ bnp:
 
 britain-first:
   id: britain-first
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Britain_First
+    - note: Website
+      url: http://www.britainfirst.org/
+    - note: 'Facebook page'
+      url: https://www.facebook.com/britainfirstgb
   name: 'Britain First'
   name_article: 'Britain First'
 
@@ -82,6 +103,8 @@ conservative:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Conservative_Party_(UK)
+    - note: Website
+      url: http://www.conservatives.com/
   name: 'Conservative Party'
   name_article: 'the Conservative Party'
   other_names:
@@ -96,12 +119,29 @@ conservative:
 
 cpa:
   id: cpa
+  image: /images/wikipedia/cpa.png
+  image_source: http://en.wikipedia.org/wiki/File:ChristianPeoplesAlliance.png
+  links:
+    - note: Website
+      url: http://www.cpaparty.org.uk/
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Christian_Peoples_Alliance
   name: 'Christian Peoples Alliance'
   name_article: 'the Christian Peoples Alliance'
+  wikipedia_biography: 'The Christian People''s Alliance is a Christian democratic
+    political party in the United Kingdom. Founded in its present form in 1999; it
+    grew out of a cross-party advocacy group known as the Movement for Christian Democracy.
+    The party is active throughout England and has fledgling groups specific to Scotland
+    and Wales. The party has two elected members as town councillors in England. The
+    past leader of the party in general was Alan Craig, who took over the role from
+    Ram Gidoomal in 2004.'
 
 
 cup:
   id: cup
+  links:
+    - note: Website
+      url: http://www.communitiesunitedparty.com/
   name: 'Communities United Party'
   name_article: 'the Communities United Party'
 
@@ -115,6 +155,8 @@ dup:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Democratic_Unionist_Party
+    - note: Website
+      url: http://www.mydup.com/
   name: 'Democratic Unionist Party'
   name_article: 'the Democratic Unionist Party'
   wikipedia_biography: 'The Democratic Unionist Party (DUP) is the larger of the two
@@ -135,12 +177,19 @@ engdem:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/English_Democrats_Party
+    - note: Website
+      url: http://www.englishdemocrats.org.uk/
   name: 'English Democrats'
   name_article: 'the English Democrats'
 
 
 europeans:
   id: europeans
+  links:
+    - note: 'Facebook page'
+      url: https://www.facebook.com/europeansparty
+    - note: Website
+      url: http://www.europeansparty.org/
   name: 'Europeans Party'
   name_article: 'the Europeans Party'
 
@@ -154,6 +203,8 @@ green:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
+    - note: Website
+      url: http://www.greenparty.org.uk/
   name: 'Green Party'
   name_article: 'the Green Party'
   other_names:
@@ -174,6 +225,8 @@ green-ni:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Green_Party_of_Northern_Ireland
+    - note: Website
+      url: http://www.greenpartyni.org
   name: 'Green Party of Northern Ireland'
   name_article: 'the Green Party of Northern Ireland'
 
@@ -187,6 +240,8 @@ green-scotland:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Scottish_Green_Party
+    - note: Website
+      url: http://www.scottishgreens.org.uk/
   name: 'Scottish Green Party'
   name_article: 'the Scottish Green Party'
   wikipedia_biography: 'The Scottish Green Party (Scottish Gaelic: Pàrtaidh Uaine
@@ -212,6 +267,8 @@ labour:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Labour_Party_(UK)
+    - note: Website
+      url: http://www.labour.org.uk/
   name: 'Labour Party'
   name_article: 'the Labour Party'
   wikipedia_biography: 'The Labour Party is a centre-left political party in the United
@@ -231,6 +288,8 @@ libdem:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Liberal_Democrats_(UK)
+    - note: Website
+      url: http://www.libdems.org.uk
   name: 'Liberal Democrats'
   name_article: 'the Liberal Democrats'
 
@@ -242,6 +301,8 @@ liberty:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Liberty_GB
+    - note: Website
+      url: http://libertygb.org.uk/
   name: 'Liberty GB'
   name_article: 'Liberty GB'
   other_names:
@@ -256,6 +317,8 @@ national-health-action:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/National_Health_Action_Party
+    - note: Website
+      url: http://nhap.org/
   name: 'National Health Action Party'
   name_article: 'the National Health Action Party'
   wikipedia_biography: 'The National Health Action Party (NHA) is a political party
@@ -304,8 +367,17 @@ no2eu:
 
 peace:
   id: peace
+  image: /images/wikipedia/peace.png
+  image_source: http://en.wikipedia.org/wiki/File:Peace_Party_-_Non-violence,_Justice,_Environment_-The-_1.png
+  links:
+    - note: Website
+      url: http://www.peaceparty.org.uk/
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Peace_Party_(UK)
   name: 'The Peace Party - Non-violence, Justice, Environment'
   name_article: 'The Peace Party'
+  wikipedia_biography: 'The Peace Party is a small political party within the United
+    Kingdom which presents an avowedly pacifist and environmentalist platform.'
 
 
 plaid-cymru:
@@ -317,6 +389,8 @@ plaid-cymru:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Plaid_Cymru
+    - note: Website
+      url: http://www.plaidcymru.org/
   name: 'Plaid Cymru'
   name_article: 'Plaid Cymru'
   wikipedia_biography: 'Plaid Cymru (English: The Party of Wales; often referred to
@@ -361,6 +435,8 @@ sdlp:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Social_Democratic_and_Labour_Party
+    - note: Website
+      url: http://sdlp.ie/
   name: 'Social Democratic and Labour Party'
   name_article: 'the Social Democratic and Labour Party'
   wikipedia_biography: 'The Social Democratic and Labour Party (SDLP; Irish: Páirtí
@@ -399,6 +475,8 @@ sinn-fein:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
+    - note: Website
+      url: http://www.sinnfein.ie/
   name: 'Sinn Féin'
   name_article: 'Sinn Féin'
   wikipedia_biography: 'Sinn Féin is an Irish republican political party in the Republic
@@ -417,6 +495,8 @@ snp:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Scottish_National_Party
+    - note: Website
+      url: http://www.snp.org/
   name: 'Scottish National Party'
   name_article: 'the Scottish National Party'
   wikipedia_biography: 'The Scottish National Party (SNP; Scottish Gaelic: Pàrtaidh
@@ -457,6 +537,8 @@ spgb:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Socialist_Party_of_Great_Britain
+    - note: Website
+      url: http://www.worldsocialism.org/spgb/
   name: 'Socialist Party of Great Britain'
   name_article: 'the Socialist Party of Great Britain'
   wikipedia_biography: 'The Socialist Party of Great Britain (SPGB) is the second-oldest
@@ -495,6 +577,8 @@ ukip:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/UK_Independence_Party
+    - note: Website
+      url: http://www.ukip.org/
   name: UKIP
   name_article: UKIP
   other_names:
@@ -515,6 +599,8 @@ uup:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Ulster_Unionist_Party
+    - note: Website
+      url: http://www.uup.org/
   name: 'Ulster Unionist Party'
   name_article: 'the Ulster Unionist Party'
   wikipedia_biography: 'The Ulster Unionist Party (UUP) – sometimes referred to as
@@ -533,7 +619,9 @@ wdar:
   image_source: http://en.wikipedia.org/wiki/File:We_Demand_A_Referendum_Logo.jpg
   links:
     - note: 'Wikipedia article'
-      url: https://en.wikipedia.org/wiki/We_Demand_a_Referendum
+      url: https://en.wikipedia.org/wiki/We_Demand_a_Referendum_Now
+    - note: Website
+      url: http://wdar2.co.uk/blog/
   name: 'We Demand a Referendum'
   name_article: 'We Demand a Referendum'
   wikipedia_biography: 'We Demand a Referendum (WDAR) is a British political party
@@ -549,6 +637,8 @@ yorkshire-first:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Yorkshire_First
+    - note: Website
+      url: http://www.yorkshirefirst.org.uk/
   name: 'Yorkshire First'
   name_article: 'Yorkshire First'
 

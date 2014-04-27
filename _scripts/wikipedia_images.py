@@ -18,6 +18,9 @@ target_dir = "images/wikipedia"
 for person_id in people:
   person = people[person_id]
 
+  if 'image' in person:
+    continue
+
   if 'links' in person:
     for link in person['links']:
       if 'wikipedia' in link['url']:
