@@ -17,7 +17,7 @@ layout: default
   </div></div>
   <div class='col-md-8 col-sm-10 col-xs-12'>
     <h2>{{ person.name }}</h2>
-    <p>{{ person.name }} is running in the <a href='/regions/{{ region.id }}'>{{ region.name }}</a> region for {{ party.name_article }} as their {{ page.list-rank-ordinal }} candidate</p>
+    <p>{{ person.name }} is running in the <a href='/regions/{{ region.id }}'>{{ region.name }}</a> region for <a href='/parties/{{ party.id }}'>{{ party.name_article }}</a> as their {{ page.list-rank-ordinal }} candidate</p>
     {% if page.incumbent %}
     <p>They are currently a sitting MEP in this region</p>
     {% endif %}
