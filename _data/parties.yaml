@@ -8,9 +8,19 @@
 
 
 aife:
+  founding_date: 2012
   id: aife
+  image: /images/wikipedia/aife.jpg
+  image_source: http://en.wikipedia.org/wiki/File:An_Independence_from_Europe.jpg
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/An_Independence_from_Europe
   name: 'An Independence From Europe'
   name_article: 'An Independence From Europe'
+  wikipedia_biography: 'An Independence from Europe (also known as An Independence
+    Party) is a British political party launched by Mike Nattrass MEP in 2013 following
+    his departure from the UK Independence Party (UKIP). Its first electoral test
+    will be at the 2014 European Parliament election.'
 
 
 alliance:
