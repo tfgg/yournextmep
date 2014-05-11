@@ -432,16 +432,14 @@ jamie-gardiner:
 
 
 joe-barker:
-  email: askme@jobarker.co.uk
   id: joe-barker
-  image: /images/twitter/JMVBarker.jpg
+  image: /images/other/joe-barker.jpg
   links:
     - note: Website
-      url: http://www.jobarker.co.uk/
+      url: http://www.northwestconservatives.com/european-elections-2014-conservative-team
     - note: 'Twitter account'
-      url: https://twitter.com/JMVBarker
-  name: 'Joe Barker-Willis'
-  summary:
+      url: https://twitter.com/BackBarker1
+  name: 'Joe Barker'
 
 
 john-flack:
