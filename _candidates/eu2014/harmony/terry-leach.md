@@ -8,6 +8,6 @@ list-rank-ordinal: 1st
 person: terry-leach
 region: south-east
 party: harmony
-title: Terry leach is running for MEP in South East for the Harmony Party
+title: Terry Leach is running for MEP in South East for the Harmony Party
 incumbent: false
 ---
