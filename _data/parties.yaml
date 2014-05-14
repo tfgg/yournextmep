@@ -351,19 +351,19 @@ national-health-action:
     reports, and campaign on deprivation, housing, and public health.'
 
 
-ni21:
-  classification: Party
-  founding_date: 2013-06-06
-  id: ni21
-  image: /images/wikipedia/ni21.png
-  image_source: http://en.wikipedia.org/wiki/File:NI21_Political_Party_Logo.png
-  links:
-    - note: 'Wikipedia article'
-      url: https://en.wikipedia.org/wiki/NI21
-    - note: Website
-      url: http://ni21.com/
-  name: NI21
-  name_article: 'the NI21 party'
+#ni21:
+#  classification: Party
+#  founding_date: 2013-06-06
+#  id: ni21
+#  image: /images/wikipedia/ni21.png
+#  image_source: http://en.wikipedia.org/wiki/File:NI21_Political_Party_Logo.png
+#  links:
+#    - note: 'Wikipedia article'
+#      url: https://en.wikipedia.org/wiki/NI21
+#    - note: Website
+#      url: http://ni21.com/
+#  name: NI21
+#  name_article: 'the NI21 party'
 
 
 nlp:

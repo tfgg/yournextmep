@@ -515,12 +515,16 @@ julie-marson:
 kay-swinburne:
   email: kayswinburnemep@welshconservatives.com
   id: kay-swinburne
+  image: /images/twitter/ewrop2014.jpg
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Kay_Swinburne
     - note: Website
       url: http://www.kayswinburne.co.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/ewrop2014
   name: 'Kay Swinburne'
+  summary: 'Kay Swinburne MEP for Wales'
   wikipedia_biography: 'Jacqueline Kay Swinburne (born 8 June 1967) is a Welsh politician.
     She is a Conservative Member of the European Parliament for Wales.'
 

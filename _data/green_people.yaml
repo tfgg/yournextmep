@@ -11,12 +11,15 @@ aldo-mussi:
 
 alexandra-phillips:
   id: alexandra-phillips
-  image: /images/twitter/alexforgoldsmid.jpg
+  image: /images/twitter/alex4europe.png
   links:
     - note: Website
       url: http://alexfordeputy.org.uk/
+    - note: 'Twitter account'
+      url: https://twitter.com/alex4europe
   name: 'Alexandra Phillips'
-  summary: 'Councillor for Goldsmid in Brighton & Hove. Teacher. Scouser.'
+  summary: 'Councillor for Goldsmid in Brighton & Hove & 2nd Candidate on the European
+    List for which the election is on Thursday 22nd May 2014.'
 
 
 alison-whalley:
@@ -40,9 +43,8 @@ amelia-womack:
     - note: 'Twitter account'
       url: https://twitter.com/green_ballerina
   name: 'Amelia Womack'
-  summary: '.@TheGreenParty MEP candidate #youth #eu14, @Lambethgp #HerneHill Local
-    Elections Candidate #Socialist, #Environmentalist, @EndecocideEU Campaigner and
-    Dancer'
+  summary: '.@TheGreenParty MEP candidate (#youth #eu14) & London Euro Campaign Organiser,
+    @Lambethgp #HerneHill (#Lambeth) Council Candidate, @EndecocideEU Campaigner'
 
 
 andrew-cooper:
@@ -76,15 +78,15 @@ ash-haynes:
 
 audaye-elesedy:
   id: audaye-elesedy
-  image: /images/twitter/audaye.jpg
+  image: /images/twitter/audaye.png
   links:
     - note: 'Facebook page'
       url: https://www.facebook.com/audaye.elesedy
     - note: 'Twitter account'
       url: https://twitter.com/audaye
   name: 'Audaye Elesedy'
-  summary: 'Culture  - Broadcasting @SWCnR + director @phonic_fm  - Ecology - Climate
-    - IT - Green Politics - Euro candidacy - Father- Tweets my own or borrowed.'
+  summary: 'Radio, media, Tech, resilience and South West Green Party candidate (4)
+    for European election 22nd May  http://t.co/GEGBBswMbX - Tweets my own or borrowed.'
 
 
 beatrix-campbell:
@@ -150,7 +152,7 @@ chris-were:
 
 danny-bates:
   id: danny-bates
-  image: /images/twitter/Green_DannyB.jpg
+  image: /images/twitter/Green_DannyB.png
   links:
     - note: 'Twitter account'
       url: https://twitter.com/Green_DannyB
@@ -158,7 +160,7 @@ danny-bates:
       url: http://www.danny4europe.org/
   name: 'Danny Bates'
   summary: 'Green activist, London Assistant to @GreenJeanMEP. Hackney resident, vegan.
-    Standing on the London Green Euro list.'
+    Standing on the @LonGreenParty Euro list. #VoteGreen2014'
 
 
 denise-craghill:
@@ -299,8 +301,8 @@ jason-kitcat:
     - note: 'Twitter account'
       url: https://twitter.com/jasonkitcat
   name: 'Jason Kitcat'
-  summary: 'Leader of Brighton & Hove City Council & Green councillor. *All views
-    are my own*'
+  summary: 'Leader of Brighton & Hove City Council & Green councillor. @KeyCities
+    lead member, LGA board member *All views are my own*'
 
 
 jean-lambert:
@@ -751,7 +753,7 @@ stuart-jeffrey:
 sue-mallender:
   email: sue.mallender@greenparty.org.uk
   id: sue-mallender
-  image: /images/twitter/Sue_Mallender.jpg
+  image: /images/twitter/Sue_Mallender.png
   links:
     - note: 'Green Party profile'
       url: http://greenparty.org.uk/people/sue-mallender.html
@@ -797,7 +799,7 @@ vicky-duckworth:
 
 violeta-vajda:
   id: violeta-vajda
-  image: /images/twitter/violetavajda.jpg
+  image: /images/twitter/violetavajda.png
   links:
     - note: 'Facebook page'
       url: https://www.facebook.com/violeta.vajda
@@ -810,7 +812,7 @@ violeta-vajda:
 
 will-duckworth:
   id: will-duckworth
-  image: /images/twitter/WillDuckworthGP.jpg
+  image: /images/twitter/WillDuckworthGP.png
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Will_Duckworth

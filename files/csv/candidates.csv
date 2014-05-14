@@ -36,7 +36,7 @@ An Independence From Europe, eastern, Rupert Smith,
 An Independence From Europe, eastern, Dennis Wiffen, 
 An Independence From Europe, eastern, Betty Wiffen, 
 An Independence From Europe, west-midlands, Mike Nattrass, 
-An Independence From Europe, west-midlands, Mark nattrass, 
+An Independence From Europe, west-midlands, Mark Nattrass, 
 An Independence From Europe, west-midlands, Joshna Pattni, 
 An Independence From Europe, west-midlands, Carl Humphries, 
 An Independence From Europe, west-midlands, George Forrest, 
@@ -47,7 +47,7 @@ An Independence From Europe, east-midlands, Val Pain,
 An Independence From Europe, east-midlands, Alan Jesson, 
 An Independence From Europe, east-midlands, John Beaver, 
 An Independence From Europe, east-midlands, Carl Mason, 
-An Independence From Europe, north-west, Helen Bashford, 
+An Independence From Europe, north-west, Helen Bashford, Helen_Bashford
 An Independence From Europe, north-west, Gill Kearney, 
 An Independence From Europe, north-west, Pauline Penny, 
 An Independence From Europe, north-west, Kay Bashford, 
@@ -66,7 +66,7 @@ An Independence From Europe, london, Jean Atkins,
 An Independence From Europe, north-east, Sherri Forbes, 
 An Independence From Europe, north-east, Nawal Hizan, 
 An Independence From Europe, north-east, Mary Forbes, 
-An Independence From Europe, south-east, Laurence Stassen, 
+An Independence From Europe, south-east, Laurence Stassen, StassenMEP
 An Independence From Europe, south-east, Joyce Nattrass, 
 An Independence From Europe, south-east, Paul Godfrey, 
 An Independence From Europe, south-east, Alan Sheath, 
@@ -93,13 +93,16 @@ National Health Action Party, london, Jessica Ormerod,
 National Health Action Party, london, Andrew Sharp, Andrewsharp1
 National Health Action Party, london, Alex Ashman, 
 Green Party of Northern Ireland, northern-ireland, Ross Brown, voterossbrown
-Europeans Party, london, Tommy Tomescu, 
-Europeans Party, london, Andrzej Rygielski, 
+Europeans Party, london, Tommy Tomescu, DrTommyTomescu
+Europeans Party, london, Andrzej Rygielski, AndrzejRygielsk
 Europeans Party, london, Vanessa Rodriguez, 
 Europeans Party, london, Robin Ashenden, 
 Europeans Party, london, Emil Rusanov, 
 Europeans Party, london, Georgios Papagrigorakis, 
-NI21, northern-ireland, Tina McKenzie, Tina4Europe
+Plaid Cymru, wales, Jill Evans, JillEvansMEP
+Plaid Cymru, wales, Marc Jones, marcvjones
+Plaid Cymru, wales, Stephen Cornelius, 
+Plaid Cymru, wales, Ioan Bellin, Ioanbellin
 Social Democratic and Labour Party, northern-ireland, Alex Attwood, AlexForEurope
 No2EU, north-west, Roger Bannister, 
 No2EU, north-west, George Waterhouse, 
@@ -147,7 +150,7 @@ No2EU, scotland, Murdo Maclean,
 No2EU, scotland, Gail Morrow, 
 No2EU, scotland, Brian Smith, 
 No2EU, scotland, Richard Veitch, 
-Communities United Party, london, Kamran Malik, 
+Communities United Party, london, Kamran Malik, KAMRANMALIK5
 Communities United Party, london, Humera Kamran, 
 Communities United Party, london, Cydatty Bogie, 
 Communities United Party, london, Mary Coleman-Daniels, 
@@ -251,7 +254,7 @@ Conservative Party, north-west, Jacqueline Foster, jfostermep
 Conservative Party, north-west, Sajjad Karim, SHKMEP
 Conservative Party, north-west, Kevin Beaty, kevcow
 Conservative Party, north-west, Deborah Dunleavy, 
-Conservative Party, north-west, Joe Barker-Willis, JMVBarker
+Conservative Party, north-west, Joe Barker, BackBarker1
 Conservative Party, north-west, Daniel Hamilton, danielrhamilton
 Conservative Party, north-west, Chris Whiteside, ChrisWhiteside3
 Conservative Party, north-west, James Walsh, 
@@ -302,7 +305,7 @@ Conservative Party, south-west, James Cracknell, JamesCracknell
 Conservative Party, south-west, Georgina Butler, gbdiplo
 Conservative Party, south-west, Sophie Swire, SwireSophie
 Conservative Party, south-west, Melissa Maynard, mmaynard4mep
-Britain First, wales, Paul Golding, 
+Britain First, wales, Paul Golding, PaulGoldingBF
 Britain First, wales, Anthony Golding, 
 Britain First, wales, Christine Smith, 
 Britain First, wales, Anne Elstone, 
@@ -396,7 +399,7 @@ Labour Party, south-west, Ann Reeder, SomersetAnn
 Labour Party, south-west, Hadleigh Roberts, HadleighRoberts
 Labour Party, south-west, Jude Robinson, Juderobinson
 Labour Party, south-west, Junab Ali, junabali
-4 Freedoms Party, london, Dirk Hazell, 
+4 Freedoms Party, london, Dirk Hazell, DirkHazell
 4 Freedoms Party, london, NoelleAnne O’Sullivan, 
 4 Freedoms Party, london, Geoff Gibas, 
 4 Freedoms Party, london, Aline Doussin, 
@@ -404,17 +407,17 @@ Labour Party, south-west, Junab Ali, junabali
 4 Freedoms Party, london, Deborah Phillips, 
 4 Freedoms Party, london, Royston Flude, 
 4 Freedoms Party, london, Brendan Donnelly, 
-Harmony Party, south-east, Terry leach, 
+Harmony Party, south-east, Terry Leach, 
 Harmony Party, south-east, Raymond Crick, 
 Harmony Party, london, David Vincent, 
 Harmony Party, east-midlands, Steve Ward, 
 Harmony Party, west-midlands, Reg Mahrra, 
 Animal Welfare Party, london, Vanessa Hudson, 
-Animal Welfare Party, london, Alexander Bourke, 
+Animal Welfare Party, london, Alexander Bourke, VeggieGuides
 Animal Welfare Party, london, Kirsteen Williamson-Guinn, 
 Animal Welfare Party, london, Andrew Knight, 
-Animal Welfare Party, london, Dimple Patel, 
-Animal Welfare Party, london, Meg Mathews, 
+Animal Welfare Party, london, Dimple Patel, dimpleGF
+Animal Welfare Party, london, Meg Mathews, MegMathews
 Animal Welfare Party, london, Guy Dessoy, 
 Animal Welfare Party, london, Ranjan Joshi, 
 Democratic Unionist Party, northern-ireland, Diane Dodds, DianeDoddsMEP
@@ -520,10 +523,6 @@ Scottish National Party, scotland, Tasmina Ahmed-Sheikh, TasminaSheikh
 Scottish National Party, scotland, Stephen Gethins, StephenGethins
 Scottish National Party, scotland, Toni Giugliano, ToniGiugliano
 Scottish National Party, scotland, Chris Stephens, CStephenssnp
-Plaid Cymru, wales, Jill Evans, JillEvansMEP
-Plaid Cymru, wales, Marc Jones, marcvjones
-Plaid Cymru, wales, Stephen Cornelius, 
-Plaid Cymru, wales, Ioan Bellin, Ioanbellin
 English Democrats, north-east, Kevin Riddiough, kev927riddy
 English Democrats, north-east, Sam Kelly, 
 English Democrats, north-east, John Lewis, 
@@ -597,10 +596,10 @@ Christian Peoples Alliance, london, Sid Cordle,
 Christian Peoples Alliance, london, Yemi Awolola, 
 Christian Peoples Alliance, london, Ashley Dickenson, 
 Christian Peoples Alliance, london, Sharmilla Swarna, 
-Christian Peoples Alliance, london, Laurence Williams, 
+Christian Peoples Alliance, london, Laurence Williams, Bluebirds002
 Christian Peoples Alliance, london, Ethel Odiete, 
 Christian Peoples Alliance, london, Kevin Nichols, 
-Christian Peoples Alliance, london, Stephen Hammond, 
+Christian Peoples Alliance, london, Stephen Hammond, christiansense
 Christian Peoples Alliance, eastern, Carl Clark, 
 Christian Peoples Alliance, eastern, Mark Clamp, 
 Christian Peoples Alliance, eastern, Chris Olley, 
@@ -616,7 +615,7 @@ Liberal Democrats, yorkshire-and-the-humber, James Monaghan, JamesMonaghan
 Liberal Democrats, yorkshire-and-the-humber, Joe Otten, CllrJoeOtten
 Liberal Democrats, yorkshire-and-the-humber, Chris Foote-Wood, ChrisasDickens
 Liberal Democrats, yorkshire-and-the-humber, Jacqueline Bell, 
-Liberal Democrats, yorkshire-and-the-humber, Aqila Choudhry, 
+Liberal Democrats, yorkshire-and-the-humber, Aqila Choudhry, AqilaChoudhry
 Liberal Democrats, eastern, Andrew Duff, Andrew_Duff_MEP
 Liberal Democrats, eastern, Josephine Hayes, JoHayesLibDem
 Liberal Democrats, eastern, Belinda Brooks-Gordon, BelindaBG
@@ -658,7 +657,7 @@ Liberal Democrats, south-east, Ian Bearder, IanBearder
 Liberal Democrats, south-east, Allis Moss, 
 Liberal Democrats, south-east, Steve Sollitt, stevesollitt
 Liberal Democrats, south-east, Bruce Tennent, BruceTennent
-Liberal Democrats, south-east, John Vincent, 
+Liberal Democrats, south-east, John Vincent, VincentFor2014
 Liberal Democrats, south-east, Alan Bullion, AlanBullion
 Liberal Democrats, london, Sarah Ludford, SarahLudfordMEP
 Liberal Democrats, london, Jonathan Fryer, jonathanfryer
@@ -746,4 +745,4 @@ Green Party, south-east, Jonathan Essex,
 Green Party, south-east, Jonathan Kent, Jolph
 Green Party, south-east, Stuart Jeffrey, stuartjeffery
 Green Party, south-east, Ray Cunningham, 
-Aspire To Better, northern-ireland, Tina McKenzie, 
+Aspire To Better, northern-ireland, Tina McKenzie, Tina4Europe
