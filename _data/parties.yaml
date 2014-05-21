@@ -3,6 +3,8 @@
   links:
     - note: Website
       url: http://www.4freedomsparty.eu/
+    - note: Wikipedia article
+      url: https://en.wikipedia.org/wiki/4_Freedoms_Party_(UK_EPP)
   name: '4 Freedoms Party'
   name_article: 'the 4 Freedoms Party'
 
@@ -15,6 +17,8 @@ aife:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/An_Independence_from_Europe
+    - note: Manifesto
+      url: http://www.aipmep.org/Policies/policy.php
   name: 'An Independence From Europe'
   name_article: 'An Independence From Europe'
   wikipedia_biography: 'An Independence from Europe (also known as An Independence
@@ -33,6 +37,8 @@ alliance:
       url: https://en.wikipedia.org/wiki/Alliance_Party_of_Northern_Ireland
     - note: Website
       url: http://allianceparty.org/
+    - note: Manifesto
+      url: http://allianceparty.org/document/manifesto/alliance-2014-european-manifesto.pdf
   name: 'Alliance Party of Northern Ireland'
   name_article: 'the Alliance Party of Northern Ireland'
   wikipedia_biography: 'The Alliance Party of Northern Ireland is a political party
@@ -53,6 +59,8 @@ animal-welfare:
       url: http://www.animalwelfareparty.org/
     - note: 'Twitter account'
       url: https://twitter.com/AnimalsCount
+    - note: Manifesto
+      url: http://www.animalwelfareparty.org/vision/
   name: 'Animal Welfare Party'
   name_article: 'the Animal Welfare Party'
 
@@ -81,6 +89,8 @@ bnp:
       url: https://en.wikipedia.org/wiki/British_National_Party
     - note: Website
       url: http://www.bnp.org.uk/
+    - note: Manifesto
+      url: http://www.bnp.org.uk/manifesto
   name: 'British National Party'
   name_article: 'the British National Party'
   wikipedia_biography: 'The British National Party (BNP) is a far-right political
@@ -136,6 +146,8 @@ cpa:
       url: http://www.cpaparty.org.uk/
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Christian_Peoples_Alliance
+    - note: Manifesto
+      url: http://ecpm.info/sites/default/files/news-attachment/Election%20Manifesto.pdf
   name: 'Christian Peoples Alliance'
   name_article: 'the Christian Peoples Alliance'
   wikipedia_biography: 'The Christian People''s Alliance is a Christian democratic
@@ -370,6 +382,9 @@ nlp:
   id: nlp
   name: 'National Liberal Party – True Liberalism'
   name_article: 'the National Liberal Party'
+  links:
+    - note: Website
+      url: http://nationalliberal.org/
 
 
 no2eu:
@@ -580,6 +595,9 @@ tuv:
   links:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Traditional_Unionist_Voice
+    - note: Manifesto
+      url: http://tuv.org.uk/wp-content/uploads/2014/05/manifesto2014.pdf
+    - note: http://tuv.org.uk/
   name: 'Traditional Unionist Voice'
   name_article: 'the Traditional Unionist Voice party'
   wikipedia_biography: 'Traditional Unionist Voice (TUV) is a unionist political party
