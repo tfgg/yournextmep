@@ -1,6 +1,7 @@
 alexander-bourke:
   id: alexander-bourke
   image: /images/twitter/VeggieGuides.jpg
+  image_source: http://www.animalwelfareparty.org/previous-elections/candidates-2014-eu-elections/
   links:
     - note: 'Twitter account'
       url: https://twitter.com/VeggieGuides
@@ -11,11 +12,14 @@ alexander-bourke:
 andrew-knight:
   id: andrew-knight
   name: 'Andrew Knight'
+  image: /images/other/andrew-knight.jpg
+  image_source: http://www.animalwelfareparty.org/previous-elections/candidates-2014-eu-elections/
 
 
 dimple-patel:
   id: dimple-patel
-  image: /images/twitter/dimpleGF.jpg
+  image: /images/other/dimple-patel.jpg
+  image_source: http://www.animalwelfareparty.org/previous-elections/candidates-2014-eu-elections/
   links:
     - note: 'Twitter account'
       url: https://twitter.com/dimpleGF
@@ -27,16 +31,21 @@ dimple-patel:
 guy-dessoy:
   id: guy-dessoy
   name: 'Guy Dessoy'
+  image: /images/other/guy-dessoy.jpg
+  image_source: http://www.animalwelfareparty.org/previous-elections/candidates-2014-eu-elections/
 
 
 kirsteen-williamson-guinn:
   id: kirsteen-williamson-guinn
   name: 'Kirsteen Williamson-Guinn'
+  image: /images/other/kirsteen-williamson-guinn.jpg
+  image_source: http://www.animalwelfareparty.org/previous-elections/candidates-2014-eu-elections/
 
 
 meg-mathews:
   id: meg-mathews
-  image: /images/twitter/MegMathews.jpg
+  image: /images/other/meg-mathews.jpg
+  image_source: http://www.animalwelfareparty.org/previous-elections/candidates-2014-eu-elections/
   links:
     - note: 'Twitter account'
       url: https://twitter.com/MegMathews
@@ -48,8 +57,13 @@ meg-mathews:
 ranjan-joshi:
   id: ranjan-joshi
   name: 'Ranjan Joshi'
+  image: /images/other/ranjan-joshi.jpg
+  image_source: http://www.animalwelfareparty.org/previous-elections/candidates-2014-eu-elections/
 
 
 vanessa-hudson:
   id: vanessa-hudson
   name: 'Vanessa Hudson'
+  image: /images/other/vanessa-hudson.jpg
+  image_source: http://www.animalwelfareparty.org/previous-elections/candidates-2014-eu-elections/
+

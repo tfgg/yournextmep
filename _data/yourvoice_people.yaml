@@ -1,11 +1,21 @@
 fulvia-james:
   id: fulvia-james
   name: 'Fulvia James'
+  links:
+    - url: http://yourvoiceparty.org.uk/candidates/
+      note: Party profile
 
 
 julian-james:
   id: julian-james
+  image: /images/twitter/JulianJamesUK.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/JulianJamesUK
+    - url: http://yourvoiceparty.org.uk/candidates/
+      note: Party profile
   name: 'Julian James'
+  summary: 'Direct Democracy via the Internet @YOURvoiceParty (amongst other things...)'
 
 
 rachel-ling:
@@ -14,6 +24,8 @@ rachel-ling:
   links:
     - note: 'Twitter account'
       url: https://twitter.com/LocalRachel
+    - url: http://yourvoiceparty.org.uk/candidates/
+      note: Party profile
   name: 'Rachel Ling'
   summary: 'Entrepreneur. MD. Parent Governor. Various Board member roles.  BA (Hons)
     Business & Management. Loves honesty & freedom.'

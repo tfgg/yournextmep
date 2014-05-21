@@ -1,3 +1,8 @@
 jean-louis-pascual:
   id: jean-louis-pascual
+  image: /images/twitter/PascualJeanloui.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/PascualJeanloui
   name: 'Jean-Louis Pascual'
+  summary:

@@ -11,13 +11,17 @@ raymond-crick:
 reg-mahrra:
   id: reg-mahrra
   name: 'Reg Mahrra'
+  image: /images/other/reg-mahrra.jpg
 
 
 steve-ward:
   id: steve-ward
   name: 'Steve Ward'
+  image: /images/other/steve-ward.jpg
 
 
 terry-leach:
   id: terry-leach
   name: 'Terry Leach'
+  image: /images/other/terry-leach.jpg
+

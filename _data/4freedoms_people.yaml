@@ -1,29 +1,52 @@
 aline-doussin:
   id: aline-doussin
+  image: /images/other/aline-doussin.jpg
+  image_source: http://www.4freedomsparty.eu/who-we-are.html
+  links:
+    - note: 'Party profile'
+      url: http://www.4freedomsparty.eu/who-we-are.html
   name: 'Aline Doussin'
 
 
 andrew-bell:
   id: andrew-bell
+  image: /images/other/andrew-bell.png
+  image_source: http://www.4freedomsparty.eu/who-we-are.html
+  links:
+    - note: 'Party profile'
+      url: http://www.4freedomsparty.eu/who-we-are.html
   name: 'Andrew Bell'
 
 
 brendan-donnelly:
   id: brendan-donnelly
+  image: /images/other/brendan-donnelly.jpg
+  image_source: http://www.4freedomsparty.eu/who-we-are.html
+  links:
+    - note: 'Party profile'
+      url: http://www.4freedomsparty.eu/who-we-are.html
   name: 'Brendan Donnelly'
 
 
 deborah-phillips:
   id: deborah-phillips
+  image: /images/other/deborah-phillips.jpg
+  image_source: http://www.4freedomsparty.eu/who-we-are.html
+  links:
+    - note: 'Party profile'
+      url: http://www.4freedomsparty.eu/who-we-are.html
   name: 'Deborah Phillips'
 
 
 dirk-hazell:
   id: dirk-hazell
   image: /images/twitter/DirkHazell.jpg
+  image_source: http://www.4freedomsparty.eu/who-we-are.html
   links:
     - note: 'Twitter account'
       url: https://twitter.com/DirkHazell
+    - note: 'Party profile'
+      url: http://www.4freedomsparty.eu/who-we-are.html
   name: 'Dirk Hazell'
   summary: 'Leader, 4 Freedoms Party (UK EPP)
 
@@ -34,14 +57,32 @@ dirk-hazell:
 
 geoff-gibas:
   id: geoff-gibas
+  image: /images/other/geoff-gibas.png
+  image_source: http://www.4freedomsparty.eu/who-we-are.html
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/ggibas1
+    - note: 'Party profile'
+      url: http://www.4freedomsparty.eu/who-we-are.html
   name: 'Geoff Gibas'
+  summary:
 
 
 noelleanne-osullivan:
   id: noelleanne-osullivan
+  image: /images/other/noelleanne-osullivan.jpg
+  image_source: http://www.4freedomsparty.eu/who-we-are.html
+  links:
+    - note: 'Party profile'
+      url: http://www.4freedomsparty.eu/who-we-are.html
   name: 'NoelleAnne O’Sullivan'
 
 
 royston-flude:
   id: royston-flude
+  image: /images/other/royston-flude.jpg
+  image_source: http://www.4freedomsparty.eu/who-we-are.html
+  links:
+    - note: 'Party profile'
+      url: http://www.4freedomsparty.eu/who-we-are.html
   name: 'Royston Flude'

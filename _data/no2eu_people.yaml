@@ -102,7 +102,13 @@ george-tapp:
 
 george-waterhouse:
   id: george-waterhouse
+  image: /images/twitter/wasserhouse.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/wasserhouse
   name: 'George Waterhouse'
+  summary: '@RMTunion  @Communists1920 Westcountry bumpkin railwayman exile up North
+    YTFC FCUM beer cider history socialism  (my views)'
 
 
 iain-dalton:
@@ -152,7 +158,14 @@ leonardo-impett:
 
 mark-rowe:
   id: mark-rowe
+  image: /images/twitter/MarkRowe10.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/MarkRowe10
   name: 'Mark Rowe'
+  summary: 'Just because the press and media don''t report it to you it doesn''t mean
+    it isn''t happening. Question everything they tell you and you will set yourself
+    free.'
 
 
 mary-davis:
@@ -187,7 +200,13 @@ pat-collins:
 
 paul-reilly:
   id: paul-reilly
+  image: /images/twitter/Paul_Reilly1888.jpg
+  links:
+    - note: 'Twitter account'
+      url: https://twitter.com/Paul_Reilly1888
   name: 'Paul Reilly'
+  summary: 'RMT Branch Secretary and West Coast South Area Council Rep. Socialist
+    Party member, TUSC and NO2EU Candidate.'
 
 
 paula-mitchell:
@@ -202,7 +221,15 @@ richard-veitch:
 
 robert-griffiths:
   id: robert-griffiths
+  links:
+    - note: 'Wikipedia article'
+      url: https://en.wikipedia.org/wiki/Robert_Griffiths_(politician)
   name: 'Robert Griffiths'
+  wikipedia_biography: 'Robert Griffiths is the general-secretary of the Communist
+    Party of Britain (CPB). He was elected by the CPB''s Executive Committee in January
+    1998, in place of Mike Hicks, who, along with others, subsequently left the party
+    he had a major role in founding. Griffiths previously served as president of white-collar
+    union AUEW-TASS in Wales.'
 
 
 roger-bannister:

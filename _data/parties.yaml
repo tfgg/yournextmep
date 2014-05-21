@@ -3,7 +3,7 @@
   links:
     - note: Website
       url: http://www.4freedomsparty.eu/
-    - note: Wikipedia article
+    - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/4_Freedoms_Party_(UK_EPP)
   name: '4 Freedoms Party'
   name_article: 'the 4 Freedoms Party'
@@ -284,6 +284,9 @@ harmony:
   id: harmony
   name: 'Harmony Party'
   name_article: 'the Harmony Party'
+  links:
+    - url: http://www.harmonypartyuk.com/
+      note: Website
 
 
 labour:
@@ -363,28 +366,13 @@ national-health-action:
     reports, and campaign on deprivation, housing, and public health.'
 
 
-#ni21:
-#  classification: Party
-#  founding_date: 2013-06-06
-#  id: ni21
-#  image: /images/wikipedia/ni21.png
-#  image_source: http://en.wikipedia.org/wiki/File:NI21_Political_Party_Logo.png
-#  links:
-#    - note: 'Wikipedia article'
-#      url: https://en.wikipedia.org/wiki/NI21
-#    - note: Website
-#      url: http://ni21.com/
-#  name: NI21
-#  name_article: 'the NI21 party'
-
-
 nlp:
   id: nlp
-  name: 'National Liberal Party – True Liberalism'
-  name_article: 'the National Liberal Party'
   links:
     - note: Website
       url: http://nationalliberal.org/
+  name: 'National Liberal Party – True Liberalism'
+  name_article: 'the National Liberal Party'
 
 
 no2eu:
@@ -597,7 +585,8 @@ tuv:
       url: https://en.wikipedia.org/wiki/Traditional_Unionist_Voice
     - note: Manifesto
       url: http://tuv.org.uk/wp-content/uploads/2014/05/manifesto2014.pdf
-    - note: http://tuv.org.uk/
+    - note: Website
+      url: http://tuv.org.uk/
   name: 'Traditional Unionist Voice'
   name_article: 'the Traditional Unionist Voice party'
   wikipedia_biography: 'Traditional Unionist Voice (TUV) is a unionist political party
