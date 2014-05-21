@@ -45,8 +45,7 @@ layout: default
       {% if candidates %}
       <div class='row'>
         <div class='col-md-12'>
-        <h3>{{ party.name }}</h3> 
-
+        <h3><a href='/parties/{{ party.id }}'>{{ party.name }}</a></h3> 
         <ol class='candidates'>
         {% for candidate in candidates %}
           {% assign person=people[candidate.id] %}
