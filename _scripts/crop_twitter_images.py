@@ -63,12 +63,12 @@ def box(rects, img):
 
     return img
 
-for f in os.listdir('images/twitter'):
+for f in os.listdir('images/other'):
   print f
 
-  if True: #not os.path.isfile('cropped/images/twitter/' + f):
+  if True: #not os.path.isfile('cropped/images/other/' + f):
     try:
-      rects, img = detect("images/twitter/" + f)
+      rects, img = detect("images/other/" + f)
     except cv2.error:
       print "  Could not open"
       continue
@@ -77,5 +77,5 @@ for f in os.listdir('images/twitter'):
 
     #box(rects, img)
       
-    cv2.imwrite('cropped/images/twitter/' + f, img_cropped)
+    cv2.imwrite('cropped/images/other/' + f, img_cropped)
 

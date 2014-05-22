@@ -1,6 +1,7 @@
 andrzej-rygielski:
   id: andrzej-rygielski
   image: /images/twitter/AndrzejRygielsk.jpg
+  image_source: http://www.europeansparty.org/local--european-parliament-elections.html
   links:
     - note: 'Twitter account'
       url: https://twitter.com/AndrzejRygielsk
@@ -11,21 +12,28 @@ andrzej-rygielski:
 emil-rusanov:
   id: emil-rusanov
   name: 'Emil Rusanov'
+  image: /images/other/emil-rusanov.jpg
+  image_source: http://www.europeansparty.org/local--european-parliament-elections.html
 
 
 georgios-papagrigorakis:
   id: georgios-papagrigorakis
   name: 'Georgios Papagrigorakis'
+  image: /images/other/georgios-papagrigorakis.jpg
+  image_source: http://www.europeansparty.org/local--european-parliament-elections.html
 
 
 robin-ashenden:
   id: robin-ashenden
   name: 'Robin Ashenden'
+  image: /images/other/robin-ashenden.jpg
+  image_source: http://www.europeansparty.org/local--european-parliament-elections.html
 
 
 tommy-tomescu:
   id: tommy-tomescu
   image: /images/twitter/DrTommyTomescu.jpg
+  image_source: http://www.europeansparty.org/local--european-parliament-elections.html
   links:
     - note: 'Twitter account'
       url: https://twitter.com/DrTommyTomescu
@@ -36,3 +44,6 @@ tommy-tomescu:
 vanessa-rodriguez:
   id: vanessa-rodriguez
   name: 'Vanessa Rodriguez'
+  image: /images/other/vanessa-rodriguez.jpg
+  image_source: http://www.europeansparty.org/local--european-parliament-elections.html
+

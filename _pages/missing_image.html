@@ -1,0 +1,41 @@
+---
+layout: default
+title:  "Candidates without images"
+permalink: missing/image/
+---
+
+<div class="row">
+  <div class="col-md-12">
+    <h1>Candidates without images</h1>
+
+    <ul>
+    {% for party_pair in site.data.parties %}
+      {% assign party = party_pair[1] %}
+      {% assign candidates_party = party.id | append: '_candidates' %}
+      {% assign people_party = party.id | append: '_people' %}
+
+      {% for region_pair in site.data[candidates_party] %}
+        {% assign candidates = region_pair[1] %}
+        {% assign people = site.data[people_party] %}
+        {% if candidates %}
+          {% for candidate in candidates %}
+            {% assign person = people[candidate.id] %}
+
+            {% if person.image %}
+
+            {% else %}
+            <li>
+              <a href='/candidates/eu2014/{{ party.id }}/{{ person.id}}/'>{{ party.name }} - {{ person.name }}</a>
+              <a href='http://www.google.com/#q={{ person.name }} {{ party.name }}' target="_blank">google</a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </ul>
+
+  </div>
+</div>
+
+
