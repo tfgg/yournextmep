@@ -34,7 +34,7 @@ list-rank-ordinal: {rank_ordinal}
 person: {person_id}
 region: {region_id}
 party: {party_id}
-title: {candidate_name} is running for MEP in {region_name} for {party_name}
+title: {candidate_name} ran for MEP in {region_name} for {party_name} in 2014
 incumbent: {incumbent}
 ---""".format(party_id=party_id,
               person_id=person_id,
