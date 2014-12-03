@@ -3,7 +3,7 @@ YourNextMEP
 
 Slightly silly idea of making a UK European Elections 2014 candidate site entirely in Jekyll.
 
-The data is more or less [Popolo project](http://popoloproject.com/) compliant!
+The data is more or less [Popolo project](http://popoloproject.com/) compliant! It has now been uploaded to https://yournextmep.popit.mysociety.org for long term reference and easy API access.
 
 Installing
 ----------
