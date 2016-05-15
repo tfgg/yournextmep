@@ -1,6 +1,4 @@
 _site
-images/twitter
-images/other
 cropped
 _scripts/local_settings.py
 _api/server-yournextmep-api.log
