@@ -4,7 +4,7 @@ east-midlands:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/East_Midlands_(European_Parliament_constituency)
     - note: "Statement of parties and individual candidates nominated"
-      url: http://yournextmep.com/files/nominations/east-midlands.pdf
+      url: http://www.yournextmep.com/files/nominations/east-midlands.pdf
   name: 'East Midlands'
   wikipedia_biography: 'East Midlands is a constituency of the European Parliament.
     It currently elects five MEPs using the d''Hondt method of party-list proportional
@@ -19,7 +19,7 @@ eastern:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/East_of_England_(European_Parliament_constituency)
     - note: "Statement of parties and individual candidates nominated"
-      url: http://yournextmep.com/files/nominations/eastern.pdf
+      url: http://www.yournextmep.com/files/nominations/eastern.pdf
   name: Eastern
   wikipedia_biography: 'East of England is a constituency of the European Parliament.
     It currently elects seven MEPs using the d''Hondt method of party-list proportional
@@ -35,7 +35,7 @@ london:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/London_(European_Parliament_constituency)
     - note: "Statement of parties and individual candidates nominated"
-      url: http://yournextmep.com/files/nominations/london.pdf
+      url: http://www.yournextmep.com/files/nominations/london.pdf
   name: London
   wikipedia_biography: 'London is a constituency of the European Parliament. It currently
     elects eight MEPs using the d''Hondt method of party-list proportional representation.'
@@ -50,7 +50,7 @@ north-east:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/North_East_England_(European_Parliament_constituency)
     - note: "Statement of parties and individual candidates nominated"
-      url: http://yournextmep.com/files/nominations/north-east.pdf
+      url: http://www.yournextmep.com/files/nominations/north-east.pdf
   name: 'North East'
   wikipedia_biography: 'North East England is a constituency of the European Parliament.
     It currently elects three MEPs using the d''Hondt method of party-list proportional
@@ -66,7 +66,7 @@ north-west:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/North_West_England_(European_Parliament_constituency)
     - note: "Statement of parties and individual candidates nominated"
-      url: http://yournextmep.com/files/nominations/north-west.pdf
+      url: http://www.yournextmep.com/files/nominations/north-west.pdf
   name: 'North West'
   wikipedia_biography: 'North West England is a constituency of the European Parliament.
     It currently elects eight MEPs using the d''Hondt method of party-list
@@ -82,7 +82,7 @@ northern-ireland:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Northern_Ireland_(European_Parliament_constituency)
     - note: "Statement of parties and individual candidates nominated"
-      url: http://yournextmep.com/files/nominations/northern-ireland.pdf
+      url: http://www.yournextmep.com/files/nominations/northern-ireland.pdf
   name: 'Northern Ireland'
   wikipedia_biography: 'Northern Ireland is a constituency of the European Parliament.
     It currently elects three MEPs using the Single Transferable Vote, the only United
@@ -98,7 +98,7 @@ scotland:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Scotland_(European_Parliament_constituency)
     - note: "Statement of parties and individual candidates nominated"
-      url: http://yournextmep.com/files/nominations/scotland.pdf
+      url: http://www.yournextmep.com/files/nominations/scotland.pdf
   name: Scotland
   wikipedia_biography: 'Scotland constitutes a single constituency of the European
     Parliament. It currently elects six MEPs using the d''Hondt method of party-list
@@ -114,7 +114,7 @@ south-east:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/South_East_England_(European_Parliament_constituency)
     - note: Statement of Parties and Individual Candidates Nominated
-      url: http://yournextmep.com/files/nominations/south-east.pdf
+      url: http://www.yournextmep.com/files/nominations/south-east.pdf
   name: 'South East'
   wikipedia_biography: 'South East England is a constituency of the European Parliament.
     It currently elects ten Members of the European Parliament (MEPs) using the D''Hondt
@@ -130,7 +130,7 @@ south-west:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/South_West_England_(European_Parliament_constituency)
     - note: Statement of Parties and Individual Candidates Nominated
-      url: http://yournextmep.com/files/nominations/south-west.pdf
+      url: http://www.yournextmep.com/files/nominations/south-west.pdf
   name: 'South West'
   wikipedia_biography: 'South West England (Cornish: Dychow-houlsedhas Pou an Zouzn)
     is a constituency of the European Parliament. It currently elects six MEPs using
@@ -147,7 +147,7 @@ wales:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Wales_(European_Parliament_constituency)
     - note: Statement of Parties and Individual Candidates Nominated
-      url: http://yournextmep.com/files/nominations/wales.pdf
+      url: http://www.yournextmep.com/files/nominations/wales.pdf
   name: Wales
   wikipedia_biography: 'Wales is a constituency of the European Parliament. It currently
     elects four MEPs using the d''Hondt method of party-list proportional representation.'
@@ -162,7 +162,7 @@ west-midlands:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/West_Midlands_(European_Parliament_constituency)
     - note: Statement of Parties and Individual Candidates Nominated
-      url: http://yournextmep.com/files/nominations/west-midlands.pdf
+      url: http://www.yournextmep.com/files/nominations/west-midlands.pdf
   name: 'West Midlands'
   wikipedia_biography: 'West Midlands is a constituency of the European Parliament.
     It currently elects seven MEPs using the d''Hondt method of party-list proportional
@@ -178,7 +178,7 @@ yorkshire-and-the-humber:
     - note: 'Wikipedia article'
       url: https://en.wikipedia.org/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)
     - note: Statement of Parties and Individual Candidates Nominated
-      url: http://yournextmep.com/files/nominations/yorkshire-and-the-humber.pdf
+      url: http://www.yournextmep.com/files/nominations/yorkshire-and-the-humber.pdf
   name: 'Yorkshire and the Humber'
   wikipedia_biography: 'Yorkshire and the Humber is a constituency of the European
     Parliament. It currently elects six MEPs using the d''Hondt method of party-list
